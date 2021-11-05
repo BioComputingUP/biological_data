@@ -31,3 +31,5 @@ Useful commands
     # launch notebook
     jupyter notebook
 
+    # remove environment
+    conda env remove -n biological_data
