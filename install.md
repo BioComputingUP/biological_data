@@ -33,3 +33,6 @@ Useful commands
 
     # remove environment
     conda env remove -n biological_data
+
+    # clone conda environment
+    conda create --name biological_data_new --clone biological_data
