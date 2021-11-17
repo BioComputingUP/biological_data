@@ -36,3 +36,22 @@ Useful commands
 
     # clone conda environment
     conda create --name biological_data_new --clone biological_data
+
+## Install Blast
+
+This installs a precompiled version of Blast+ for Linux x64. Other 
+versions are available, including Windows and MacOS
+
+(~250 Mb)
+
+    wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.12.0+-x64-linux.tar.gz
+    tar -xzf ncbi-blast-2.12.0+-x64-linux.tar.gz
+
+## Install HMMER
+
+(~18 Mb)
+
+    wget http://eddylab.org/software/hmmer/hmmer.tar.gz
+    tar -xzf hmmer.tar.gz
+    ./configure
+    make

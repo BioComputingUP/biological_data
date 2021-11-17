@@ -1,4 +1,8 @@
 old/
-data/
 pdf/
+utils/
+data/bkp/
+hmmer-*
+ncbi-*
+jalview-*
 .ipynb_checkpoints
