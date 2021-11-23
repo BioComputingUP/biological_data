@@ -1,0 +1,1051 @@
+Target Name	Target Accession	Target Length	Query Name	Query Accession	Query Length	E-value	Score	Bias	Domain Index	Domain Count	Cond. E-value	Domain Ind. E-value	Domain Bit-score	Domain Bias	Query Ali. Start	Query Ali. End	Target Ali. Start	Target Ali. End	Target Env. Start	Target Env. End	Acc	Description	Mapped PDB(s)	Number of Identical Sequences
+CBPG_PSES6	CBPG_PSES6	415	P06621_refseq_selected_blast_msa	-	368	5.9e-144	484.4	1.6	1	1	1.3e-146	6.8e-144	484.186737060547	1.59	2	368	44	411	43	411	1.00	Carboxypeptidase G2	7m6u_D	0
+YQJE_BACSU	YQJE_BACSU	371	P06621_refseq_selected_blast_msa	-	368	4.9e-68	234.6	9.3	1	1	1.0e-70	5.5e-68	234.428329467773	9.26	2	366	8	367	7	369	0.91	Uncharacterized protein YqjE		0
+DAPE2_SHELP	DAPE2_SHELP	377	P06621_refseq_selected_blast_msa	-	368	7.7e-46	161.5	0.0	1	1	1.7e-48	9.3e-46	161.278686523438	0.00	9	366	8	373	2	375	0.87	Succinyl-diaminopimelate desuccinylase 2		0
+DAPE_DECAR	DAPE_DECAR	377	P06621_refseq_selected_blast_msa	-	368	9.0e-46	161.3	0.0	1	1	1.9e-48	1.0e-45	161.15055847168	0.00	2	367	6	373	5	374	0.87	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ALKEH	DAPE_ALKEH	375	P06621_refseq_selected_blast_msa	-	368	1.4e-45	160.7	0.0	1	1	2.9e-48	1.6e-45	160.521377563477	0.04	10	364	13	369	4	373	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_STRM5	DAPE_STRM5	375	P06621_refseq_selected_blast_msa	-	368	4.7e-45	159.0	0.0	1	1	9.8e-48	5.3e-45	158.78190612793	0.03	3	367	6	372	4	373	0.86	Succinyl-diaminopimelate desuccinylase		0
+DAPE_MAGSA	DAPE_MAGSA	379	P06621_refseq_selected_blast_msa	-	368	8.3e-45	158.2	0.0	1	1	1.8e-47	9.6e-45	157.941497802734	0.02	6	368	11	375	7	375	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_TERTT	DAPE_TERTT	375	P06621_refseq_selected_blast_msa	-	368	5.0e-44	155.6	0.0	1	1	1.0e-46	5.6e-44	155.413803100586	0.04	7	367	10	372	4	373	0.83	Succinyl-diaminopimelate desuccinylase		0
+ARGE_PROMH	ARGE_PROMH	387	P06621_refseq_selected_blast_msa	-	368	5.8e-44	155.4	0.0	1	1	2.6e-46	1.4e-43	154.100006103516	0.00	3	366	10	378	8	380	0.80	Acetylornithine deacetylase		0
+DAPE_ALCBS	DAPE_ALCBS	377	P06621_refseq_selected_blast_msa	-	368	3.0e-43	153.0	0.0	1	1	6.2e-46	3.4e-43	152.863388061523	0.03	5	368	8	373	4	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+ARGE_ECO5E	ARGE_ECO5E	383	P06621_refseq_selected_blast_msa	-	368	7.0e-43	151.8	0.0	1	1	2.2e-45	1.2e-42	151.076644897461	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECO57	ARGE_ECO57	383	P06621_refseq_selected_blast_msa	-	368	7.0e-43	151.8	0.0	1	1	2.2e-45	1.2e-42	151.076644897461	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_SHIBS	ARGE_SHIBS	383	P06621_refseq_selected_blast_msa	-	368	8.1e-43	151.6	0.0	1	1	2.5e-45	1.3e-42	150.875762939453	0.00	5	366	12	378	8	380	0.85	Acetylornithine deacetylase		0
+DAPE_MARMS	DAPE_MARMS	377	P06621_refseq_selected_blast_msa	-	368	1.2e-42	151.1	0.0	1	1	2.5e-45	1.3e-42	150.889984130859	0.00	8	367	11	372	4	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+ARGE_ECOSM	ARGE_ECOSM	383	P06621_refseq_selected_blast_msa	-	368	1.2e-42	151.0	0.0	1	1	3.7e-45	2.0e-42	150.305358886719	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECO55	ARGE_ECO55	383	P06621_refseq_selected_blast_msa	-	368	1.2e-42	151.0	0.0	1	1	3.8e-45	2.1e-42	150.253494262695	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECOBW	ARGE_ECOBW	383	P06621_refseq_selected_blast_msa	-	368	1.2e-42	151.0	0.0	1	1	3.8e-45	2.1e-42	150.253494262695	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECODH	ARGE_ECODH	383	P06621_refseq_selected_blast_msa	-	368	1.2e-42	151.0	0.0	1	1	3.8e-45	2.1e-42	150.253494262695	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECOLI	ARGE_ECOLI	383	P06621_refseq_selected_blast_msa	-	368	1.2e-42	151.0	0.0	1	1	3.8e-45	2.1e-42	150.253494262695	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECOLC	ARGE_ECOLC	383	P06621_refseq_selected_blast_msa	-	368	1.2e-42	151.0	0.0	1	1	3.8e-45	2.1e-42	150.253494262695	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+DAPE_MARHV	DAPE_MARHV	376	P06621_refseq_selected_blast_msa	-	368	1.3e-42	151.0	0.0	1	1	2.6e-45	1.4e-42	150.798248291016	0.01	2	358	7	364	6	374	0.88	Succinyl-diaminopimelate desuccinylase		0
+ARGE_SHIDS	ARGE_SHIDS	383	P06621_refseq_selected_blast_msa	-	368	1.3e-42	150.9	0.0	1	1	4.0e-45	2.2e-42	150.180358886719	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+DAPE_ACIF5	DAPE_ACIF5	382	P06621_refseq_selected_blast_msa	-	368	1.4e-42	150.8	0.0	1	1	3.0e-45	1.6e-42	150.607513427734	0.01	2	366	7	373	6	375	0.88	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIF2	DAPE_ACIF2	382	P06621_refseq_selected_blast_msa	-	368	1.4e-42	150.8	0.0	1	1	3.0e-45	1.6e-42	150.607513427734	0.01	2	366	7	373	6	375	0.88	Succinyl-diaminopimelate desuccinylase		0
+ARGE_ECO7I	ARGE_ECO7I	383	P06621_refseq_selected_blast_msa	-	368	1.6e-42	150.6	0.0	1	1	5.1e-45	2.8e-42	149.855316162109	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECO24	ARGE_ECO24	383	P06621_refseq_selected_blast_msa	-	368	2.0e-42	150.3	0.0	1	1	6.1e-45	3.3e-42	149.59162902832	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECOSE	ARGE_ECOSE	383	P06621_refseq_selected_blast_msa	-	368	2.0e-42	150.3	0.0	1	1	6.3e-45	3.4e-42	149.544967651367	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECO8A	ARGE_ECO8A	383	P06621_refseq_selected_blast_msa	-	368	2.0e-42	150.3	0.0	1	1	6.3e-45	3.4e-42	149.544967651367	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECOLU	ARGE_ECOLU	383	P06621_refseq_selected_blast_msa	-	368	2.1e-42	150.2	0.0	1	1	6.7e-45	3.6e-42	149.465896606445	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+DAPE_STRMK	DAPE_STRMK	375	P06621_refseq_selected_blast_msa	-	368	2.5e-42	150.0	0.0	1	1	5.2e-45	2.8e-42	149.811233520508	0.01	3	367	6	372	4	373	0.87	Succinyl-diaminopimelate desuccinylase		0
+ARGE_ECOHS	ARGE_ECOHS	383	P06621_refseq_selected_blast_msa	-	368	2.6e-42	149.9	0.0	1	1	8.0e-45	4.3e-42	149.208984375	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_SHIFL	ARGE_SHIFL	383	P06621_refseq_selected_blast_msa	-	368	2.7e-42	149.9	0.0	1	1	8.2e-45	4.4e-42	149.171569824219	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_SHIF8	ARGE_SHIF8	383	P06621_refseq_selected_blast_msa	-	368	2.8e-42	149.8	0.0	1	1	8.6e-45	4.7e-42	149.106719970703	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_SHIB3	ARGE_SHIB3	383	P06621_refseq_selected_blast_msa	-	368	2.8e-42	149.8	0.0	1	1	8.6e-45	4.7e-42	149.094573974609	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECO27	ARGE_ECO27	383	P06621_refseq_selected_blast_msa	-	368	3.0e-42	149.7	0.0	1	1	9.4e-45	5.1e-42	148.970962524414	0.00	5	366	12	378	8	380	0.85	Acetylornithine deacetylase		0
+ARGE_ECO81	ARGE_ECO81	383	P06621_refseq_selected_blast_msa	-	368	3.2e-42	149.6	0.0	1	1	9.9e-45	5.4e-42	148.905059814453	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECOL6	ARGE_ECOL6	383	P06621_refseq_selected_blast_msa	-	368	3.2e-42	149.6	0.0	1	1	9.9e-45	5.4e-42	148.905059814453	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECO45	ARGE_ECO45	383	P06621_refseq_selected_blast_msa	-	368	3.2e-42	149.6	0.0	1	1	9.9e-45	5.4e-42	148.905059814453	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+ARGE_ECOL5	ARGE_ECOL5	383	P06621_refseq_selected_blast_msa	-	368	3.2e-42	149.6	0.0	1	1	9.9e-45	5.4e-42	148.905059814453	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+DAPE_HALHL	DAPE_HALHL	378	P06621_refseq_selected_blast_msa	-	368	3.3e-42	149.6	2.1	1	1	6.8e-45	3.7e-42	149.429000854492	2.12	2	356	5	361	4	373	0.87	Succinyl-diaminopimelate desuccinylase		0
+ARGE_EDWI9	ARGE_EDWI9	383	P06621_refseq_selected_blast_msa	-	368	3.7e-42	149.4	0.0	1	1	1.5e-44	7.9e-42	148.350677490234	0.00	3	366	10	378	8	380	0.85	Acetylornithine deacetylase		0
+DAPE_XANOP	DAPE_XANOP	376	P06621_refseq_selected_blast_msa	-	368	4.1e-42	149.3	0.1	1	1	8.5e-45	4.6e-42	149.120712280273	0.05	7	368	10	373	4	373	0.86	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CHRSD	DAPE_CHRSD	386	P06621_refseq_selected_blast_msa	-	368	5.7e-42	148.8	0.2	1	1	1.2e-44	6.5e-42	148.633697509766	0.23	8	368	21	384	14	384	0.85	Succinyl-diaminopimelate desuccinylase		0
+ARGE_SHISS	ARGE_SHISS	383	P06621_refseq_selected_blast_msa	-	368	8.4e-42	148.3	0.0	1	1	2.6e-44	1.4e-41	147.524795532227	0.00	5	366	12	378	8	380	0.84	Acetylornithine deacetylase		0
+DAPE_DELAS	DAPE_DELAS	386	P06621_refseq_selected_blast_msa	-	368	8.6e-42	148.2	0.0	1	1	1.8e-44	9.8e-42	148.042694091797	0.00	2	366	5	378	4	380	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANOR	DAPE_XANOR	376	P06621_refseq_selected_blast_msa	-	368	9.6e-42	148.1	0.1	1	1	2.0e-44	1.1e-41	147.886657714844	0.05	7	368	10	373	4	373	0.86	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANOM	DAPE_XANOM	376	P06621_refseq_selected_blast_msa	-	368	9.6e-42	148.1	0.1	1	1	2.0e-44	1.1e-41	147.886657714844	0.05	7	368	10	373	4	373	0.86	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AGRVS	DAPE_AGRVS	404	P06621_refseq_selected_blast_msa	-	368	1.5e-41	147.5	0.0	1	1	8.3e-44	4.5e-41	145.855133056641	0.05	3	356	15	386	14	396	0.78	Succinyl-diaminopimelate desuccinylase		0
+YJ75_SCHPO	YJ75_SCHPO	400	P06621_refseq_selected_blast_msa	-	368	1.7e-41	147.3	0.0	1	1	4.4e-44	2.4e-41	146.77571105957	0.00	3	267	63	318	61	331	0.90	Peptidase M20 domain-containing protein C757.05c		0
+DAPE_NITMU	DAPE_NITMU	378	P06621_refseq_selected_blast_msa	-	368	1.8e-41	147.1	0.0	1	1	3.9e-44	2.1e-41	146.930740356445	0.00	8	356	12	362	5	374	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_MAGMM	DAPE_MAGMM	380	P06621_refseq_selected_blast_msa	-	368	2.2e-41	146.9	0.2	1	1	4.8e-44	2.6e-41	146.628936767578	0.18	6	368	9	375	5	375	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SACD2	DAPE_SACD2	382	P06621_refseq_selected_blast_msa	-	368	2.2e-41	146.9	0.0	1	1	5.1e-44	2.8e-41	146.55158996582	0.02	10	366	20	378	12	380	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIAD	DAPE_ACIAD	377	P06621_refseq_selected_blast_msa	-	368	2.4e-41	146.7	0.3	1	1	5.5e-44	3.0e-41	146.445785522461	0.25	24	367	26	374	13	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURM1	DAPE_BURM1	379	P06621_refseq_selected_blast_msa	-	368	2.5e-41	146.7	0.1	1	1	5.3e-44	2.9e-41	146.502059936523	0.07	2	366	5	375	4	377	0.84	Succinyl-diaminopimelate desuccinylase		0
+ARGE_ERWT9	ARGE_ERWT9	383	P06621_refseq_selected_blast_msa	-	368	2.6e-41	146.7	0.0	1	1	8.1e-44	4.4e-41	145.886840820312	0.00	6	366	13	378	8	380	0.83	Acetylornithine deacetylase		0
+ARGE_ESCF3	ARGE_ESCF3	383	P06621_refseq_selected_blast_msa	-	368	2.8e-41	146.6	0.0	1	1	8.5e-44	4.6e-41	145.832382202148	0.00	5	366	12	378	8	380	0.85	Acetylornithine deacetylase		0
+DAPE_LARHH	DAPE_LARHH	376	P06621_refseq_selected_blast_msa	-	368	2.8e-41	146.5	0.0	1	1	5.9e-44	3.2e-41	146.347915649414	0.04	3	365	6	370	4	373	0.86	Succinyl-diaminopimelate desuccinylase		0
+DAPE_GLUDA	DAPE_GLUDA	385	P06621_refseq_selected_blast_msa	-	368	2.8e-41	146.5	0.0	1	1	6.0e-44	3.3e-41	146.320037841797	0.03	5	368	16	383	12	383	0.84	Succinyl-diaminopimelate desuccinylase		0
+ARGE_KLEP3	ARGE_KLEP3	383	P06621_refseq_selected_blast_msa	-	368	3.1e-41	146.4	0.0	1	1	9.8e-44	5.3e-41	145.617233276367	0.00	5	366	12	378	8	380	0.83	Acetylornithine deacetylase		0
+DAPE_VIBCB	DAPE_VIBCB	378	P06621_refseq_selected_blast_msa	-	368	3.5e-41	146.2	0.0	1	1	7.5e-44	4.1e-41	146.007843017578	0.04	2	366	7	373	6	375	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SERP5	DAPE_SERP5	375	P06621_refseq_selected_blast_msa	-	368	3.6e-41	146.2	0.1	1	1	7.6e-44	4.2e-41	145.978363037109	0.08	2	365	6	370	5	373	0.81	Succinyl-diaminopimelate desuccinylase		0
+ARGE_ENT38	ARGE_ENT38	383	P06621_refseq_selected_blast_msa	-	368	4.0e-41	146.0	0.0	1	1	1.3e-43	7.1e-41	145.221832275391	0.00	5	366	12	378	8	380	0.83	Acetylornithine deacetylase		0
+DAPE_XANCB	DAPE_XANCB	376	P06621_refseq_selected_blast_msa	-	368	4.4e-41	145.9	0.1	1	1	9.1e-44	5.0e-41	145.722442626953	0.08	8	368	12	374	5	374	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BORPA	DAPE_BORPA	379	P06621_refseq_selected_blast_msa	-	368	4.9e-41	145.8	0.0	1	1	1.0e-43	5.5e-41	145.58854675293	0.00	3	365	8	372	6	375	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PARPJ	DAPE_PARPJ	379	P06621_refseq_selected_blast_msa	-	368	4.9e-41	145.8	0.2	1	1	1.0e-43	5.6e-41	145.557235717773	0.23	2	367	5	376	4	377	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PARXL	DAPE_PARXL	379	P06621_refseq_selected_blast_msa	-	368	5.2e-41	145.6	0.5	1	1	1.1e-43	6.0e-41	145.450119018555	0.51	2	367	5	376	4	377	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VIBPA	DAPE_VIBPA	378	P06621_refseq_selected_blast_msa	-	368	5.4e-41	145.6	0.0	1	1	1.2e-43	6.3e-41	145.377563476562	0.05	2	366	7	373	6	375	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_LEPCP	DAPE_LEPCP	382	P06621_refseq_selected_blast_msa	-	368	6.0e-41	145.5	0.2	1	1	1.4e-43	7.4e-41	145.144470214844	0.16	2	356	6	368	5	379	0.82	Succinyl-diaminopimelate desuccinylase		0
+ARGE_MORAB	ARGE_MORAB	382	P06621_refseq_selected_blast_msa	-	368	6.6e-41	145.3	0.0	1	1	2.2e-43	1.2e-40	144.457046508789	0.00	23	367	32	378	8	379	0.82	Acetylornithine deacetylase		0
+DAPE_NITOC	DAPE_NITOC	376	P06621_refseq_selected_blast_msa	-	368	7.2e-41	145.2	0.0	1	1	1.5e-43	8.3e-41	144.989273071289	0.00	2	360	5	365	4	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HYDCU	DAPE_HYDCU	378	P06621_refseq_selected_blast_msa	-	368	8.3e-41	145.0	0.0	1	1	1.8e-43	9.7e-41	144.772766113281	0.00	2	365	5	372	4	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CHRVO	DAPE_CHRVO	377	P06621_refseq_selected_blast_msa	-	368	8.4e-41	145.0	0.0	1	1	1.8e-43	9.6e-41	144.776794433594	0.00	2	365	5	370	4	373	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANAC	DAPE_XANAC	376	P06621_refseq_selected_blast_msa	-	368	9.0e-41	144.9	0.0	1	1	1.9e-43	1.0e-40	144.681137084961	0.04	8	368	11	373	4	373	0.86	Succinyl-diaminopimelate desuccinylase		0
+ARGE_SALAR	ARGE_SALAR	383	P06621_refseq_selected_blast_msa	-	368	1.0e-40	144.7	0.0	1	1	3.3e-43	1.8e-40	143.902221679688	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+DAPE_ECOL5	DAPE_ECOL5	375	P06621_refseq_selected_blast_msa	-	368	1.0e-40	144.7	0.0	1	1	2.1e-43	1.1e-40	144.530822753906	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECO45	DAPE_ECO45	375	P06621_refseq_selected_blast_msa	-	368	1.0e-40	144.7	0.0	1	1	2.2e-43	1.2e-40	144.490524291992	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOUT	DAPE_ECOUT	375	P06621_refseq_selected_blast_msa	-	368	1.0e-40	144.7	0.0	1	1	2.2e-43	1.2e-40	144.490524291992	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOL6	DAPE_ECOL6	375	P06621_refseq_selected_blast_msa	-	368	1.0e-40	144.7	0.0	1	1	2.2e-43	1.2e-40	144.490524291992	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOK1	DAPE_ECOK1	375	P06621_refseq_selected_blast_msa	-	368	1.0e-40	144.7	0.0	1	1	2.2e-43	1.2e-40	144.490524291992	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANC5	DAPE_XANC5	376	P06621_refseq_selected_blast_msa	-	368	1.0e-40	144.7	0.0	1	1	2.2e-43	1.2e-40	144.463516235352	0.05	7	368	10	373	4	373	0.86	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANCP	DAPE_XANCP	376	P06621_refseq_selected_blast_msa	-	368	1.1e-40	144.6	0.1	1	1	2.2e-43	1.2e-40	144.438674926758	0.07	8	368	12	374	5	374	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANC8	DAPE_XANC8	376	P06621_refseq_selected_blast_msa	-	368	1.1e-40	144.6	0.1	1	1	2.2e-43	1.2e-40	144.438674926758	0.07	8	368	12	374	5	374	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AZOSB	DAPE_AZOSB	380	P06621_refseq_selected_blast_msa	-	368	1.1e-40	144.6	0.0	1	1	2.4e-43	1.3e-40	144.363250732422	0.03	12	365	19	374	8	377	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BORPD	DAPE_BORPD	380	P06621_refseq_selected_blast_msa	-	368	1.2e-40	144.4	0.0	1	1	2.5e-43	1.4e-40	144.273468017578	0.00	3	365	9	373	7	376	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_GLUOX	DAPE_GLUOX	381	P06621_refseq_selected_blast_msa	-	368	1.3e-40	144.3	0.0	1	1	3.4e-43	1.9e-40	143.837997436523	0.04	4	361	13	372	11	377	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PARDP	DAPE_PARDP	382	P06621_refseq_selected_blast_msa	-	368	1.4e-40	144.3	0.2	1	1	3.0e-43	1.6e-40	144.045043945312	0.15	5	366	11	378	8	380	0.85	Succinyl-diaminopimelate desuccinylase		0
+ARGE_SALTI	ARGE_SALTI	383	P06621_refseq_selected_blast_msa	-	368	1.5e-40	144.2	0.0	1	1	4.8e-43	2.6e-40	143.345581054688	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+DAPE_ECOLU	DAPE_ECOLU	375	P06621_refseq_selected_blast_msa	-	368	1.7e-40	144.0	0.0	1	1	3.4e-43	1.9e-40	143.824401855469	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURA4	DAPE_BURA4	379	P06621_refseq_selected_blast_msa	-	368	1.8e-40	143.9	0.1	1	1	3.7e-43	2.0e-40	143.729415893555	0.10	2	365	5	374	4	377	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METPB	DAPE_METPB	387	P06621_refseq_selected_blast_msa	-	368	1.8e-40	143.9	0.0	1	1	4.1e-43	2.2e-40	143.564544677734	0.03	5	366	10	382	7	384	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE1_ALTMD	DAPE1_ALTMD	390	P06621_refseq_selected_blast_msa	-	368	1.9e-40	143.8	0.0	1	1	4.0e-43	2.2e-40	143.620346069336	0.00	18	355	31	375	15	388	0.83	Succinyl-diaminopimelate desuccinylase 1		0
+ARGE_SALHS	ARGE_SALHS	383	P06621_refseq_selected_blast_msa	-	368	2.0e-40	143.7	0.0	1	1	6.7e-43	3.6e-40	142.883819580078	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+ARGE_SALNS	ARGE_SALNS	383	P06621_refseq_selected_blast_msa	-	368	2.3e-40	143.5	0.0	1	1	7.5e-43	4.1e-40	142.707229614258	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+ARGE_SALSV	ARGE_SALSV	383	P06621_refseq_selected_blast_msa	-	368	2.3e-40	143.5	0.0	1	1	7.5e-43	4.1e-40	142.707229614258	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+ARGE_SALG2	ARGE_SALG2	383	P06621_refseq_selected_blast_msa	-	368	2.3e-40	143.5	0.0	1	1	7.5e-43	4.1e-40	142.707229614258	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+ARGE_SALPB	ARGE_SALPB	383	P06621_refseq_selected_blast_msa	-	368	2.3e-40	143.5	0.0	1	1	7.5e-43	4.1e-40	142.707229614258	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+ARGE_SALCH	ARGE_SALCH	383	P06621_refseq_selected_blast_msa	-	368	2.3e-40	143.5	0.0	1	1	7.5e-43	4.1e-40	142.707229614258	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+ARGE_SALDC	ARGE_SALDC	383	P06621_refseq_selected_blast_msa	-	368	2.3e-40	143.5	0.0	1	1	7.5e-43	4.1e-40	142.707229614258	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+ARGE_SALEP	ARGE_SALEP	383	P06621_refseq_selected_blast_msa	-	368	2.3e-40	143.5	0.0	1	1	7.5e-43	4.1e-40	142.707229614258	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+ARGE_SALA4	ARGE_SALA4	383	P06621_refseq_selected_blast_msa	-	368	2.3e-40	143.5	0.0	1	1	7.5e-43	4.1e-40	142.707229614258	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+DAPE_ECO5E	DAPE_ECO5E	375	P06621_refseq_selected_blast_msa	-	368	2.5e-40	143.4	0.0	1	1	5.2e-43	2.8e-40	143.225936889648	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECO57	DAPE_ECO57	375	P06621_refseq_selected_blast_msa	-	368	2.5e-40	143.4	0.0	1	1	5.2e-43	2.8e-40	143.225936889648	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHIB3	DAPE_SHIB3	375	P06621_refseq_selected_blast_msa	-	368	2.6e-40	143.3	0.0	1	1	5.5e-43	3.0e-40	143.164352416992	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METEP	DAPE_METEP	385	P06621_refseq_selected_blast_msa	-	368	2.7e-40	143.3	0.0	1	1	6.7e-43	3.7e-40	142.865844726562	0.03	4	364	9	380	7	383	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_THISH	DAPE_THISH	376	P06621_refseq_selected_blast_msa	-	368	2.8e-40	143.3	0.0	1	1	5.8e-43	3.1e-40	143.083526611328	0.05	2	367	5	372	4	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_THIDA	DAPE_THIDA	392	P06621_refseq_selected_blast_msa	-	368	2.8e-40	143.3	0.0	1	1	5.8e-43	3.1e-40	143.084808349609	0.01	7	366	21	382	15	384	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOHS	DAPE_ECOHS	375	P06621_refseq_selected_blast_msa	-	368	3.2e-40	143.1	0.0	1	1	6.7e-43	3.7e-40	142.871780395508	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHIBS	DAPE_SHIBS	375	P06621_refseq_selected_blast_msa	-	368	3.2e-40	143.1	0.0	1	1	6.7e-43	3.7e-40	142.871780395508	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOLC	DAPE_ECOLC	375	P06621_refseq_selected_blast_msa	-	368	3.2e-40	143.1	0.0	1	1	6.7e-43	3.7e-40	142.871780395508	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOBW	DAPE_ECOBW	375	P06621_refseq_selected_blast_msa	-	368	3.2e-40	143.1	0.0	1	1	6.7e-43	3.7e-40	142.871780395508	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOSM	DAPE_ECOSM	375	P06621_refseq_selected_blast_msa	-	368	3.2e-40	143.1	0.0	1	1	6.7e-43	3.7e-40	142.871780395508	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHIFL	DAPE_SHIFL	375	P06621_refseq_selected_blast_msa	-	368	3.2e-40	143.1	0.0	1	1	6.7e-43	3.7e-40	142.871780395508	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase	7lgp_B	0
+DAPE_ECO8A	DAPE_ECO8A	375	P06621_refseq_selected_blast_msa	-	368	3.2e-40	143.1	0.0	1	1	6.7e-43	3.7e-40	142.871780395508	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOLI	DAPE_ECOLI	375	P06621_refseq_selected_blast_msa	-	368	3.2e-40	143.1	0.0	1	1	6.7e-43	3.7e-40	142.871780395508	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECODH	DAPE_ECODH	375	P06621_refseq_selected_blast_msa	-	368	3.2e-40	143.1	0.0	1	1	6.7e-43	3.7e-40	142.871780395508	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECO24	DAPE_ECO24	375	P06621_refseq_selected_blast_msa	-	368	3.2e-40	143.1	0.0	1	1	6.7e-43	3.7e-40	142.871780395508	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECO27	DAPE_ECO27	375	P06621_refseq_selected_blast_msa	-	368	3.2e-40	143.1	0.0	1	1	6.7e-43	3.7e-40	142.871780395508	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECO55	DAPE_ECO55	375	P06621_refseq_selected_blast_msa	-	368	3.2e-40	143.1	0.0	1	1	6.7e-43	3.7e-40	142.871780395508	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECO7I	DAPE_ECO7I	375	P06621_refseq_selected_blast_msa	-	368	3.5e-40	142.9	0.0	1	1	7.3e-43	4.0e-40	142.758880615234	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURCM	DAPE_BURCM	379	P06621_refseq_selected_blast_msa	-	368	3.6e-40	142.9	0.1	1	1	7.6e-43	4.1e-40	142.695053100586	0.08	2	365	5	374	4	377	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIBS	DAPE_ACIBS	377	P06621_refseq_selected_blast_msa	-	368	4.3e-40	142.7	0.0	1	1	9.8e-43	5.3e-40	142.336822509766	0.05	24	366	26	373	19	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOSE	DAPE_ECOSE	375	P06621_refseq_selected_blast_msa	-	368	4.4e-40	142.6	0.0	1	1	9.1e-43	4.9e-40	142.437072753906	0.01	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_COXBR	DAPE_COXBR	374	P06621_refseq_selected_blast_msa	-	368	4.4e-40	142.6	0.0	1	1	9.4e-43	5.1e-40	142.384552001953	0.00	2	364	5	369	4	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_COXB1	DAPE_COXB1	374	P06621_refseq_selected_blast_msa	-	368	4.4e-40	142.6	0.0	1	1	9.4e-43	5.1e-40	142.384552001953	0.00	2	364	5	369	4	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_COXB2	DAPE_COXB2	374	P06621_refseq_selected_blast_msa	-	368	4.4e-40	142.6	0.0	1	1	9.4e-43	5.1e-40	142.384552001953	0.00	2	364	5	369	4	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_COXBN	DAPE_COXBN	374	P06621_refseq_selected_blast_msa	-	368	4.4e-40	142.6	0.0	1	1	9.4e-43	5.1e-40	142.384552001953	0.00	2	364	5	369	4	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_COXBU	DAPE_COXBU	374	P06621_refseq_selected_blast_msa	-	368	4.4e-40	142.6	0.0	1	1	9.4e-43	5.1e-40	142.384552001953	0.00	2	364	5	369	4	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHISS	DAPE_SHISS	375	P06621_refseq_selected_blast_msa	-	368	4.6e-40	142.5	0.0	1	1	9.7e-43	5.3e-40	142.350601196289	0.01	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALA4	DAPE_SALA4	375	P06621_refseq_selected_blast_msa	-	368	4.7e-40	142.5	0.0	1	1	9.8e-43	5.3e-40	142.33203125	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BORBR	DAPE_BORBR	379	P06621_refseq_selected_blast_msa	-	368	4.8e-40	142.5	0.0	1	1	9.8e-43	5.3e-40	142.326766967773	0.00	3	365	8	372	6	375	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PARP8	DAPE_PARP8	379	P06621_refseq_selected_blast_msa	-	368	5.0e-40	142.4	0.1	1	1	1.1e-42	5.7e-40	142.224075317383	0.15	3	367	6	376	4	377	0.85	Succinyl-diaminopimelate desuccinylase		0
+ARGE_SALPK	ARGE_SALPK	383	P06621_refseq_selected_blast_msa	-	368	5.1e-40	142.4	0.0	1	1	1.7e-42	9.0e-40	141.584487915039	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+ARGE_SALPA	ARGE_SALPA	383	P06621_refseq_selected_blast_msa	-	368	5.1e-40	142.4	0.0	1	1	1.7e-42	9.0e-40	141.584487915039	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+DAPE_ESCF3	DAPE_ESCF3	375	P06621_refseq_selected_blast_msa	-	368	5.2e-40	142.4	0.0	1	1	1.1e-42	5.9e-40	142.184661865234	0.01	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METRJ	DAPE_METRJ	392	P06621_refseq_selected_blast_msa	-	368	5.3e-40	142.3	0.0	1	1	1.2e-42	6.7e-40	142.007064819336	0.03	3	364	13	384	11	387	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XYLFA	DAPE_XYLFA	377	P06621_refseq_selected_blast_msa	-	368	5.3e-40	142.3	0.0	1	1	1.1e-42	6.0e-40	142.15559387207	0.00	7	368	10	373	4	373	0.85	Succinyl-diaminopimelate desuccinylase		0
+ARGE_MORPR	ARGE_MORPR	381	P06621_refseq_selected_blast_msa	-	368	5.5e-40	142.3	0.0	1	1	2.2e-42	1.2e-39	141.155258178711	0.00	24	366	33	376	28	378	0.84	Acetylornithine deacetylase		0
+ARGE_SALTY	ARGE_SALTY	383	P06621_refseq_selected_blast_msa	-	368	5.7e-40	142.2	0.0	1	1	1.8e-42	1.0e-39	141.42903137207	0.00	6	366	13	378	8	380	0.82	Acetylornithine deacetylase		0
+DAPE_PSYWF	DAPE_PSYWF	402	P06621_refseq_selected_blast_msa	-	368	6.0e-40	142.2	0.1	1	1	1.3e-42	7.1e-40	141.924530029297	0.08	5	368	21	399	17	399	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALG2	DAPE_SALG2	375	P06621_refseq_selected_blast_msa	-	368	6.5e-40	142.0	0.0	1	1	1.4e-42	7.4e-40	141.860397338867	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALEP	DAPE_SALEP	375	P06621_refseq_selected_blast_msa	-	368	6.5e-40	142.0	0.0	1	1	1.4e-42	7.4e-40	141.860397338867	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALPB	DAPE_SALPB	375	P06621_refseq_selected_blast_msa	-	368	6.5e-40	142.0	0.0	1	1	1.4e-42	7.4e-40	141.860397338867	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALNS	DAPE_SALNS	375	P06621_refseq_selected_blast_msa	-	368	6.5e-40	142.0	0.0	1	1	1.4e-42	7.4e-40	141.860397338867	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALDC	DAPE_SALDC	375	P06621_refseq_selected_blast_msa	-	368	6.5e-40	142.0	0.0	1	1	1.4e-42	7.4e-40	141.860397338867	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALTY	DAPE_SALTY	375	P06621_refseq_selected_blast_msa	-	368	6.5e-40	142.0	0.0	1	1	1.4e-42	7.4e-40	141.860397338867	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALSV	DAPE_SALSV	375	P06621_refseq_selected_blast_msa	-	368	6.5e-40	142.0	0.0	1	1	1.4e-42	7.4e-40	141.860397338867	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALAR	DAPE_SALAR	375	P06621_refseq_selected_blast_msa	-	368	6.5e-40	142.0	0.0	1	1	1.4e-42	7.4e-40	141.860397338867	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALHS	DAPE_SALHS	375	P06621_refseq_selected_blast_msa	-	368	6.5e-40	142.0	0.0	1	1	1.4e-42	7.4e-40	141.860397338867	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIB5	DAPE_ACIB5	377	P06621_refseq_selected_blast_msa	-	368	6.7e-40	142.0	0.0	1	1	1.5e-42	8.3e-40	141.706436157227	0.04	24	366	26	373	16	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIBY	DAPE_ACIBY	377	P06621_refseq_selected_blast_msa	-	368	6.7e-40	142.0	0.0	1	1	1.5e-42	8.3e-40	141.706436157227	0.04	24	366	26	373	16	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CUPNH	DAPE_CUPNH	383	P06621_refseq_selected_blast_msa	-	368	6.7e-40	142.0	0.0	1	1	1.4e-42	7.7e-40	141.801879882812	0.01	2	366	5	379	4	381	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIB3	DAPE_ACIB3	377	P06621_refseq_selected_blast_msa	-	368	6.9e-40	142.0	0.1	1	1	1.6e-42	8.6e-40	141.645599365234	0.05	24	366	26	373	19	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIBT	DAPE_ACIBT	378	P06621_refseq_selected_blast_msa	-	368	7.0e-40	142.0	0.1	1	1	1.6e-42	8.7e-40	141.631256103516	0.05	24	366	26	373	19	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METC4	DAPE_METC4	385	P06621_refseq_selected_blast_msa	-	368	7.2e-40	141.9	0.0	1	1	1.8e-42	9.8e-40	141.459533691406	0.03	4	364	9	380	7	383	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BART1	DAPE_BART1	390	P06621_refseq_selected_blast_msa	-	368	7.4e-40	141.9	0.0	1	1	2.4e-42	1.3e-39	141.060455322266	0.00	2	365	8	385	7	388	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NEIG1	DAPE_NEIG1	381	P06621_refseq_selected_blast_msa	-	368	7.5e-40	141.8	0.0	1	1	1.6e-42	8.6e-40	141.65461730957	0.00	4	368	9	375	6	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIET	DAPE_ACIET	391	P06621_refseq_selected_blast_msa	-	368	7.8e-40	141.8	0.0	1	1	1.8e-42	9.7e-40	141.482879638672	0.01	5	359	8	376	4	385	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIBC	DAPE_ACIBC	378	P06621_refseq_selected_blast_msa	-	368	7.9e-40	141.8	0.0	1	1	1.8e-42	9.8e-40	141.456405639648	0.04	24	366	26	373	19	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURL3	DAPE_BURL3	379	P06621_refseq_selected_blast_msa	-	368	8.0e-40	141.7	0.0	1	1	1.7e-42	9.1e-40	141.568099975586	0.04	2	365	5	374	4	377	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ALIF1	DAPE_ALIF1	377	P06621_refseq_selected_blast_msa	-	368	9.8e-40	141.5	0.0	1	1	2.0e-42	1.1e-39	141.291122436523	0.01	4	366	9	373	6	375	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ERWT9	DAPE_ERWT9	375	P06621_refseq_selected_blast_msa	-	368	9.8e-40	141.5	0.0	1	1	2.1e-42	1.1e-39	141.256637573242	0.04	2	365	6	370	5	373	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALCH	DAPE_SALCH	375	P06621_refseq_selected_blast_msa	-	368	9.9e-40	141.4	0.0	1	1	2.1e-42	1.1e-39	141.262924194336	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALPC	DAPE_SALPC	375	P06621_refseq_selected_blast_msa	-	368	9.9e-40	141.4	0.0	1	1	2.1e-42	1.1e-39	141.262924194336	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALPK	DAPE_SALPK	375	P06621_refseq_selected_blast_msa	-	368	9.9e-40	141.4	0.0	1	1	2.1e-42	1.1e-39	141.262924194336	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALPA	DAPE_SALPA	375	P06621_refseq_selected_blast_msa	-	368	9.9e-40	141.4	0.0	1	1	2.1e-42	1.1e-39	141.262924194336	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+ARGE_PASMU	ARGE_PASMU	382	P06621_refseq_selected_blast_msa	-	368	1.0e-39	141.4	0.0	1	1	3.7e-42	2.0e-39	140.42756652832	0.00	23	365	33	376	26	379	0.86	Acetylornithine deacetylase		0
+DAPE_PSEA6	DAPE_PSEA6	376	P06621_refseq_selected_blast_msa	-	368	1.0e-39	141.4	0.0	1	1	2.2e-42	1.2e-39	141.19465637207	0.00	2	368	6	374	5	374	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHESR	DAPE_SHESR	381	P06621_refseq_selected_blast_msa	-	368	1.0e-39	141.4	0.0	1	1	2.1e-42	1.1e-39	141.247085571289	0.00	4	365	13	375	10	379	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHESM	DAPE_SHESM	381	P06621_refseq_selected_blast_msa	-	368	1.0e-39	141.4	0.0	1	1	2.1e-42	1.1e-39	141.247085571289	0.00	4	365	13	375	10	379	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURVG	DAPE_BURVG	379	P06621_refseq_selected_blast_msa	-	368	1.1e-39	141.3	0.0	1	1	2.2e-42	1.2e-39	141.157958984375	0.05	2	365	5	374	4	377	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VIBVU	DAPE_VIBVU	377	P06621_refseq_selected_blast_msa	-	368	1.2e-39	141.2	0.0	1	1	2.6e-42	1.4e-39	140.962356567383	0.03	2	367	7	374	6	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURCJ	DAPE_BURCJ	379	P06621_refseq_selected_blast_msa	-	368	1.2e-39	141.2	0.1	1	1	2.5e-42	1.3e-39	141.004959106445	0.07	2	365	5	374	4	377	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_JANMA	DAPE_JANMA	375	P06621_refseq_selected_blast_msa	-	368	1.3e-39	141.1	0.0	1	1	2.6e-42	1.4e-39	140.928558349609	0.00	2	362	5	367	4	373	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHIME	DAPE_RHIME	397	P06621_refseq_selected_blast_msa	-	368	1.3e-39	141.1	0.2	1	1	3.6e-42	1.9e-39	140.479461669922	0.19	4	357	9	380	7	390	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHIDS	DAPE_SHIDS	375	P06621_refseq_selected_blast_msa	-	368	1.3e-39	141.0	0.0	1	1	2.8e-42	1.5e-39	140.849075317383	0.02	2	366	6	371	5	373	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AERS4	DAPE_AERS4	375	P06621_refseq_selected_blast_msa	-	368	1.3e-39	141.0	0.0	1	1	2.7e-42	1.5e-39	140.857727050781	0.02	2	367	5	372	4	373	0.86	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURCA	DAPE_BURCA	379	P06621_refseq_selected_blast_msa	-	368	1.3e-39	141.0	0.1	1	1	2.8e-42	1.5e-39	140.848052978516	0.08	2	357	5	366	4	377	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURCH	DAPE_BURCH	379	P06621_refseq_selected_blast_msa	-	368	1.3e-39	141.0	0.1	1	1	2.8e-42	1.5e-39	140.848052978516	0.08	2	357	5	366	4	377	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BORPE	DAPE_BORPE	379	P06621_refseq_selected_blast_msa	-	368	1.5e-39	140.9	0.0	1	1	3.0e-42	1.7e-39	140.710479736328	0.00	3	365	8	372	6	375	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHIF8	DAPE_SHIF8	375	P06621_refseq_selected_blast_msa	-	368	1.5e-39	140.9	0.0	1	1	3.1e-42	1.7e-39	140.676406860352	0.01	2	366	6	371	5	373	0.79	Succinyl-diaminopimelate desuccinylase		0
+YODQ_BACSU	YODQ_BACSU	436	P06621_refseq_selected_blast_msa	-	368	1.6e-39	140.8	0.0	1	1	1.8e-41	9.6e-39	138.195083618164	0.00	46	367	78	418	63	419	0.83	Uncharacterized metallohydrolase YodQ		0
+DAPE_XYLFM	DAPE_XYLFM	377	P06621_refseq_selected_blast_msa	-	368	1.6e-39	140.8	0.0	1	1	3.3e-42	1.8e-39	140.598236083984	0.00	7	368	10	373	4	373	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NEIG2	DAPE_NEIG2	381	P06621_refseq_selected_blast_msa	-	368	1.6e-39	140.8	0.0	1	1	3.4e-42	1.8e-39	140.569534301758	0.00	4	368	9	375	6	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BORA1	DAPE_BORA1	377	P06621_refseq_selected_blast_msa	-	368	1.6e-39	140.7	0.0	1	1	3.4e-42	1.9e-39	140.552795410156	0.00	2	361	5	366	4	373	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CITK8	DAPE_CITK8	375	P06621_refseq_selected_blast_msa	-	368	1.7e-39	140.7	0.0	1	1	3.5e-42	1.9e-39	140.50830078125	0.02	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CUPMC	DAPE_CUPMC	383	P06621_refseq_selected_blast_msa	-	368	1.7e-39	140.7	0.0	1	1	3.5e-42	1.9e-39	140.501449584961	0.03	2	366	5	379	4	381	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIAC	DAPE_ACIAC	389	P06621_refseq_selected_blast_msa	-	368	1.7e-39	140.7	0.0	1	1	3.8e-42	2.1e-39	140.40007019043	0.00	6	367	9	381	5	382	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PROMH	DAPE_PROMH	376	P06621_refseq_selected_blast_msa	-	368	1.8e-39	140.6	0.0	1	1	3.7e-42	2.0e-39	140.449127197266	0.00	2	366	6	372	5	374	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NEIMF	DAPE_NEIMF	381	P06621_refseq_selected_blast_msa	-	368	1.9e-39	140.6	0.0	1	1	3.9e-42	2.1e-39	140.358093261719	0.00	3	367	8	374	6	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PASMU	DAPE_PASMU	378	P06621_refseq_selected_blast_msa	-	368	1.9e-39	140.5	0.0	1	1	4.0e-42	2.2e-39	140.32389831543	0.00	2	361	6	367	5	374	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACICJ	DAPE_ACICJ	371	P06621_refseq_selected_blast_msa	-	368	2.0e-39	140.5	0.7	1	1	4.4e-42	2.4e-39	140.177093505859	0.71	13	364	18	365	8	369	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SODGM	DAPE_SODGM	375	P06621_refseq_selected_blast_msa	-	368	2.1e-39	140.4	0.0	1	1	4.4e-42	2.4e-39	140.175445556641	0.02	2	365	6	370	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAEIN	DAPE_HAEIN	377	P06621_refseq_selected_blast_msa	-	368	2.1e-39	140.3	0.0	1	1	4.5e-42	2.4e-39	140.169311523438	0.00	3	364	7	370	5	374	0.83	Succinyl-diaminopimelate desuccinylase	5vo3_A	0
+DAPE_HAEI8	DAPE_HAEI8	377	P06621_refseq_selected_blast_msa	-	368	2.4e-39	140.2	0.0	1	1	4.9e-42	2.7e-39	140.03239440918	0.00	3	364	7	370	5	374	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSYA2	DAPE_PSYA2	407	P06621_refseq_selected_blast_msa	-	368	2.4e-39	140.2	0.0	1	1	5.6e-42	3.1e-39	139.838256835938	0.01	12	367	33	403	23	404	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAEIE	DAPE_HAEIE	377	P06621_refseq_selected_blast_msa	-	368	2.7e-39	140.0	0.0	1	1	5.6e-42	3.0e-39	139.847122192383	0.00	3	364	7	370	5	374	0.84	Succinyl-diaminopimelate desuccinylase		0
+ARGE_PECCP	ARGE_PECCP	383	P06621_refseq_selected_blast_msa	-	368	2.7e-39	140.0	0.0	1	1	1.0e-41	5.5e-39	138.990051269531	0.00	3	366	10	378	8	380	0.82	Acetylornithine deacetylase		0
+DAPE_SHESA	DAPE_SHESA	381	P06621_refseq_selected_blast_msa	-	368	2.7e-39	140.0	0.0	1	1	5.6e-42	3.0e-39	139.839172363281	0.00	4	365	13	375	10	379	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACISJ	DAPE_ACISJ	391	P06621_refseq_selected_blast_msa	-	368	2.8e-39	140.0	0.0	1	1	6.6e-42	3.6e-39	139.616760253906	0.00	5	364	8	381	4	385	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEON	DAPE_SHEON	384	P06621_refseq_selected_blast_msa	-	368	2.8e-39	139.9	0.0	1	1	5.8e-42	3.2e-39	139.786376953125	0.01	8	365	20	378	13	382	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSET1	DAPE_PSET1	376	P06621_refseq_selected_blast_msa	-	368	2.8e-39	139.9	0.0	1	1	6.0e-42	3.3e-39	139.736083984375	0.01	2	360	6	366	5	374	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VARPS	DAPE_VARPS	391	P06621_refseq_selected_blast_msa	-	368	2.9e-39	139.9	0.1	1	1	8.2e-42	4.4e-39	139.298751831055	0.12	2	367	5	384	4	385	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOS4	DAPE_RHOS4	380	P06621_refseq_selected_blast_msa	-	368	2.9e-39	139.9	0.5	1	1	6.5e-42	3.5e-39	139.62956237793	0.48	4	365	8	375	6	378	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HERAR	DAPE_HERAR	375	P06621_refseq_selected_blast_msa	-	368	2.9e-39	139.9	0.0	1	1	6.1e-42	3.3e-39	139.718688964844	0.00	2	356	5	361	4	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AGRFC	DAPE_AGRFC	398	P06621_refseq_selected_blast_msa	-	368	3.1e-39	139.8	0.1	1	1	7.5e-42	4.1e-39	139.41667175293	0.10	3	365	8	388	7	391	0.78	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHIL3	DAPE_RHIL3	397	P06621_refseq_selected_blast_msa	-	368	3.3e-39	139.7	0.0	1	1	1.1e-41	6.0e-39	138.867034912109	0.02	3	365	8	388	7	391	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOS5	DAPE_RHOS5	380	P06621_refseq_selected_blast_msa	-	368	3.6e-39	139.6	0.6	1	1	8.0e-42	4.4e-39	139.323608398438	0.55	4	365	8	375	6	378	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CUPTR	DAPE_CUPTR	383	P06621_refseq_selected_blast_msa	-	368	4.1e-39	139.4	0.0	1	1	8.7e-42	4.7e-39	139.219818115234	0.01	2	366	5	379	4	381	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NEIMB	DAPE_NEIMB	381	P06621_refseq_selected_blast_msa	-	368	4.3e-39	139.3	0.0	1	1	9.2e-42	5.0e-39	139.1396484375	0.00	3	367	8	374	6	375	0.83	Succinyl-diaminopimelate desuccinylase	5uej_A	0
+DAPE_NITEU	DAPE_NITEU	376	P06621_refseq_selected_blast_msa	-	368	4.4e-39	139.3	0.0	1	1	9.2e-42	5.0e-39	139.137313842773	0.01	6	365	10	371	5	374	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSYIN	DAPE_PSYIN	377	P06621_refseq_selected_blast_msa	-	368	4.8e-39	139.2	0.0	1	1	1.1e-41	5.8e-39	138.92822265625	0.00	2	364	7	371	6	375	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_DINSH	DAPE_DINSH	379	P06621_refseq_selected_blast_msa	-	368	5.2e-39	139.1	0.9	1	1	1.1e-41	6.2e-39	138.823532104492	0.91	5	365	8	374	5	377	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHIEC	DAPE_RHIEC	397	P06621_refseq_selected_blast_msa	-	368	5.4e-39	139.0	0.0	1	1	1.9e-41	1.0e-38	138.076049804688	0.02	3	365	8	388	7	391	0.82	Succinyl-diaminopimelate desuccinylase		0
+ARGE_YERPE	ARGE_YERPE	389	P06621_refseq_selected_blast_msa	-	368	5.4e-39	139.0	0.0	1	1	2.1e-41	1.1e-38	137.949813842773	0.00	5	365	12	382	8	385	0.83	Acetylornithine deacetylase		0
+ARGE_YERP3	ARGE_YERP3	389	P06621_refseq_selected_blast_msa	-	368	5.4e-39	139.0	0.0	1	1	2.1e-41	1.1e-38	137.949813842773	0.00	5	365	12	382	8	385	0.83	Acetylornithine deacetylase		0
+ARGE_YERPS	ARGE_YERPS	389	P06621_refseq_selected_blast_msa	-	368	5.4e-39	139.0	0.0	1	1	2.1e-41	1.1e-38	137.949813842773	0.00	5	365	12	382	8	385	0.83	Acetylornithine deacetylase		0
+DAPE_AROAE	DAPE_AROAE	384	P06621_refseq_selected_blast_msa	-	368	5.6e-39	139.0	0.0	1	1	1.2e-41	6.8e-39	138.694320678711	0.00	24	365	29	375	12	378	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VIBVY	DAPE_VIBVY	377	P06621_refseq_selected_blast_msa	-	368	6.1e-39	138.8	0.0	1	1	1.3e-41	7.2e-39	138.61962890625	0.03	2	367	7	374	6	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALTI	DAPE_SALTI	375	P06621_refseq_selected_blast_msa	-	368	6.5e-39	138.7	0.0	1	1	1.4e-41	7.4e-39	138.572509765625	0.01	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CUPPJ	DAPE_CUPPJ	383	P06621_refseq_selected_blast_msa	-	368	6.9e-39	138.7	0.0	1	1	1.5e-41	7.9e-39	138.477951049805	0.02	2	365	5	378	4	381	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEMY	DAPE_PSEMY	380	P06621_refseq_selected_blast_msa	-	368	7.0e-39	138.6	0.0	1	1	1.6e-41	8.5e-39	138.371566772461	0.00	18	356	25	366	9	378	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAUSK	DAPE_CAUSK	387	P06621_refseq_selected_blast_msa	-	368	7.4e-39	138.6	0.2	1	1	1.7e-41	9.2e-39	138.257522583008	0.24	14	365	26	379	14	382	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NITEC	DAPE_NITEC	378	P06621_refseq_selected_blast_msa	-	368	8.3e-39	138.4	0.0	1	1	1.7e-41	9.4e-39	138.235610961914	0.01	7	364	11	370	5	374	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURCC	DAPE_BURCC	379	P06621_refseq_selected_blast_msa	-	368	8.5e-39	138.4	0.1	1	1	1.8e-41	9.7e-39	138.183898925781	0.08	2	365	5	374	4	377	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XYLFT	DAPE_XYLFT	377	P06621_refseq_selected_blast_msa	-	368	1.0e-38	138.1	0.0	1	1	2.1e-41	1.2e-38	137.936981201172	0.00	4	368	7	373	4	373	0.86	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XYLF2	DAPE_XYLF2	377	P06621_refseq_selected_blast_msa	-	368	1.0e-38	138.1	0.0	1	1	2.1e-41	1.2e-38	137.936981201172	0.00	4	368	7	373	4	373	0.86	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOSK	DAPE_RHOSK	380	P06621_refseq_selected_blast_msa	-	368	1.1e-38	138.0	0.8	1	1	2.4e-41	1.3e-38	137.769638061523	0.78	4	365	8	375	6	378	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOS1	DAPE_RHOS1	380	P06621_refseq_selected_blast_msa	-	368	1.1e-38	138.0	0.9	1	1	2.5e-41	1.4e-38	137.703567504883	0.87	4	365	8	375	6	378	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ALIFM	DAPE_ALIFM	377	P06621_refseq_selected_blast_msa	-	368	1.2e-38	137.8	0.0	1	1	2.5e-41	1.4e-38	137.676345825195	0.00	4	366	9	373	6	375	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEU5	DAPE_PSEU5	382	P06621_refseq_selected_blast_msa	-	368	1.2e-38	137.8	0.0	1	1	2.6e-41	1.4e-38	137.657211303711	0.03	4	356	12	367	9	379	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VIBCH	DAPE_VIBCH	377	P06621_refseq_selected_blast_msa	-	368	1.3e-38	137.8	0.0	1	1	2.8e-41	1.5e-38	137.553771972656	0.03	2	366	7	373	6	375	0.82	Succinyl-diaminopimelate desuccinylase	4onw_A	0
+DAPE_VIBCM	DAPE_VIBCM	377	P06621_refseq_selected_blast_msa	-	368	1.3e-38	137.8	0.0	1	1	2.8e-41	1.5e-38	137.553771972656	0.03	2	366	7	373	6	375	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURTA	DAPE_BURTA	379	P06621_refseq_selected_blast_msa	-	368	1.3e-38	137.7	0.0	1	1	2.8e-41	1.5e-38	137.561019897461	0.04	2	366	5	375	4	377	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHESH	DAPE_SHESH	376	P06621_refseq_selected_blast_msa	-	368	1.4e-38	137.6	0.0	1	1	3.0e-41	1.6e-38	137.462600708008	0.00	3	365	7	370	5	374	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PECAS	DAPE_PECAS	375	P06621_refseq_selected_blast_msa	-	368	1.4e-38	137.6	0.1	1	1	3.0e-41	1.6e-38	137.449035644531	0.05	2	365	6	370	5	373	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERE8	DAPE_YERE8	375	P06621_refseq_selected_blast_msa	-	368	1.6e-38	137.5	0.1	1	1	3.3e-41	1.8e-38	137.288070678711	0.07	2	364	6	369	5	373	0.79	Succinyl-diaminopimelate desuccinylase		0
+ARGE_PECAS	ARGE_PECAS	383	P06621_refseq_selected_blast_msa	-	368	1.8e-38	137.3	0.0	1	1	7.0e-41	3.8e-38	136.242065429688	0.00	3	366	10	378	8	380	0.82	Acetylornithine deacetylase		0
+DAPE_PSEAE	DAPE_PSEAE	383	P06621_refseq_selected_blast_msa	-	368	1.8e-38	137.3	0.1	1	1	4.1e-41	2.2e-38	136.997344970703	0.10	23	363	30	376	13	381	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEA8	DAPE_PSEA8	383	P06621_refseq_selected_blast_msa	-	368	1.8e-38	137.3	0.1	1	1	4.1e-41	2.2e-38	136.997344970703	0.10	23	363	30	376	13	381	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEAB	DAPE_PSEAB	383	P06621_refseq_selected_blast_msa	-	368	2.1e-38	137.1	0.1	1	1	4.8e-41	2.6e-38	136.770889282227	0.10	23	363	30	376	13	381	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SINMW	DAPE_SINMW	397	P06621_refseq_selected_blast_msa	-	368	2.1e-38	137.0	0.2	1	1	5.6e-41	3.0e-38	136.557754516602	0.22	4	357	9	380	7	390	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHILW	DAPE_RHILW	397	P06621_refseq_selected_blast_msa	-	368	2.3e-38	137.0	0.0	1	1	8.3e-41	4.5e-38	135.988265991211	0.01	3	364	8	387	7	390	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CROS8	DAPE_CROS8	375	P06621_refseq_selected_blast_msa	-	368	2.3e-38	136.9	0.0	1	1	4.9e-41	2.6e-38	136.750061035156	0.01	2	366	6	371	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CHESB	DAPE_CHESB	395	P06621_refseq_selected_blast_msa	-	368	2.7e-38	136.7	0.0	1	1	6.8e-41	3.7e-38	136.267822265625	0.01	4	365	10	390	8	393	0.77	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METFK	DAPE_METFK	375	P06621_refseq_selected_blast_msa	-	368	3.0e-38	136.6	0.0	1	1	6.5e-41	3.5e-38	136.341354370117	0.00	2	360	5	365	4	373	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ENT38	DAPE_ENT38	375	P06621_refseq_selected_blast_msa	-	368	3.1e-38	136.5	0.0	1	1	6.6e-41	3.6e-38	136.32341003418	0.00	2	366	6	371	5	373	0.78	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NEIMA	DAPE_NEIMA	381	P06621_refseq_selected_blast_msa	-	368	3.1e-38	136.5	0.0	1	1	6.5e-41	3.5e-38	136.333694458008	0.00	4	367	9	374	6	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRASB	DAPE_BRASB	384	P06621_refseq_selected_blast_msa	-	368	3.2e-38	136.5	0.0	1	1	7.1e-41	3.9e-38	136.212799072266	0.00	6	365	9	379	4	382	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_MYCS2	DAPE_MYCS2	355	P06621_refseq_selected_blast_msa	-	368	3.2e-38	136.5	3.7	1	1	7.9e-41	4.3e-38	136.055557250977	3.65	3	364	11	352	10	355	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CORGL	DAPE_CORGL	369	P06621_refseq_selected_blast_msa	-	368	3.3e-38	136.4	0.0	1	1	7.7e-41	4.2e-38	136.088012695312	0.03	5	365	19	367	16	369	0.80	Succinyl-diaminopimelate desuccinylase	3tx8_A	0
+DAPE_VIBC3	DAPE_VIBC3	377	P06621_refseq_selected_blast_msa	-	368	3.4e-38	136.4	0.0	1	1	7.1e-41	3.9e-38	136.208038330078	0.04	2	366	7	373	6	375	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_MARMM	DAPE_MARMM	390	P06621_refseq_selected_blast_msa	-	368	3.4e-38	136.4	0.0	1	1	8.5e-41	4.6e-38	135.962432861328	0.02	24	365	33	381	18	383	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEB9	DAPE_SHEB9	379	P06621_refseq_selected_blast_msa	-	368	3.6e-38	136.3	0.0	1	1	7.3e-41	4.0e-38	136.171676635742	0.00	8	365	15	373	8	377	0.83	Succinyl-diaminopimelate desuccinylase		0
+ARGE_PHOLL	ARGE_PHOLL	385	P06621_refseq_selected_blast_msa	-	368	4.7e-38	135.9	0.0	1	1	1.8e-40	1.0e-37	134.849594116211	0.00	3	365	10	377	8	380	0.80	Acetylornithine deacetylase		0
+DAPE_AGRRK	DAPE_AGRRK	397	P06621_refseq_selected_blast_msa	-	368	5.1e-38	135.8	0.1	1	1	1.4e-40	7.7e-38	135.231597900391	0.13	3	365	8	388	7	391	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CELJU	DAPE_CELJU	382	P06621_refseq_selected_blast_msa	-	368	5.3e-38	135.8	0.0	1	1	1.1e-40	6.0e-38	135.592498779297	0.02	2	365	12	377	11	380	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURPS	DAPE_BURPS	379	P06621_refseq_selected_blast_msa	-	368	5.3e-38	135.8	0.0	1	1	1.1e-40	6.0e-38	135.571731567383	0.03	2	365	5	374	4	377	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURP6	DAPE_BURP6	379	P06621_refseq_selected_blast_msa	-	368	5.3e-38	135.8	0.0	1	1	1.1e-40	6.0e-38	135.571731567383	0.03	2	365	5	374	4	377	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURP0	DAPE_BURP0	379	P06621_refseq_selected_blast_msa	-	368	5.3e-38	135.8	0.0	1	1	1.1e-40	6.0e-38	135.571731567383	0.03	2	365	5	374	4	377	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURM7	DAPE_BURM7	379	P06621_refseq_selected_blast_msa	-	368	5.5e-38	135.7	0.0	1	1	1.1e-40	6.2e-38	135.535903930664	0.03	2	365	5	374	4	377	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURM9	DAPE_BURM9	379	P06621_refseq_selected_blast_msa	-	368	5.5e-38	135.7	0.0	1	1	1.1e-40	6.2e-38	135.535903930664	0.03	2	365	5	374	4	377	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURMA	DAPE_BURMA	379	P06621_refseq_selected_blast_msa	-	368	5.5e-38	135.7	0.0	1	1	1.1e-40	6.2e-38	135.535903930664	0.03	2	365	5	374	4	377	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURMS	DAPE_BURMS	379	P06621_refseq_selected_blast_msa	-	368	5.5e-38	135.7	0.0	1	1	1.1e-40	6.2e-38	135.535903930664	0.03	2	365	5	374	4	377	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURP1	DAPE_BURP1	379	P06621_refseq_selected_blast_msa	-	368	5.5e-38	135.7	0.0	1	1	1.1e-40	6.2e-38	135.535903930664	0.03	2	365	5	374	4	377	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEAM	DAPE_SHEAM	382	P06621_refseq_selected_blast_msa	-	368	5.7e-38	135.7	0.0	1	1	1.2e-40	6.4e-38	135.493515014648	0.01	2	361	11	372	10	379	0.86	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAEIG	DAPE_HAEIG	377	P06621_refseq_selected_blast_msa	-	368	5.8e-38	135.6	0.0	1	1	1.2e-40	6.5e-38	135.461517333984	0.00	3	364	7	370	5	374	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEB5	DAPE_SHEB5	379	P06621_refseq_selected_blast_msa	-	368	6.1e-38	135.6	0.0	1	1	1.2e-40	6.7e-38	135.413650512695	0.00	8	365	15	373	8	377	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NEIM0	DAPE_NEIM0	381	P06621_refseq_selected_blast_msa	-	368	6.1e-38	135.5	0.0	1	1	1.3e-40	7.0e-38	135.365859985352	0.00	4	367	9	374	6	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PHOLL	DAPE_PHOLL	375	P06621_refseq_selected_blast_msa	-	368	6.3e-38	135.5	0.0	1	1	1.4e-40	7.4e-38	135.279373168945	0.01	2	367	6	372	5	373	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOCS	DAPE_RHOCS	386	P06621_refseq_selected_blast_msa	-	368	6.7e-38	135.4	0.1	1	1	1.7e-40	9.0e-38	135.004043579102	0.05	4	365	8	375	6	378	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSYCK	DAPE_PSYCK	407	P06621_refseq_selected_blast_msa	-	368	7.5e-38	135.3	0.0	1	1	1.7e-40	9.4e-38	134.946762084961	0.03	12	366	33	402	23	404	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRASO	DAPE_BRASO	384	P06621_refseq_selected_blast_msa	-	368	8.0e-38	135.2	0.0	1	1	1.7e-40	9.4e-38	134.933090209961	0.00	6	365	9	379	4	382	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_TOLAT	DAPE_TOLAT	380	P06621_refseq_selected_blast_msa	-	368	8.6e-38	135.1	0.0	1	1	1.9e-40	1.0e-37	134.837615966797	0.00	4	366	9	373	6	375	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VEREI	DAPE_VEREI	401	P06621_refseq_selected_blast_msa	-	368	9.5e-38	134.9	0.0	1	1	4.4e-40	2.4e-37	133.621322631836	0.00	3	361	6	382	4	389	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ALISL	DAPE_ALISL	377	P06621_refseq_selected_blast_msa	-	368	1.1e-37	134.7	0.0	1	1	2.4e-40	1.3e-37	134.452178955078	0.00	6	366	11	373	6	375	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AERHH	DAPE_AERHH	375	P06621_refseq_selected_blast_msa	-	368	1.2e-37	134.6	0.0	1	1	2.4e-40	1.3e-37	134.459503173828	0.01	4	367	7	372	4	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPS	DAPE_YERPS	375	P06621_refseq_selected_blast_msa	-	368	1.2e-37	134.6	0.1	1	1	2.5e-40	1.3e-37	134.429840087891	0.09	2	364	6	369	5	373	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPB	DAPE_YERPB	375	P06621_refseq_selected_blast_msa	-	368	1.2e-37	134.6	0.1	1	1	2.5e-40	1.3e-37	134.429840087891	0.09	2	364	6	369	5	373	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPY	DAPE_YERPY	375	P06621_refseq_selected_blast_msa	-	368	1.2e-37	134.6	0.1	1	1	2.5e-40	1.3e-37	134.429840087891	0.09	2	364	6	369	5	373	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPN	DAPE_YERPN	375	P06621_refseq_selected_blast_msa	-	368	1.2e-37	134.6	0.1	1	1	2.5e-40	1.3e-37	134.429840087891	0.09	2	364	6	369	5	373	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPE	DAPE_YERPE	375	P06621_refseq_selected_blast_msa	-	368	1.2e-37	134.6	0.1	1	1	2.5e-40	1.3e-37	134.429840087891	0.09	2	364	6	369	5	373	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPG	DAPE_YERPG	375	P06621_refseq_selected_blast_msa	-	368	1.2e-37	134.6	0.1	1	1	2.5e-40	1.3e-37	134.429840087891	0.09	2	364	6	369	5	373	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPP	DAPE_YERPP	375	P06621_refseq_selected_blast_msa	-	368	1.2e-37	134.6	0.1	1	1	2.5e-40	1.3e-37	134.429840087891	0.09	2	364	6	369	5	373	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPA	DAPE_YERPA	375	P06621_refseq_selected_blast_msa	-	368	1.2e-37	134.6	0.1	1	1	2.5e-40	1.3e-37	134.429840087891	0.09	2	364	6	369	5	373	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEA7	DAPE_PSEA7	383	P06621_refseq_selected_blast_msa	-	368	1.3e-37	134.5	0.1	1	1	2.7e-40	1.5e-37	134.282775878906	0.10	23	363	30	376	12	381	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEB2	DAPE_SHEB2	379	P06621_refseq_selected_blast_msa	-	368	1.4e-37	134.4	0.0	1	1	2.9e-40	1.6e-37	134.221054077148	0.00	8	365	15	373	8	377	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERP3	DAPE_YERP3	375	P06621_refseq_selected_blast_msa	-	368	1.5e-37	134.3	0.1	1	1	3.1e-40	1.7e-37	134.099090576172	0.07	2	364	6	369	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEU2	DAPE_PSEU2	383	P06621_refseq_selected_blast_msa	-	368	1.6e-37	134.2	0.1	1	1	3.5e-40	1.9e-37	133.928680419922	0.09	24	359	30	372	12	381	0.86	Succinyl-diaminopimelate desuccinylase		0
+ARGE_MYXXA	ARGE_MYXXA	380	P06621_refseq_selected_blast_msa	-	368	1.6e-37	134.2	1.8	1	1	4.6e-40	2.5e-37	133.537109375	1.79	3	366	10	374	8	376	0.77	Acetylornithine deacetylase		0
+DAPE_BARQU	DAPE_BARQU	390	P06621_refseq_selected_blast_msa	-	368	1.7e-37	134.1	0.0	1	1	5.0e-40	2.7e-37	133.416793823242	0.00	2	365	8	385	7	388	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RALPJ	DAPE_RALPJ	386	P06621_refseq_selected_blast_msa	-	368	1.8e-37	134.0	0.0	1	1	3.8e-40	2.1e-37	133.823638916016	0.03	2	366	8	382	7	384	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BARHE	DAPE_BARHE	390	P06621_refseq_selected_blast_msa	-	368	2.0e-37	133.8	0.0	1	1	8.0e-40	4.3e-37	132.756500244141	0.00	3	358	9	378	8	387	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAHCH	DAPE_HAHCH	383	P06621_refseq_selected_blast_msa	-	368	2.1e-37	133.8	0.0	1	1	4.4e-40	2.4e-37	133.611846923828	0.03	4	361	11	370	8	377	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEPC	DAPE_SHEPC	379	P06621_refseq_selected_blast_msa	-	368	2.4e-37	133.6	0.0	1	1	4.9e-40	2.7e-37	133.44206237793	0.00	6	365	13	373	8	377	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACTP2	DAPE_ACTP2	377	P06621_refseq_selected_blast_msa	-	368	2.9e-37	133.3	0.0	1	1	6.2e-40	3.4e-37	133.103713989258	0.02	2	360	6	366	5	374	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACTP7	DAPE_ACTP7	377	P06621_refseq_selected_blast_msa	-	368	2.9e-37	133.3	0.0	1	1	6.2e-40	3.4e-37	133.103713989258	0.02	2	360	6	366	5	374	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHESW	DAPE_SHESW	379	P06621_refseq_selected_blast_msa	-	368	2.9e-37	133.3	0.0	1	1	5.9e-40	3.2e-37	133.187255859375	0.00	6	365	13	373	8	377	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_IDILO	DAPE_IDILO	376	P06621_refseq_selected_blast_msa	-	368	3.0e-37	133.3	0.0	1	1	6.2e-40	3.4e-37	133.114028930664	0.00	3	365	7	371	5	374	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ROSDO	DAPE_ROSDO	381	P06621_refseq_selected_blast_msa	-	368	3.0e-37	133.3	0.0	1	1	6.7e-40	3.6e-37	133.00617980957	0.02	4	366	9	377	7	379	0.77	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSE14	DAPE_PSE14	383	P06621_refseq_selected_blast_msa	-	368	3.1e-37	133.2	0.1	1	1	7.1e-40	3.8e-37	132.930557250977	0.13	23	359	29	372	12	381	0.85	Succinyl-diaminopimelate desuccinylase		0
+ARGE_VIBCB	ARGE_VIBCB	378	P06621_refseq_selected_blast_msa	-	368	3.6e-37	133.0	0.0	1	1	1.8e-39	9.9e-37	131.573684692383	0.00	19	365	28	373	11	376	0.79	Acetylornithine deacetylase		0
+DAPE_PHOPR	DAPE_PHOPR	377	P06621_refseq_selected_blast_msa	-	368	4.7e-37	132.6	0.2	1	1	9.9e-40	5.4e-37	132.442260742188	0.19	2	365	7	372	6	375	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEE4	DAPE_PSEE4	383	P06621_refseq_selected_blast_msa	-	368	5.4e-37	132.5	0.0	1	1	1.2e-39	6.6e-37	132.151519775391	0.01	25	358	31	371	17	381	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_POLNS	DAPE_POLNS	383	P06621_refseq_selected_blast_msa	-	368	6.0e-37	132.3	0.0	1	1	1.3e-39	6.9e-37	132.090576171875	0.00	2	364	5	377	4	381	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEDO	DAPE_SHEDO	376	P06621_refseq_selected_blast_msa	-	368	6.5e-37	132.2	0.0	1	1	1.4e-39	7.7e-37	131.925155639648	0.01	25	367	26	373	7	374	0.85	Succinyl-diaminopimelate desuccinylase		0
+ARGE_VIBPA	ARGE_VIBPA	378	P06621_refseq_selected_blast_msa	-	368	7.7e-37	131.9	0.0	1	1	3.5e-39	1.9e-36	130.632904052734	0.00	19	365	28	373	10	376	0.79	Acetylornithine deacetylase		0
+DAPE_POLAQ	DAPE_POLAQ	383	P06621_refseq_selected_blast_msa	-	368	8.2e-37	131.8	0.0	1	1	1.7e-39	9.4e-37	131.646011352539	0.00	2	364	5	377	4	381	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEP1	DAPE_PSEP1	383	P06621_refseq_selected_blast_msa	-	368	8.5e-37	131.8	0.0	1	1	1.9e-39	1.0e-36	131.506271362305	0.01	24	358	30	371	15	381	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEPK	DAPE_PSEPK	383	P06621_refseq_selected_blast_msa	-	368	8.5e-37	131.8	0.0	1	1	1.9e-39	1.0e-36	131.506271362305	0.01	24	358	30	371	15	381	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_WOLPM	DAPE_WOLPM	398	P06621_refseq_selected_blast_msa	-	368	8.7e-37	131.8	0.0	1	1	2.0e-39	1.1e-36	131.409423828125	0.00	3	365	7	371	6	374	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_MANSM	DAPE_MANSM	377	P06621_refseq_selected_blast_msa	-	368	9.2e-37	131.7	0.0	1	1	1.9e-39	1.1e-36	131.488494873047	0.00	2	360	6	366	5	374	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METPP	DAPE_METPP	386	P06621_refseq_selected_blast_msa	-	368	9.3e-37	131.7	0.1	1	1	2.0e-39	1.1e-36	131.467086791992	0.06	2	365	9	381	8	384	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RALSO	DAPE_RALSO	383	P06621_refseq_selected_blast_msa	-	368	9.3e-37	131.7	0.0	1	1	1.9e-39	1.1e-36	131.482864379883	0.01	2	366	5	379	4	381	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEPG	DAPE_PSEPG	383	P06621_refseq_selected_blast_msa	-	368	9.8e-37	131.6	0.0	1	1	2.2e-39	1.2e-36	131.302597045898	0.01	24	358	30	371	15	381	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEB8	DAPE_SHEB8	380	P06621_refseq_selected_blast_msa	-	368	1.1e-36	131.4	0.0	1	1	2.3e-39	1.3e-36	131.238922119141	0.00	8	365	16	374	9	378	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSESM	DAPE_PSESM	383	P06621_refseq_selected_blast_msa	-	368	1.3e-36	131.2	0.1	1	1	2.8e-39	1.5e-36	130.935897827148	0.06	24	359	30	372	12	381	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEF5	DAPE_PSEF5	383	P06621_refseq_selected_blast_msa	-	368	1.5e-36	131.0	0.1	1	1	3.4e-39	1.9e-36	130.672561645508	0.06	24	359	30	372	17	381	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METSB	DAPE_METSB	388	P06621_refseq_selected_blast_msa	-	368	1.5e-36	131.0	0.3	1	1	3.6e-39	2.0e-36	130.597930908203	0.34	11	364	18	382	8	385	0.80	Succinyl-diaminopimelate desuccinylase		0
+ARGE_ALISL	ARGE_ALISL	378	P06621_refseq_selected_blast_msa	-	368	1.6e-36	130.9	0.0	1	1	7.4e-39	4.0e-36	129.571151733398	0.00	15	366	24	374	10	376	0.84	Acetylornithine deacetylase		0
+DAPE_PSEPW	DAPE_PSEPW	383	P06621_refseq_selected_blast_msa	-	368	1.7e-36	130.8	0.0	1	1	3.8e-39	2.1e-36	130.523391723633	0.01	24	358	30	371	15	381	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NOVAD	DAPE_NOVAD	375	P06621_refseq_selected_blast_msa	-	368	1.8e-36	130.8	0.1	1	1	4.8e-39	2.6e-36	130.183441162109	0.06	8	355	13	360	8	373	0.78	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SPHWW	DAPE_SPHWW	377	P06621_refseq_selected_blast_msa	-	368	1.8e-36	130.7	0.3	1	1	4.5e-39	2.4e-36	130.296524047852	0.30	3	356	6	359	5	370	0.84	Succinyl-diaminopimelate desuccinylase		0
+ARGE_ALIFM	ARGE_ALIFM	378	P06621_refseq_selected_blast_msa	-	368	1.9e-36	130.7	0.0	1	1	8.6e-39	4.7e-36	129.353713989258	0.00	15	366	24	374	10	376	0.83	Acetylornithine deacetylase		0
+DAPE_RUEPO	DAPE_RUEPO	380	P06621_refseq_selected_blast_msa	-	368	2.1e-36	130.5	1.9	1	1	4.5e-39	2.5e-36	130.266952514648	1.93	7	361	11	371	6	378	0.77	Succinyl-diaminopimelate desuccinylase		0
+ARGE_VIBC3	ARGE_VIBC3	378	P06621_refseq_selected_blast_msa	-	368	2.5e-36	130.3	0.0	1	1	1.0e-38	5.6e-36	129.109344482422	0.00	18	366	27	374	10	376	0.82	Acetylornithine deacetylase		0
+ARGE_VIBCH	ARGE_VIBCH	378	P06621_refseq_selected_blast_msa	-	368	2.5e-36	130.3	0.0	1	1	1.0e-38	5.6e-36	129.109344482422	0.00	18	366	27	374	10	376	0.82	Acetylornithine deacetylase		0
+ARGE_VIBCM	ARGE_VIBCM	378	P06621_refseq_selected_blast_msa	-	368	2.5e-36	130.3	0.0	1	1	1.0e-38	5.6e-36	129.109344482422	0.00	18	366	27	374	10	376	0.82	Acetylornithine deacetylase		0
+DAPE_WOLTR	DAPE_WOLTR	401	P06621_refseq_selected_blast_msa	-	368	2.5e-36	130.2	0.0	1	1	5.7e-39	3.1e-36	129.94938659668	0.00	4	365	8	374	6	377	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_KLEP3	DAPE_KLEP3	375	P06621_refseq_selected_blast_msa	-	368	2.5e-36	130.2	0.0	1	1	5.4e-39	2.9e-36	130.0234375	0.00	2	366	6	371	5	373	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SPHAL	DAPE_SPHAL	377	P06621_refseq_selected_blast_msa	-	368	2.6e-36	130.2	1.1	1	1	6.0e-39	3.3e-36	129.866577148438	1.06	8	367	14	374	8	375	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_OCHA4	DAPE_OCHA4	395	P06621_refseq_selected_blast_msa	-	368	2.7e-36	130.2	0.1	1	1	7.2e-39	3.9e-36	129.611343383789	0.10	4	366	10	391	8	393	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSESY	DAPE_PSESY	378	P06621_refseq_selected_blast_msa	-	368	2.7e-36	130.2	0.0	1	1	5.7e-39	3.1e-36	129.945816040039	0.01	17	359	21	367	5	376	0.81	Succinyl-diaminopimelate desuccinylase		0
+ARGE_ALIF1	ARGE_ALIF1	378	P06621_refseq_selected_blast_msa	-	368	3.2e-36	129.9	0.0	1	1	1.5e-38	8.1e-36	128.576919555664	0.00	15	366	24	374	10	376	0.82	Acetylornithine deacetylase		0
+DAPE1_SHELP	DAPE1_SHELP	376	P06621_refseq_selected_blast_msa	-	368	3.2e-36	129.9	0.0	1	1	6.6e-39	3.6e-36	129.734848022461	0.00	20	367	24	373	5	374	0.83	Succinyl-diaminopimelate desuccinylase 1		0
+DAPE_RHOPS	DAPE_RHOPS	388	P06621_refseq_selected_blast_msa	-	368	3.2e-36	129.9	0.1	1	1	7.3e-39	4.0e-36	129.588760375977	0.11	11	365	17	382	8	385	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAUVC	DAPE_CAUVC	386	P06621_refseq_selected_blast_msa	-	368	3.3e-36	129.8	3.4	1	1	7.2e-39	3.9e-36	129.612350463867	3.36	19	365	31	378	14	381	0.78	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAUVN	DAPE_CAUVN	386	P06621_refseq_selected_blast_msa	-	368	3.3e-36	129.8	3.4	1	1	7.2e-39	3.9e-36	129.612350463867	3.36	19	365	31	378	14	381	0.78	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEHH	DAPE_SHEHH	381	P06621_refseq_selected_blast_msa	-	368	3.5e-36	129.8	0.0	1	1	7.2e-39	3.9e-36	129.617401123047	0.00	4	359	12	369	9	378	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOP5	DAPE_RHOP5	387	P06621_refseq_selected_blast_msa	-	368	3.5e-36	129.8	0.1	1	1	8.2e-39	4.5e-36	129.417327880859	0.06	8	366	14	383	8	385	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACTSZ	DAPE_ACTSZ	376	P06621_refseq_selected_blast_msa	-	368	3.7e-36	129.7	0.0	1	1	7.8e-39	4.2e-36	129.493469238281	0.00	2	365	6	371	5	374	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOPT	DAPE_RHOPT	387	P06621_refseq_selected_blast_msa	-	368	4.0e-36	129.6	0.3	1	1	9.4e-39	5.1e-36	129.227432250977	0.27	10	366	16	383	8	385	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AZOC5	DAPE_AZOC5	376	P06621_refseq_selected_blast_msa	-	368	4.1e-36	129.6	0.2	1	1	8.8e-39	4.8e-36	129.327713012695	0.15	9	367	8	369	1	370	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE2_ALTMD	DAPE2_ALTMD	378	P06621_refseq_selected_blast_msa	-	368	4.4e-36	129.4	0.0	1	1	9.3e-39	5.1e-36	129.238235473633	0.01	5	367	10	374	6	375	0.85	Succinyl-diaminopimelate desuccinylase 2		0
+DAPE_RHOFT	DAPE_RHOFT	391	P06621_refseq_selected_blast_msa	-	368	4.4e-36	129.4	0.0	1	1	1.1e-38	6.0e-36	128.991958618164	0.00	3	367	6	384	4	385	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METCA	DAPE_METCA	377	P06621_refseq_selected_blast_msa	-	368	4.7e-36	129.3	0.0	1	1	1.0e-38	5.6e-36	129.1083984375	0.00	4	364	7	369	4	373	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHILO	DAPE_RHILO	397	P06621_refseq_selected_blast_msa	-	368	5.7e-36	129.1	0.0	1	1	1.4e-38	7.8e-36	128.628524780273	0.03	4	366	10	391	8	393	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_WOLPP	DAPE_WOLPP	398	P06621_refseq_selected_blast_msa	-	368	6.5e-36	128.9	0.0	1	1	1.5e-38	8.0e-36	128.588180541992	0.00	4	365	8	371	6	374	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BARBK	DAPE_BARBK	390	P06621_refseq_selected_blast_msa	-	368	7.0e-36	128.8	0.0	1	1	3.0e-38	1.6e-35	127.583740234375	0.00	3	364	9	384	8	388	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VIBA3	DAPE_VIBA3	378	P06621_refseq_selected_blast_msa	-	368	7.1e-36	128.8	0.0	1	1	1.5e-38	8.3e-36	128.529235839844	0.00	2	366	7	373	6	375	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NAUPA	DAPE_NAUPA	365	P06621_refseq_selected_blast_msa	-	368	8.1e-36	128.6	0.0	1	1	1.7e-38	9.2e-36	128.391708374023	0.00	2	365	4	361	3	364	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEPA	DAPE_SHEPA	381	P06621_refseq_selected_blast_msa	-	368	8.5e-36	128.5	0.0	1	1	1.7e-38	9.5e-36	128.343399047852	0.00	6	359	14	369	9	378	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PARL1	DAPE_PARL1	395	P06621_refseq_selected_blast_msa	-	368	9.1e-36	128.4	0.2	1	1	2.1e-38	1.2e-35	128.058013916016	0.24	7	359	20	380	15	387	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_KLEP7	DAPE_KLEP7	375	P06621_refseq_selected_blast_msa	-	368	9.4e-36	128.4	0.0	1	1	2.0e-38	1.1e-35	128.158065795898	0.00	2	366	6	371	5	373	0.79	Succinyl-diaminopimelate desuccinylase		0
+ARGE_VIBA3	ARGE_VIBA3	378	P06621_refseq_selected_blast_msa	-	368	9.8e-36	128.3	0.0	1	1	4.0e-38	2.2e-35	127.15705871582	0.00	19	365	28	373	6	376	0.77	Acetylornithine deacetylase		0
+DAPE_BRUA1	DAPE_BRUA1	395	P06621_refseq_selected_blast_msa	-	368	1.0e-35	128.3	0.0	1	1	2.6e-38	1.4e-35	127.760299682617	0.03	3	366	9	391	8	393	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUA2	DAPE_BRUA2	395	P06621_refseq_selected_blast_msa	-	368	1.0e-35	128.3	0.0	1	1	2.6e-38	1.4e-35	127.760299682617	0.03	3	366	9	391	8	393	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUAB	DAPE_BRUAB	395	P06621_refseq_selected_blast_msa	-	368	1.0e-35	128.3	0.0	1	1	2.6e-38	1.4e-35	127.760299682617	0.03	3	366	9	391	8	393	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_MYCTU	DAPE_MYCTU	354	P06621_refseq_selected_blast_msa	-	368	1.0e-35	128.3	1.9	1	1	2.6e-38	1.4e-35	127.798950195312	1.95	3	363	10	350	9	353	0.79	Putative succinyl-diaminopimelate desuccinylase DapE		0
+DAPE_MYCTO	DAPE_MYCTO	354	P06621_refseq_selected_blast_msa	-	368	1.0e-35	128.3	1.9	1	1	2.6e-38	1.4e-35	127.798950195312	1.95	3	363	10	350	9	353	0.79	Putative succinyl-diaminopimelate desuccinylase DapE		0
+DAPE_BRUMB	DAPE_BRUMB	395	P06621_refseq_selected_blast_msa	-	368	1.4e-35	127.8	0.0	1	1	3.8e-38	2.0e-35	127.250274658203	0.04	3	366	9	391	8	393	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUME	DAPE_BRUME	395	P06621_refseq_selected_blast_msa	-	368	1.5e-35	127.7	0.0	1	1	4.0e-38	2.2e-35	127.165733337402	0.04	3	366	9	391	8	393	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BEII9	DAPE_BEII9	383	P06621_refseq_selected_blast_msa	-	368	1.6e-35	127.6	0.0	1	1	3.6e-38	2.0e-35	127.309326171875	0.01	2	356	6	369	5	379	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_JANSC	DAPE_JANSC	388	P06621_refseq_selected_blast_msa	-	368	1.7e-35	127.5	0.3	1	1	4.0e-38	2.1e-35	127.176406860352	0.32	4	363	15	380	13	385	0.76	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUO2	DAPE_BRUO2	395	P06621_refseq_selected_blast_msa	-	368	2.1e-35	127.2	0.0	1	1	5.2e-38	2.8e-35	126.791313171387	0.05	4	366	10	391	8	393	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUSI	DAPE_BRUSI	395	P06621_refseq_selected_blast_msa	-	368	2.1e-35	127.2	0.0	1	1	5.2e-38	2.8e-35	126.791313171387	0.05	4	366	10	391	8	393	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUC2	DAPE_BRUC2	395	P06621_refseq_selected_blast_msa	-	368	2.1e-35	127.2	0.0	1	1	5.2e-38	2.8e-35	126.791313171387	0.05	4	366	10	391	8	393	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUSU	DAPE_BRUSU	395	P06621_refseq_selected_blast_msa	-	368	2.1e-35	127.2	0.0	1	1	5.2e-38	2.8e-35	126.791313171387	0.05	4	366	10	391	8	393	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOPA	DAPE_RHOPA	387	P06621_refseq_selected_blast_msa	-	368	2.1e-35	127.2	0.3	1	1	4.8e-38	2.6e-35	126.904762268066	0.29	10	366	16	383	8	385	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PELUB	DAPE_PELUB	384	P06621_refseq_selected_blast_msa	-	368	2.2e-35	127.2	0.0	1	1	4.7e-38	2.5e-35	126.939819335938	0.00	6	365	11	380	7	383	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_COLP3	DAPE_COLP3	399	P06621_refseq_selected_blast_msa	-	368	2.4e-35	127.0	0.0	1	1	4.9e-38	2.7e-35	126.864364624023	0.01	13	359	24	382	12	391	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEFN	DAPE_SHEFN	377	P06621_refseq_selected_blast_msa	-	368	2.4e-35	127.0	0.0	1	1	4.9e-38	2.7e-35	126.875099182129	0.00	4	366	8	372	5	374	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEWM	DAPE_SHEWM	376	P06621_refseq_selected_blast_msa	-	368	2.7e-35	126.9	0.0	1	1	5.5e-38	3.0e-35	126.70011138916	0.00	6	361	10	367	5	374	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEPW	DAPE_SHEPW	381	P06621_refseq_selected_blast_msa	-	368	3.4e-35	126.5	0.0	1	1	7.1e-38	3.9e-35	126.333213806152	0.00	3	363	11	373	9	378	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICBR	DAPE_RICBR	391	P06621_refseq_selected_blast_msa	-	368	3.8e-35	126.4	0.0	1	1	8.6e-38	4.7e-35	126.062965393066	0.00	5	360	6	370	3	378	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAEPS	DAPE_HAEPS	377	P06621_refseq_selected_blast_msa	-	368	4.0e-35	126.3	0.0	1	1	9.2e-38	5.0e-35	125.973655700684	0.00	3	355	7	361	5	373	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICB8	DAPE_RICB8	391	P06621_refseq_selected_blast_msa	-	368	4.2e-35	126.2	0.0	1	1	9.6e-38	5.2e-35	125.911918640137	0.00	5	360	6	370	3	378	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RUTMC	DAPE_RUTMC	376	P06621_refseq_selected_blast_msa	-	368	4.4e-35	126.1	0.0	1	1	9.4e-38	5.1e-35	125.937004089355	0.00	2	357	5	363	4	374	0.83	Succinyl-diaminopimelate desuccinylase		0
+ARGE_VIBVU	ARGE_VIBVU	378	P06621_refseq_selected_blast_msa	-	368	4.9e-35	126.0	0.0	1	1	2.8e-37	1.5e-34	124.364929199219	0.00	19	365	28	373	15	376	0.78	Acetylornithine deacetylase		0
+DAPE_POLSJ	DAPE_POLSJ	425	P06621_refseq_selected_blast_msa	-	368	5.5e-35	125.8	0.0	1	1	3.4e-37	1.8e-34	124.110450744629	0.01	56	367	82	402	49	403	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ZYMMO	DAPE_ZYMMO	376	P06621_refseq_selected_blast_msa	-	368	6.2e-35	125.7	0.0	1	1	1.6e-37	8.5e-35	125.20735168457	0.03	4	356	10	362	8	371	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_OLICO	DAPE_OLICO	384	P06621_refseq_selected_blast_msa	-	368	6.7e-35	125.6	0.0	1	1	1.8e-37	9.7e-35	125.02481842041	0.02	11	365	14	379	5	382	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAMFF	DAPE_CAMFF	365	P06621_refseq_selected_blast_msa	-	368	6.9e-35	125.5	0.0	1	1	1.6e-37	8.8e-35	125.154479980469	0.00	2	357	4	353	3	363	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VESOH	DAPE_VESOH	376	P06621_refseq_selected_blast_msa	-	368	7.4e-35	125.4	0.0	1	1	1.7e-37	9.5e-35	125.056648254395	0.00	3	357	6	363	4	374	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEPF	DAPE_PSEPF	383	P06621_refseq_selected_blast_msa	-	368	7.5e-35	125.4	0.1	1	1	1.7e-37	9.2e-35	125.093696594238	0.11	24	357	30	370	15	381	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NITSB	DAPE_NITSB	364	P06621_refseq_selected_blast_msa	-	368	9.7e-35	125.0	0.0	1	1	2.2e-37	1.2e-34	124.742980957031	0.00	2	357	4	353	3	363	0.81	Succinyl-diaminopimelate desuccinylase		0
+ARGE_VIBVY	ARGE_VIBVY	378	P06621_refseq_selected_blast_msa	-	368	1.0e-34	124.9	0.0	1	1	6.2e-37	3.4e-34	123.249687194824	0.00	19	365	28	373	13	376	0.77	Acetylornithine deacetylase		0
+DAPE_METNO	DAPE_METNO	396	P06621_refseq_selected_blast_msa	-	368	1.9e-34	124.1	0.2	1	1	4.6e-37	2.5e-34	123.65714263916	0.17	6	365	12	382	8	384	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAES1	DAPE_HAES1	377	P06621_refseq_selected_blast_msa	-	368	2.1e-34	123.9	0.0	1	1	4.4e-37	2.4e-34	123.749603271484	0.00	3	362	7	367	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METS4	DAPE_METS4	396	P06621_refseq_selected_blast_msa	-	368	2.3e-34	123.8	0.2	1	1	5.5e-37	3.0e-34	123.40470123291	0.19	6	365	12	382	8	384	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HISS2	DAPE_HISS2	377	P06621_refseq_selected_blast_msa	-	368	2.6e-34	123.6	0.0	1	1	5.4e-37	3.0e-34	123.431777954102	0.00	3	357	7	362	5	373	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACTPJ	DAPE_ACTPJ	377	P06621_refseq_selected_blast_msa	-	368	2.7e-34	123.6	0.0	1	1	5.8e-37	3.2e-34	123.336029052734	0.01	3	360	7	366	5	374	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOP2	DAPE_RHOP2	389	P06621_refseq_selected_blast_msa	-	368	2.8e-34	123.5	0.2	1	1	6.1e-37	3.3e-34	123.260940551758	0.15	8	366	12	385	5	387	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SULNB	DAPE_SULNB	367	P06621_refseq_selected_blast_msa	-	368	3.1e-34	123.4	0.0	1	1	7.2e-37	3.9e-34	123.027816772461	0.00	2	362	4	358	3	363	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_EHRCJ	DAPE_EHRCJ	380	P06621_refseq_selected_blast_msa	-	368	3.7e-34	123.1	0.0	1	1	8.4e-37	4.6e-34	122.809371948242	0.00	19	364	23	372	6	376	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAR	DAPE_STAAR	407	P06621_refseq_selected_blast_msa	-	368	5.5e-34	122.5	0.0	1	2	4.3e-27	2.3e-24	90.8606643676758	0.01	3	210	11	213	9	223	0.86	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAR	DAPE_STAAR	407	P06621_refseq_selected_blast_msa	-	368	5.5e-34	122.5	0.0	2	2	1.6e-08	8.6e-06	29.7773208618164	0.00	214	329	248	361	243	394	0.77	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_RICTY	DAPE_RICTY	383	P06621_refseq_selected_blast_msa	-	368	7.4e-34	122.1	0.0	1	1	1.6e-36	8.7e-34	121.891441345215	0.00	4	365	5	379	2	382	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PHEZH	DAPE_PHEZH	380	P06621_refseq_selected_blast_msa	-	368	7.8e-34	122.0	6.4	1	1	1.7e-36	9.0e-34	121.835319519043	6.35	5	367	11	377	7	378	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_EHRCR	DAPE_EHRCR	381	P06621_refseq_selected_blast_msa	-	368	8.6e-34	121.9	0.0	1	1	2.0e-36	1.1e-33	121.577301025391	0.00	24	365	25	373	9	376	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_EHRRG	DAPE_EHRRG	383	P06621_refseq_selected_blast_msa	-	368	1.0e-33	121.7	0.0	1	1	2.3e-36	1.2e-33	121.382041931152	0.00	25	365	26	374	6	377	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_POLNA	DAPE_POLNA	406	P06621_refseq_selected_blast_msa	-	368	1.0e-33	121.6	0.0	1	1	5.0e-35	2.7e-32	116.962753295898	0.00	56	367	81	401	65	402	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_GRABC	DAPE_GRABC	383	P06621_refseq_selected_blast_msa	-	368	1.0e-33	121.6	0.1	1	1	2.4e-36	1.3e-33	121.28099822998	0.06	5	357	8	366	5	375	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE1_RUEST	DAPE1_RUEST	381	P06621_refseq_selected_blast_msa	-	368	1.3e-33	121.3	0.9	1	1	2.9e-36	1.6e-33	121.035865783691	0.94	3	362	8	373	7	379	0.76	Succinyl-diaminopimelate desuccinylase 1		0
+DAPE_LEGPL	DAPE_LEGPL	377	P06621_refseq_selected_blast_msa	-	368	1.4e-33	121.2	0.0	1	1	3.2e-36	1.7e-33	120.91015625	0.00	5	355	8	361	4	373	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRADU	DAPE_BRADU	388	P06621_refseq_selected_blast_msa	-	368	1.5e-33	121.1	0.1	1	1	3.4e-36	1.8e-33	120.819580078125	0.05	6	366	9	384	4	386	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_EHRRW	DAPE_EHRRW	383	P06621_refseq_selected_blast_msa	-	368	1.8e-33	120.8	0.0	1	1	4.1e-36	2.2e-33	120.542114257812	0.00	25	365	26	374	6	377	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICFE	DAPE_RICFE	381	P06621_refseq_selected_blast_msa	-	368	1.9e-33	120.7	0.0	1	1	4.1e-36	2.2e-33	120.54801940918	0.00	4	365	5	377	2	380	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NITHX	DAPE_NITHX	389	P06621_refseq_selected_blast_msa	-	368	2.1e-33	120.6	0.1	1	1	4.7e-36	2.5e-33	120.357147216797	0.06	6	365	10	384	5	387	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAEDU	DAPE_HAEDU	376	P06621_refseq_selected_blast_msa	-	368	3.8e-33	119.8	0.0	1	1	8.2e-36	4.4e-33	119.557739257812	0.00	2	366	6	372	5	374	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SULDN	DAPE_SULDN	365	P06621_refseq_selected_blast_msa	-	368	3.9e-33	119.7	0.0	1	1	9.0e-36	4.9e-33	119.426467895508	0.00	3	364	5	360	3	363	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_LEGPC	DAPE_LEGPC	377	P06621_refseq_selected_blast_msa	-	368	4.0e-33	119.7	0.0	1	1	9.9e-36	5.4e-33	119.291648864746	0.00	5	355	8	361	5	373	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ERYLH	DAPE_ERYLH	378	P06621_refseq_selected_blast_msa	-	368	4.8e-33	119.5	0.1	1	1	1.3e-35	7.0e-33	118.902290344238	0.11	20	364	20	371	5	375	0.76	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICRS	DAPE_RICRS	381	P06621_refseq_selected_blast_msa	-	368	6.2e-33	119.1	0.0	1	1	1.4e-35	7.6e-33	118.78784942627	0.00	3	365	4	377	2	380	0.77	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICRO	DAPE_RICRO	381	P06621_refseq_selected_blast_msa	-	368	6.2e-33	119.1	0.0	1	1	1.4e-35	7.6e-33	118.78784942627	0.00	3	365	4	377	2	380	0.77	Succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAN	DAPE_STAAN	407	P06621_refseq_selected_blast_msa	-	368	6.4e-33	119.0	0.0	1	2	5.5e-26	3.0e-23	87.2198257446289	0.01	3	210	11	213	9	224	0.86	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAN	DAPE_STAAN	407	P06621_refseq_selected_blast_msa	-	368	6.4e-33	119.0	0.0	2	2	1.4e-08	7.8e-06	29.9062938690186	0.00	214	333	248	365	243	395	0.77	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE2_RUEST	DAPE2_RUEST	395	P06621_refseq_selected_blast_msa	-	368	6.6e-33	119.0	0.0	1	1	1.6e-35	8.5e-33	118.635482788086	0.04	4	356	18	376	16	387	0.76	Succinyl-diaminopimelate desuccinylase 2		0
+DAPE_RICPR	DAPE_RICPR	383	P06621_refseq_selected_blast_msa	-	368	6.6e-33	119.0	0.0	1	1	1.5e-35	8.0e-33	118.710372924805	0.00	4	358	5	372	2	382	0.78	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NITWN	DAPE_NITWN	389	P06621_refseq_selected_blast_msa	-	368	7.1e-33	118.9	0.0	1	1	1.6e-35	8.5e-33	118.6337890625	0.01	6	365	10	384	5	387	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOPB	DAPE_RHOPB	392	P06621_refseq_selected_blast_msa	-	368	9.0e-33	118.5	1.0	1	1	2.1e-35	1.1e-32	118.204925537109	1.02	9	366	16	388	9	390	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAM	DAPE_STAAM	400	P06621_refseq_selected_blast_msa	-	368	9.2e-33	118.5	0.0	1	2	5.3e-26	2.9e-23	87.2828979492188	0.01	3	210	11	213	9	224	0.86	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAM	DAPE_STAAM	400	P06621_refseq_selected_blast_msa	-	368	9.2e-33	118.5	0.0	2	2	2.1e-08	1.1e-05	29.3765087127686	0.00	214	324	248	356	243	393	0.80	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_ARCB4	DAPE_ARCB4	366	P06621_refseq_selected_blast_msa	-	368	9.5e-33	118.5	0.0	1	1	2.0e-35	1.1e-32	118.285209655762	0.00	3	366	5	364	3	366	0.81	Succinyl-diaminopimelate desuccinylase		0
+P20D1_ARTBC	P20D1_ARTBC	460	P06621_refseq_selected_blast_msa	-	368	1.1e-32	118.3	0.0	1	1	5.7e-35	3.1e-32	116.78303527832	0.00	2	283	67	369	66	373	0.78	Probable carboxypeptidase ARB_01041		0
+P20D1_PARBD	P20D1_PARBD	442	P06621_refseq_selected_blast_msa	-	368	1.1e-32	118.3	0.0	1	1	5.7e-35	3.1e-32	116.776344299316	0.03	2	283	56	353	55	360	0.79	Probable carboxypeptidase PADG_04062		0
+DAPE_LEGPH	DAPE_LEGPH	377	P06621_refseq_selected_blast_msa	-	368	1.5e-32	117.8	0.0	1	1	3.6e-35	1.9e-32	117.455917358398	0.00	7	355	10	361	5	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_LEGPA	DAPE_LEGPA	377	P06621_refseq_selected_blast_msa	-	368	1.5e-32	117.8	0.0	1	1	3.6e-35	1.9e-32	117.455917358398	0.00	7	355	10	361	5	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAW	DAPE_STAAW	407	P06621_refseq_selected_blast_msa	-	368	1.6e-32	117.7	0.0	1	2	1.4e-25	7.5e-23	85.9115447998047	0.00	3	204	11	207	9	218	0.86	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAW	DAPE_STAAW	407	P06621_refseq_selected_blast_msa	-	368	1.6e-32	117.7	0.0	2	2	1.4e-08	7.8e-06	29.9062938690186	0.00	214	333	248	365	243	395	0.77	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAS	DAPE_STAAS	407	P06621_refseq_selected_blast_msa	-	368	1.6e-32	117.7	0.0	1	2	1.4e-25	7.5e-23	85.9115447998047	0.00	3	204	11	207	9	218	0.86	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAS	DAPE_STAAS	407	P06621_refseq_selected_blast_msa	-	368	1.6e-32	117.7	0.0	2	2	1.4e-08	7.8e-06	29.9062938690186	0.00	214	333	248	365	243	395	0.77	Probable succinyl-diaminopimelate desuccinylase		0
+P20D1_ARTOC	P20D1_ARTOC	455	P06621_refseq_selected_blast_msa	-	368	1.8e-32	117.6	0.0	1	1	1.0e-34	5.6e-32	115.932083129883	0.01	2	283	62	364	61	368	0.78	Probable carboxypeptidase MCYG_07204		0
+DAPE_RICAH	DAPE_RICAH	381	P06621_refseq_selected_blast_msa	-	368	1.8e-32	117.6	0.0	1	1	3.8e-35	2.1e-32	117.369201660156	0.00	4	357	5	369	2	380	0.78	Succinyl-diaminopimelate desuccinylase		0
+P20D1_TRIVH	P20D1_TRIVH	460	P06621_refseq_selected_blast_msa	-	368	1.9e-32	117.5	0.0	1	1	1.0e-34	5.6e-32	115.934272766113	0.01	2	283	67	369	66	373	0.78	Probable carboxypeptidase TRV_02791		0
+DAPE_RICPU	DAPE_RICPU	381	P06621_refseq_selected_blast_msa	-	368	2.0e-32	117.4	0.0	1	1	4.5e-35	2.4e-32	117.120613098145	0.00	4	365	5	377	2	380	0.76	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICAE	DAPE_RICAE	381	P06621_refseq_selected_blast_msa	-	368	2.0e-32	117.4	0.0	1	1	4.5e-35	2.4e-32	117.120613098145	0.00	4	365	5	377	2	380	0.76	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICCN	DAPE_RICCN	381	P06621_refseq_selected_blast_msa	-	368	2.0e-32	117.4	0.0	1	1	4.5e-35	2.4e-32	117.120613098145	0.00	4	365	5	377	2	380	0.76	Succinyl-diaminopimelate desuccinylase		0
+ACDAS_XANCP	ACDAS_XANCP	366	P06621_refseq_selected_blast_msa	-	368	2.3e-32	117.2	0.2	1	1	5.6e-35	3.0e-32	116.809104919434	0.17	2	365	9	362	8	364	0.77	N-acetyl-L-citrulline deacetylase	2f7v_A	0
+LYSK_SULAC	LYSK_SULAC	346	P06621_refseq_selected_blast_msa	-	368	2.7e-32	117.0	0.0	1	1	5.6e-35	3.1e-32	116.801834106445	0.00	61	365	58	339	16	342	0.86	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+P20D1_PARBP	P20D1_PARBP	442	P06621_refseq_selected_blast_msa	-	368	2.9e-32	116.9	0.0	1	1	1.6e-34	8.8e-32	115.291557312012	0.02	2	283	56	353	55	358	0.79	Probable carboxypeptidase PABG_01461		0
+P20D1_PARBA	P20D1_PARBA	442	P06621_refseq_selected_blast_msa	-	368	3.0e-32	116.8	0.1	1	1	1.6e-34	8.5e-32	115.333953857422	0.08	2	283	56	353	55	360	0.80	Probable carboxypeptidase PAAG_00768		0
+DAPE_BLOPB	DAPE_BLOPB	384	P06621_refseq_selected_blast_msa	-	368	3.0e-32	116.8	0.0	1	1	7.0e-35	3.8e-32	116.495048522949	0.00	3	354	8	366	6	380	0.84	Succinyl-diaminopimelate desuccinylase		0
+P20D1_ARTGP	P20D1_ARTGP	461	P06621_refseq_selected_blast_msa	-	368	3.1e-32	116.8	0.0	1	1	1.7e-34	9.4e-32	115.194686889648	0.00	2	281	68	368	67	373	0.77	Probable carboxypeptidase MGYG_04702		0
+P20D1_ASPCL	P20D1_ASPCL	452	P06621_refseq_selected_blast_msa	-	368	3.2e-32	116.7	0.5	1	1	1.7e-34	9.4e-32	115.189842224121	0.46	3	288	77	374	75	379	0.82	Probable carboxypeptidase ACLA_088580		0
+DAPE_RICM5	DAPE_RICM5	381	P06621_refseq_selected_blast_msa	-	368	5.4e-32	116.0	0.0	1	1	1.3e-34	7.0e-32	115.618110656738	0.00	4	365	5	377	2	380	0.77	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHORT	DAPE_RHORT	392	P06621_refseq_selected_blast_msa	-	368	5.8e-32	115.9	0.0	1	1	1.7e-34	9.4e-32	115.198699951172	0.01	3	359	6	378	5	385	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAMC5	DAPE_CAMC5	365	P06621_refseq_selected_blast_msa	-	368	1.8e-31	114.3	0.0	1	1	3.6e-34	2.0e-31	114.136428833008	0.00	28	365	27	361	3	364	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BUCAP	DAPE_BUCAP	375	P06621_refseq_selected_blast_msa	-	368	1.9e-31	114.2	0.0	1	1	3.9e-34	2.1e-31	114.019508361816	0.00	4	367	8	372	5	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_WOLSU	DAPE_WOLSU	364	P06621_refseq_selected_blast_msa	-	368	2.5e-31	113.8	0.0	1	1	5.4e-34	2.9e-31	113.572090148926	0.00	36	355	35	353	5	363	0.80	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BUCAT	DAPE_BUCAT	375	P06621_refseq_selected_blast_msa	-	368	6.1e-31	112.5	0.0	1	1	1.4e-33	7.7e-31	112.192916870117	0.00	3	354	7	359	5	371	0.85	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BUCA5	DAPE_BUCA5	375	P06621_refseq_selected_blast_msa	-	368	6.1e-31	112.5	0.0	1	1	1.4e-33	7.7e-31	112.192916870117	0.00	3	354	7	359	5	371	0.85	Succinyl-diaminopimelate desuccinylase		0
+ACY1A_RAT	ACY1A_RAT	408	P06621_refseq_selected_blast_msa	-	368	6.9e-31	112.4	0.0	1	1	3.2e-33	1.7e-30	111.037612915039	0.00	24	336	34	363	13	396	0.82	Aminoacylase-1A		0
+DAPE_ANAMM	DAPE_ANAMM	381	P06621_refseq_selected_blast_msa	-	368	1.1e-30	111.7	0.0	1	1	2.5e-33	1.4e-30	111.380508422852	0.00	26	365	28	370	8	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ANAMF	DAPE_ANAMF	381	P06621_refseq_selected_blast_msa	-	368	1.1e-30	111.7	0.0	1	1	2.5e-33	1.4e-30	111.380508422852	0.00	26	365	28	370	8	373	0.84	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAMLR	DAPE_CAMLR	366	P06621_refseq_selected_blast_msa	-	368	1.1e-30	111.6	0.0	1	1	2.7e-33	1.4e-30	111.287384033203	0.00	5	359	7	356	3	364	0.81	Succinyl-diaminopimelate desuccinylase		0
+P20D1_ASPTN	P20D1_ASPTN	433	P06621_refseq_selected_blast_msa	-	368	1.4e-30	111.3	0.1	1	1	8.0e-33	4.3e-30	109.719535827637	0.01	4	263	63	334	60	359	0.78	Probable carboxypeptidase ATEG_02905		0
+DAPE_XANP2	DAPE_XANP2	375	P06621_refseq_selected_blast_msa	-	368	1.6e-30	111.1	0.0	1	1	3.9e-33	2.1e-30	110.726341247559	0.01	15	367	14	369	1	370	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICCK	DAPE_RICCK	384	P06621_refseq_selected_blast_msa	-	368	2.3e-30	110.6	0.0	1	1	4.8e-33	2.6e-30	110.44987487793	0.00	24	364	22	376	2	380	0.75	Succinyl-diaminopimelate desuccinylase		0
+FAPD_BACHD	FAPD_BACHD	427	P06621_refseq_selected_blast_msa	-	368	2.6e-30	110.4	0.0	1	1	4.9e-31	2.7e-28	103.836265563965	0.00	2	366	22	419	21	421	0.79	N-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase		0
+ACY1_MOUSE	ACY1_MOUSE	408	P06621_refseq_selected_blast_msa	-	368	2.7e-30	110.4	0.0	1	1	1.7e-32	9.0e-30	108.678527832031	0.00	26	336	36	363	28	395	0.83	Aminoacylase-1		0
+P20D1_UNCRE	P20D1_UNCRE	445	P06621_refseq_selected_blast_msa	-	368	3.0e-30	110.3	0.0	1	1	1.7e-32	9.1e-30	108.662284851074	0.00	2	286	55	364	54	372	0.75	Probable carboxypeptidase UREG_07869		0
+DAPE_BUCAI	DAPE_BUCAI	375	P06621_refseq_selected_blast_msa	-	368	3.0e-30	110.2	0.0	1	1	7.0e-33	3.8e-30	109.901611328125	0.00	3	354	7	359	5	371	0.85	Succinyl-diaminopimelate desuccinylase		0
+ARGE_BUCAP	ARGE_BUCAP	381	P06621_refseq_selected_blast_msa	-	368	3.0e-30	110.2	0.0	1	1	1.5e-32	8.3e-30	108.793899536133	0.00	12	366	22	377	9	379	0.78	Acetylornithine deacetylase		0
+DAPE_WIGBR	DAPE_WIGBR	376	P06621_refseq_selected_blast_msa	-	368	4.4e-30	109.7	0.0	1	1	1.1e-32	6.0e-30	109.247779846191	0.00	5	354	7	358	3	370	0.82	Succinyl-diaminopimelate desuccinylase		0
+LYSK_SACS2	LYSK_SACS2	346	P06621_refseq_selected_blast_msa	-	368	4.5e-30	109.7	0.0	1	1	9.4e-33	5.1e-30	109.480239868164	0.00	61	363	59	337	13	342	0.82	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+DAPE_CAMC1	DAPE_CAMC1	363	P06621_refseq_selected_blast_msa	-	368	6.2e-30	109.2	0.0	1	1	1.3e-32	7.2e-30	109.000625610352	0.00	2	365	3	359	2	362	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_STAES	DAPE_STAES	405	P06621_refseq_selected_blast_msa	-	368	6.5e-30	109.1	0.1	1	2	4.8e-27	2.6e-24	90.6922225952148	0.10	3	211	11	214	10	221	0.83	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_STAES	DAPE_STAES	405	P06621_refseq_selected_blast_msa	-	368	6.5e-30	109.1	0.1	2	2	0.00018	0.098	16.4236946105957	0.01	225	322	259	353	251	387	0.79	Probable succinyl-diaminopimelate desuccinylase		0
+P20D1_COCPS	P20D1_COCPS	452	P06621_refseq_selected_blast_msa	-	368	8.2e-30	108.8	0.0	1	1	7.7e-32	4.2e-29	106.479217529297	0.01	3	288	60	373	58	381	0.74	Probable carboxypeptidase CPSG_08841		0
+P20D2_ASPFN	P20D2_ASPFN	430	P06621_refseq_selected_blast_msa	-	368	8.6e-30	108.7	0.1	1	1	4.1e-32	2.2e-29	107.383964538574	0.07	4	279	55	345	52	360	0.71	Probable carboxypeptidase AFLA_037450		0
+P20D2_ASPOR	P20D2_ASPOR	430	P06621_refseq_selected_blast_msa	-	368	8.6e-30	108.7	0.1	1	1	4.1e-32	2.2e-29	107.382026672363	0.08	4	279	55	345	52	360	0.71	Probable carboxypeptidase AO090003000058		0
+DAPE_STAEQ	DAPE_STAEQ	405	P06621_refseq_selected_blast_msa	-	368	9.1e-30	108.7	0.1	1	2	4.8e-27	2.6e-24	90.6922225952148	0.10	3	211	11	214	10	221	0.83	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_STAEQ	DAPE_STAEQ	405	P06621_refseq_selected_blast_msa	-	368	9.1e-30	108.7	0.1	2	2	0.00025	0.14	15.9397926330566	0.01	225	322	259	353	251	386	0.79	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_ORITI	DAPE_ORITI	388	P06621_refseq_selected_blast_msa	-	368	9.4e-30	108.6	0.0	1	1	3.8e-32	2.1e-29	107.481826782227	0.00	2	358	8	368	7	376	0.81	Succinyl-diaminopimelate desuccinylase		0
+P20D1_COCP7	P20D1_COCP7	452	P06621_refseq_selected_blast_msa	-	368	1.0e-29	108.5	0.0	1	1	9.9e-32	5.4e-29	106.119537353516	0.01	3	288	60	373	58	380	0.74	Probable carboxypeptidase CPC735_001200		0
+DAPE_ORITB	DAPE_ORITB	388	P06621_refseq_selected_blast_msa	-	368	1.4e-29	108.1	0.0	1	1	3.7e-32	2.0e-29	107.539840698242	0.00	2	358	8	368	7	376	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAMJ8	DAPE_CAMJ8	365	P06621_refseq_selected_blast_msa	-	368	1.8e-29	107.7	0.0	1	1	3.9e-32	2.1e-29	107.467338562012	0.00	12	365	14	362	4	365	0.79	Succinyl-diaminopimelate desuccinylase		0
+P20D1_BLAGS	P20D1_BLAGS	434	P06621_refseq_selected_blast_msa	-	368	1.9e-29	107.6	0.0	1	1	9.0e-32	4.9e-29	106.261711120605	0.02	2	278	56	348	55	364	0.79	Probable carboxypeptidase BDBG_01803		0
+P20D1_AJEDR	P20D1_AJEDR	434	P06621_refseq_selected_blast_msa	-	368	1.9e-29	107.6	0.0	1	1	9.0e-32	4.9e-29	106.261711120605	0.02	2	278	56	348	55	364	0.79	Probable carboxypeptidase BDCG_03757		0
+P20D1_EMENI	P20D1_EMENI	424	P06621_refseq_selected_blast_msa	-	368	2.2e-29	107.4	0.0	1	1	1.0e-30	5.6e-28	102.782875061035	0.04	2	278	43	335	42	340	0.76	Probable carboxypeptidase AN5749		0
+ARGE_BUCAI	ARGE_BUCAI	381	P06621_refseq_selected_blast_msa	-	368	2.6e-29	107.2	0.0	1	1	1.1e-31	6.1e-29	105.940498352051	0.00	5	366	12	377	8	379	0.77	Acetylornithine deacetylase		0
+P20D1_TALMQ	P20D1_TALMQ	451	P06621_refseq_selected_blast_msa	-	368	5.6e-29	106.1	0.0	1	1	4.3e-31	2.3e-28	104.029083251953	0.00	2	278	61	359	60	366	0.82	Probable carboxypeptidase PMAA_093910		0
+ARGE_BUCAT	ARGE_BUCAT	381	P06621_refseq_selected_blast_msa	-	368	5.8e-29	106.0	0.0	1	1	2.5e-31	1.4e-28	104.787712097168	0.00	5	366	12	377	8	379	0.77	Acetylornithine deacetylase		0
+LYSK_PYRAE	LYSK_PYRAE	341	P06621_refseq_selected_blast_msa	-	368	1.0e-28	105.2	0.0	1	1	2.2e-31	1.2e-28	104.969360351562	0.00	3	366	5	332	3	334	0.81	Putative [LysW]-lysine/[LysW]-ornithine hydrolase		0
+ACY1B_RAT	ACY1B_RAT	408	P06621_refseq_selected_blast_msa	-	368	1.2e-28	105.0	0.0	1	1	8.3e-31	4.5e-28	103.080123901367	0.00	23	336	33	363	13	397	0.79	Aminoacylase-1B		0
+DAPE_CAMJR	DAPE_CAMJR	365	P06621_refseq_selected_blast_msa	-	368	1.5e-28	104.7	0.0	1	1	3.2e-31	1.7e-28	104.449043273926	0.00	12	365	14	362	4	365	0.79	Succinyl-diaminopimelate desuccinylase		0
+ACY1_HUMAN	ACY1_HUMAN	408	P06621_refseq_selected_blast_msa	-	368	1.9e-28	104.3	0.0	1	1	1.4e-30	7.8e-28	102.30052947998	0.00	23	335	33	362	13	377	0.79	Aminoacylase-1	1q7l_B	0
+P20D2_ASPCL	P20D2_ASPCL	415	P06621_refseq_selected_blast_msa	-	368	1.9e-28	104.3	0.0	1	1	2.1e-30	1.2e-27	101.740173339844	0.02	3	269	46	321	44	336	0.78	Probable carboxypeptidase ACLA_013260		0
+ARGE_BUCA5	ARGE_BUCA5	381	P06621_refseq_selected_blast_msa	-	368	2.4e-28	104.0	0.0	1	1	1.0e-30	5.7e-28	102.754829406738	0.00	5	366	12	377	8	379	0.77	Acetylornithine deacetylase		0
+DAPE_BLOFL	DAPE_BLOFL	384	P06621_refseq_selected_blast_msa	-	368	2.6e-28	103.9	0.0	1	1	3.8e-30	2.1e-27	100.917060852051	0.00	4	356	8	370	5	382	0.82	Succinyl-diaminopimelate desuccinylase		0
+ACY1_PONAB	ACY1_PONAB	408	P06621_refseq_selected_blast_msa	-	368	3.3e-28	103.6	0.0	1	1	3.0e-30	1.6e-27	101.264739990234	0.00	23	335	33	362	13	378	0.79	Aminoacylase-1		0
+LYSK_SULTO	LYSK_SULTO	346	P06621_refseq_selected_blast_msa	-	368	5.2e-28	102.9	0.0	1	1	1.1e-30	6.2e-28	102.630409240723	0.00	61	360	58	333	13	341	0.81	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+DAPE_HELHP	DAPE_HELHP	392	P06621_refseq_selected_blast_msa	-	368	6.6e-28	102.5	0.0	1	1	1.4e-30	7.5e-28	102.351692199707	0.00	63	355	69	369	3	380	0.81	Succinyl-diaminopimelate desuccinylase		0
+P20D1_ASPFN	P20D1_ASPFN	418	P06621_refseq_selected_blast_msa	-	368	6.8e-28	102.5	0.2	1	1	3.8e-30	2.0e-27	100.926055908203	0.05	3	254	44	312	42	338	0.81	Probable carboxypeptidase AFLA_000940		0
+DAPE_HELPH	DAPE_HELPH	383	P06621_refseq_selected_blast_msa	-	368	7.5e-28	102.4	0.0	1	1	1.7e-30	9.3e-28	102.053016662598	0.00	65	356	74	368	55	380	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAMJJ	DAPE_CAMJJ	365	P06621_refseq_selected_blast_msa	-	368	8.0e-28	102.3	0.0	1	1	1.7e-30	9.3e-28	102.057739257812	0.00	12	365	14	362	4	365	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HELPS	DAPE_HELPS	383	P06621_refseq_selected_blast_msa	-	368	9.0e-28	102.1	0.0	1	1	2.0e-30	1.1e-27	101.806167602539	0.00	64	356	73	368	54	380	0.81	Succinyl-diaminopimelate desuccinylase		0
+ACY1_PIG	ACY1_PIG	407	P06621_refseq_selected_blast_msa	-	368	9.7e-28	102.0	0.0	1	1	4.3e-30	2.3e-27	100.748680114746	0.00	23	336	33	362	13	384	0.80	Aminoacylase-1		0
+P20D1_ASPNC	P20D1_ASPNC	416	P06621_refseq_selected_blast_msa	-	368	1.1e-27	101.9	0.0	1	1	5.9e-30	3.2e-27	100.276000976562	0.00	4	266	41	319	38	334	0.78	Probable carboxypeptidase An18g06210		0
+DAPE_CAMJD	DAPE_CAMJD	365	P06621_refseq_selected_blast_msa	-	368	1.2e-27	101.7	0.0	1	1	2.5e-30	1.4e-27	101.483673095703	0.00	12	365	14	362	4	365	0.78	Succinyl-diaminopimelate desuccinylase		0
+P20D1_AJECG	P20D1_AJECG	437	P06621_refseq_selected_blast_msa	-	368	1.2e-27	101.6	0.0	1	1	6.8e-30	3.7e-27	100.081726074219	0.02	2	279	59	352	58	367	0.78	Probable carboxypeptidase HCBG_00059		0
+DAPE_BUCBP	DAPE_BUCBP	377	P06621_refseq_selected_blast_msa	-	368	1.5e-27	101.3	0.0	1	1	1.9e-29	1.0e-26	98.6202239990234	0.00	3	360	8	366	6	374	0.81	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAMJE	DAPE_CAMJE	365	P06621_refseq_selected_blast_msa	-	368	1.7e-27	101.2	0.0	1	1	3.6e-30	1.9e-27	100.99250793457	0.00	12	365	14	362	4	365	0.79	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HELAH	DAPE_HELAH	383	P06621_refseq_selected_blast_msa	-	368	1.9e-27	101.0	0.0	1	1	4.7e-30	2.6e-27	100.598831176758	0.00	62	355	71	367	51	378	0.82	Succinyl-diaminopimelate desuccinylase		0
+P20D1_ASPOR	P20D1_ASPOR	418	P06621_refseq_selected_blast_msa	-	368	1.9e-27	101.0	0.2	1	1	1.1e-29	5.9e-27	99.3989944458008	0.06	3	254	44	312	42	338	0.80	Probable carboxypeptidase AO090166000075		0
+DAPE_HELPG	DAPE_HELPG	388	P06621_refseq_selected_blast_msa	-	368	3.2e-27	100.3	0.0	1	1	7.2e-30	3.9e-27	99.9913330078125	0.00	61	356	75	373	53	385	0.78	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BUCCC	DAPE_BUCCC	376	P06621_refseq_selected_blast_msa	-	368	3.4e-27	100.2	0.0	1	1	8.0e-30	4.4e-27	99.8385314941406	0.00	2	357	6	363	5	374	0.83	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAMHC	DAPE_CAMHC	367	P06621_refseq_selected_blast_msa	-	368	5.1e-27	99.6	0.0	1	1	1.1e-29	6.0e-27	99.3923034667969	0.00	4	366	9	365	6	367	0.86	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HELPY	DAPE_HELPY	383	P06621_refseq_selected_blast_msa	-	368	6.4e-27	99.3	0.0	1	1	1.6e-29	9.0e-27	98.8131713867188	0.00	58	355	67	367	53	378	0.82	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HELPJ	DAPE_HELPJ	388	P06621_refseq_selected_blast_msa	-	368	7.0e-27	99.2	0.0	1	1	1.8e-29	9.9e-27	98.6767578125	0.00	61	355	75	372	41	383	0.81	Succinyl-diaminopimelate desuccinylase		0
+Y1497_METJA	Y1497_METJA	346	P06621_refseq_selected_blast_msa	-	368	1.6e-26	98.0	0.0	1	1	4.4e-29	2.4e-26	97.4003295898438	0.00	2	306	7	289	6	343	0.75	Uncharacterized metallohydrolase MJ1497		0
+DAPE_HELP2	DAPE_HELP2	383	P06621_refseq_selected_blast_msa	-	368	1.8e-26	97.8	0.0	1	1	4.6e-29	2.5e-26	97.3477401733398	0.00	63	355	72	367	53	378	0.82	Succinyl-diaminopimelate desuccinylase		0
+P20D1_NEOFI	P20D1_NEOFI	441	P06621_refseq_selected_blast_msa	-	368	2.2e-26	97.6	1.2	1	1	2.2e-28	1.2e-25	95.1071014404297	1.19	3	271	58	348	56	363	0.74	Probable carboxypeptidase NFIA_052450		0
+P20D1_ASPFC	P20D1_ASPFC	440	P06621_refseq_selected_blast_msa	-	368	2.4e-26	97.4	1.1	1	1	2.6e-28	1.4e-25	94.8720474243164	1.11	3	266	57	342	55	361	0.72	Probable carboxypeptidase AFUB_072730		0
+P20D1_ASPFU	P20D1_ASPFU	440	P06621_refseq_selected_blast_msa	-	368	2.4e-26	97.4	1.1	1	1	2.6e-28	1.4e-25	94.8720474243164	1.11	3	266	57	342	55	361	0.72	Probable carboxypeptidase AFUA_6G06800		0
+LYSK_AERPE	LYSK_AERPE	350	P06621_refseq_selected_blast_msa	-	368	4.3e-26	96.6	0.1	1	1	9.7e-29	5.3e-26	96.2775726318359	0.15	11	365	22	343	14	346	0.80	Putative [LysW]-lysine/[LysW]-ornithine hydrolase		0
+Y457_METJA	Y457_METJA	410	P06621_refseq_selected_blast_msa	-	368	4.4e-26	96.6	0.0	1	1	3.7e-28	2.0e-25	94.3589096069336	0.00	51	364	68	408	57	410	0.79	Uncharacterized metallohydrolase MJ0457		0
+LYSK_SULIK	LYSK_SULIK	346	P06621_refseq_selected_blast_msa	-	368	5.7e-26	96.2	0.0	1	1	1.2e-28	6.5e-26	95.9726028442383	0.00	61	363	59	337	13	342	0.83	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+LYSK_SULIY	LYSK_SULIY	346	P06621_refseq_selected_blast_msa	-	368	8.9e-26	95.5	0.0	1	1	1.9e-28	1.0e-25	95.3514938354492	0.00	61	363	59	337	13	342	0.83	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+LYSK_SULIM	LYSK_SULIM	346	P06621_refseq_selected_blast_msa	-	368	8.9e-26	95.5	0.0	1	1	1.9e-28	1.0e-25	95.3514938354492	0.00	61	363	59	337	13	342	0.83	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+LYSK_SULIL	LYSK_SULIL	346	P06621_refseq_selected_blast_msa	-	368	8.9e-26	95.5	0.0	1	1	1.9e-28	1.0e-25	95.3514938354492	0.00	61	363	59	337	13	342	0.83	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+LYSK_SULIA	LYSK_SULIA	346	P06621_refseq_selected_blast_msa	-	368	2.3e-25	94.2	0.0	1	1	4.8e-28	2.6e-25	94.0044403076172	0.00	61	360	59	334	13	342	0.82	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+LYSK_SULIN	LYSK_SULIN	346	P06621_refseq_selected_blast_msa	-	368	3.0e-25	93.8	0.0	1	1	6.2e-28	3.4e-25	93.619873046875	0.00	61	363	59	337	13	342	0.80	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+FAPD_BACSU	FAPD_BACSU	426	P06621_refseq_selected_blast_msa	-	368	3.9e-25	93.4	0.0	1	1	1.7e-25	9.5e-23	85.5670700073242	0.00	2	362	20	413	19	418	0.76	N-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase		0
+TPDA_CORST	TPDA_CORST	455	P06621_refseq_selected_blast_msa	-	368	9.9e-25	92.1	0.9	1	2	9.3e-19	5.1e-16	63.4367942810059	0.14	5	138	25	163	21	244	0.81	Cysteinylglycine-S-conjugate dipeptidase		0
+TPDA_CORST	TPDA_CORST	455	P06621_refseq_selected_blast_msa	-	368	9.9e-25	92.1	0.9	2	2	8.3e-08	4.5e-05	27.404354095459	0.05	230	313	311	393	298	412	0.83	Cysteinylglycine-S-conjugate dipeptidase		0
+PEPT_GEOKA	PEPT_GEOKA	411	P06621_refseq_selected_blast_msa	-	368	2.7e-24	90.6	0.2	1	2	0.026	14	9.32214736938477	0.01	23	74	34	83	22	97	0.77	Peptidase T		0
+PEPT_GEOKA	PEPT_GEOKA	411	P06621_refseq_selected_blast_msa	-	368	2.7e-24	90.6	0.2	2	2	1.9e-23	1.0e-20	78.8833541870117	0.09	85	365	131	403	126	405	0.86	Peptidase T		0
+PEPT_GEOTN	PEPT_GEOTN	411	P06621_refseq_selected_blast_msa	-	368	5.6e-24	89.6	0.1	1	2	0.023	13	9.46808910369873	0.01	20	74	31	83	5	97	0.77	Peptidase T		0
+PEPT_GEOTN	PEPT_GEOTN	411	P06621_refseq_selected_blast_msa	-	368	5.6e-24	89.6	0.1	2	2	6.9e-23	3.8e-20	77.0201568603516	0.06	85	365	131	403	126	405	0.85	Peptidase T		0
+LYSK_DEIRA	LYSK_DEIRA	362	P06621_refseq_selected_blast_msa	-	368	1.7e-23	88.0	0.7	1	1	2.2e-25	1.2e-22	85.2546157836914	0.68	3	368	12	359	10	359	0.81	[LysW]-lysine hydrolase		0
+PEPT_ESCF3	PEPT_ESCF3	408	P06621_refseq_selected_blast_msa	-	368	2.6e-23	87.4	0.1	1	1	3.3e-24	1.8e-21	81.3591232299805	0.11	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_CLOPE	PEPT_CLOPE	406	P06621_refseq_selected_blast_msa	-	368	3.3e-23	87.1	0.0	1	3	0.0045	2.4	11.8421363830566	0.00	18	74	28	82	6	92	0.78	Peptidase T		0
+PEPT_CLOPE	PEPT_CLOPE	406	P06621_refseq_selected_blast_msa	-	368	3.3e-23	87.1	0.0	2	3	7.3e-13	4.0e-10	44.0312995910645	0.12	84	206	127	242	123	260	0.90	Peptidase T		0
+PEPT_CLOPE	PEPT_CLOPE	406	P06621_refseq_selected_blast_msa	-	368	3.3e-23	87.1	0.0	3	3	7.2e-08	3.9e-05	27.6138458251953	0.00	252	365	286	400	269	402	0.77	Peptidase T		0
+YGEY_ECOLI	YGEY_ECOLI	403	P06621_refseq_selected_blast_msa	-	368	3.5e-23	87.0	0.0	1	1	5.4e-25	2.9e-22	83.9552841186523	0.00	1	272	21	288	21	303	0.83	Uncharacterized protein YgeY		0
+YGEY_ECOL6	YGEY_ECOL6	403	P06621_refseq_selected_blast_msa	-	368	3.5e-23	87.0	0.0	1	1	5.4e-25	2.9e-22	83.9552841186523	0.00	1	272	21	288	21	303	0.83	Uncharacterized protein YgeY		0
+YGEY_ECO57	YGEY_ECO57	403	P06621_refseq_selected_blast_msa	-	368	3.5e-23	87.0	0.0	1	1	5.4e-25	2.9e-22	83.9552841186523	0.00	1	272	21	288	21	303	0.83	Uncharacterized protein YgeY		0
+PEPT_BACSK	PEPT_BACSK	408	P06621_refseq_selected_blast_msa	-	368	6.0e-23	86.2	0.4	1	1	4.0e-22	2.2e-19	74.4991073608398	0.05	85	362	128	397	122	402	0.81	Peptidase T		0
+PEPT_KLEP3	PEPT_KLEP3	410	P06621_refseq_selected_blast_msa	-	368	1.2e-22	85.2	0.2	1	1	9.3e-23	5.0e-20	76.5995330810547	0.30	82	364	126	400	120	403	0.85	Peptidase T		0
+PEPT_CLOP1	PEPT_CLOP1	406	P06621_refseq_selected_blast_msa	-	368	1.3e-22	85.2	0.0	1	3	0.01	5.6	10.6338424682617	0.00	18	74	28	82	6	92	0.78	Peptidase T		0
+PEPT_CLOP1	PEPT_CLOP1	406	P06621_refseq_selected_blast_msa	-	368	1.3e-22	85.2	0.0	2	3	1.2e-12	6.5e-10	43.3388481140137	0.11	84	206	127	242	123	260	0.90	Peptidase T		0
+PEPT_CLOP1	PEPT_CLOP1	406	P06621_refseq_selected_blast_msa	-	368	1.3e-22	85.2	0.0	3	3	7.2e-08	3.9e-05	27.6138458251953	0.00	252	365	286	400	269	402	0.77	Peptidase T		0
+PEPT_SALCH	PEPT_SALCH	409	P06621_refseq_selected_blast_msa	-	368	1.5e-22	84.9	0.1	1	1	2.3e-23	1.2e-20	78.614990234375	0.22	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_SALG2	PEPT_SALG2	409	P06621_refseq_selected_blast_msa	-	368	1.5e-22	84.9	0.1	1	1	2.3e-23	1.2e-20	78.614990234375	0.22	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_SALEP	PEPT_SALEP	409	P06621_refseq_selected_blast_msa	-	368	1.5e-22	84.9	0.1	1	1	2.3e-23	1.2e-20	78.612922668457	0.19	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_CLOPS	PEPT_CLOPS	406	P06621_refseq_selected_blast_msa	-	368	1.5e-22	84.9	0.1	1	2	0.013	6.9	10.3446207046509	0.00	18	74	28	82	6	92	0.78	Peptidase T		0
+PEPT_CLOPS	PEPT_CLOPS	406	P06621_refseq_selected_blast_msa	-	368	1.5e-22	84.9	0.1	2	2	1.4e-20	7.5e-18	69.4548034667969	0.12	84	365	127	400	123	402	0.84	Peptidase T		0
+PEPT_SALNS	PEPT_SALNS	409	P06621_refseq_selected_blast_msa	-	368	1.6e-22	84.9	0.1	1	1	2.4e-23	1.3e-20	78.5314407348633	0.19	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_SALTY	PEPT_SALTY	409	P06621_refseq_selected_blast_msa	-	368	1.6e-22	84.9	0.1	1	1	2.4e-23	1.3e-20	78.5314407348633	0.19	82	364	126	400	120	403	0.87	Peptidase T	1fno_A	0
+PEPT_SALHS	PEPT_SALHS	409	P06621_refseq_selected_blast_msa	-	368	1.6e-22	84.9	0.1	1	1	2.4e-23	1.3e-20	78.5314407348633	0.19	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_GEOSW	PEPT_GEOSW	410	P06621_refseq_selected_blast_msa	-	368	1.7e-22	84.8	0.1	1	2	0.0082	4.5	10.9672327041626	0.01	22	74	33	83	5	97	0.79	Peptidase T		0
+PEPT_GEOSW	PEPT_GEOSW	410	P06621_refseq_selected_blast_msa	-	368	1.7e-22	84.8	0.1	2	2	3.5e-21	1.9e-18	71.4331741333008	0.04	85	365	131	403	126	405	0.82	Peptidase T		0
+PEPT_ECOLC	PEPT_ECOLC	408	P06621_refseq_selected_blast_msa	-	368	2.6e-22	84.1	0.1	1	1	3.2e-23	1.8e-20	78.1109008789062	0.07	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_ECOHS	PEPT_ECOHS	408	P06621_refseq_selected_blast_msa	-	368	2.6e-22	84.1	0.1	1	1	3.2e-23	1.8e-20	78.1109008789062	0.07	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_ECOSE	PEPT_ECOSE	409	P06621_refseq_selected_blast_msa	-	368	2.9e-22	84.0	0.1	1	1	4.3e-23	2.4e-20	77.6859664916992	0.08	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_SALPK	PEPT_SALPK	409	P06621_refseq_selected_blast_msa	-	368	3.5e-22	83.7	0.1	1	1	5.3e-23	2.9e-20	77.3970336914062	0.19	82	364	126	400	120	403	0.86	Peptidase T		0
+PEPT_SALPA	PEPT_SALPA	409	P06621_refseq_selected_blast_msa	-	368	3.5e-22	83.7	0.1	1	1	5.3e-23	2.9e-20	77.3970336914062	0.19	82	364	126	400	120	403	0.86	Peptidase T		0
+PEPT_SALSV	PEPT_SALSV	409	P06621_refseq_selected_blast_msa	-	368	3.7e-22	83.6	0.1	1	1	5.7e-23	3.1e-20	77.3083190917969	0.16	82	364	126	400	120	403	0.86	Peptidase T		0
+PEPT_SALA4	PEPT_SALA4	409	P06621_refseq_selected_blast_msa	-	368	3.7e-22	83.6	0.1	1	1	5.7e-23	3.1e-20	77.3083190917969	0.16	82	364	126	400	120	403	0.86	Peptidase T		0
+PEPT_CITK8	PEPT_CITK8	408	P06621_refseq_selected_blast_msa	-	368	4.1e-22	83.5	0.2	1	1	2.8e-23	1.5e-20	78.3029327392578	0.12	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_SHIFL	PEPT_SHIFL	408	P06621_refseq_selected_blast_msa	-	368	4.2e-22	83.4	0.1	1	1	5.4e-23	2.9e-20	77.3749694824219	0.07	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_SHIF8	PEPT_SHIF8	408	P06621_refseq_selected_blast_msa	-	368	4.2e-22	83.4	0.1	1	1	5.4e-23	2.9e-20	77.3749694824219	0.07	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_LYSSC	PEPT_LYSSC	409	P06621_refseq_selected_blast_msa	-	368	4.3e-22	83.4	1.4	1	1	1.7e-23	9.1e-21	79.0477600097656	0.34	82	365	126	401	121	403	0.85	Peptidase T		0
+PEPT_SALAR	PEPT_SALAR	408	P06621_refseq_selected_blast_msa	-	368	4.4e-22	83.4	0.1	1	1	6.8e-23	3.7e-20	77.0437622070312	0.21	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_ECO45	PEPT_ECO45	408	P06621_refseq_selected_blast_msa	-	368	4.4e-22	83.4	0.1	1	1	5.6e-23	3.1e-20	77.310676574707	0.08	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_SHIDS	PEPT_SHIDS	408	P06621_refseq_selected_blast_msa	-	368	4.4e-22	83.4	0.1	1	1	5.6e-23	3.1e-20	77.310676574707	0.08	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_ECO81	PEPT_ECO81	408	P06621_refseq_selected_blast_msa	-	368	4.4e-22	83.4	0.1	1	1	5.6e-23	3.1e-20	77.310676574707	0.08	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_ECOUT	PEPT_ECOUT	408	P06621_refseq_selected_blast_msa	-	368	4.4e-22	83.4	0.1	1	1	5.6e-23	3.1e-20	77.310676574707	0.08	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_ECOL6	PEPT_ECOL6	408	P06621_refseq_selected_blast_msa	-	368	4.4e-22	83.4	0.1	1	1	5.6e-23	3.1e-20	77.310676574707	0.08	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_ECOLU	PEPT_ECOLU	408	P06621_refseq_selected_blast_msa	-	368	4.4e-22	83.4	0.1	1	1	5.6e-23	3.1e-20	77.310676574707	0.08	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_SHISS	PEPT_SHISS	408	P06621_refseq_selected_blast_msa	-	368	4.4e-22	83.4	0.1	1	1	5.6e-23	3.1e-20	77.310676574707	0.08	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_ECO27	PEPT_ECO27	408	P06621_refseq_selected_blast_msa	-	368	4.4e-22	83.4	0.1	1	1	5.6e-23	3.1e-20	77.310676574707	0.08	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_ECO57	PEPT_ECO57	408	P06621_refseq_selected_blast_msa	-	368	4.4e-22	83.4	0.1	1	1	5.6e-23	3.1e-20	77.310676574707	0.08	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_ECOK1	PEPT_ECOK1	408	P06621_refseq_selected_blast_msa	-	368	4.4e-22	83.4	0.1	1	1	5.6e-23	3.1e-20	77.310676574707	0.08	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_ECO24	PEPT_ECO24	409	P06621_refseq_selected_blast_msa	-	368	4.5e-22	83.4	0.1	1	1	5.7e-23	3.1e-20	77.2999038696289	0.09	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_SALDC	PEPT_SALDC	409	P06621_refseq_selected_blast_msa	-	368	4.8e-22	83.2	0.1	1	1	7.3e-23	4.0e-20	76.9363403320312	0.18	82	364	126	400	120	403	0.86	Peptidase T		0
+PEPT_ECOBW	PEPT_ECOBW	408	P06621_refseq_selected_blast_msa	-	368	5.7e-22	83.0	0.1	1	1	7.2e-23	3.9e-20	76.9545974731445	0.09	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_ECODH	PEPT_ECODH	408	P06621_refseq_selected_blast_msa	-	368	5.7e-22	83.0	0.1	1	1	7.2e-23	3.9e-20	76.9545974731445	0.09	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_ECOLI	PEPT_ECOLI	408	P06621_refseq_selected_blast_msa	-	368	5.7e-22	83.0	0.1	1	1	7.2e-23	3.9e-20	76.9545974731445	0.09	82	364	126	400	120	403	0.87	Peptidase T	1vix_A	0
+PEPT_SALPC	PEPT_SALPC	409	P06621_refseq_selected_blast_msa	-	368	5.8e-22	83.0	0.1	1	1	8.8e-23	4.8e-20	76.6709136962891	0.18	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_STRPQ	PEPT_STRPQ	407	P06621_refseq_selected_blast_msa	-	368	1.3e-21	81.8	0.1	1	1	1.1e-21	5.7e-19	73.1292037963867	0.05	82	366	129	405	124	407	0.86	Peptidase T		0
+PEPT_STRP3	PEPT_STRP3	407	P06621_refseq_selected_blast_msa	-	368	1.3e-21	81.8	0.1	1	1	1.1e-21	5.7e-19	73.1292037963867	0.05	82	366	129	405	124	407	0.86	Peptidase T		0
+PEPT_STRP1	PEPT_STRP1	407	P06621_refseq_selected_blast_msa	-	368	1.4e-21	81.7	0.0	1	1	1.1e-21	6.2e-19	73.0105133056641	0.05	82	366	129	405	124	407	0.86	Peptidase T		0
+PEPT_ENTFA	PEPT_ENTFA	409	P06621_refseq_selected_blast_msa	-	368	1.4e-21	81.7	0.5	1	1	5.4e-21	2.9e-18	70.8038177490234	0.17	84	362	131	401	127	405	0.84	Peptidase T		0
+PEPT_STRPZ	PEPT_STRPZ	407	P06621_refseq_selected_blast_msa	-	368	1.5e-21	81.6	0.1	1	1	1.5e-21	8.3e-19	72.6073379516602	0.06	82	366	129	405	124	407	0.86	Peptidase T		0
+PEPT_STRPC	PEPT_STRPC	407	P06621_refseq_selected_blast_msa	-	368	1.7e-21	81.5	0.1	1	1	1.4e-21	7.4e-19	72.7635726928711	0.06	82	366	129	405	124	407	0.86	Peptidase T		0
+PEPT_STRPB	PEPT_STRPB	407	P06621_refseq_selected_blast_msa	-	368	1.7e-21	81.5	0.1	1	1	1.4e-21	7.4e-19	72.7635726928711	0.06	82	366	129	405	124	407	0.86	Peptidase T		0
+PEPT_DESHY	PEPT_DESHY	410	P06621_refseq_selected_blast_msa	-	368	2.1e-21	81.1	0.0	1	2	0.0067	3.6	11.2607860565186	0.00	7	73	10	80	4	84	0.69	Peptidase T		0
+PEPT_DESHY	PEPT_DESHY	410	P06621_refseq_selected_blast_msa	-	368	2.1e-21	81.1	0.0	2	2	3.6e-19	1.9e-16	64.8082733154297	0.04	83	365	127	401	122	403	0.81	Peptidase T		0
+PEPT_STRPM	PEPT_STRPM	407	P06621_refseq_selected_blast_msa	-	368	2.1e-21	81.1	0.1	1	1	1.7e-21	9.4e-19	72.4252471923828	0.06	82	366	129	405	124	407	0.85	Peptidase T		0
+PEPT_LISMO	PEPT_LISMO	410	P06621_refseq_selected_blast_msa	-	368	2.3e-21	81.0	0.2	1	2	1.3e-14	6.8e-12	49.8409233093262	0.12	84	205	130	244	123	260	0.90	Peptidase T		0
+PEPT_LISMO	PEPT_LISMO	410	P06621_refseq_selected_blast_msa	-	368	2.3e-21	81.0	0.2	2	2	5.2e-06	0.0028	21.4965476989746	0.00	258	363	298	401	275	405	0.79	Peptidase T		0
+PEPT_STRPD	PEPT_STRPD	407	P06621_refseq_selected_blast_msa	-	368	2.4e-21	81.0	0.1	1	1	1.9e-21	1.0e-18	72.2688140869141	0.05	82	366	129	405	124	407	0.86	Peptidase T		0
+PEPT_STRSV	PEPT_STRSV	407	P06621_refseq_selected_blast_msa	-	368	2.4e-21	80.9	0.0	1	1	1.5e-22	8.2e-20	75.9104156494141	0.06	84	362	130	400	125	404	0.85	Peptidase T		0
+PEPT_LISMH	PEPT_LISMH	410	P06621_refseq_selected_blast_msa	-	368	3.0e-21	80.7	0.2	1	1	4.9e-21	2.6e-18	70.944953918457	0.04	84	363	130	401	126	405	0.81	Peptidase T		0
+Y1398_METMP	Y1398_METMP	415	P06621_refseq_selected_blast_msa	-	368	3.3e-21	80.5	0.0	1	2	5.4e-18	2.9e-15	60.9194793701172	0.00	44	198	63	224	50	230	0.87	Uncharacterized metallohydrolase MMP1398		0
+Y1398_METMP	Y1398_METMP	415	P06621_refseq_selected_blast_msa	-	368	3.3e-21	80.5	0.0	2	2	0.00038	0.21	15.354320526123	0.00	231	360	268	409	253	415	0.69	Uncharacterized metallohydrolase MMP1398		0
+PEPT_SHIBS	PEPT_SHIBS	408	P06621_refseq_selected_blast_msa	-	368	3.3e-21	80.5	0.1	1	1	4.3e-22	2.4e-19	74.3984909057617	0.07	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_SHIB3	PEPT_SHIB3	408	P06621_refseq_selected_blast_msa	-	368	3.3e-21	80.5	0.1	1	1	4.3e-22	2.4e-19	74.3984909057617	0.07	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_DESHD	PEPT_DESHD	410	P06621_refseq_selected_blast_msa	-	368	3.4e-21	80.4	0.1	1	2	0.015	8.2	10.0985641479492	0.00	23	73	33	80	8	83	0.77	Peptidase T		0
+PEPT_DESHD	PEPT_DESHD	410	P06621_refseq_selected_blast_msa	-	368	3.4e-21	80.4	0.1	2	2	2.8e-19	1.5e-16	65.1474456787109	0.08	83	365	127	401	122	403	0.81	Peptidase T		0
+PEPT_LISMC	PEPT_LISMC	410	P06621_refseq_selected_blast_msa	-	368	3.9e-21	80.3	0.2	1	1	4.7e-21	2.6e-18	70.9900894165039	0.07	84	363	130	401	126	405	0.81	Peptidase T		0
+PEPT_STRPG	PEPT_STRPG	407	P06621_refseq_selected_blast_msa	-	368	4.1e-21	80.2	0.0	1	1	3.3e-21	1.8e-18	71.4924087524414	0.05	82	366	129	405	124	407	0.85	Peptidase T		0
+PEPT_STRPF	PEPT_STRPF	407	P06621_refseq_selected_blast_msa	-	368	4.1e-21	80.2	0.0	1	1	3.3e-21	1.8e-18	71.4924087524414	0.05	82	366	129	405	124	407	0.85	Peptidase T		0
+PEPT_STRP6	PEPT_STRP6	407	P06621_refseq_selected_blast_msa	-	368	4.1e-21	80.2	0.0	1	1	3.3e-21	1.8e-18	71.4924087524414	0.05	82	366	129	405	124	407	0.85	Peptidase T		0
+PEPT_STRP8	PEPT_STRP8	407	P06621_refseq_selected_blast_msa	-	368	4.1e-21	80.2	0.0	1	1	3.3e-21	1.8e-18	71.4924087524414	0.05	82	366	129	405	124	407	0.85	Peptidase T		0
+LYSK_THET8	LYSK_THET8	361	P06621_refseq_selected_blast_msa	-	368	4.1e-21	80.2	0.0	1	2	5.6e-20	3.1e-17	67.4406814575195	0.16	3	211	10	196	9	206	0.81	[LysW]-lysine hydrolase		0
+LYSK_THET8	LYSK_THET8	361	P06621_refseq_selected_blast_msa	-	368	4.1e-21	80.2	0.0	2	2	0.0091	5	10.8183240890503	0.00	239	365	229	348	224	351	0.73	[LysW]-lysine hydrolase		0
+PEPT_PECCP	PEPT_PECCP	410	P06621_refseq_selected_blast_msa	-	368	4.1e-21	80.2	0.0	1	1	1.4e-21	7.6e-19	72.7253799438477	0.03	83	363	127	399	121	403	0.86	Peptidase T		0
+PEPT_SALTI	PEPT_SALTI	409	P06621_refseq_selected_blast_msa	-	368	4.3e-21	80.1	0.1	1	1	6.7e-22	3.6e-19	73.7805557250977	0.21	82	364	126	400	120	403	0.86	Peptidase T		0
+PEPT_LISIN	PEPT_LISIN	410	P06621_refseq_selected_blast_msa	-	368	4.5e-21	80.1	0.1	1	2	4.0e-14	2.2e-11	48.1894989013672	0.07	84	205	130	244	126	258	0.89	Peptidase T		0
+PEPT_LISIN	PEPT_LISIN	410	P06621_refseq_selected_blast_msa	-	368	4.5e-21	80.1	0.1	2	2	3.4e-06	0.0018	22.1080551147461	0.00	256	363	296	401	278	405	0.81	Peptidase T		0
+PEPT_LACF3	PEPT_LACF3	413	P06621_refseq_selected_blast_msa	-	368	4.6e-21	80.0	0.1	1	1	4.8e-22	2.6e-19	74.2579498291016	0.06	82	365	132	407	127	409	0.85	Peptidase T		0
+PEPT_STRT2	PEPT_STRT2	407	P06621_refseq_selected_blast_msa	-	368	4.7e-21	80.0	0.0	1	1	7.7e-21	4.2e-18	70.2914657592773	0.02	82	364	129	403	124	406	0.83	Peptidase T		0
+PEPT_STRT1	PEPT_STRT1	407	P06621_refseq_selected_blast_msa	-	368	4.7e-21	80.0	0.0	1	1	7.7e-21	4.2e-18	70.2914657592773	0.02	82	364	129	403	124	406	0.83	Peptidase T		0
+PEPT_LISMF	PEPT_LISMF	410	P06621_refseq_selected_blast_msa	-	368	5.6e-21	79.7	0.1	1	1	7.1e-21	3.9e-18	70.4056777954102	0.04	84	363	130	401	126	405	0.81	Peptidase T		0
+PEPT_ECOL5	PEPT_ECOL5	408	P06621_refseq_selected_blast_msa	-	368	8.3e-21	79.2	0.1	1	1	1.1e-21	5.7e-19	73.1292266845703	0.09	82	364	126	400	120	403	0.87	Peptidase T		0
+PEPT_STRTD	PEPT_STRTD	407	P06621_refseq_selected_blast_msa	-	368	9.0e-21	79.1	0.0	1	1	1.5e-20	8.1e-18	69.3412780761719	0.02	82	365	129	404	124	406	0.83	Peptidase T		0
+PEPT_FUSNN	PEPT_FUSNN	412	P06621_refseq_selected_blast_msa	-	368	9.6e-21	79.0	0.0	1	1	6.0e-20	3.3e-17	67.3428497314453	0.07	81	365	130	406	125	408	0.81	Peptidase T		0
+PEPT_LISW6	PEPT_LISW6	410	P06621_refseq_selected_blast_msa	-	368	1.2e-20	78.6	0.5	1	2	5.4e-14	2.9e-11	47.7579154968262	0.12	84	209	130	248	126	258	0.89	Peptidase T		0
+PEPT_LISW6	PEPT_LISW6	410	P06621_refseq_selected_blast_msa	-	368	1.2e-20	78.6	0.5	2	2	7.3e-06	0.004	20.9982128143311	0.00	260	363	300	401	283	405	0.77	Peptidase T		0
+LYSK_THET2	LYSK_THET2	361	P06621_refseq_selected_blast_msa	-	368	1.3e-20	78.6	0.0	1	2	1.7e-19	9.3e-17	65.8488235473633	0.13	3	211	10	196	9	206	0.81	[LysW]-lysine hydrolase	5xoy_B	0
+LYSK_THET2	LYSK_THET2	361	P06621_refseq_selected_blast_msa	-	368	1.3e-20	78.6	0.0	2	2	0.0091	5	10.8183240890503	0.00	239	365	229	348	224	351	0.73	[LysW]-lysine hydrolase	5xoy_B	0
+PEPT_STRS7	PEPT_STRS7	407	P06621_refseq_selected_blast_msa	-	368	1.7e-20	78.2	0.0	1	1	2.9e-20	1.6e-17	68.4124069213867	0.02	82	365	129	404	124	407	0.87	Peptidase T		0
+PEPT_STRE4	PEPT_STRE4	407	P06621_refseq_selected_blast_msa	-	368	1.7e-20	78.2	0.0	1	1	2.9e-20	1.6e-17	68.4124069213867	0.02	82	365	129	404	124	407	0.87	Peptidase T		0
+PEPT_CALS4	PEPT_CALS4	409	P06621_refseq_selected_blast_msa	-	368	2.0e-20	77.9	0.0	1	2	0.013	7	10.3163862228394	0.00	25	73	35	81	21	85	0.83	Peptidase T		0
+PEPT_CALS4	PEPT_CALS4	409	P06621_refseq_selected_blast_msa	-	368	2.0e-20	77.9	0.0	2	2	3.0e-19	1.6e-16	65.0501098632812	0.03	82	365	127	402	122	404	0.81	Peptidase T		0
+PEPT_BREBN	PEPT_BREBN	410	P06621_refseq_selected_blast_msa	-	368	2.1e-20	77.8	0.2	1	1	5.4e-20	2.9e-17	67.4979019165039	0.08	84	363	130	401	124	405	0.80	Peptidase T		0
+PEPT_EXISA	PEPT_EXISA	412	P06621_refseq_selected_blast_msa	-	368	2.5e-20	77.6	0.0	1	1	1.4e-21	7.6e-19	72.7201232910156	0.01	82	365	128	403	122	406	0.86	Peptidase T		0
+PEPT_STRGC	PEPT_STRGC	408	P06621_refseq_selected_blast_msa	-	368	3.0e-20	77.3	0.0	1	1	2.4e-22	1.3e-19	75.2592926025391	0.05	84	362	130	400	125	404	0.85	Peptidase T		0
+PEPT_PECAS	PEPT_PECAS	410	P06621_refseq_selected_blast_msa	-	368	4.3e-20	76.8	0.0	1	1	4.5e-21	2.4e-18	71.0627746582031	0.03	83	363	127	399	121	403	0.86	Peptidase T		0
+LYSK_PYRFU	LYSK_PYRFU	326	P06621_refseq_selected_blast_msa	-	368	4.4e-20	76.8	0.0	1	1	1.2e-20	6.7e-18	69.6176834106445	0.00	2	208	8	183	7	189	0.86	Putative [LysW]-lysine/[LysW]-ornithine hydrolase		0
+PEPT_VIBC3	PEPT_VIBC3	410	P06621_refseq_selected_blast_msa	-	368	4.5e-20	76.8	0.1	1	1	5.7e-22	3.1e-19	74.0009231567383	0.14	85	365	129	401	126	404	0.86	Peptidase T		0
+PEPT_VIBCM	PEPT_VIBCM	410	P06621_refseq_selected_blast_msa	-	368	4.5e-20	76.8	0.1	1	1	5.7e-22	3.1e-19	74.0009231567383	0.14	85	365	129	401	126	404	0.86	Peptidase T		0
+PEPT_BACMK	PEPT_BACMK	410	P06621_refseq_selected_blast_msa	-	368	4.5e-20	76.8	0.0	1	2	3.1e-13	1.7e-10	45.2591552734375	0.04	84	202	130	241	126	260	0.90	Peptidase T		0
+PEPT_BACMK	PEPT_BACMK	410	P06621_refseq_selected_blast_msa	-	368	4.5e-20	76.8	0.0	2	2	1.1e-05	0.0062	20.36989402771	0.00	258	364	298	402	273	406	0.74	Peptidase T		0
+PEPT_SERP5	PEPT_SERP5	409	P06621_refseq_selected_blast_msa	-	368	5.2e-20	76.5	0.1	1	1	3.9e-21	2.1e-18	71.2585525512695	0.06	79	364	123	400	120	403	0.85	Peptidase T		0
+PEPT_OCEIH	PEPT_OCEIH	409	P06621_refseq_selected_blast_msa	-	368	5.7e-20	76.4	0.0	1	1	6.6e-20	3.6e-17	67.2191848754883	0.03	85	362	130	399	125	404	0.75	Peptidase T		0
+PEPT_BACCR	PEPT_BACCR	412	P06621_refseq_selected_blast_msa	-	368	6.6e-20	76.2	0.1	1	2	1.0e-12	5.5e-10	43.5797271728516	0.07	84	203	132	244	128	262	0.90	Peptidase T		0
+PEPT_BACCR	PEPT_BACCR	412	P06621_refseq_selected_blast_msa	-	368	6.6e-20	76.2	0.1	2	2	6.9e-06	0.0037	21.0960845947266	0.00	256	364	298	404	275	408	0.75	Peptidase T		0
+PEPT_STRR6	PEPT_STRR6	406	P06621_refseq_selected_blast_msa	-	368	6.7e-20	76.2	0.0	1	1	5.1e-21	2.8e-18	70.8798828125	0.02	84	365	130	403	124	406	0.87	Peptidase T		0
+PEPT_STRP2	PEPT_STRP2	406	P06621_refseq_selected_blast_msa	-	368	6.7e-20	76.2	0.0	1	1	5.1e-21	2.8e-18	70.8798828125	0.02	84	365	130	403	124	406	0.87	Peptidase T		0
+ABGA_HAEIN	ABGA_HAEIN	423	P06621_refseq_selected_blast_msa	-	368	6.8e-20	76.2	1.0	1	1	1.9e-22	1.0e-19	75.6090240478516	1.02	173	266	219	313	148	356	0.74	p-aminobenzoyl-glutamate hydrolase subunit A homolog		0
+PEPT_BACC4	PEPT_BACC4	410	P06621_refseq_selected_blast_msa	-	368	6.8e-20	76.2	0.2	1	2	1.1e-12	5.8e-10	43.4868850708008	0.10	84	202	130	241	126	255	0.90	Peptidase T		0
+PEPT_BACC4	PEPT_BACC4	410	P06621_refseq_selected_blast_msa	-	368	6.8e-20	76.2	0.2	2	2	6.9e-06	0.0038	21.0873146057129	0.00	256	364	296	402	274	406	0.75	Peptidase T		0
+PEPT_VIBCH	PEPT_VIBCH	410	P06621_refseq_selected_blast_msa	-	368	7.2e-20	76.1	0.1	1	1	9.5e-22	5.1e-19	73.2843475341797	0.13	85	365	129	401	126	404	0.84	Peptidase T		0
+PEPT_EDWI9	PEPT_EDWI9	412	P06621_refseq_selected_blast_msa	-	368	8.1e-20	75.9	0.2	1	1	3.8e-20	2.1e-17	68.0054321289062	0.20	82	363	126	399	120	403	0.84	Peptidase T		0
+PEPT_STRZP	PEPT_STRZP	407	P06621_refseq_selected_blast_msa	-	368	8.4e-20	75.9	0.0	1	1	7.0e-21	3.8e-18	70.4286880493164	0.03	84	362	130	400	124	404	0.86	Peptidase T		0
+PEPT_STRPJ	PEPT_STRPJ	407	P06621_refseq_selected_blast_msa	-	368	8.7e-20	75.8	0.0	1	1	7.4e-21	4.0e-18	70.3496475219727	0.02	84	362	130	400	124	404	0.85	Peptidase T		0
+PEPT_STRPI	PEPT_STRPI	407	P06621_refseq_selected_blast_msa	-	368	1.1e-19	75.5	0.0	1	1	8.9e-21	4.9e-18	70.0739364624023	0.04	84	362	130	400	124	404	0.87	Peptidase T		0
+PEPT_STRPN	PEPT_STRPN	407	P06621_refseq_selected_blast_msa	-	368	1.4e-19	75.1	0.0	1	1	1.2e-20	6.4e-18	69.673698425293	0.03	84	362	130	400	124	404	0.87	Peptidase T		0
+PEPT_BACC2	PEPT_BACC2	410	P06621_refseq_selected_blast_msa	-	368	1.5e-19	75.0	0.2	1	1	2.0e-18	1.1e-15	62.3440361022949	0.04	84	364	130	402	126	406	0.78	Peptidase T		0
+PEPT_BACC1	PEPT_BACC1	410	P06621_refseq_selected_blast_msa	-	368	2.1e-19	74.6	0.1	1	2	1.4e-12	7.7e-10	43.0932655334473	0.06	84	202	130	241	126	257	0.90	Peptidase T		0
+PEPT_BACC1	PEPT_BACC1	410	P06621_refseq_selected_blast_msa	-	368	2.1e-19	74.6	0.1	2	2	1.6e-05	0.0087	19.8913173675537	0.00	251	364	295	402	274	406	0.73	Peptidase T		0
+PEPT_ALKOO	PEPT_ALKOO	409	P06621_refseq_selected_blast_msa	-	368	2.2e-19	74.5	0.0	1	2	4.4e-13	2.4e-10	44.7683982849121	0.09	83	204	130	244	124	259	0.88	Peptidase T		0
+PEPT_ALKOO	PEPT_ALKOO	409	P06621_refseq_selected_blast_msa	-	368	2.2e-19	74.5	0.0	2	2	4.1e-05	0.022	18.5271739959717	0.00	270	365	310	404	285	406	0.82	Peptidase T		0
+PEPT_MACCJ	PEPT_MACCJ	407	P06621_refseq_selected_blast_msa	-	368	2.2e-19	74.5	0.0	1	1	3.9e-20	2.1e-17	67.9836578369141	0.00	85	365	128	400	123	403	0.86	Peptidase T		0
+PEPT_STRU0	PEPT_STRU0	407	P06621_refseq_selected_blast_msa	-	368	2.5e-19	74.3	0.0	1	1	8.8e-19	4.8e-16	63.5176391601562	0.00	82	365	129	404	124	406	0.85	Peptidase T		0
+PEPT_CLONN	PEPT_CLONN	407	P06621_refseq_selected_blast_msa	-	368	3.0e-19	74.1	0.9	1	1	2.5e-19	1.4e-16	65.2962875366211	0.19	82	361	127	398	121	404	0.76	Peptidase T		0
+PEPT_STRPS	PEPT_STRPS	407	P06621_refseq_selected_blast_msa	-	368	3.0e-19	74.1	0.0	1	1	2.5e-20	1.3e-17	68.6262817382812	0.03	84	362	130	400	124	404	0.86	Peptidase T		0
+PEPT_BACVZ	PEPT_BACVZ	410	P06621_refseq_selected_blast_msa	-	368	3.4e-19	73.9	0.1	1	1	2.2e-18	1.2e-15	62.2021141052246	0.03	84	363	130	401	126	405	0.79	Peptidase T		0
+PEPT_STRP7	PEPT_STRP7	407	P06621_refseq_selected_blast_msa	-	368	4.0e-19	73.7	0.0	1	1	3.3e-20	1.8e-17	68.2249374389648	0.03	84	362	130	400	124	404	0.87	Peptidase T		0
+PEPT_BACLD	PEPT_BACLD	410	P06621_refseq_selected_blast_msa	-	368	4.2e-19	73.6	0.2	1	1	4.5e-18	2.5e-15	61.1760292053223	0.04	84	365	130	403	124	405	0.82	Peptidase T		0
+PEPT_CLOB6	PEPT_CLOB6	408	P06621_refseq_selected_blast_msa	-	368	4.2e-19	73.6	0.1	1	1	2.5e-19	1.4e-16	65.3061676025391	0.03	85	364	130	401	125	404	0.80	Peptidase T		0
+PEPT_CLOBJ	PEPT_CLOBJ	408	P06621_refseq_selected_blast_msa	-	368	4.5e-19	73.5	0.1	1	1	2.5e-19	1.4e-16	65.3061676025391	0.03	85	364	130	401	125	404	0.80	Peptidase T		0
+PEPT_BACC7	PEPT_BACC7	410	P06621_refseq_selected_blast_msa	-	368	4.6e-19	73.5	0.1	1	1	6.2e-18	3.4e-15	60.727237701416	0.02	84	364	130	402	126	406	0.78	Peptidase T		0
+PEPT_BACCQ	PEPT_BACCQ	412	P06621_refseq_selected_blast_msa	-	368	4.7e-19	73.4	0.1	1	1	6.3e-18	3.4e-15	60.7062110900879	0.02	84	364	132	404	128	408	0.78	Peptidase T		0
+PEPT_PASMU	PEPT_PASMU	412	P06621_refseq_selected_blast_msa	-	368	5.0e-19	73.3	0.0	1	1	8.3e-20	4.5e-17	66.8855056762695	0.01	86	364	136	406	125	409	0.86	Peptidase T		0
+PEPT_BACC0	PEPT_BACC0	410	P06621_refseq_selected_blast_msa	-	368	5.3e-19	73.2	0.2	1	2	1.5e-12	8.2e-10	42.9980278015137	0.11	84	203	130	242	126	259	0.90	Peptidase T		0
+PEPT_BACC0	PEPT_BACC0	410	P06621_refseq_selected_blast_msa	-	368	5.3e-19	73.2	0.2	2	2	1.6e-05	0.0089	19.8594608306885	0.00	254	364	291	402	272	406	0.71	Peptidase T		0
+PEPT_CLOBM	PEPT_CLOBM	408	P06621_refseq_selected_blast_msa	-	368	5.4e-19	73.2	0.1	1	1	3.1e-19	1.7e-16	64.9939498901367	0.03	85	364	130	401	125	404	0.80	Peptidase T		0
+PEPT_BACCZ	PEPT_BACCZ	412	P06621_refseq_selected_blast_msa	-	368	5.6e-19	73.2	0.0	1	2	1.5e-12	7.9e-10	43.0467720031738	0.04	84	203	132	244	128	259	0.90	Peptidase T		0
+PEPT_BACCZ	PEPT_BACCZ	412	P06621_refseq_selected_blast_msa	-	368	5.6e-19	73.2	0.0	2	2	3.0e-05	0.017	18.9662055969238	0.00	251	364	297	404	278	408	0.78	Peptidase T		0
+ABGA_ECOLI	ABGA_ECOLI	436	P06621_refseq_selected_blast_msa	-	368	5.8e-19	73.1	8.3	1	1	1.7e-21	9.4e-19	72.4215316772461	8.29	112	326	162	382	154	402	0.79	p-aminobenzoyl-glutamate hydrolase subunit A		0
+PEPT_BACC3	PEPT_BACC3	410	P06621_refseq_selected_blast_msa	-	368	6.2e-19	73.0	0.1	1	2	1.5e-12	8.2e-10	43.0021057128906	0.09	84	203	130	242	126	258	0.90	Peptidase T		0
+PEPT_BACC3	PEPT_BACC3	410	P06621_refseq_selected_blast_msa	-	368	6.2e-19	73.0	0.1	2	2	1.9e-05	0.01	19.6209812164307	0.00	251	364	295	402	273	406	0.72	Peptidase T		0
+PEPT_BACAH	PEPT_BACAH	410	P06621_refseq_selected_blast_msa	-	368	6.2e-19	73.0	0.1	1	2	1.5e-12	8.2e-10	43.0021057128906	0.09	84	203	130	242	126	258	0.90	Peptidase T		0
+PEPT_BACAH	PEPT_BACAH	410	P06621_refseq_selected_blast_msa	-	368	6.2e-19	73.0	0.1	2	2	1.9e-05	0.01	19.6209812164307	0.00	251	364	295	402	273	406	0.72	Peptidase T		0
+PEPT_BACCN	PEPT_BACCN	410	P06621_refseq_selected_blast_msa	-	368	7.1e-19	72.8	0.0	1	1	8.8e-19	4.8e-16	63.5082893371582	0.01	85	362	131	400	126	405	0.80	Peptidase T		0
+PEPT_STRZT	PEPT_STRZT	407	P06621_refseq_selected_blast_msa	-	368	7.9e-19	72.7	0.0	1	1	7.1e-20	3.8e-17	67.1176223754883	0.03	84	362	130	400	124	404	0.86	Peptidase T		0
+PEPT_BACHK	PEPT_BACHK	410	P06621_refseq_selected_blast_msa	-	368	8.2e-19	72.6	0.1	1	2	2.0e-12	1.1e-09	42.6150016784668	0.10	84	203	130	242	126	258	0.90	Peptidase T		0
+PEPT_BACHK	PEPT_BACHK	410	P06621_refseq_selected_blast_msa	-	368	8.2e-19	72.6	0.1	2	2	1.9e-05	0.01	19.6209812164307	0.00	251	364	295	402	273	406	0.72	Peptidase T		0
+PEPT_BACAA	PEPT_BACAA	410	P06621_refseq_selected_blast_msa	-	368	9.2e-19	72.4	0.1	1	2	2.2e-12	1.2e-09	42.4411659240723	0.09	84	203	130	242	126	258	0.89	Peptidase T		0
+PEPT_BACAA	PEPT_BACAA	410	P06621_refseq_selected_blast_msa	-	368	9.2e-19	72.4	0.1	2	2	1.9e-05	0.01	19.6209812164307	0.00	251	364	295	402	273	406	0.72	Peptidase T		0
+PEPT_BACAN	PEPT_BACAN	410	P06621_refseq_selected_blast_msa	-	368	9.2e-19	72.4	0.1	1	2	2.2e-12	1.2e-09	42.4411659240723	0.09	84	203	130	242	126	258	0.89	Peptidase T	3ife_A	0
+PEPT_BACAN	PEPT_BACAN	410	P06621_refseq_selected_blast_msa	-	368	9.2e-19	72.4	0.1	2	2	1.9e-05	0.01	19.6209812164307	0.00	251	364	295	402	273	406	0.72	Peptidase T	3ife_A	0
+PEPT_BACAC	PEPT_BACAC	410	P06621_refseq_selected_blast_msa	-	368	9.2e-19	72.4	0.1	1	2	2.2e-12	1.2e-09	42.4411659240723	0.09	84	203	130	242	126	258	0.89	Peptidase T		0
+PEPT_BACAC	PEPT_BACAC	410	P06621_refseq_selected_blast_msa	-	368	9.2e-19	72.4	0.1	2	2	1.9e-05	0.01	19.6209812164307	0.00	251	364	295	402	273	406	0.72	Peptidase T		0
+PEPT_CLOBH	PEPT_CLOBH	408	P06621_refseq_selected_blast_msa	-	368	9.4e-19	72.4	0.0	1	1	5.4e-19	2.9e-16	64.2265090942383	0.02	85	364	130	401	125	404	0.81	Peptidase T		0
+PEPT_CLOB1	PEPT_CLOB1	408	P06621_refseq_selected_blast_msa	-	368	9.4e-19	72.4	0.0	1	1	5.4e-19	2.9e-16	64.2265090942383	0.02	85	364	130	401	125	404	0.81	Peptidase T		0
+PEPT_CLOBK	PEPT_CLOBK	408	P06621_refseq_selected_blast_msa	-	368	1.0e-18	72.3	0.0	1	1	3.0e-19	1.6e-16	65.0677185058594	0.02	85	364	130	401	125	404	0.81	Peptidase T		0
+ILL3_ORYSJ	ILL3_ORYSJ	417	P06621_refseq_selected_blast_msa	-	368	1.2e-18	72.1	4.6	1	1	3.2e-21	1.7e-18	71.5525283813477	4.60	24	341	46	369	42	382	0.82	IAA-amino acid hydrolase ILR1-like 3		0
+PEPT_AERHH	PEPT_AERHH	407	P06621_refseq_selected_blast_msa	-	368	1.2e-18	72.0	0.0	1	1	1.2e-19	6.7e-17	66.3161392211914	0.01	79	365	121	399	116	401	0.86	Peptidase T		0
+PEPVL_STAAN	PEPVL_STAAN	469	P06621_refseq_selected_blast_msa	-	368	1.4e-18	71.8	0.0	1	2	2.1e-11	1.2e-08	39.2074127197266	0.05	26	136	47	152	13	191	0.75	Putative dipeptidase SA1572		0
+PEPVL_STAAN	PEPVL_STAAN	469	P06621_refseq_selected_blast_msa	-	368	1.4e-18	71.8	0.0	2	2	0.011	5.9	10.5742588043213	0.00	242	365	346	462	322	465	0.85	Putative dipeptidase SA1572		0
+PEPVL_STAA3	PEPVL_STAA3	469	P06621_refseq_selected_blast_msa	-	368	1.4e-18	71.8	0.0	1	2	2.1e-11	1.2e-08	39.2074127197266	0.05	26	136	47	152	13	191	0.75	Putative dipeptidase SAUSA300_1697		0
+PEPVL_STAA3	PEPVL_STAA3	469	P06621_refseq_selected_blast_msa	-	368	1.4e-18	71.8	0.0	2	2	0.011	5.9	10.5742588043213	0.00	242	365	346	462	322	465	0.85	Putative dipeptidase SAUSA300_1697		0
+PEPVL_STAAC	PEPVL_STAAC	469	P06621_refseq_selected_blast_msa	-	368	1.4e-18	71.8	0.0	1	2	2.1e-11	1.2e-08	39.2074127197266	0.05	26	136	47	152	13	191	0.75	Putative dipeptidase SACOL1801	3khx_A	0
+PEPVL_STAAC	PEPVL_STAAC	469	P06621_refseq_selected_blast_msa	-	368	1.4e-18	71.8	0.0	2	2	0.011	5.9	10.5742588043213	0.00	242	365	346	462	322	465	0.85	Putative dipeptidase SACOL1801	3khx_A	0
+PEPVL_STAA8	PEPVL_STAA8	469	P06621_refseq_selected_blast_msa	-	368	1.4e-18	71.8	0.0	1	2	2.1e-11	1.2e-08	39.2074127197266	0.05	26	136	47	152	13	191	0.75	Putative dipeptidase SAOUHSC_01868		0
+PEPVL_STAA8	PEPVL_STAA8	469	P06621_refseq_selected_blast_msa	-	368	1.4e-18	71.8	0.0	2	2	0.011	5.9	10.5742588043213	0.00	242	365	346	462	322	465	0.85	Putative dipeptidase SAOUHSC_01868		0
+PEPVL_STAAM	PEPVL_STAAM	469	P06621_refseq_selected_blast_msa	-	368	1.4e-18	71.8	0.0	1	2	2.1e-11	1.2e-08	39.2074127197266	0.05	26	136	47	152	13	191	0.75	Putative dipeptidase SAV1751		0
+PEPVL_STAAM	PEPVL_STAAM	469	P06621_refseq_selected_blast_msa	-	368	1.4e-18	71.8	0.0	2	2	0.011	5.9	10.5742588043213	0.00	242	365	346	462	322	465	0.85	Putative dipeptidase SAV1751		0
+PEPVL_STAAB	PEPVL_STAAB	469	P06621_refseq_selected_blast_msa	-	368	1.4e-18	71.8	0.0	1	2	2.1e-11	1.1e-08	39.234806060791	0.05	26	136	47	152	13	192	0.75	Putative dipeptidase SAB1611c		0
+PEPVL_STAAB	PEPVL_STAAB	469	P06621_refseq_selected_blast_msa	-	368	1.4e-18	71.8	0.0	2	2	0.011	5.9	10.5742588043213	0.00	242	365	346	462	322	465	0.85	Putative dipeptidase SAB1611c		0
+LYSK_PYRHO	LYSK_PYRHO	325	P06621_refseq_selected_blast_msa	-	368	1.5e-18	71.7	0.0	1	1	1.5e-19	8.1e-17	66.0469207763672	0.00	2	209	8	184	7	191	0.87	Putative [LysW]-lysine/[LysW]-ornithine hydrolase		0
+ILL2_ORYSJ	ILL2_ORYSJ	456	P06621_refseq_selected_blast_msa	-	368	1.7e-18	71.5	1.7	1	1	2.5e-20	1.3e-17	68.6163330078125	1.73	52	313	106	371	82	384	0.78	IAA-amino acid hydrolase ILR1-like 2		0
+PEPT_CLOBL	PEPT_CLOBL	408	P06621_refseq_selected_blast_msa	-	368	1.8e-18	71.5	0.0	1	1	5.4e-19	2.9e-16	64.2265090942383	0.02	85	364	130	401	125	404	0.81	Peptidase T		0
+PEPT_LACS1	PEPT_LACS1	413	P06621_refseq_selected_blast_msa	-	368	1.8e-18	71.5	1.3	1	1	6.0e-20	3.2e-17	67.3630752563477	0.79	85	365	136	408	132	411	0.81	Peptidase T		0
+PEPVL_STAAR	PEPVL_STAAR	469	P06621_refseq_selected_blast_msa	-	368	2.0e-18	71.4	0.0	1	2	2.1e-11	1.1e-08	39.2415885925293	0.04	26	136	47	152	13	192	0.75	Putative dipeptidase SAR1836		0
+PEPVL_STAAR	PEPVL_STAAR	469	P06621_refseq_selected_blast_msa	-	368	2.0e-18	71.4	0.0	2	2	0.011	5.9	10.5742588043213	0.00	242	365	346	462	322	465	0.85	Putative dipeptidase SAR1836		0
+Y3666_SORMK	Y3666_SORMK	452	P06621_refseq_selected_blast_msa	-	368	2.0e-18	71.4	1.8	1	1	7.7e-21	4.2e-18	70.2841720581055	1.82	61	284	142	382	121	399	0.75	Peptidase M20 domain-containing protein SMAC_03666.2		0
+PEPVL_STAAS	PEPVL_STAAS	469	P06621_refseq_selected_blast_msa	-	368	2.5e-18	71.0	0.0	1	2	2.1e-11	1.1e-08	39.2405967712402	0.04	26	136	47	152	13	192	0.75	Putative dipeptidase SAS1677		0
+PEPVL_STAAS	PEPVL_STAAS	469	P06621_refseq_selected_blast_msa	-	368	2.5e-18	71.0	0.0	2	2	0.013	7.2	10.2776594161987	0.00	242	365	346	462	328	465	0.86	Putative dipeptidase SAS1677		0
+PEPVL_STAAW	PEPVL_STAAW	469	P06621_refseq_selected_blast_msa	-	368	2.5e-18	71.0	0.0	1	2	2.1e-11	1.1e-08	39.2405967712402	0.04	26	136	47	152	13	192	0.75	Putative dipeptidase MW1694		0
+PEPVL_STAAW	PEPVL_STAAW	469	P06621_refseq_selected_blast_msa	-	368	2.5e-18	71.0	0.0	2	2	0.013	7.2	10.2776594161987	0.00	242	365	346	462	328	465	0.86	Putative dipeptidase MW1694		0
+PEPT_BACTN	PEPT_BACTN	407	P06621_refseq_selected_blast_msa	-	368	3.8e-18	70.4	0.0	1	1	1.8e-17	9.8e-15	59.2066612243652	0.03	87	363	131	399	124	403	0.77	Peptidase T		0
+IAAH_ENTAG	IAAH_ENTAG	436	P06621_refseq_selected_blast_msa	-	368	3.9e-18	70.4	6.1	1	1	1.1e-20	6.0e-18	69.7765731811523	6.11	110	324	160	380	152	409	0.78	Indole-3-acetyl-aspartic acid hydrolase		0
+PEPT_VIBVY	PEPT_VIBVY	409	P06621_refseq_selected_blast_msa	-	368	4.6e-18	70.1	0.0	1	1	1.0e-18	5.5e-16	63.3171310424805	0.00	84	363	128	399	124	403	0.79	Peptidase T		0
+LYSK_PYRAB	LYSK_PYRAB	337	P06621_refseq_selected_blast_msa	-	368	4.9e-18	70.1	0.0	1	1	3.1e-19	1.7e-16	65.0058898925781	0.01	2	178	9	158	8	168	0.88	Putative [LysW]-lysine/[LysW]-ornithine hydrolase		0
+PEPT_BACFN	PEPT_BACFN	407	P06621_refseq_selected_blast_msa	-	368	5.0e-18	70.0	0.0	1	1	1.3e-17	6.8e-15	59.7231254577637	0.02	87	363	131	399	124	403	0.82	Peptidase T		0
+PEPT_BACFR	PEPT_BACFR	407	P06621_refseq_selected_blast_msa	-	368	5.0e-18	70.0	0.0	1	1	1.3e-17	6.8e-15	59.7231254577637	0.02	87	363	131	399	124	403	0.82	Peptidase T		0
+PEPT_HALOH	PEPT_HALOH	408	P06621_refseq_selected_blast_msa	-	368	5.2e-18	70.0	0.0	1	1	9.0e-18	4.9e-15	60.1878623962402	0.01	83	365	128	402	122	404	0.82	Peptidase T		0
+PEPT_STRA1	PEPT_STRA1	406	P06621_refseq_selected_blast_msa	-	368	5.4e-18	69.9	0.0	1	1	1.2e-17	6.6e-15	59.7681884765625	0.00	84	364	130	402	126	405	0.82	Peptidase T		0
+PEPT_STRA5	PEPT_STRA5	406	P06621_refseq_selected_blast_msa	-	368	6.9e-18	69.6	0.0	1	1	1.4e-17	7.4e-15	59.610523223877	0.00	84	364	130	402	125	405	0.83	Peptidase T		0
+PEPT_STRS2	PEPT_STRS2	406	P06621_refseq_selected_blast_msa	-	368	7.0e-18	69.6	0.0	1	1	2.3e-18	1.3e-15	62.1345520019531	0.00	85	362	131	400	126	404	0.86	Peptidase T		0
+PEPT_STRSY	PEPT_STRSY	406	P06621_refseq_selected_blast_msa	-	368	7.0e-18	69.6	0.0	1	1	2.3e-18	1.3e-15	62.1345520019531	0.00	85	362	131	400	126	404	0.86	Peptidase T		0
+PEPT_STRZJ	PEPT_STRZJ	407	P06621_refseq_selected_blast_msa	-	368	7.2e-18	69.5	0.0	1	1	6.2e-19	3.3e-16	64.0271453857422	0.02	84	362	130	400	124	404	0.86	Peptidase T		0
+AMHX_BACSU	AMHX_BACSU	383	P06621_refseq_selected_blast_msa	-	368	7.3e-18	69.5	0.4	1	1	2.6e-20	1.4e-17	68.5264892578125	0.42	105	334	97	331	95	369	0.80	Amidohydrolase AmhX		0
+Y4TI_SINFN	Y4TI_SINFN	402	P06621_refseq_selected_blast_msa	-	368	9.6e-18	69.1	0.2	1	1	2.6e-20	1.4e-17	68.5628433227539	0.19	103	326	119	349	73	391	0.77	Uncharacterized hydrolase y4tI		0
+PEPVL_STAHJ	PEPVL_STAHJ	469	P06621_refseq_selected_blast_msa	-	368	1.0e-17	69.0	0.0	1	1	1.4e-11	7.4e-09	39.8511734008789	0.02	2	141	14	157	13	192	0.73	Putative dipeptidase SH1171		0
+PEPT_SHEPA	PEPT_SHEPA	407	P06621_refseq_selected_blast_msa	-	368	1.4e-17	68.6	0.0	1	1	8.1e-19	4.4e-16	63.6314239501953	0.00	82	361	125	396	120	401	0.82	Peptidase T		0
+PEPT_STACT	PEPT_STACT	410	P06621_refseq_selected_blast_msa	-	368	1.4e-17	68.5	0.0	1	1	7.2e-17	3.9e-14	57.2281494140625	0.00	87	363	131	399	120	404	0.81	Peptidase T		0
+P20D1_XENTR	P20D1_XENTR	512	P06621_refseq_selected_blast_msa	-	368	1.8e-17	68.2	0.0	1	2	9.6e-11	5.2e-08	37.0697937011719	0.00	52	158	114	227	73	288	0.75	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+P20D1_XENTR	P20D1_XENTR	512	P06621_refseq_selected_blast_msa	-	368	1.8e-17	68.2	0.0	2	2	3.2e-08	1.8e-05	28.7512149810791	0.01	206	295	333	417	329	448	0.82	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+PEPT_STRA3	PEPT_STRA3	406	P06621_refseq_selected_blast_msa	-	368	2.2e-17	67.9	0.0	1	1	2.5e-17	1.4e-14	58.7198867797852	0.01	84	364	130	402	126	405	0.81	Peptidase T		0
+PEPT_BACSU	PEPT_BACSU	410	P06621_refseq_selected_blast_msa	-	368	2.3e-17	67.8	0.0	1	1	2.8e-17	1.5e-14	58.5552368164062	0.01	85	364	131	402	124	406	0.86	Peptidase T		0
+PEPT_HAEIG	PEPT_HAEIG	412	P06621_refseq_selected_blast_msa	-	368	2.3e-17	67.8	0.0	1	1	4.9e-18	2.7e-15	61.068546295166	0.00	84	365	134	407	125	409	0.84	Peptidase T		0
+PEPT_HAEIN	PEPT_HAEIN	412	P06621_refseq_selected_blast_msa	-	368	2.4e-17	67.8	0.0	1	1	4.9e-18	2.7e-15	61.068546295166	0.00	84	365	134	407	125	409	0.84	Peptidase T		0
+PEPT_AERS4	PEPT_AERS4	407	P06621_refseq_selected_blast_msa	-	368	2.6e-17	67.7	0.0	1	1	5.6e-17	3.1e-14	57.5693397521973	0.00	81	365	123	399	118	401	0.85	Peptidase T		0
+PEPT_STRMU	PEPT_STRMU	406	P06621_refseq_selected_blast_msa	-	368	2.8e-17	67.6	0.0	1	1	1.6e-17	8.6e-15	59.3910865783691	0.00	82	363	127	400	122	403	0.86	Peptidase T		0
+CBPS2_DICDI	CBPS2_DICDI	519	P06621_refseq_selected_blast_msa	-	368	5.0e-17	66.7	0.3	1	2	5.1e-12	2.8e-09	41.2648468017578	0.00	62	138	143	223	125	235	0.87	Probable carboxypeptidase S-like 2		0
+CBPS2_DICDI	CBPS2_DICDI	519	P06621_refseq_selected_blast_msa	-	368	5.0e-17	66.7	0.3	2	2	2.2e-06	0.0012	22.7352828979492	0.06	212	279	357	424	348	449	0.77	Probable carboxypeptidase S-like 2		0
+PEPT_HAEI8	PEPT_HAEI8	412	P06621_refseq_selected_blast_msa	-	368	6.6e-17	66.4	0.0	1	1	2.8e-17	1.5e-14	58.5745162963867	0.00	84	365	134	407	125	409	0.84	Peptidase T		0
+PEPT_VIBPA	PEPT_VIBPA	409	P06621_refseq_selected_blast_msa	-	368	9.0e-17	65.9	0.0	1	1	6.6e-18	3.6e-15	60.6444854736328	0.01	84	361	128	397	124	403	0.78	Peptidase T		0
+P20D1_CHICK	P20D1_CHICK	517	P06621_refseq_selected_blast_msa	-	368	9.7e-17	65.8	0.0	1	2	3.0e-10	1.6e-07	35.4515419006348	0.00	9	145	76	215	73	277	0.79	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+P20D1_CHICK	P20D1_CHICK	517	P06621_refseq_selected_blast_msa	-	368	9.7e-17	65.8	0.0	2	2	5.9e-08	3.2e-05	27.8925704956055	0.05	216	288	346	413	333	430	0.81	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+ACY1_DICDI	ACY1_DICDI	408	P06621_refseq_selected_blast_msa	-	368	1.1e-16	65.7	0.0	1	1	2.7e-17	1.5e-14	58.6271286010742	0.00	29	332	36	366	20	387	0.79	Aminoacylase-1		0
+PEPT_PARD8	PEPT_PARD8	406	P06621_refseq_selected_blast_msa	-	368	1.5e-16	65.2	0.0	1	1	9.5e-17	5.2e-14	56.8271675109863	0.00	85	365	128	399	123	401	0.82	Peptidase T		0
+ILL1_ORYSJ	ILL1_ORYSJ	442	P06621_refseq_selected_blast_msa	-	368	1.7e-16	65.0	0.0	1	1	4.5e-19	2.4e-16	64.473274230957	0.02	25	327	70	376	65	387	0.86	IAA-amino acid hydrolase ILR1-like 1		0
+PEPVL_STAEQ	PEPVL_STAEQ	469	P06621_refseq_selected_blast_msa	-	368	1.9e-16	64.8	0.0	1	1	3.2e-12	1.8e-09	41.9152450561523	0.01	1	144	13	160	13	193	0.73	Putative dipeptidase SERP1310		0
+PEPVL_STAES	PEPVL_STAES	469	P06621_refseq_selected_blast_msa	-	368	1.9e-16	64.8	0.0	1	1	3.2e-12	1.8e-09	41.9152450561523	0.01	1	144	13	160	13	193	0.73	Putative dipeptidase SE_1424		0
+PEPT_SHEHH	PEPT_SHEHH	407	P06621_refseq_selected_blast_msa	-	368	2.0e-16	64.7	0.0	1	1	1.3e-17	7.1e-15	59.6533241271973	0.00	82	363	125	398	120	402	0.81	Peptidase T		0
+PEPT_STAEQ	PEPT_STAEQ	412	P06621_refseq_selected_blast_msa	-	368	2.5e-16	64.5	0.0	1	1	7.9e-17	4.3e-14	57.0877113342285	0.00	86	364	130	400	121	404	0.86	Peptidase T		0
+PEPT_STAES	PEPT_STAES	412	P06621_refseq_selected_blast_msa	-	368	2.5e-16	64.5	0.0	1	1	7.9e-17	4.3e-14	57.0877113342285	0.00	86	364	130	400	121	404	0.86	Peptidase T		0
+PEPT_BACP2	PEPT_BACP2	410	P06621_refseq_selected_blast_msa	-	368	2.5e-16	64.4	0.1	1	1	3.9e-16	2.1e-13	54.7894477844238	0.05	85	363	131	401	126	405	0.80	Peptidase T		0
+PEPT_HAEIE	PEPT_HAEIE	412	P06621_refseq_selected_blast_msa	-	368	2.6e-16	64.4	0.0	1	1	1.2e-16	6.7e-14	56.4452781677246	0.00	84	365	134	407	125	409	0.84	Peptidase T		0
+ILR1_ARATH	ILR1_ARATH	442	P06621_refseq_selected_blast_msa	-	368	2.7e-16	64.4	0.0	1	1	1.0e-18	5.6e-16	63.2822570800781	0.04	104	363	144	421	142	425	0.76	IAA-amino acid hydrolase ILR1		0
+ILL1_ORYSI	ILL1_ORYSI	442	P06621_refseq_selected_blast_msa	-	368	2.8e-16	64.3	0.0	1	1	7.4e-19	4.0e-16	63.7606544494629	0.02	25	327	70	376	65	387	0.86	IAA-amino acid hydrolase ILR1-like 1		0
+PEPVL_BACSU	PEPVL_BACSU	463	P06621_refseq_selected_blast_msa	-	368	2.9e-16	64.2	0.0	1	2	6.8e-13	3.7e-10	44.1324234008789	0.02	30	135	52	152	38	164	0.81	Putative dipeptidase YtjP		0
+PEPVL_BACSU	PEPVL_BACSU	463	P06621_refseq_selected_blast_msa	-	368	2.9e-16	64.2	0.0	2	2	0.017	9.2	9.92584991455078	0.01	290	368	384	461	340	461	0.74	Putative dipeptidase YtjP		0
+P20D1_MOUSE	P20D1_MOUSE	503	P06621_refseq_selected_blast_msa	-	368	3.1e-16	64.1	0.0	1	2	3.3e-10	1.8e-07	35.3155403137207	0.00	17	152	72	210	62	222	0.76	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+P20D1_MOUSE	P20D1_MOUSE	503	P06621_refseq_selected_blast_msa	-	368	3.1e-16	64.1	0.0	2	2	1.6e-07	8.5e-05	26.4962501525879	0.04	208	295	326	408	320	436	0.78	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+ILL8_ORYSJ	ILL8_ORYSJ	444	P06621_refseq_selected_blast_msa	-	368	3.9e-16	63.8	1.2	1	1	1.2e-18	6.6e-16	63.0606651306152	1.18	25	326	78	385	72	400	0.80	IAA-amino acid hydrolase ILR1-like 8		0
+ILL4_ORYSJ	ILL4_ORYSJ	414	P06621_refseq_selected_blast_msa	-	368	4.0e-16	63.8	4.5	1	1	1.2e-18	6.3e-16	63.1259918212891	4.51	24	338	42	361	38	368	0.84	IAA-amino acid hydrolase ILR1-like 4		0
+Y1009_YERPE	Y1009_YERPE	410	P06621_refseq_selected_blast_msa	-	368	5.6e-16	63.3	0.0	1	2	0.00039	0.21	15.3272800445557	0.02	18	74	33	86	25	99	0.84	Peptidase T-like protein YPO1009/y3403/YP_3421		0
+Y1009_YERPE	Y1009_YERPE	410	P06621_refseq_selected_blast_msa	-	368	5.6e-16	63.3	0.0	2	2	2.2e-13	1.2e-10	45.7668800354004	0.00	87	364	135	403	129	406	0.85	Peptidase T-like protein YPO1009/y3403/YP_3421		0
+PEPT_STAS1	PEPT_STAS1	410	P06621_refseq_selected_blast_msa	-	368	5.7e-16	63.3	0.0	1	1	4.2e-17	2.3e-14	57.9842071533203	0.00	87	364	131	400	122	404	0.84	Peptidase T		0
+PEPT_EXIS2	PEPT_EXIS2	411	P06621_refseq_selected_blast_msa	-	368	6.2e-16	63.1	0.7	1	1	1.5e-15	8.0e-13	52.9175033569336	0.16	84	365	130	403	123	406	0.77	Peptidase T		0
+HYUC_RHIML	HYUC_RHIML	416	P06621_refseq_selected_blast_msa	-	368	7.5e-16	62.9	0.1	1	1	3.6e-16	2.0e-13	54.9059143066406	0.05	131	350	178	393	172	409	0.79	N-carbamoyl-L-amino-acid hydrolase		0
+ILL9_ORYSJ	ILL9_ORYSJ	440	P06621_refseq_selected_blast_msa	-	368	8.5e-16	62.7	4.4	1	1	2.2e-18	1.2e-15	62.1836891174316	4.38	24	338	72	393	66	415	0.80	IAA-amino acid hydrolase ILR1-like 9		0
+PEPT_SHEWM	PEPT_SHEWM	410	P06621_refseq_selected_blast_msa	-	368	1.0e-15	62.5	0.0	1	1	1.3e-15	7.3e-13	53.0474662780762	0.01	83	360	126	395	121	401	0.81	Peptidase T		0
+ILL2_ARATH	ILL2_ARATH	439	P06621_refseq_selected_blast_msa	-	368	1.1e-15	62.4	0.1	1	1	2.9e-18	1.6e-15	61.8307685852051	0.14	105	325	144	374	140	391	0.78	IAA-amino acid hydrolase ILR1-like 2	2q43_A	0
+PEPT_LACP7	PEPT_LACP7	407	P06621_refseq_selected_blast_msa	-	368	1.1e-15	62.3	0.1	1	1	1.3e-14	6.9e-12	49.8292350769043	0.02	87	365	132	402	123	404	0.85	Peptidase T		0
+PEPVL_STAS1	PEPVL_STAS1	469	P06621_refseq_selected_blast_msa	-	368	1.2e-15	62.2	0.1	1	1	2.6e-12	1.4e-09	42.1976890563965	0.02	2	140	14	156	13	196	0.76	Putative dipeptidase SSP1012		0
+YTNL_BACSU	YTNL_BACSU	416	P06621_refseq_selected_blast_msa	-	368	2.1e-15	61.4	0.0	1	1	5.1e-18	2.8e-15	61.0024375915527	0.01	105	324	135	360	134	403	0.78	Uncharacterized hydrolase YtnL		0
+ILL7_ORYSJ	ILL7_ORYSJ	455	P06621_refseq_selected_blast_msa	-	368	2.1e-15	61.4	0.3	1	1	7.3e-18	3.9e-15	60.5000228881836	0.27	105	324	163	394	82	412	0.82	IAA-amino acid hydrolase ILR1-like 7		0
+PEPT_YERPY	PEPT_YERPY	411	P06621_refseq_selected_blast_msa	-	368	2.5e-15	61.1	0.0	1	1	1.3e-15	7.3e-13	53.049243927002	0.01	83	364	127	400	121	403	0.85	Peptidase T		0
+AMAB2_GEOSE	AMAB2_GEOSE	409	P06621_refseq_selected_blast_msa	-	368	2.7e-15	61.1	0.9	1	2	0.00058	0.32	14.7529811859131	0.10	72	136	81	127	28	140	0.79	N-carbamoyl-L-amino acid hydrolase	3n5f_A	0
+AMAB2_GEOSE	AMAB2_GEOSE	409	P06621_refseq_selected_blast_msa	-	368	2.7e-15	61.1	0.9	2	2	3.5e-12	1.9e-09	41.8011360168457	0.06	156	320	195	357	190	378	0.75	N-carbamoyl-L-amino acid hydrolase	3n5f_A	0
+PEPT_YERP3	PEPT_YERP3	411	P06621_refseq_selected_blast_msa	-	368	3.1e-15	60.8	0.0	1	1	1.7e-15	9.3e-13	52.696704864502	0.01	83	364	127	400	121	403	0.83	Peptidase T		0
+PEPT_YERPN	PEPT_YERPN	411	P06621_refseq_selected_blast_msa	-	368	3.1e-15	60.8	0.0	1	1	1.7e-15	9.3e-13	52.696704864502	0.01	83	364	127	400	121	403	0.83	Peptidase T		0
+PEPT_YERPG	PEPT_YERPG	411	P06621_refseq_selected_blast_msa	-	368	3.1e-15	60.8	0.0	1	1	1.7e-15	9.3e-13	52.696704864502	0.01	83	364	127	400	121	403	0.83	Peptidase T		0
+PEPT_YERPA	PEPT_YERPA	411	P06621_refseq_selected_blast_msa	-	368	3.1e-15	60.8	0.0	1	1	1.7e-15	9.3e-13	52.696704864502	0.01	83	364	127	400	121	403	0.83	Peptidase T		0
+PEPT_YERPP	PEPT_YERPP	411	P06621_refseq_selected_blast_msa	-	368	3.1e-15	60.8	0.0	1	1	1.7e-15	9.3e-13	52.696704864502	0.01	83	364	127	400	121	403	0.83	Peptidase T		0
+PEPT_YERPS	PEPT_YERPS	411	P06621_refseq_selected_blast_msa	-	368	3.1e-15	60.8	0.0	1	1	1.7e-15	9.3e-13	52.696704864502	0.01	83	364	127	400	121	403	0.83	Peptidase T		0
+PEPT_YERPE	PEPT_YERPE	411	P06621_refseq_selected_blast_msa	-	368	3.1e-15	60.8	0.0	1	1	1.7e-15	9.3e-13	52.696704864502	0.01	83	364	127	400	121	403	0.83	Peptidase T		0
+PEPT_YERPB	PEPT_YERPB	411	P06621_refseq_selected_blast_msa	-	368	3.1e-15	60.8	0.0	1	1	1.7e-15	9.3e-13	52.696704864502	0.01	83	364	127	400	121	403	0.83	Peptidase T		0
+PEPT_CLOAB	PEPT_CLOAB	408	P06621_refseq_selected_blast_msa	-	368	3.8e-15	60.5	0.0	1	1	5.5e-16	3.0e-13	54.3184928894043	0.02	84	364	129	401	125	404	0.83	Peptidase T		0
+ILL1_ARATH	ILL1_ARATH	438	P06621_refseq_selected_blast_msa	-	368	4.2e-15	60.4	0.1	1	1	1.1e-17	6.0e-15	59.9004287719727	0.07	104	325	142	373	139	403	0.78	IAA-amino acid hydrolase ILR1-like 1		0
+PEPV_LACDL	PEPV_LACDL	470	P06621_refseq_selected_blast_msa	-	368	4.8e-15	60.2	0.0	1	1	9.0e-16	4.9e-13	53.6105155944824	0.00	2	140	17	160	16	197	0.76	Beta-Ala-Xaa dipeptidase	1lfw_A	0
+PEPT_STAHJ	PEPT_STAHJ	409	P06621_refseq_selected_blast_msa	-	368	5.3e-15	60.1	0.0	1	1	2.8e-16	1.5e-13	55.261287689209	0.00	87	364	131	400	124	404	0.82	Peptidase T		0
+P2011_DANRE	P2011_DANRE	515	P06621_refseq_selected_blast_msa	-	368	6.5e-15	59.8	0.1	1	2	1.9e-09	1.0e-06	32.8133926391602	0.01	60	139	130	213	87	238	0.84	N-fatty-acyl-amino acid synthase/hydrolase PM20D1.1		0
+P2011_DANRE	P2011_DANRE	515	P06621_refseq_selected_blast_msa	-	368	6.5e-15	59.8	0.1	2	2	9.7e-07	0.00053	23.884147644043	0.04	218	289	352	418	339	452	0.84	N-fatty-acyl-amino acid synthase/hydrolase PM20D1.1		0
+PEPT_STAA1	PEPT_STAA1	408	P06621_refseq_selected_blast_msa	-	368	7.0e-15	59.7	0.0	1	1	9.4e-16	5.1e-13	53.5482711791992	0.00	87	366	131	402	124	404	0.84	Peptidase T		0
+PEPT_STAAM	PEPT_STAAM	408	P06621_refseq_selected_blast_msa	-	368	7.0e-15	59.7	0.0	1	1	9.4e-16	5.1e-13	53.5482711791992	0.00	87	366	131	402	124	404	0.84	Peptidase T		0
+PEPT_STAA2	PEPT_STAA2	408	P06621_refseq_selected_blast_msa	-	368	7.0e-15	59.7	0.0	1	1	9.4e-16	5.1e-13	53.5482711791992	0.00	87	366	131	402	124	404	0.84	Peptidase T		0
+PEPT_STAA9	PEPT_STAA9	408	P06621_refseq_selected_blast_msa	-	368	7.0e-15	59.7	0.0	1	1	9.4e-16	5.1e-13	53.5482711791992	0.00	87	366	131	402	124	404	0.84	Peptidase T		0
+PEPT_STAAN	PEPT_STAAN	408	P06621_refseq_selected_blast_msa	-	368	7.0e-15	59.7	0.0	1	1	9.4e-16	5.1e-13	53.5482711791992	0.00	87	366	131	402	124	404	0.84	Peptidase T		0
+PEPT_SHESH	PEPT_SHESH	409	P06621_refseq_selected_blast_msa	-	368	7.5e-15	59.6	0.0	1	1	4.1e-15	2.2e-12	51.4392738342285	0.00	82	361	125	396	120	401	0.80	Peptidase T		0
+P20D1_HUMAN	P20D1_HUMAN	502	P06621_refseq_selected_blast_msa	-	368	8.2e-15	59.5	0.0	1	2	1.4e-09	7.6e-07	33.2471923828125	0.00	9	143	64	201	61	222	0.77	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+P20D1_HUMAN	P20D1_HUMAN	502	P06621_refseq_selected_blast_msa	-	368	8.2e-15	59.5	0.0	2	2	2.2e-06	0.0012	22.7159938812256	0.02	212	312	329	426	320	446	0.71	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+PEPT_STAAR	PEPT_STAAR	408	P06621_refseq_selected_blast_msa	-	368	8.4e-15	59.4	0.0	1	1	1.0e-15	5.7e-13	53.3932838439941	0.00	87	365	131	401	121	404	0.84	Peptidase T		0
+PEPT_LACHE	PEPT_LACHE	413	P06621_refseq_selected_blast_msa	-	368	8.5e-15	59.4	0.0	1	1	3.3e-17	1.8e-14	58.3549919128418	0.01	84	364	132	404	127	407	0.85	Peptidase T		0
+Y614_RHIME	Y614_RHIME	408	P06621_refseq_selected_blast_msa	-	368	8.6e-15	59.4	0.0	1	2	0.0056	3.1	11.5103569030762	0.00	19	74	32	84	14	95	0.86	Peptidase T-like protein RB0614		0
+Y614_RHIME	Y614_RHIME	408	P06621_refseq_selected_blast_msa	-	368	8.6e-15	59.4	0.0	2	2	1.6e-12	8.6e-10	42.9374923706055	0.02	88	364	134	401	125	404	0.78	Peptidase T-like protein RB0614		0
+PEPT_STAAB	PEPT_STAAB	408	P06621_refseq_selected_blast_msa	-	368	9.2e-15	59.3	0.0	1	1	9.4e-16	5.1e-13	53.5482711791992	0.00	87	366	131	402	124	404	0.84	Peptidase T		0
+PEPT_STAA8	PEPT_STAA8	408	P06621_refseq_selected_blast_msa	-	368	1.4e-14	58.7	0.0	1	1	9.4e-16	5.1e-13	53.5482711791992	0.00	87	366	131	402	124	404	0.84	Peptidase T		0
+PEPT_STAAT	PEPT_STAAT	408	P06621_refseq_selected_blast_msa	-	368	1.4e-14	58.7	0.0	1	1	9.4e-16	5.1e-13	53.5482711791992	0.00	87	366	131	402	124	404	0.84	Peptidase T		0
+PEPT_STAAW	PEPT_STAAW	408	P06621_refseq_selected_blast_msa	-	368	1.4e-14	58.7	0.0	1	1	9.4e-16	5.1e-13	53.5482711791992	0.00	87	366	131	402	124	404	0.84	Peptidase T		0
+PEPT_STAA3	PEPT_STAA3	408	P06621_refseq_selected_blast_msa	-	368	1.4e-14	58.7	0.0	1	1	9.4e-16	5.1e-13	53.5482711791992	0.00	87	366	131	402	124	404	0.84	Peptidase T		0
+PEPT_STAAE	PEPT_STAAE	408	P06621_refseq_selected_blast_msa	-	368	1.4e-14	58.7	0.0	1	1	9.4e-16	5.1e-13	53.5482711791992	0.00	87	366	131	402	124	404	0.84	Peptidase T		0
+PEPT_STAAC	PEPT_STAAC	408	P06621_refseq_selected_blast_msa	-	368	1.4e-14	58.7	0.0	1	1	9.4e-16	5.1e-13	53.5482711791992	0.00	87	366	131	402	124	404	0.84	Peptidase T		0
+PEPT_STAAS	PEPT_STAAS	408	P06621_refseq_selected_blast_msa	-	368	1.4e-14	58.7	0.0	1	1	9.4e-16	5.1e-13	53.5482711791992	0.00	87	366	131	402	124	404	0.84	Peptidase T		0
+PEPT_ALIF1	PEPT_ALIF1	409	P06621_refseq_selected_blast_msa	-	368	2.1e-14	58.1	0.0	1	1	4.5e-16	2.5e-13	54.5936050415039	0.04	84	362	128	398	123	402	0.85	Peptidase T		0
+PEPT_LACLH	PEPT_LACLH	413	P06621_refseq_selected_blast_msa	-	368	2.5e-14	57.9	0.0	1	1	1.0e-14	5.4e-12	50.1762390136719	0.01	85	365	132	405	126	407	0.84	Peptidase T		0
+P2012_DANRE	P2012_DANRE	522	P06621_refseq_selected_blast_msa	-	368	2.5e-14	57.9	0.0	1	2	1.1e-08	6.0e-06	30.290958404541	0.01	63	147	135	223	108	298	0.83	N-fatty-acyl-amino acid synthase/hydrolase PM20D1.2		0
+P2012_DANRE	P2012_DANRE	522	P06621_refseq_selected_blast_msa	-	368	2.5e-14	57.9	0.0	2	2	6.2e-07	0.00033	24.5408210754395	0.01	218	295	354	426	339	448	0.86	N-fatty-acyl-amino acid synthase/hydrolase PM20D1.2		0
+PEPT2_LACLC	PEPT2_LACLC	413	P06621_refseq_selected_blast_msa	-	368	2.6e-14	57.8	0.1	1	1	1.0e-14	5.6e-12	50.1352272033691	0.01	85	365	132	405	126	407	0.85	Peptidase T		0
+PEPT_LACLS	PEPT_LACLS	413	P06621_refseq_selected_blast_msa	-	368	2.6e-14	57.8	0.1	1	1	1.0e-14	5.6e-12	50.1352272033691	0.01	85	365	132	405	126	407	0.85	Peptidase T		0
+PEPT_LACLM	PEPT_LACLM	413	P06621_refseq_selected_blast_msa	-	368	2.6e-14	57.8	0.1	1	1	1.0e-14	5.6e-12	50.1352272033691	0.01	85	365	132	405	126	407	0.85	Peptidase T		0
+PEPT_LACLL	PEPT_LACLL	413	P06621_refseq_selected_blast_msa	-	368	3.0e-14	57.6	0.0	1	1	1.2e-14	6.6e-12	49.8887672424316	0.01	85	365	132	405	126	407	0.84	Peptidase T		0
+PEPT_LACLA	PEPT_LACLA	413	P06621_refseq_selected_blast_msa	-	368	3.0e-14	57.6	0.0	1	1	1.2e-14	6.6e-12	49.8887672424316	0.01	85	365	132	405	126	407	0.84	Peptidase T		0
+Y100_SYNY3	Y100_SYNY3	393	P06621_refseq_selected_blast_msa	-	368	3.3e-14	57.5	0.0	1	1	1.2e-16	6.5e-14	56.5069389343262	0.02	111	320	115	333	107	350	0.80	Probable hydrolase sll0100		0
+PEPT_LACLC	PEPT_LACLC	413	P06621_refseq_selected_blast_msa	-	368	3.9e-14	57.2	0.0	1	1	1.6e-14	8.5e-12	49.537353515625	0.01	85	365	132	405	126	407	0.84	Peptidase T		0
+PEPT_VIBA3	PEPT_VIBA3	410	P06621_refseq_selected_blast_msa	-	368	4.1e-14	57.2	0.0	1	1	3.5e-16	1.9e-13	54.980094909668	0.02	85	365	129	401	124	404	0.84	Peptidase T		0
+LYSK_THEKO	LYSK_THEKO	344	P06621_refseq_selected_blast_msa	-	368	5.4e-14	56.8	0.0	1	1	1.9e-16	1.0e-13	55.824951171875	0.01	2	179	8	158	7	186	0.83	Putative [LysW]-lysine/[LysW]-ornithine hydrolase		0
+PEPT_ALISL	PEPT_ALISL	409	P06621_refseq_selected_blast_msa	-	368	6.4e-14	56.5	0.0	1	1	6.9e-16	3.7e-13	53.9946823120117	0.01	84	362	128	398	121	402	0.85	Peptidase T		0
+SCMP_BACSU	SCMP_BACSU	380	P06621_refseq_selected_blast_msa	-	368	6.4e-14	56.5	0.6	1	1	1.5e-16	8.4e-14	56.1265296936035	0.56	108	339	108	345	30	373	0.82	N-acetylcysteine deacetylase	1ysj_A	0
+P20D2_XENTR	P20D2_XENTR	443	P06621_refseq_selected_blast_msa	-	368	8.0e-14	56.2	0.0	1	1	1.9e-16	1.1e-13	55.8018989562988	0.03	103	310	126	331	124	404	0.80	Peptidase M20 domain-containing protein 2		0
+ABGB_ECOLI	ABGB_ECOLI	481	P06621_refseq_selected_blast_msa	-	368	8.6e-14	56.1	0.2	1	1	5.1e-16	2.8e-13	54.4291534423828	0.20	25	290	40	305	38	321	0.82	p-aminobenzoyl-glutamate hydrolase subunit B		0
+PEPT_PHOPR	PEPT_PHOPR	409	P06621_refseq_selected_blast_msa	-	368	1.1e-13	55.8	0.0	1	1	1.6e-14	8.9e-12	49.4615020751953	0.01	82	365	126	401	121	404	0.81	Peptidase T		0
+P20D1_BOVIN	P20D1_BOVIN	503	P06621_refseq_selected_blast_msa	-	368	2.0e-13	54.9	0.0	1	2	1.2e-08	6.5e-06	30.1758632659912	0.00	20	160	75	220	62	282	0.69	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+P20D1_BOVIN	P20D1_BOVIN	503	P06621_refseq_selected_blast_msa	-	368	2.0e-13	54.9	0.0	2	2	4.2e-06	0.0023	21.7835006713867	0.02	212	293	330	406	320	428	0.82	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+AMAB1_GEOSE	AMAB1_GEOSE	409	P06621_refseq_selected_blast_msa	-	368	2.1e-13	54.8	0.7	1	2	0.00058	0.32	14.7529811859131	0.10	72	136	81	127	28	140	0.79	N-carbamoyl-L-amino acid hydrolase		0
+AMAB1_GEOSE	AMAB1_GEOSE	409	P06621_refseq_selected_blast_msa	-	368	2.1e-13	54.8	0.7	2	2	3.1e-10	1.7e-07	35.4063987731934	0.05	156	322	195	359	190	382	0.77	N-carbamoyl-L-amino acid hydrolase		0
+P20D2_MOUSE	P20D2_MOUSE	431	P06621_refseq_selected_blast_msa	-	368	2.9e-13	54.3	0.0	1	1	8.0e-16	4.4e-13	53.7765769958496	0.01	103	306	129	330	127	347	0.83	Peptidase M20 domain-containing protein 2		0
+CBPX2_SACS2	CBPX2_SACS2	393	P06621_refseq_selected_blast_msa	-	368	3.3e-13	54.2	0.0	1	1	1.1e-15	5.8e-13	53.3756675720215	0.01	25	321	39	337	34	345	0.81	Thermostable carboxypeptidase 2		0
+HYUC_PSESN	HYUC_PSESN	414	P06621_refseq_selected_blast_msa	-	368	3.8e-13	54.0	0.1	1	1	1.9e-12	1.0e-09	42.6543045043945	0.00	167	364	211	409	202	412	0.87	N-carbamoyl-L-amino-acid hydrolase		0
+ILL4_ARATH	ILL4_ARATH	440	P06621_refseq_selected_blast_msa	-	368	4.6e-13	53.7	0.0	1	1	1.4e-15	7.4e-13	53.0142555236816	0.02	105	297	141	343	135	365	0.82	IAA-amino acid hydrolase ILR1-like 4		0
+CBPS1_DICDI	CBPS1_DICDI	485	P06621_refseq_selected_blast_msa	-	368	4.7e-13	53.7	0.0	1	2	9.1e-09	5.0e-06	30.5561923980713	0.00	60	150	101	194	62	200	0.83	Probable carboxypeptidase S-like 1		0
+CBPS1_DICDI	CBPS1_DICDI	485	P06621_refseq_selected_blast_msa	-	368	4.7e-13	53.7	0.0	2	2	7.3e-06	0.004	21.0084533691406	0.00	214	286	299	366	291	394	0.78	Probable carboxypeptidase S-like 1		0
+PEPT_LACSS	PEPT_LACSS	413	P06621_refseq_selected_blast_msa	-	368	5.1e-13	53.5	0.8	1	1	2.8e-15	1.5e-12	52.0051422119141	0.40	84	363	133	404	129	407	0.81	Peptidase T		0
+HYUC_PAEAU	HYUC_PAEAU	412	P06621_refseq_selected_blast_msa	-	368	5.3e-13	53.5	3.2	1	2	0.00051	0.28	14.9295644760132	0.04	94	143	89	137	81	161	0.88	N-carbamoyl-L-amino-acid hydrolase		0
+HYUC_PAEAU	HYUC_PAEAU	412	P06621_refseq_selected_blast_msa	-	368	5.3e-13	53.5	3.2	2	2	3.9e-11	2.1e-08	38.3630561828613	0.82	166	366	208	408	197	410	0.81	N-carbamoyl-L-amino-acid hydrolase		0
+DUG1_SCHPO	DUG1_SCHPO	476	P06621_refseq_selected_blast_msa	-	368	9.3e-13	52.7	0.0	1	1	1.6e-13	8.5e-11	46.2380218505859	0.00	3	189	21	231	19	233	0.77	Cys-Gly metallodipeptidase dug1		0
+CBPX1_SACS2	CBPX1_SACS2	393	P06621_refseq_selected_blast_msa	-	368	1.0e-12	52.6	0.0	1	1	3.8e-15	2.0e-12	51.5672492980957	0.01	26	322	40	338	34	357	0.79	Thermostable carboxypeptidase 1		0
+DUG2_YEAST	DUG2_YEAST	878	P06621_refseq_selected_blast_msa	-	368	1.1e-12	52.4	0.0	1	1	3.9e-13	2.1e-10	44.9506568908691	0.00	50	146	500	599	437	603	0.88	Probable di- and tripeptidase DUG2		0
+HIPO_CAMJE	HIPO_CAMJE	383	P06621_refseq_selected_blast_msa	-	368	1.5e-12	52.0	0.0	1	1	5.5e-15	3.0e-12	51.019718170166	0.01	25	308	35	317	32	323	0.80	Hippurate hydrolase		0
+CNDP2_HUMAN	CNDP2_HUMAN	475	P06621_refseq_selected_blast_msa	-	368	2.0e-12	51.6	0.0	1	1	3.6e-14	2.0e-11	48.3275146484375	0.00	2	145	19	178	18	238	0.83	Cytosolic non-specific dipeptidase	4ruh_B	0
+CNDP2_BOVIN	CNDP2_BOVIN	475	P06621_refseq_selected_blast_msa	-	368	4.0e-12	50.6	0.0	1	1	3.1e-13	1.7e-10	45.2776069641113	0.01	2	146	19	179	18	221	0.82	Cytosolic non-specific dipeptidase		0
+DUG1_CANAL	DUG1_CANAL	485	P06621_refseq_selected_blast_msa	-	368	4.8e-12	50.3	0.0	1	1	2.9e-13	1.6e-10	45.3446578979492	0.00	3	150	28	195	26	242	0.76	Cys-Gly metallodipeptidase DUG1		0
+PEPD_ECOLI	PEPD_ECOLI	485	P06621_refseq_selected_blast_msa	-	368	6.0e-12	50.0	0.0	1	3	4.4e-07	0.00024	25.0305194854736	0.03	7	174	18	183	13	191	0.73	Cytosol non-specific dipeptidase		0
+PEPD_ECOLI	PEPD_ECOLI	485	P06621_refseq_selected_blast_msa	-	368	6.0e-12	50.0	0.0	2	3	0.0046	2.5	11.8076047897339	0.01	173	269	200	292	193	303	0.82	Cytosol non-specific dipeptidase		0
+PEPD_ECOLI	PEPD_ECOLI	485	P06621_refseq_selected_blast_msa	-	368	6.0e-12	50.0	0.0	3	3	0.025	14	9.36046028137207	0.00	219	367	344	481	330	482	0.74	Cytosol non-specific dipeptidase		0
+CNDP2_PONAB	CNDP2_PONAB	475	P06621_refseq_selected_blast_msa	-	368	7.2e-12	49.8	0.0	1	1	3.7e-13	2.0e-10	45.0027923583984	0.00	2	146	19	179	18	245	0.83	Cytosolic non-specific dipeptidase		0
+ARGE_ARATH	ARGE_ARATH	440	P06621_refseq_selected_blast_msa	-	368	9.7e-12	49.3	0.0	1	1	5.6e-11	3.1e-08	37.8252334594727	0.02	47	206	76	242	49	248	0.79	Acetylornithine deacetylase		0
+ILL5_ARATH	ILL5_ARATH	435	P06621_refseq_selected_blast_msa	-	368	1.1e-11	49.1	0.0	1	1	3.7e-14	2.0e-11	48.3017921447754	0.01	106	294	142	340	138	355	0.83	IAA-amino acid hydrolase ILR1-like 5		0
+ALLC_BACSU	ALLC_BACSU	412	P06621_refseq_selected_blast_msa	-	368	1.3e-11	48.9	0.1	1	1	6.5e-11	3.5e-08	37.6340599060059	0.00	157	368	200	410	196	410	0.85	Allantoate amidohydrolase		0
+CNDP2_MOUSE	CNDP2_MOUSE	475	P06621_refseq_selected_blast_msa	-	368	2.3e-11	48.1	0.0	1	1	2.6e-13	1.4e-10	45.5079917907715	0.00	2	146	19	179	18	193	0.81	Cytosolic non-specific dipeptidase	2zof_A	0
+DAPEL_LEUMM	DAPEL_LEUMM	384	P06621_refseq_selected_blast_msa	-	368	2.6e-11	47.9	0.0	1	1	1.0e-13	5.4e-11	46.8872184753418	0.02	172	314	179	322	169	364	0.84	N-acetyldiaminopimelate deacetylase		0
+Y1513_STAHJ	Y1513_STAHJ	383	P06621_refseq_selected_blast_msa	-	368	2.9e-11	47.8	0.0	1	1	8.1e-14	4.4e-11	47.174747467041	0.01	28	302	31	309	25	319	0.73	Uncharacterized hydrolase SH1513		0
+ALLC_ECOLI	ALLC_ECOLI	411	P06621_refseq_selected_blast_msa	-	368	3.1e-11	47.7	0.0	1	1	4.3e-11	2.3e-08	38.2181930541992	0.00	156	368	196	407	188	407	0.81	Allantoate amidohydrolase	2imo_B	0
+CNDP1_HUMAN	CNDP1_HUMAN	507	P06621_refseq_selected_blast_msa	-	368	3.6e-11	47.5	0.0	1	1	2.6e-12	1.4e-09	42.2130470275879	0.00	2	150	50	216	49	263	0.74	Beta-Ala-His dipeptidase	3dlj_B	0
+YE48_SCHPO	YE48_SCHPO	596	P06621_refseq_selected_blast_msa	-	368	6.4e-11	46.6	0.0	1	2	2.5e-09	1.4e-06	32.4130325317383	0.00	53	137	180	270	148	336	0.77	Uncharacterized carboxypeptidase C24C9.08		0
+YE48_SCHPO	YE48_SCHPO	596	P06621_refseq_selected_blast_msa	-	368	6.4e-11	46.6	0.0	2	2	0.0038	2.1	12.0574054718018	0.00	218	296	410	487	398	496	0.82	Uncharacterized carboxypeptidase C24C9.08		0
+DAPEL_STRMU	DAPEL_STRMU	376	P06621_refseq_selected_blast_msa	-	368	1.2e-10	45.7	0.1	1	1	3.6e-13	1.9e-10	45.0615425109863	0.10	172	306	174	310	163	317	0.87	N-acetyldiaminopimelate deacetylase		0
+CNDP1_RAT	CNDP1_RAT	492	P06621_refseq_selected_blast_msa	-	368	1.5e-10	45.4	0.0	1	1	8.3e-13	4.5e-10	43.8481330871582	0.00	2	182	25	229	24	239	0.72	Beta-Ala-His dipeptidase		0
+CNDP2_RAT	CNDP2_RAT	475	P06621_refseq_selected_blast_msa	-	368	1.5e-10	45.4	0.0	1	1	1.9e-12	1.0e-09	42.7081680297852	0.01	2	146	19	179	18	185	0.80	Cytosolic non-specific dipeptidase		0
+PEPD_HAEIN	PEPD_HAEIN	484	P06621_refseq_selected_blast_msa	-	368	1.8e-10	45.1	0.5	1	2	5.5e-05	0.03	18.1113662719727	0.01	11	144	22	156	13	191	0.72	Cytosol non-specific dipeptidase		0
+PEPD_HAEIN	PEPD_HAEIN	484	P06621_refseq_selected_blast_msa	-	368	1.8e-10	45.1	0.5	2	2	0.00092	0.5	14.0985355377197	1.05	179	260	205	282	201	325	0.72	Cytosol non-specific dipeptidase		0
+Y1078_STAES	Y1078_STAES	383	P06621_refseq_selected_blast_msa	-	368	1.9e-10	45.1	0.0	1	1	4.7e-13	2.5e-10	44.6804847717285	0.01	104	299	101	306	26	317	0.74	Uncharacterized hydrolase SE_1078		0
+Y968_STAEQ	Y968_STAEQ	383	P06621_refseq_selected_blast_msa	-	368	2.4e-10	44.8	0.0	1	1	6.1e-13	3.3e-10	44.30712890625	0.01	105	299	102	306	27	317	0.77	Uncharacterized hydrolase SERP0968		0
+DAPEL_LEUCK	DAPEL_LEUCK	387	P06621_refseq_selected_blast_msa	-	368	2.7e-10	44.6	0.0	1	1	8.0e-13	4.3e-10	43.9113998413086	0.02	172	303	180	313	169	368	0.81	N-acetyldiaminopimelate deacetylase		0
+AAH2_SOYBN	AAH2_SOYBN	483	P06621_refseq_selected_blast_msa	-	368	3.2e-10	44.4	0.4	1	2	0.00019	0.1	16.3534088134766	0.28	23	135	82	174	76	182	0.71	Allantoate deiminase 2		0
+AAH2_SOYBN	AAH2_SOYBN	483	P06621_refseq_selected_blast_msa	-	368	3.2e-10	44.4	0.4	2	2	0.0084	4.5	10.9429292678833	0.00	230	354	339	468	319	481	0.71	Allantoate deiminase 2		0
+AAH1_SOYBN	AAH1_SOYBN	483	P06621_refseq_selected_blast_msa	-	368	3.4e-10	44.2	0.3	1	2	0.00013	0.068	16.9465770721436	0.33	23	134	82	173	75	182	0.68	Allantoate deiminase 1		0
+AAH1_SOYBN	AAH1_SOYBN	483	P06621_refseq_selected_blast_msa	-	368	3.4e-10	44.2	0.3	2	2	0.012	6.7	10.3915853500366	0.00	230	351	339	465	320	479	0.72	Allantoate deiminase 1		0
+CNDP1_MOUSE	CNDP1_MOUSE	492	P06621_refseq_selected_blast_msa	-	368	4.3e-10	43.9	0.0	1	1	2.8e-12	1.5e-09	42.105899810791	0.00	2	148	25	189	24	238	0.75	Beta-Ala-His dipeptidase		0
+DAPEL_STRPI	DAPEL_STRPI	376	P06621_refseq_selected_blast_msa	-	368	5.8e-10	43.5	0.1	1	1	1.7e-12	9.4e-10	42.8034400939941	0.07	172	304	173	307	149	326	0.84	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRR6	DAPEL_STRR6	376	P06621_refseq_selected_blast_msa	-	368	5.8e-10	43.5	0.1	1	1	1.7e-12	9.4e-10	42.8034400939941	0.07	172	304	173	307	149	326	0.84	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRP2	DAPEL_STRP2	376	P06621_refseq_selected_blast_msa	-	368	5.8e-10	43.5	0.1	1	1	1.7e-12	9.4e-10	42.8034400939941	0.07	172	304	173	307	149	326	0.84	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRPJ	DAPEL_STRPJ	376	P06621_refseq_selected_blast_msa	-	368	5.8e-10	43.5	0.1	1	1	1.7e-12	9.4e-10	42.8034400939941	0.07	172	304	173	307	149	326	0.84	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRZJ	DAPEL_STRZJ	376	P06621_refseq_selected_blast_msa	-	368	5.8e-10	43.5	0.1	1	1	1.7e-12	9.4e-10	42.8034400939941	0.07	172	304	173	307	149	326	0.84	N-acetyldiaminopimelate deacetylase		0
+P20D2_HUMAN	P20D2_HUMAN	436	P06621_refseq_selected_blast_msa	-	368	5.9e-10	43.5	0.0	1	1	1.5e-12	8.3e-10	42.9899291992188	0.00	121	306	152	335	132	347	0.77	Peptidase M20 domain-containing protein 2		0
+DAPEL_STRPN	DAPEL_STRPN	376	P06621_refseq_selected_blast_msa	-	368	6.4e-10	43.4	0.2	1	1	2.0e-12	1.1e-09	42.5736236572266	0.19	172	304	173	307	160	326	0.83	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRPS	DAPEL_STRPS	376	P06621_refseq_selected_blast_msa	-	368	6.6e-10	43.3	0.2	1	1	2.0e-12	1.1e-09	42.5736236572266	0.19	172	304	173	307	160	326	0.83	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRP7	DAPEL_STRP7	376	P06621_refseq_selected_blast_msa	-	368	6.7e-10	43.3	0.2	1	1	2.0e-12	1.1e-09	42.5736236572266	0.19	172	304	173	307	160	326	0.83	N-acetyldiaminopimelate deacetylase		0
+YPDE_ECOLI	YPDE_ECOLI	345	P06621_refseq_selected_blast_msa	-	368	7.0e-10	43.2	0.2	1	3	0.015	8.4	10.0640363693237	0.01	5	74	6	66	3	72	0.73	Aminopeptidase YpdE		0
+YPDE_ECOLI	YPDE_ECOLI	345	P06621_refseq_selected_blast_msa	-	368	7.0e-10	43.2	0.2	2	3	0.0026	1.4	12.6299962997437	0.01	97	156	164	221	148	241	0.84	Aminopeptidase YpdE		0
+YPDE_ECOLI	YPDE_ECOLI	345	P06621_refseq_selected_blast_msa	-	368	7.0e-10	43.2	0.2	3	3	0.00011	0.06	17.1265258789062	0.09	293	368	257	333	252	333	0.90	Aminopeptidase YpdE		0
+Y1352_STAS1	Y1352_STAS1	385	P06621_refseq_selected_blast_msa	-	368	7.1e-10	43.2	0.0	1	1	3.1e-12	1.7e-09	41.9933013916016	0.00	108	296	105	303	98	313	0.76	Uncharacterized hydrolase SSP1352		0
+Y1253_STAAB	Y1253_STAAB	383	P06621_refseq_selected_blast_msa	-	368	7.8e-10	43.1	0.0	1	1	2.3e-12	1.3e-09	42.3742485046387	0.00	106	296	103	303	81	315	0.78	Uncharacterized hydrolase SAB1253		0
+Y1291_STAA3	Y1291_STAA3	383	P06621_refseq_selected_blast_msa	-	368	1.0e-09	42.7	0.0	1	1	3.7e-12	2.0e-09	41.704418182373	0.00	106	296	103	303	97	314	0.77	Uncharacterized hydrolase SAUSA300_1291		0
+Y1286_STAAW	Y1286_STAAW	383	P06621_refseq_selected_blast_msa	-	368	1.0e-09	42.7	0.0	1	1	3.7e-12	2.0e-09	41.704418182373	0.00	106	296	103	303	97	314	0.77	Uncharacterized hydrolase MW1286		0
+Y1399_STAA8	Y1399_STAA8	383	P06621_refseq_selected_blast_msa	-	368	1.0e-09	42.7	0.0	1	1	3.7e-12	2.0e-09	41.704418182373	0.00	106	296	103	303	97	314	0.77	Uncharacterized hydrolase SAOUHSC_01399		0
+Y1339_STAAS	Y1339_STAAS	383	P06621_refseq_selected_blast_msa	-	368	1.0e-09	42.7	0.0	1	1	3.7e-12	2.0e-09	41.704418182373	0.00	106	296	103	303	97	314	0.77	Uncharacterized hydrolase SAS1339		0
+Y1433_STAAC	Y1433_STAAC	383	P06621_refseq_selected_blast_msa	-	368	1.0e-09	42.7	0.0	1	1	3.7e-12	2.0e-09	41.704418182373	0.00	106	296	103	303	97	314	0.77	Uncharacterized hydrolase SACOL1433		0
+DAPEL_STRZT	DAPEL_STRZT	376	P06621_refseq_selected_blast_msa	-	368	1.1e-09	42.5	0.1	1	1	3.4e-12	1.9e-09	41.8224220275879	0.14	172	304	173	307	159	326	0.82	N-acetyldiaminopimelate deacetylase		0
+Y1410_STAAR	Y1410_STAAR	383	P06621_refseq_selected_blast_msa	-	368	1.1e-09	42.5	0.0	1	1	4.2e-12	2.3e-09	41.5517959594727	0.00	107	296	104	303	98	313	0.77	Uncharacterized hydrolase SAR1410		0
+AAH_ORYSJ	AAH_ORYSJ	491	P06621_refseq_selected_blast_msa	-	368	1.3e-09	42.4	0.3	1	2	0.0014	0.75	13.5172300338745	0.04	24	118	78	150	71	184	0.67	Probable allantoate deiminase		0
+AAH_ORYSJ	AAH_ORYSJ	491	P06621_refseq_selected_blast_msa	-	368	1.3e-09	42.4	0.3	2	2	0.0015	0.81	13.4071950912476	0.09	230	319	333	420	319	473	0.76	Probable allantoate deiminase		0
+DAPEL_OENOB	DAPEL_OENOB	382	P06621_refseq_selected_blast_msa	-	368	1.3e-09	42.3	0.0	1	1	3.2e-12	1.7e-09	41.9321212768555	0.01	172	350	178	359	105	368	0.81	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRSV	DAPEL_STRSV	377	P06621_refseq_selected_blast_msa	-	368	1.3e-09	42.3	0.0	1	1	3.7e-12	2.0e-09	41.7246589660645	0.00	172	304	173	307	158	346	0.82	N-acetyldiaminopimelate deacetylase		0
+Y3995_MYCS2	Y3995_MYCS2	438	P06621_refseq_selected_blast_msa	-	368	1.4e-09	42.2	0.6	1	1	8.4e-11	4.5e-08	37.2644538879395	1.32	171	367	228	424	187	425	0.86	Putative hydrolase MSMEG_3995/MSMEI_3903		0
+DAPEL_STRP4	DAPEL_STRP4	376	P06621_refseq_selected_blast_msa	-	368	1.6e-09	42.0	0.2	1	1	4.8e-12	2.6e-09	41.3373603820801	0.16	172	304	173	307	160	326	0.83	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRZP	DAPEL_STRZP	376	P06621_refseq_selected_blast_msa	-	368	1.9e-09	41.8	0.2	1	1	5.7e-12	3.1e-09	41.1107406616211	0.20	173	304	174	307	160	326	0.83	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRU0	DAPEL_STRU0	376	P06621_refseq_selected_blast_msa	-	368	2.0e-09	41.8	0.0	1	1	5.2e-12	2.8e-09	41.2440452575684	0.01	106	305	102	308	100	328	0.78	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LACF3	DAPEL_LACF3	384	P06621_refseq_selected_blast_msa	-	368	2.0e-09	41.7	0.2	1	1	6.5e-12	3.5e-09	40.9133529663086	0.19	172	297	178	305	170	322	0.80	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRT1	DAPEL_STRT1	377	P06621_refseq_selected_blast_msa	-	368	3.6e-09	40.9	0.2	1	1	1.2e-11	6.3e-09	40.0925140380859	0.16	172	301	174	305	163	312	0.81	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRT2	DAPEL_STRT2	377	P06621_refseq_selected_blast_msa	-	368	3.6e-09	40.9	0.2	1	1	1.2e-11	6.3e-09	40.0925140380859	0.16	172	301	174	305	163	312	0.81	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRTD	DAPEL_STRTD	377	P06621_refseq_selected_blast_msa	-	368	3.7e-09	40.8	0.1	1	1	1.2e-11	6.3e-09	40.0833053588867	0.11	172	301	174	305	163	311	0.81	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRGC	DAPEL_STRGC	377	P06621_refseq_selected_blast_msa	-	368	4.3e-09	40.6	0.0	1	1	1.3e-11	7.3e-09	39.8804473876953	0.01	172	295	173	298	152	332	0.82	N-acetyldiaminopimelate deacetylase		0
+AAH_ARATH	AAH_ARATH	525	P06621_refseq_selected_blast_msa	-	368	5.6e-09	40.3	0.2	1	2	0.0055	3	11.5421476364136	0.03	26	79	127	176	116	251	0.71	Allantoate deiminase		0
+AAH_ARATH	AAH_ARATH	525	P06621_refseq_selected_blast_msa	-	368	5.6e-09	40.3	0.2	2	2	0.001	0.55	13.9504127502441	0.03	230	353	381	509	360	519	0.75	Allantoate deiminase		0
+DAPEL_LACLS	DAPEL_LACLS	376	P06621_refseq_selected_blast_msa	-	368	5.7e-09	40.2	0.1	1	1	2.8e-11	1.5e-08	38.8499221801758	0.09	172	304	172	306	73	323	0.82	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACP2	DAPEL_BACP2	376	P06621_refseq_selected_blast_msa	-	368	5.7e-09	40.2	0.1	1	1	1.6e-11	8.5e-09	39.6642684936523	0.09	176	309	178	312	174	328	0.81	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LACLM	DAPEL_LACLM	376	P06621_refseq_selected_blast_msa	-	368	5.7e-09	40.2	0.1	1	1	2.8e-11	1.5e-08	38.8499221801758	0.09	172	304	172	306	73	323	0.82	N-acetyldiaminopimelate deacetylase		0
+IAP_ECOLI	IAP_ECOLI	345	P06621_refseq_selected_blast_msa	-	368	1.2e-08	39.1	0.4	1	1	5.5e-11	3.0e-08	37.8630790710449	0.08	46	148	93	190	83	201	0.85	Alkaline phosphatase isozyme conversion protein		0
+DAPEL_LACLA	DAPEL_LACLA	384	P06621_refseq_selected_blast_msa	-	368	1.3e-08	39.1	0.1	1	1	4.0e-11	2.2e-08	38.3198547363281	0.12	172	305	172	307	74	321	0.76	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACVZ	DAPEL_BACVZ	374	P06621_refseq_selected_blast_msa	-	368	1.3e-08	39.1	0.2	1	1	3.3e-11	1.8e-08	38.5979804992676	0.16	175	284	176	285	172	327	0.82	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRSY	DAPEL_STRSY	375	P06621_refseq_selected_blast_msa	-	368	1.3e-08	39.0	0.1	1	1	3.7e-11	2.0e-08	38.4394035339355	0.05	172	302	173	305	100	315	0.86	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRS2	DAPEL_STRS2	375	P06621_refseq_selected_blast_msa	-	368	1.3e-08	39.0	0.1	1	1	3.7e-11	2.0e-08	38.4394035339355	0.05	172	302	173	305	100	315	0.86	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACMQ	DAPEL_BACMQ	375	P06621_refseq_selected_blast_msa	-	368	1.4e-08	38.9	0.1	1	1	4.3e-11	2.4e-08	38.205623626709	0.13	176	279	177	282	165	315	0.79	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LACP3	DAPEL_LACP3	383	P06621_refseq_selected_blast_msa	-	368	1.6e-08	38.8	0.1	1	1	5.0e-11	2.7e-08	37.9900054931641	0.06	172	303	177	310	164	320	0.86	N-acetyldiaminopimelate deacetylase		0
+AGAA_CORST	AGAA_CORST	400	P06621_refseq_selected_blast_msa	-	368	1.7e-08	38.7	0.4	1	1	5.3e-11	2.9e-08	37.929859161377	0.11	173	280	189	298	113	366	0.79	N(alpha)-acyl-glutamine aminoacylase	6slf_D	0
+DAPEL_LACCB	DAPEL_LACCB	383	P06621_refseq_selected_blast_msa	-	368	2.0e-08	38.4	0.1	1	1	6.4e-11	3.5e-08	37.656192779541	0.05	172	303	177	310	164	320	0.85	N-acetyldiaminopimelate deacetylase		0
+Y1398_STAAM	Y1398_STAAM	383	P06621_refseq_selected_blast_msa	-	368	2.6e-08	38.1	0.0	1	1	9.9e-11	5.4e-08	37.0304718017578	0.00	106	296	103	303	98	313	0.76	Uncharacterized hydrolase SAV1398		0
+Y1230_STAAN	Y1230_STAAN	383	P06621_refseq_selected_blast_msa	-	368	2.6e-08	38.1	0.0	1	1	9.9e-11	5.4e-08	37.0304718017578	0.00	106	296	103	303	98	313	0.76	Uncharacterized hydrolase SA1230		0
+DAPEL_BACSK	DAPEL_BACSK	374	P06621_refseq_selected_blast_msa	-	368	3.1e-08	37.8	0.0	1	1	7.2e-11	3.9e-08	37.4743003845215	0.03	175	276	175	278	102	328	0.79	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACSU	DAPEL_BACSU	374	P06621_refseq_selected_blast_msa	-	368	3.3e-08	37.7	0.2	1	1	9.0e-11	4.9e-08	37.1523666381836	0.17	175	304	176	306	171	327	0.78	N-acetyldiaminopimelate deacetylase		0
+DAPEL_PEDPA	DAPEL_PEDPA	384	P06621_refseq_selected_blast_msa	-	368	3.7e-08	37.6	0.1	1	1	2.0e-10	1.1e-07	35.9959030151367	0.09	171	302	178	311	105	350	0.75	N-acetyldiaminopimelate deacetylase		0
+ILL5_ORYSJ	ILL5_ORYSJ	426	P06621_refseq_selected_blast_msa	-	368	3.8e-08	37.5	1.2	1	1	1.0e-10	5.6e-08	36.9555778503418	1.16	26	343	59	379	54	406	0.78	IAA-amino acid hydrolase ILR1-like 5		0
+DAPEL_BACHD	DAPEL_BACHD	371	P06621_refseq_selected_blast_msa	-	368	4.1e-08	37.4	0.0	1	1	1.0e-10	5.6e-08	36.9556770324707	0.04	175	266	175	269	149	302	0.86	N-acetyldiaminopimelate deacetylase		0
+YQJN_BACSU	YQJN_BACSU	547	P06621_refseq_selected_blast_msa	-	368	4.2e-08	37.4	0.0	1	1	1.1e-07	5.9e-05	27.0318450927734	0.01	88	156	125	194	119	262	0.70	Uncharacterized protein YqjN		0
+DAPEL_ENTFA	DAPEL_ENTFA	378	P06621_refseq_selected_blast_msa	-	368	4.4e-08	37.3	0.0	1	1	1.1e-10	6.0e-08	36.8724784851074	0.04	174	295	178	305	104	346	0.73	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACLD	DAPEL_BACLD	374	P06621_refseq_selected_blast_msa	-	368	4.7e-08	37.2	0.1	1	1	1.3e-10	7.1e-08	36.6312675476074	0.15	175	306	176	308	172	325	0.79	N-acetyldiaminopimelate deacetylase		0
+ARGE_DICDI	ARGE_DICDI	447	P06621_refseq_selected_blast_msa	-	368	4.8e-08	37.2	0.0	1	1	1.1e-07	5.9e-05	27.0128879547119	0.01	62	205	94	243	63	250	0.72	Acetylornithine deacetylase		0
+NAAA_BRASZ	NAAA_BRASZ	425	P06621_refseq_selected_blast_msa	-	368	7.4e-08	36.6	0.0	1	1	2.6e-07	0.00014	25.7842960357666	0.02	7	131	27	156	21	163	0.79	5-nitroanthranilic acid aminohydrolase	5k8n_D	0
+DAPEL_GEOKA	DAPEL_GEOKA	377	P06621_refseq_selected_blast_msa	-	368	1.2e-07	35.9	0.1	1	1	2.8e-10	1.5e-07	35.547981262207	0.07	175	270	177	275	103	318	0.79	N-acetyldiaminopimelate deacetylase		0
+Y588_HAEIN	Y588_HAEIN	411	P06621_refseq_selected_blast_msa	-	368	1.3e-07	35.8	0.2	1	1	2.7e-08	1.5e-05	29.0179119110107	0.12	166	366	205	405	196	407	0.82	Uncharacterized hydrolase HI_0588		0
+DUG1_YEAST	DUG1_YEAST	481	P06621_refseq_selected_blast_msa	-	368	1.6e-07	35.4	0.0	1	1	1.0e-08	5.6e-06	30.3953037261963	0.00	61	150	93	188	62	236	0.76	Cys-Gly metallodipeptidase DUG1	4g1p_A	0
+DAPEL_BACCR	DAPEL_BACCR	376	P06621_refseq_selected_blast_msa	-	368	1.8e-07	35.3	0.1	1	1	4.8e-10	2.6e-07	34.7793121337891	0.12	175	285	176	286	165	315	0.81	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACMK	DAPEL_BACMK	376	P06621_refseq_selected_blast_msa	-	368	2.0e-07	35.1	0.2	1	1	5.3e-10	2.9e-07	34.6138458251953	0.22	175	278	176	279	169	314	0.80	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACC1	DAPEL_BACC1	376	P06621_refseq_selected_blast_msa	-	368	2.3e-07	34.9	0.3	1	1	6.4e-10	3.5e-07	34.3594932556152	0.28	175	285	176	286	166	318	0.79	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACC0	DAPEL_BACC0	376	P06621_refseq_selected_blast_msa	-	368	2.3e-07	34.9	0.3	1	1	6.4e-10	3.5e-07	34.3594932556152	0.28	175	285	176	286	166	318	0.79	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACCZ	DAPEL_BACCZ	376	P06621_refseq_selected_blast_msa	-	368	2.3e-07	34.9	0.3	1	1	6.4e-10	3.5e-07	34.3594932556152	0.28	175	285	176	286	166	318	0.79	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACAH	DAPEL_BACAH	376	P06621_refseq_selected_blast_msa	-	368	2.3e-07	34.9	0.3	1	1	6.4e-10	3.5e-07	34.3594932556152	0.28	175	285	176	286	166	318	0.79	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACAN	DAPEL_BACAN	376	P06621_refseq_selected_blast_msa	-	368	2.3e-07	34.9	0.3	1	1	6.4e-10	3.5e-07	34.3594932556152	0.28	175	285	176	286	166	318	0.79	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACAA	DAPEL_BACAA	376	P06621_refseq_selected_blast_msa	-	368	2.3e-07	34.9	0.3	1	1	6.4e-10	3.5e-07	34.3594932556152	0.28	175	285	176	286	166	318	0.79	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACAC	DAPEL_BACAC	376	P06621_refseq_selected_blast_msa	-	368	2.3e-07	34.9	0.3	1	1	6.4e-10	3.5e-07	34.3594932556152	0.28	175	285	176	286	166	318	0.79	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACHK	DAPEL_BACHK	376	P06621_refseq_selected_blast_msa	-	368	2.3e-07	34.9	0.3	1	1	6.4e-10	3.5e-07	34.3594932556152	0.28	175	285	176	286	166	318	0.79	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACC7	DAPEL_BACC7	376	P06621_refseq_selected_blast_msa	-	368	2.6e-07	34.8	0.2	1	1	7.1e-10	3.9e-07	34.2047576904297	0.19	175	283	176	284	166	317	0.79	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACC3	DAPEL_BACC3	376	P06621_refseq_selected_blast_msa	-	368	2.7e-07	34.7	0.2	1	1	7.4e-10	4.0e-07	34.1461906433105	0.24	175	285	176	286	166	318	0.79	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACC2	DAPEL_BACC2	376	P06621_refseq_selected_blast_msa	-	368	2.8e-07	34.7	0.2	1	1	7.5e-10	4.1e-07	34.1323165893555	0.24	175	267	176	271	165	313	0.82	N-acetyldiaminopimelate deacetylase		0
+Y555_METJA	Y555_METJA	350	P06621_refseq_selected_blast_msa	-	368	3.0e-07	34.6	0.1	1	2	0.01	5.4	10.6833534240723	0.01	5	72	7	64	3	66	0.75	Putative aminopeptidase MJ0555		0
+Y555_METJA	Y555_METJA	350	P06621_refseq_selected_blast_msa	-	368	3.0e-07	34.6	0.1	2	2	0.0021	1.1	12.9173555374146	0.04	89	141	166	215	157	241	0.84	Putative aminopeptidase MJ0555		0
+DAPEL_BACCN	DAPEL_BACCN	376	P06621_refseq_selected_blast_msa	-	368	3.2e-07	34.5	0.3	1	1	8.8e-10	4.8e-07	33.8992347717285	0.28	175	268	176	272	167	314	0.81	N-acetyldiaminopimelate deacetylase		0
+DAPEL_EXIS2	DAPEL_EXIS2	370	P06621_refseq_selected_blast_msa	-	368	3.7e-07	34.3	0.0	1	1	9.3e-10	5.0e-07	33.8281898498535	0.00	143	313	139	313	98	337	0.70	N-acetyldiaminopimelate deacetylase		0
+DAPEL_GEOSW	DAPEL_GEOSW	376	P06621_refseq_selected_blast_msa	-	368	3.8e-07	34.2	0.0	1	1	9.3e-10	5.0e-07	33.8244781494141	0.01	175	269	177	274	103	311	0.82	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACC4	DAPEL_BACC4	376	P06621_refseq_selected_blast_msa	-	368	4.1e-07	34.1	0.2	1	1	1.1e-09	6.0e-07	33.5756607055664	0.16	175	267	176	271	165	311	0.83	N-acetyldiaminopimelate deacetylase		0
+UAH_ORYSJ	UAH_ORYSJ	484	P06621_refseq_selected_blast_msa	-	368	4.5e-07	34.0	0.0	1	2	0.015	7.9	10.1434898376465	0.01	96	135	156	195	155	211	0.88	Ureidoglycolate hydrolase		0
+UAH_ORYSJ	UAH_ORYSJ	484	P06621_refseq_selected_blast_msa	-	368	4.5e-07	34.0	0.0	2	2	4.8e-06	0.0026	21.5994243621826	0.05	166	368	277	481	268	481	0.75	Ureidoglycolate hydrolase		0
+YHFE_BACSU	YHFE_BACSU	346	P06621_refseq_selected_blast_msa	-	368	5.3e-07	33.8	0.1	1	1	8.8e-05	0.048	17.4570751190186	0.04	2	73	8	71	7	78	0.82	Putative aminopeptidase YhfE		0
+DAPEL_BACCQ	DAPEL_BACCQ	376	P06621_refseq_selected_blast_msa	-	368	6.7e-07	33.4	0.1	1	1	1.9e-09	1.0e-06	32.8311958312988	0.14	175	280	176	281	166	317	0.79	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LACRD	DAPEL_LACRD	381	P06621_refseq_selected_blast_msa	-	368	8.4e-07	33.1	0.0	1	1	3.9e-09	2.1e-06	31.7766227722168	0.00	172	298	178	306	165	346	0.81	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LACRJ	DAPEL_LACRJ	381	P06621_refseq_selected_blast_msa	-	368	8.4e-07	33.1	0.0	1	1	3.9e-09	2.1e-06	31.7766227722168	0.00	172	298	178	306	165	346	0.81	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LACAC	DAPEL_LACAC	383	P06621_refseq_selected_blast_msa	-	368	8.9e-07	33.0	0.0	1	1	3.7e-09	2.0e-06	31.8582725524902	0.00	172	290	180	300	167	357	0.80	N-acetyldiaminopimelate deacetylase		0
+APX_STRGG	APX_STRGG	445	P06621_refseq_selected_blast_msa	-	368	1.9e-06	31.9	0.0	1	1	1.2e-07	6.6e-05	26.8564033508301	0.01	19	145	77	188	58	198	0.91	Aminopeptidase S	1qq9_A	0
+DAPEL_LACS1	DAPEL_LACS1	381	P06621_refseq_selected_blast_msa	-	368	2.0e-06	31.8	0.0	1	1	7.4e-09	4.0e-06	30.8545436859131	0.01	172	298	175	306	102	325	0.65	N-acetyldiaminopimelate deacetylase		0
+DAPEL_GEOTN	DAPEL_GEOTN	377	P06621_refseq_selected_blast_msa	-	368	2.6e-06	31.5	0.1	1	1	5.8e-09	3.2e-06	31.2037334442139	0.07	175	269	177	274	103	311	0.83	N-acetyldiaminopimelate deacetylase		0
+UAH_ARATH	UAH_ARATH	476	P06621_refseq_selected_blast_msa	-	368	2.8e-06	31.4	0.0	1	1	2.7e-06	0.0015	22.4227714538574	0.03	164	366	267	471	260	473	0.75	Ureidoglycolate hydrolase	4pxc_A	0
+LAP1_ASPCL	LAP1_ASPCL	388	P06621_refseq_selected_blast_msa	-	368	4.1e-06	30.8	0.1	1	1	2.3e-08	1.3e-05	29.2088184356689	0.09	10	150	132	262	127	293	0.84	Leucine aminopeptidase 1		0
+YHAA_BACSU	YHAA_BACSU	396	P06621_refseq_selected_blast_msa	-	368	4.2e-06	30.8	0.0	1	1	1.6e-08	9.0e-06	29.7154960632324	0.06	105	321	115	340	102	364	0.77	Putative amidohydrolase YhaA		0
+AMPX_VIBPR	AMPX_VIBPR	504	P06621_refseq_selected_blast_msa	-	368	4.5e-06	30.7	0.0	1	1	1.4e-08	7.5e-06	29.9642696380615	0.01	38	150	170	274	137	291	0.74	Bacterial leucyl aminopeptidase	3b3v_A	0
+LAP1_PENRW	LAP1_PENRW	385	P06621_refseq_selected_blast_msa	-	368	6.4e-06	30.2	0.1	1	1	4.0e-08	2.2e-05	28.4422702789307	0.05	11	153	130	262	124	278	0.86	Leucine aminopeptidase 1		0
+LIE1_STREX	LIE1_STREX	438	P06621_refseq_selected_blast_msa	-	368	7.0e-06	30.1	0.0	1	1	5.8e-07	0.00032	24.615478515625	0.01	18	147	71	185	55	194	0.90	Leupeptin-inactivating enzyme 1		0
+DAPEL_ANOFW	DAPEL_ANOFW	378	P06621_refseq_selected_blast_msa	-	368	7.1e-06	30.1	0.1	1	1	1.8e-08	1.0e-05	29.5641613006592	0.09	176	269	173	269	148	316	0.83	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LISIV	DAPEL_LISIV	372	P06621_refseq_selected_blast_msa	-	368	1.3e-05	29.2	0.0	1	1	3.9e-08	2.1e-05	28.4864749908447	0.01	176	291	177	294	173	320	0.81	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LACH4	DAPEL_LACH4	384	P06621_refseq_selected_blast_msa	-	368	1.4e-05	29.1	0.0	1	1	5.6e-08	3.1e-05	27.9621753692627	0.00	173	298	181	308	172	356	0.81	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LISMF	DAPEL_LISMF	371	P06621_refseq_selected_blast_msa	-	368	1.4e-05	29.0	0.0	1	1	4.3e-08	2.4e-05	28.334056854248	0.01	176	287	176	289	172	309	0.82	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LISMC	DAPEL_LISMC	371	P06621_refseq_selected_blast_msa	-	368	1.4e-05	29.0	0.0	1	1	4.3e-08	2.4e-05	28.334056854248	0.01	176	287	176	289	172	309	0.82	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LISMO	DAPEL_LISMO	371	P06621_refseq_selected_blast_msa	-	368	1.6e-05	28.9	0.0	1	1	4.4e-08	2.4e-05	28.3083248138428	0.01	176	287	176	289	172	310	0.82	N-acetyldiaminopimelate deacetylase		0
+CBPQ_BOVIN	CBPQ_BOVIN	472	P06621_refseq_selected_blast_msa	-	368	1.9e-05	28.6	0.0	1	1	1.5e-07	8.3e-05	26.5300540924072	0.01	94	159	297	363	292	369	0.91	Carboxypeptidase Q		0
+DAPEL_LISW6	DAPEL_LISW6	371	P06621_refseq_selected_blast_msa	-	368	2.2e-05	28.4	0.0	1	1	6.5e-08	3.5e-05	27.7504653930664	0.00	176	289	176	291	172	315	0.82	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LISMH	DAPEL_LISMH	371	P06621_refseq_selected_blast_msa	-	368	2.3e-05	28.4	0.0	1	1	7.0e-08	3.8e-05	27.6490421295166	0.01	176	287	176	289	172	310	0.82	N-acetyldiaminopimelate deacetylase		0
+LAP1_ASPOR	LAP1_ASPOR	387	P06621_refseq_selected_blast_msa	-	368	2.7e-05	28.1	0.1	1	1	1.5e-07	8.1e-05	26.559591293335	0.09	11	173	132	287	126	295	0.79	Leucine aminopeptidase 1		0
+LAP1_ASPFN	LAP1_ASPFN	387	P06621_refseq_selected_blast_msa	-	368	2.7e-05	28.1	0.1	1	1	1.5e-07	8.1e-05	26.559591293335	0.09	11	173	132	287	126	295	0.79	Leucine aminopeptidase 1		0
+DAPEL_LISIN	DAPEL_LISIN	371	P06621_refseq_selected_blast_msa	-	368	3.0e-05	28.0	0.0	1	1	8.9e-08	4.8e-05	27.3026752471924	0.01	176	287	176	289	172	310	0.82	N-acetyldiaminopimelate deacetylase		0
+LAPA_ASPOR	LAPA_ASPOR	377	P06621_refseq_selected_blast_msa	-	368	4.1e-05	27.5	0.0	1	1	1.4e-07	7.8e-05	26.6280536651611	0.02	37	152	145	252	125	271	0.80	Leucine aminopeptidase A	7oez_A	0
+CBPQ_MOUSE	CBPQ_MOUSE	470	P06621_refseq_selected_blast_msa	-	368	4.4e-05	27.4	0.0	1	1	3.9e-07	0.00021	25.1917934417725	0.01	93	161	294	363	289	370	0.91	Carboxypeptidase Q		0
+AMP_HUNTH	AMP_HUNTH	330	P06621_refseq_selected_blast_msa	-	368	5.0e-05	27.3	0.2	1	1	0.0003	0.16	15.7134714126587	0.04	98	143	167	208	157	231	0.85	Putative aminopeptidase		0
+CBPQ_RAT	CBPQ_RAT	472	P06621_refseq_selected_blast_msa	-	368	6.9e-05	26.8	0.0	1	1	3.4e-07	0.00019	25.3828201293945	0.01	93	161	296	365	291	383	0.90	Carboxypeptidase Q		0
+ERMP1_MOUSE	ERMP1_MOUSE	898	P06621_refseq_selected_blast_msa	-	368	7.3e-05	26.7	0.0	1	1	3.0e-07	0.00017	25.5492477416992	0.00	89	170	201	284	198	295	0.91	Endoplasmic reticulum metallopeptidase 1		0
+ERMP1_RAT	ERMP1_RAT	898	P06621_refseq_selected_blast_msa	-	368	7.4e-05	26.7	0.0	1	1	2.3e-07	0.00013	25.9239501953125	0.00	89	170	201	284	198	295	0.91	Endoplasmic reticulum metallopeptidase 1		0
+AMAA_GEOSE	AMAA_GEOSE	370	P06621_refseq_selected_blast_msa	-	368	7.8e-05	26.6	0.0	1	1	2.4e-07	0.00013	25.8625526428223	0.01	175	284	187	300	108	324	0.76	N-acyl-L-amino acid amidohydrolase		0
+YSDC_BACSU	YSDC_BACSU	361	P06621_refseq_selected_blast_msa	-	368	8.4e-05	26.5	0.8	1	1	0.0047	2.6	11.7545948028564	0.15	292	368	273	350	262	350	0.88	Putative aminopeptidase YsdC	1vhe_A	0
+LAP1_NEOFI	LAP1_NEOFI	388	P06621_refseq_selected_blast_msa	-	368	9.8e-05	26.3	0.0	1	1	6.4e-07	0.00035	24.482795715332	0.01	11	147	133	259	127	265	0.84	Leucine aminopeptidase 1		0
+LAP1_ASPFC	LAP1_ASPFC	388	P06621_refseq_selected_blast_msa	-	368	0.00012	26.0	0.0	1	1	8.2e-07	0.00044	24.1371192932129	0.01	12	148	134	260	128	265	0.83	Leucine aminopeptidase 1		0
+LAP1_ASPFU	LAP1_ASPFU	388	P06621_refseq_selected_blast_msa	-	368	0.00012	26.0	0.0	1	1	8.2e-07	0.00044	24.1371192932129	0.01	12	148	134	260	128	265	0.83	Leucine aminopeptidase 1		0
+LAP1_ASPFM	LAP1_ASPFM	388	P06621_refseq_selected_blast_msa	-	368	0.00012	26.0	0.0	1	1	8.2e-07	0.00044	24.1371192932129	0.01	12	148	134	260	128	265	0.83	Leucine aminopeptidase 1		0
+DAPEL_OCEIH	DAPEL_OCEIH	371	P06621_refseq_selected_blast_msa	-	368	0.00012	26.0	0.0	1	1	4.1e-07	0.00023	25.1063690185547	0.01	107	290	102	294	99	322	0.65	N-acetyldiaminopimelate deacetylase		0
+ROCB_BACSU	ROCB_BACSU	566	P06621_refseq_selected_blast_msa	-	368	0.00012	26.0	0.0	1	1	4.6e-06	0.0025	21.6785087585449	0.01	88	146	133	191	128	197	0.90	Protein RocB		0
+ILL6_ORYSJ	ILL6_ORYSJ	510	P06621_refseq_selected_blast_msa	-	368	0.00014	25.8	3.0	1	1	5.2e-07	0.00028	24.7875270843506	2.96	104	326	204	438	128	459	0.75	IAA-amino acid hydrolase ILR1-like 6		0
+DAPEL_LACPL	DAPEL_LACPL	384	P06621_refseq_selected_blast_msa	-	368	0.00015	25.7	0.5	1	1	5.9e-07	0.00032	24.5911121368408	0.53	172	297	179	306	106	323	0.77	N-acetyldiaminopimelate deacetylase		0
+LIE2_STREX	LIE2_STREX	1090	P06621_refseq_selected_blast_msa	-	368	0.00018	25.4	0.0	1	1	4.3e-06	0.0024	21.7505569458008	0.00	19	152	657	775	639	780	0.89	Leupeptin-inactivating enzyme 2		0
+ERMP1_XENLA	ERMP1_XENLA	876	P06621_refseq_selected_blast_msa	-	368	0.00018	25.4	0.0	1	1	9.0e-07	0.00049	23.9975051879883	0.02	89	171	180	264	156	279	0.90	Endoplasmic reticulum metallopeptidase 1		0
+ILL3_ARATH	ILL3_ARATH	428	P06621_refseq_selected_blast_msa	-	368	0.00025	25.0	0.0	1	1	6.7e-07	0.00036	24.4292602539062	0.00	105	308	134	348	57	389	0.76	IAA-amino acid hydrolase ILR1-like 3		0
+ERMP1_HUMAN	ERMP1_HUMAN	904	P06621_refseq_selected_blast_msa	-	368	0.00027	24.9	0.0	1	1	8.4e-07	0.00046	24.0971088409424	0.00	89	170	207	290	203	301	0.91	Endoplasmic reticulum metallopeptidase 1		0
+CBPS_YEAST	CBPS_YEAST	576	P06621_refseq_selected_blast_msa	-	368	0.00028	24.8	0.0	1	1	0.00018	0.099	16.4161987304688	0.00	53	136	149	242	121	255	0.74	Carboxypeptidase S		0
+ILL6_ARATH	ILL6_ARATH	464	P06621_refseq_selected_blast_msa	-	368	0.0003	24.7	0.0	1	1	1.1e-06	0.0006	23.7160186767578	0.01	105	361	182	451	176	458	0.76	IAA-amino acid hydrolase ILR1-like 6		0
+LAP1_PYRTT	LAP1_PYRTT	389	P06621_refseq_selected_blast_msa	-	368	0.0003	24.7	0.0	1	1	2.1e-06	0.0012	22.770450592041	0.04	26	152	143	264	133	285	0.76	Leucine aminopeptidase 1		0
+CBPS2_YEAST	CBPS2_YEAST	581	P06621_refseq_selected_blast_msa	-	368	0.00037	24.4	0.4	1	1	0.00099	0.54	13.9864721298218	0.00	53	137	151	245	126	255	0.78	Putative carboxypeptidase YOL153C		0
+LAP1_ASPNC	LAP1_ASPNC	391	P06621_refseq_selected_blast_msa	-	368	0.0004	24.3	0.0	1	1	2.2e-06	0.0012	22.7423343658447	0.03	24	151	146	266	134	297	0.80	Leucine aminopeptidase 1		0
+DAPEL_BREBN	DAPEL_BREBN	377	P06621_refseq_selected_blast_msa	-	368	0.00052	23.9	0.0	1	1	1.2e-06	0.00067	23.5456523895264	0.00	175	281	176	284	99	324	0.80	N-acetyldiaminopimelate deacetylase		0
+CBPQ_HUMAN	CBPQ_HUMAN	472	P06621_refseq_selected_blast_msa	-	368	0.00056	23.8	0.0	1	1	1.3e-05	0.007	20.1912040710449	0.01	94	159	297	363	292	372	0.84	Carboxypeptidase Q		0
+PFF1_YARLI	PFF1_YARLI	989	P06621_refseq_selected_blast_msa	-	368	0.00059	23.7	0.0	1	1	2.6e-06	0.0014	22.4648532867432	0.02	96	167	190	262	155	274	0.91	Vacuolar membrane protease		0
+LAP1_AJECN	LAP1_AJECN	385	P06621_refseq_selected_blast_msa	-	368	0.00072	23.4	0.0	1	1	4.0e-06	0.0022	21.8751640319824	0.02	26	150	143	259	123	278	0.83	Leucine aminopeptidase 1		0
+CBPQ_PONAB	CBPQ_PONAB	472	P06621_refseq_selected_blast_msa	-	368	0.00077	23.3	0.0	1	1	1.5e-05	0.0084	19.9333744049072	0.01	94	158	297	362	292	374	0.84	Carboxypeptidase Q		0
+LAP1_MAGO7	LAP1_MAGO7	401	P06621_refseq_selected_blast_msa	-	368	0.00084	23.2	0.4	1	1	5.8e-06	0.0032	21.3273887634277	0.37	27	150	147	262	135	269	0.83	Leucine aminopeptidase 1		0
+LAP1_PYRTR	LAP1_PYRTR	389	P06621_refseq_selected_blast_msa	-	368	0.00087	23.2	0.0	1	1	5.9e-06	0.0032	21.3024311065674	0.03	37	152	157	264	141	285	0.77	Leucine aminopeptidase 1		0
+PFF1_CANTT	PFF1_CANTT	908	P06621_refseq_selected_blast_msa	-	368	0.0013	22.6	0.0	1	1	1.0e-05	0.0056	20.5027236938477	0.00	95	167	184	256	144	263	0.83	Vacuolar membrane protease		0
+LAP1_LEPMJ	LAP1_LEPMJ	388	P06621_refseq_selected_blast_msa	-	368	0.0015	22.4	0.5	1	1	1.0e-05	0.0054	20.5634918212891	0.06	29	150	145	261	132	280	0.76	Leucine aminopeptidase 1		0
+LAP1_GROCL	LAP1_GROCL	408	P06621_refseq_selected_blast_msa	-	368	0.0015	22.4	0.0	1	1	8.1e-06	0.0044	20.852819442749	0.04	36	151	158	265	151	279	0.81	Leucine aminopeptidase 1		0
+LAP1_ASPSO	LAP1_ASPSO	377	P06621_refseq_selected_blast_msa	-	368	0.0016	22.3	0.0	1	1	6.3e-06	0.0034	21.2109031677246	0.01	45	152	151	252	132	271	0.79	Leucine aminopeptidase 1		0
+LAP1_AJECH	LAP1_AJECH	385	P06621_refseq_selected_blast_msa	-	368	0.0016	22.3	0.0	1	1	7.0e-06	0.0038	21.0721588134766	0.04	33	150	150	259	125	278	0.79	Leucine aminopeptidase 1		0
+LAP1_AJEC8	LAP1_AJEC8	385	P06621_refseq_selected_blast_msa	-	368	0.0016	22.3	0.0	1	1	7.0e-06	0.0038	21.0721588134766	0.04	33	150	150	259	125	278	0.79	Leucine aminopeptidase 1		0
+M28P2_UNCRE	M28P2_UNCRE	503	P06621_refseq_selected_blast_msa	-	368	0.0019	22.1	0.0	1	1	6.0e-06	0.0033	21.2823600769043	0.00	52	147	156	245	146	255	0.80	Probable zinc metalloprotease UREG_01421		0
+CBPQ_XENLA	CBPQ_XENLA	469	P06621_refseq_selected_blast_msa	-	368	0.0022	21.9	0.0	1	1	7.5e-06	0.0041	20.9648151397705	0.02	93	149	294	350	287	365	0.87	Carboxypeptidase Q		0
+GCS23_RHOJR	GCS23_RHOJR	793	P06621_refseq_selected_blast_msa	-	368	0.0022	21.8	0.0	1	1	1.1e-05	0.006	20.4197387695312	0.01	120	325	527	741	513	764	0.64	Putative glutamate--cysteine ligase 2-3		0
+APEA_BORBP	APEA_BORBP	458	P06621_refseq_selected_blast_msa	-	368	0.0023	21.8	0.1	1	2	0.028	15	9.21721458435059	0.01	76	143	235	296	233	305	0.81	Probable M18 family aminopeptidase 1		0
+APEA_BORBP	APEA_BORBP	458	P06621_refseq_selected_blast_msa	-	368	0.0023	21.8	0.1	2	2	0.011	6.2	10.490818977356	0.03	306	348	398	439	367	452	0.81	Probable M18 family aminopeptidase 1		0
+LAP1_UNCRE	LAP1_UNCRE	395	P06621_refseq_selected_blast_msa	-	368	0.0024	21.7	0.0	1	1	1.3e-05	0.0073	20.1413726806641	0.04	31	150	158	269	138	285	0.82	Leucine aminopeptidase 1		0
+LAP1_PHANO	LAP1_PHANO	389	P06621_refseq_selected_blast_msa	-	368	0.0025	21.7	0.0	1	1	2.0e-05	0.011	19.5857715606689	0.02	43	149	163	261	136	276	0.77	Leucine aminopeptidase 1		0
+LAP1_EMENI	LAP1_EMENI	390	P06621_refseq_selected_blast_msa	-	368	0.0027	21.6	0.0	1	1	2.2e-05	0.012	19.4492053985596	0.02	31	151	153	265	133	287	0.80	Leucine aminopeptidase 1		0
+LAP1_PARBP	LAP1_PARBP	388	P06621_refseq_selected_blast_msa	-	368	0.003	21.4	0.0	1	1	2.6e-05	0.014	19.1796379089355	0.02	34	146	155	258	128	264	0.78	Leucine aminopeptidase 1		0
+LAP1_AJECG	LAP1_AJECG	385	P06621_refseq_selected_blast_msa	-	368	0.0035	21.2	0.0	1	1	1.8e-05	0.0098	19.7197284698486	0.03	33	150	150	259	126	279	0.79	Leucine aminopeptidase 1		0
+LAP1_PARBD	LAP1_PARBD	389	P06621_refseq_selected_blast_msa	-	368	0.0042	20.9	0.0	1	1	2.9e-05	0.016	19.0390434265137	0.03	34	146	155	259	129	267	0.79	Leucine aminopeptidase 1		0
+LAP2_ASPOR	LAP2_ASPOR	496	P06621_refseq_selected_blast_msa	-	368	0.005	20.7	0.0	1	1	7.6e-05	0.041	17.6634941101074	0.04	93	145	254	304	203	331	0.85	probable leucine aminopeptidase 2		0
+LPQL_MYCTU	LPQL_MYCTU	500	P06621_refseq_selected_blast_msa	-	368	0.0055	20.5	0.0	1	1	5.0e-05	0.027	18.2665023803711	0.02	93	146	277	329	233	344	0.91	Probable lipoprotein aminopeptidase LpqL		0
+LAP1_COCP7	LAP1_COCP7	388	P06621_refseq_selected_blast_msa	-	368	0.0056	20.5	0.0	1	1	3.8e-05	0.021	18.6327896118164	0.04	32	149	152	261	131	283	0.79	Leucine aminopeptidase 1		0
+LAP1_COCPS	LAP1_COCPS	388	P06621_refseq_selected_blast_msa	-	368	0.0056	20.5	0.0	1	1	3.8e-05	0.021	18.6327896118164	0.04	32	149	152	261	131	283	0.79	Leucine aminopeptidase 1		0
+LAP2_ASPFU	LAP2_ASPFU	501	P06621_refseq_selected_blast_msa	-	368	0.0069	20.2	0.0	1	1	6.5e-05	0.036	17.8731632232666	0.01	93	149	263	317	210	351	0.88	Probable leucine aminopeptidase 2		0
+LAP1_NEUCR	LAP1_NEUCR	402	P06621_refseq_selected_blast_msa	-	368	0.007	20.2	0.1	1	1	3.8e-05	0.021	18.6379642486572	0.11	21	148	145	264	129	280	0.78	Leucine aminopeptidase 1		0
+LAP1_PARBA	LAP1_PARBA	389	P06621_refseq_selected_blast_msa	-	368	0.0074	20.1	0.1	1	1	5.0e-05	0.027	18.2460803985596	0.02	7	148	130	261	126	270	0.79	Leucine aminopeptidase 1		0
+LAP1_SCLS1	LAP1_SCLS1	387	P06621_refseq_selected_blast_msa	-	368	0.0075	20.1	0.1	1	1	4.2e-05	0.023	18.5061054229736	0.05	35	149	154	260	133	282	0.79	Leucine aminopeptidase 1		0
+PFF1_PARBD	PFF1_PARBD	992	P06621_refseq_selected_blast_msa	-	368	0.0081	20.0	0.0	1	1	3.0e-05	0.016	18.9871025085449	0.01	90	165	177	253	161	262	0.87	Vacuolar membrane protease		0
+LAP1_PODAN	LAP1_PODAN	395	P06621_refseq_selected_blast_msa	-	368	0.0082	20.0	0.1	1	1	0.00013	0.072	16.8591918945312	0.04	45	149	163	261	138	274	0.77	Leucine aminopeptidase 1		0
+PFF1_PARBP	PFF1_PARBP	992	P06621_refseq_selected_blast_msa	-	368	0.0084	19.9	0.0	1	1	3.0e-05	0.016	18.9871025085449	0.01	90	165	177	253	161	262	0.87	Vacuolar membrane protease		0

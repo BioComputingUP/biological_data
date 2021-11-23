@@ -1,0 +1,1023 @@
+Target Name	Target Accession	Target Length	Query Name	Query Accession	Query Length	E-value	Score	Bias	Domain Index	Domain Count	Cond. E-value	Domain Ind. E-value	Domain Bit-score	Domain Bias	Query Ali. Start	Query Ali. End	Target Ali. Start	Target Ali. End	Target Env. Start	Target Env. End	Acc	Description	Mapped PDB(s)	Number of Identical Sequences
+DAPE_CHESB	DAPE_CHESB	395	Peptidase_M20	-	207	1.2e-47	167.2	0.0	1	1	3.0e-50	1.5e-47	166.836608886719	0.03	1	207	70	392	70	392	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHILO	DAPE_RHILO	397	Peptidase_M20	-	207	8.4e-47	164.4	0.1	1	1	2.1e-49	1.1e-46	164.096282958984	0.08	1	206	70	391	70	392	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUA1	DAPE_BRUA1	395	Peptidase_M20	-	207	1.0e-46	164.1	0.1	1	1	2.5e-49	1.3e-46	163.839218139648	0.13	1	206	70	391	70	392	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUA2	DAPE_BRUA2	395	Peptidase_M20	-	207	1.0e-46	164.1	0.1	1	1	2.5e-49	1.3e-46	163.839218139648	0.13	1	206	70	391	70	392	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUAB	DAPE_BRUAB	395	Peptidase_M20	-	207	1.0e-46	164.1	0.1	1	1	2.5e-49	1.3e-46	163.839218139648	0.13	1	206	70	391	70	392	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUME	DAPE_BRUME	395	Peptidase_M20	-	207	2.2e-46	163.1	0.1	1	1	5.2e-49	2.7e-46	162.789154052734	0.12	1	206	70	391	70	392	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUMB	DAPE_BRUMB	395	Peptidase_M20	-	207	2.2e-46	163.1	0.1	1	1	5.2e-49	2.7e-46	162.779571533203	0.13	1	206	70	391	70	392	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUO2	DAPE_BRUO2	395	Peptidase_M20	-	207	2.2e-46	163.1	0.1	1	1	5.2e-49	2.7e-46	162.779571533203	0.13	1	206	70	391	70	392	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUSI	DAPE_BRUSI	395	Peptidase_M20	-	207	2.2e-46	163.1	0.1	1	1	5.2e-49	2.7e-46	162.779571533203	0.13	1	206	70	391	70	392	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUC2	DAPE_BRUC2	395	Peptidase_M20	-	207	2.2e-46	163.1	0.1	1	1	5.2e-49	2.7e-46	162.779571533203	0.13	1	206	70	391	70	392	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRUSU	DAPE_BRUSU	395	Peptidase_M20	-	207	2.2e-46	163.1	0.1	1	1	5.2e-49	2.7e-46	162.779571533203	0.13	1	206	70	391	70	392	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_OCHA4	DAPE_OCHA4	395	Peptidase_M20	-	207	3.7e-46	162.3	0.1	1	1	9.6e-49	5.0e-46	161.914962768555	0.12	1	206	70	391	70	392	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NITEU	DAPE_NITEU	376	Peptidase_M20	-	207	7.9e-46	161.3	0.1	1	1	1.8e-48	9.4e-46	161.020431518555	0.06	1	207	63	373	63	373	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSYA2	DAPE_PSYA2	407	Peptidase_M20	-	207	9.8e-46	161.0	0.1	1	1	2.5e-48	1.3e-45	160.539535522461	0.06	1	207	89	403	89	403	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACISJ	DAPE_ACISJ	391	Peptidase_M20	-	207	1.0e-45	160.9	0.0	1	1	2.3e-48	1.2e-45	160.647430419922	0.02	2	206	75	383	74	384	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PHOLL	DAPE_PHOLL	375	Peptidase_M20	-	207	1.1e-45	160.8	0.1	1	1	2.8e-48	1.4e-45	160.422698974609	0.06	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIET	DAPE_ACIET	391	Peptidase_M20	-	207	1.4e-45	160.5	0.0	1	1	3.2e-48	1.6e-45	160.226318359375	0.02	2	206	75	383	74	384	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BORBR	DAPE_BORBR	379	Peptidase_M20	-	207	1.7e-45	160.2	0.0	1	1	4.1e-48	2.1e-45	159.846664428711	0.02	2	207	65	374	64	374	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BORPA	DAPE_BORPA	379	Peptidase_M20	-	207	1.7e-45	160.2	0.0	1	1	4.1e-48	2.1e-45	159.846908569336	0.02	2	207	65	374	64	374	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BORPE	DAPE_BORPE	379	Peptidase_M20	-	207	3.8e-45	159.0	0.0	1	1	9.2e-48	4.8e-45	158.707046508789	0.02	2	207	65	374	64	374	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSYCK	DAPE_PSYCK	407	Peptidase_M20	-	207	3.9e-45	159.0	0.1	1	1	1.0e-47	5.3e-45	158.560241699219	0.11	1	207	89	403	89	403	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AGRFC	DAPE_AGRFC	398	Peptidase_M20	-	207	4.2e-45	158.9	0.2	1	1	1.0e-47	5.2e-45	158.57682800293	0.17	1	206	69	389	69	390	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BORPD	DAPE_BORPD	380	Peptidase_M20	-	207	4.3e-45	158.9	0.0	1	1	1.0e-47	5.3e-45	158.571228027344	0.04	2	207	66	375	65	375	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_MARHV	DAPE_MARHV	376	Peptidase_M20	-	207	4.8e-45	158.7	0.2	1	1	1.1e-47	5.8e-45	158.436798095703	0.16	1	206	64	372	64	373	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VIBCB	DAPE_VIBCB	378	Peptidase_M20	-	207	5.5e-45	158.5	0.2	1	1	1.4e-47	7.4e-45	158.086090087891	0.22	1	206	64	373	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_COXB1	DAPE_COXB1	374	Peptidase_M20	-	207	5.6e-45	158.5	0.0	1	1	1.3e-47	6.8e-45	158.214019775391	0.04	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_COXB2	DAPE_COXB2	374	Peptidase_M20	-	207	5.6e-45	158.5	0.0	1	1	1.3e-47	6.8e-45	158.214019775391	0.04	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_COXBN	DAPE_COXBN	374	Peptidase_M20	-	207	5.6e-45	158.5	0.0	1	1	1.3e-47	6.8e-45	158.214019775391	0.04	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_COXBU	DAPE_COXBU	374	Peptidase_M20	-	207	5.6e-45	158.5	0.0	1	1	1.3e-47	6.8e-45	158.214019775391	0.04	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_COXBR	DAPE_COXBR	374	Peptidase_M20	-	207	5.6e-45	158.5	0.0	1	1	1.3e-47	6.8e-45	158.214019775391	0.04	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VIBPA	DAPE_VIBPA	378	Peptidase_M20	-	207	5.7e-45	158.5	0.3	1	1	1.5e-47	7.7e-45	158.037994384766	0.28	1	206	64	373	64	374	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSYIN	DAPE_PSYIN	377	Peptidase_M20	-	207	1.1e-44	157.5	0.1	1	1	2.6e-47	1.3e-44	157.253128051758	0.06	1	206	64	373	64	374	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NITEC	DAPE_NITEC	378	Peptidase_M20	-	207	1.3e-44	157.2	0.0	1	1	3.0e-47	1.6e-44	157.012954711914	0.05	2	206	64	372	63	373	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VIBVU	DAPE_VIBVU	377	Peptidase_M20	-	207	1.9e-44	156.8	0.2	1	1	4.6e-47	2.4e-44	156.434478759766	0.20	1	207	64	374	64	374	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VIBVY	DAPE_VIBVY	377	Peptidase_M20	-	207	1.9e-44	156.7	0.2	1	1	4.6e-47	2.4e-44	156.435852050781	0.20	1	207	64	374	64	374	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CUPPJ	DAPE_CUPPJ	383	Peptidase_M20	-	207	2.0e-44	156.7	0.1	1	1	5.0e-47	2.6e-44	156.304473876953	0.15	1	206	70	379	70	380	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CHRVO	DAPE_CHRVO	377	Peptidase_M20	-	207	3.5e-44	155.9	0.0	1	1	8.1e-47	4.2e-44	155.622665405273	0.04	1	206	62	371	62	372	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NITMU	DAPE_NITMU	378	Peptidase_M20	-	207	3.6e-44	155.8	0.0	1	1	8.3e-47	4.3e-44	155.585083007812	0.03	1	205	63	371	63	373	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ALCBS	DAPE_ALCBS	377	Peptidase_M20	-	207	4.5e-44	155.5	0.2	1	1	1.0e-46	5.3e-44	155.299667358398	0.23	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CUPNH	DAPE_CUPNH	383	Peptidase_M20	-	207	4.5e-44	155.5	0.2	1	1	1.1e-46	5.8e-44	155.158752441406	0.22	2	206	71	379	70	380	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHIME	DAPE_RHIME	397	Peptidase_M20	-	207	5.2e-44	155.3	0.1	1	1	1.8e-46	9.5e-44	154.466369628906	0.09	1	206	69	389	69	390	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SINMW	DAPE_SINMW	397	Peptidase_M20	-	207	5.4e-44	155.3	0.2	1	1	1.4e-46	7.4e-44	154.828430175781	0.19	1	206	69	389	69	390	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_MAGSA	DAPE_MAGSA	379	Peptidase_M20	-	207	6.0e-44	155.1	0.0	1	1	3.9e-46	2.0e-43	153.395416259766	0.03	1	206	68	373	68	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAEIN	DAPE_HAEIN	377	Peptidase_M20	-	207	6.4e-44	155.0	0.1	1	1	1.5e-46	7.9e-44	154.723373413086	0.10	1	206	63	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase	5vo3_A	0
+DAPE_NEIG2	DAPE_NEIG2	381	Peptidase_M20	-	207	7.1e-44	154.9	0.0	1	1	1.8e-46	9.4e-44	154.476028442383	0.04	1	206	64	373	64	374	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NEIG1	DAPE_NEIG1	381	Peptidase_M20	-	207	7.2e-44	154.9	0.0	1	1	1.8e-46	9.4e-44	154.482620239258	0.03	1	206	64	373	64	374	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CELJU	DAPE_CELJU	382	Peptidase_M20	-	207	7.6e-44	154.8	0.1	1	1	1.8e-46	9.1e-44	154.530212402344	0.12	1	206	69	378	69	379	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PARXL	DAPE_PARXL	379	Peptidase_M20	-	207	1.0e-43	154.4	0.2	1	1	2.6e-46	1.4e-43	153.95524597168	0.25	1	206	66	375	66	376	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE1_SHELP	DAPE1_SHELP	376	Peptidase_M20	-	207	1.1e-43	154.3	0.1	1	1	2.4e-46	1.3e-43	154.062911987305	0.05	1	206	63	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase 1		0
+DAPE_TOLAT	DAPE_TOLAT	380	Peptidase_M20	-	207	1.1e-43	154.3	0.0	1	1	2.6e-46	1.3e-43	153.968399047852	0.03	1	206	64	373	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HYDCU	DAPE_HYDCU	378	Peptidase_M20	-	207	1.1e-43	154.3	0.0	1	1	2.6e-46	1.3e-43	153.992050170898	0.01	2	205	63	372	62	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VIBCH	DAPE_VIBCH	377	Peptidase_M20	-	207	1.1e-43	154.2	0.2	1	1	3.0e-46	1.5e-43	153.777435302734	0.21	2	206	65	373	64	374	0.95	Succinyl-diaminopimelate desuccinylase	4onw_A	0
+DAPE_VIBCM	DAPE_VIBCM	377	Peptidase_M20	-	207	1.1e-43	154.2	0.2	1	1	3.0e-46	1.5e-43	153.777435302734	0.21	2	206	65	373	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AGRVS	DAPE_AGRVS	404	Peptidase_M20	-	207	1.2e-43	154.2	0.0	1	1	3.1e-46	1.6e-43	153.742919921875	0.04	1	205	76	395	76	397	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NEIMA	DAPE_NEIMA	381	Peptidase_M20	-	207	1.2e-43	154.1	0.0	1	1	2.9e-46	1.5e-43	153.831436157227	0.03	1	206	64	373	64	374	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_DECAR	DAPE_DECAR	377	Peptidase_M20	-	207	1.2e-43	154.1	0.0	1	1	2.8e-46	1.5e-43	153.861846923828	0.03	2	206	64	372	63	373	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_MARMS	DAPE_MARMS	377	Peptidase_M20	-	207	1.2e-43	154.1	0.0	1	1	2.9e-46	1.5e-43	153.810363769531	0.04	1	207	62	372	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CUPMC	DAPE_CUPMC	383	Peptidase_M20	-	207	1.3e-43	154.1	0.2	1	1	3.1e-46	1.6e-43	153.736083984375	0.19	1	206	70	379	70	380	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAEI8	DAPE_HAEI8	377	Peptidase_M20	-	207	1.3e-43	154.0	0.1	1	1	3.1e-46	1.6e-43	153.710174560547	0.07	1	206	63	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PARPJ	DAPE_PARPJ	379	Peptidase_M20	-	207	1.4e-43	153.9	0.2	1	1	3.6e-46	1.9e-43	153.495651245117	0.19	1	206	66	375	66	376	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHILW	DAPE_RHILW	397	Peptidase_M20	-	207	1.4e-43	153.9	0.0	1	1	3.6e-46	1.9e-43	153.492706298828	0.04	1	206	69	389	69	390	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSET1	DAPE_PSET1	376	Peptidase_M20	-	207	1.7e-43	153.6	0.0	1	1	4.1e-46	2.1e-43	153.336883544922	0.02	1	207	63	373	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_TERTT	DAPE_TERTT	375	Peptidase_M20	-	207	1.7e-43	153.6	0.2	1	1	4.0e-46	2.1e-43	153.372116088867	0.17	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SERP5	DAPE_SERP5	375	Peptidase_M20	-	207	1.8e-43	153.6	0.2	1	1	4.4e-46	2.3e-43	153.238372802734	0.17	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHIL3	DAPE_RHIL3	397	Peptidase_M20	-	207	1.9e-43	153.5	0.1	1	1	4.9e-46	2.5e-43	153.070755004883	0.06	1	206	69	389	69	390	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ALKEH	DAPE_ALKEH	375	Peptidase_M20	-	207	2.0e-43	153.4	0.1	1	1	4.7e-46	2.4e-43	153.122131347656	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BORA1	DAPE_BORA1	377	Peptidase_M20	-	207	2.3e-43	153.2	0.0	1	1	6.1e-46	3.2e-43	152.7607421875	0.03	2	207	63	372	62	372	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CUPTR	DAPE_CUPTR	383	Peptidase_M20	-	207	2.4e-43	153.1	0.2	1	1	6.0e-46	3.1e-43	152.790451049805	0.15	2	206	71	379	70	380	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSYWF	DAPE_PSYWF	402	Peptidase_M20	-	207	2.8e-43	152.9	0.3	1	1	6.9e-46	3.6e-43	152.578353881836	0.29	1	206	84	397	84	398	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIAC	DAPE_ACIAC	389	Peptidase_M20	-	207	3.1e-43	152.8	0.0	1	1	7.2e-46	3.7e-43	152.52702331543	0.03	2	206	72	380	71	381	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NEIM0	DAPE_NEIM0	381	Peptidase_M20	-	207	3.4e-43	152.7	0.0	1	1	8.2e-46	4.2e-43	152.344284057617	0.03	1	206	64	373	64	374	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PHOPR	DAPE_PHOPR	377	Peptidase_M20	-	207	3.6e-43	152.6	0.3	1	1	9.2e-46	4.8e-43	152.179138183594	0.28	2	206	65	373	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_IDILO	DAPE_IDILO	376	Peptidase_M20	-	207	3.6e-43	152.6	0.0	1	1	8.4e-46	4.4e-43	152.303146362305	0.02	1	206	63	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAHCH	DAPE_HAHCH	383	Peptidase_M20	-	207	4.6e-43	152.2	0.3	1	1	1.1e-45	5.6e-43	151.957412719727	0.26	2	206	67	375	66	376	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NEIMF	DAPE_NEIMF	381	Peptidase_M20	-	207	4.7e-43	152.2	0.0	1	1	1.2e-45	6.3e-43	151.785125732422	0.04	1	206	64	373	64	374	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ALIF1	DAPE_ALIF1	377	Peptidase_M20	-	207	4.8e-43	152.2	0.1	1	1	1.2e-45	6.0e-43	151.849639892578	0.06	2	206	65	373	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AZOSB	DAPE_AZOSB	380	Peptidase_M20	-	207	5.0e-43	152.1	0.1	1	1	1.2e-45	6.1e-43	151.838088989258	0.14	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_COLP3	DAPE_COLP3	399	Peptidase_M20	-	207	5.0e-43	152.1	0.1	1	1	1.2e-45	6.4e-43	151.764892578125	0.08	1	206	76	389	76	390	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAEPS	DAPE_HAEPS	377	Peptidase_M20	-	207	5.4e-43	152.0	0.0	1	1	1.2e-45	6.4e-43	151.756011962891	0.04	1	205	63	371	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEFN	DAPE_SHEFN	377	Peptidase_M20	-	207	5.8e-43	151.9	0.0	1	1	1.4e-45	7.3e-43	151.565368652344	0.05	1	206	63	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VIBC3	DAPE_VIBC3	377	Peptidase_M20	-	207	6.3e-43	151.8	0.2	1	1	1.6e-45	8.4e-43	151.365936279297	0.21	2	206	65	373	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AGRRK	DAPE_AGRRK	397	Peptidase_M20	-	207	6.4e-43	151.8	0.1	1	1	1.7e-45	8.7e-43	151.328231811523	0.10	1	206	69	389	69	390	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VIBA3	DAPE_VIBA3	378	Peptidase_M20	-	207	6.5e-43	151.7	0.1	1	1	1.6e-45	8.4e-43	151.38005065918	0.07	1	206	64	373	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PASMU	DAPE_PASMU	378	Peptidase_M20	-	207	7.1e-43	151.6	0.1	1	1	1.7e-45	8.6e-43	151.334915161133	0.08	1	205	63	371	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHIEC	DAPE_RHIEC	397	Peptidase_M20	-	207	7.1e-43	151.6	0.0	1	1	1.9e-45	9.8e-43	151.156875610352	0.03	1	206	69	389	69	390	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_LARHH	DAPE_LARHH	376	Peptidase_M20	-	207	8.1e-43	151.4	0.2	1	1	1.9e-45	9.6e-43	151.184005737305	0.23	1	206	62	371	62	372	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HERAR	DAPE_HERAR	375	Peptidase_M20	-	207	8.8e-43	151.3	0.1	1	1	2.0e-45	1.0e-42	151.062622070312	0.06	2	207	63	372	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEA6	DAPE_PSEA6	376	Peptidase_M20	-	207	9.1e-43	151.3	0.0	1	1	2.1e-45	1.1e-42	150.980285644531	0.04	1	206	63	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_DELAS	DAPE_DELAS	386	Peptidase_M20	-	207	1.0e-42	151.1	0.0	1	1	2.7e-45	1.4e-42	150.639678955078	0.05	2	206	70	378	69	379	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE2_ALTMD	DAPE2_ALTMD	378	Peptidase_M20	-	207	1.1e-42	151.0	0.2	1	1	2.6e-45	1.4e-42	150.693206787109	0.15	1	206	64	373	64	374	0.94	Succinyl-diaminopimelate desuccinylase 2		0
+DAPE_BURM1	DAPE_BURM1	379	Peptidase_M20	-	207	1.1e-42	151.0	0.1	1	1	2.8e-45	1.4e-42	150.599731445312	0.09	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANP2	DAPE_XANP2	375	Peptidase_M20	-	207	1.1e-42	151.0	0.0	1	1	2.8e-45	1.5e-42	150.583358764648	0.03	1	206	62	368	62	369	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURCM	DAPE_BURCM	379	Peptidase_M20	-	207	1.2e-42	150.8	0.1	1	1	3.3e-45	1.7e-42	150.382507324219	0.10	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NEIMB	DAPE_NEIMB	381	Peptidase_M20	-	207	1.3e-42	150.7	0.0	1	1	3.4e-45	1.8e-42	150.330551147461	0.03	1	206	64	373	64	374	0.97	Succinyl-diaminopimelate desuccinylase	5uej_A	0
+DAPE_METFK	DAPE_METFK	375	Peptidase_M20	-	207	1.4e-42	150.7	0.1	1	1	3.1e-45	1.6e-42	150.454940795898	0.06	2	206	63	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_THISH	DAPE_THISH	376	Peptidase_M20	-	207	1.4e-42	150.7	0.1	1	1	3.1e-45	1.6e-42	150.443923950195	0.13	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AROAE	DAPE_AROAE	384	Peptidase_M20	-	207	1.4e-42	150.6	0.1	1	1	3.2e-45	1.7e-42	150.413192749023	0.07	1	206	67	376	67	377	0.96	Succinyl-diaminopimelate desuccinylase		0
+CBPS_YEAST	CBPS_YEAST	576	Peptidase_M20	-	207	1.5e-42	150.6	0.0	1	1	5.3e-45	2.8e-42	149.687774658203	0.00	1	206	164	570	164	571	0.93	Carboxypeptidase S		0
+DAPE_ERWT9	DAPE_ERWT9	375	Peptidase_M20	-	207	1.6e-42	150.5	0.1	1	1	3.8e-45	2.0e-42	150.152725219727	0.06	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CITK8	DAPE_CITK8	375	Peptidase_M20	-	207	1.6e-42	150.4	0.1	1	1	3.9e-45	2.0e-42	150.125839233398	0.07	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAEIE	DAPE_HAEIE	377	Peptidase_M20	-	207	1.6e-42	150.4	0.1	1	1	3.9e-45	2.0e-42	150.110733032227	0.06	2	206	64	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SACD2	DAPE_SACD2	382	Peptidase_M20	-	207	1.7e-42	150.4	0.1	1	1	4.0e-45	2.1e-42	150.096984863281	0.09	1	206	69	378	69	379	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOFT	DAPE_RHOFT	391	Peptidase_M20	-	207	1.7e-42	150.3	0.0	1	1	4.3e-45	2.2e-42	149.992599487305	0.02	2	207	75	384	74	384	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAEIG	DAPE_HAEIG	377	Peptidase_M20	-	207	1.8e-42	150.3	0.1	1	1	4.3e-45	2.2e-42	149.977600097656	0.07	1	206	63	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOCS	DAPE_RHOCS	386	Peptidase_M20	-	207	1.9e-42	150.2	0.1	1	1	5.0e-45	2.6e-42	149.773193359375	0.12	1	206	68	376	68	377	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURTA	DAPE_BURTA	379	Peptidase_M20	-	207	2.0e-42	150.2	0.1	1	1	5.7e-45	2.9e-42	149.599975585938	0.06	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPS	DAPE_YERPS	375	Peptidase_M20	-	207	2.1e-42	150.1	0.2	1	1	4.8e-45	2.5e-42	149.836471557617	0.15	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPB	DAPE_YERPB	375	Peptidase_M20	-	207	2.1e-42	150.1	0.2	1	1	4.8e-45	2.5e-42	149.836471557617	0.15	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPY	DAPE_YERPY	375	Peptidase_M20	-	207	2.1e-42	150.1	0.2	1	1	4.8e-45	2.5e-42	149.836471557617	0.15	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPN	DAPE_YERPN	375	Peptidase_M20	-	207	2.1e-42	150.1	0.2	1	1	4.8e-45	2.5e-42	149.836471557617	0.15	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPE	DAPE_YERPE	375	Peptidase_M20	-	207	2.1e-42	150.1	0.2	1	1	4.8e-45	2.5e-42	149.836471557617	0.15	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPG	DAPE_YERPG	375	Peptidase_M20	-	207	2.1e-42	150.1	0.2	1	1	4.8e-45	2.5e-42	149.836471557617	0.15	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPP	DAPE_YERPP	375	Peptidase_M20	-	207	2.1e-42	150.1	0.2	1	1	4.8e-45	2.5e-42	149.836471557617	0.15	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERPA	DAPE_YERPA	375	Peptidase_M20	-	207	2.1e-42	150.1	0.2	1	1	4.8e-45	2.5e-42	149.836471557617	0.15	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAES1	DAPE_HAES1	377	Peptidase_M20	-	207	2.1e-42	150.1	0.1	1	1	5.1e-45	2.6e-42	149.749526977539	0.08	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALCH	DAPE_SALCH	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.752670288086	0.07	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALPC	DAPE_SALPC	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.752670288086	0.07	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALPK	DAPE_SALPK	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.752670288086	0.07	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALPA	DAPE_SALPA	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.752670288086	0.07	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALEP	DAPE_SALEP	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.746109008789	0.08	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALG2	DAPE_SALG2	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.746109008789	0.08	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALPB	DAPE_SALPB	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.746109008789	0.08	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALNS	DAPE_SALNS	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.746109008789	0.08	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALHS	DAPE_SALHS	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.746109008789	0.08	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALDC	DAPE_SALDC	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.746109008789	0.08	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALTY	DAPE_SALTY	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.746109008789	0.08	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALSV	DAPE_SALSV	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.746109008789	0.08	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALAR	DAPE_SALAR	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.746109008789	0.08	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOLU	DAPE_ECOLU	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.7e-42	149.734161376953	0.08	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALTI	DAPE_SALTI	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.1e-45	2.6e-42	149.751815795898	0.07	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AERS4	DAPE_AERS4	375	Peptidase_M20	-	207	2.2e-42	150.0	0.1	1	1	5.2e-45	2.7e-42	149.722625732422	0.14	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RALPJ	DAPE_RALPJ	386	Peptidase_M20	-	207	2.4e-42	149.9	0.2	1	1	5.7e-45	2.9e-42	149.59912109375	0.24	2	206	74	382	73	383	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERP3	DAPE_YERP3	375	Peptidase_M20	-	207	2.5e-42	149.8	0.1	1	1	5.8e-45	3.0e-42	149.569061279297	0.14	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PECAS	DAPE_PECAS	375	Peptidase_M20	-	207	2.6e-42	149.7	0.1	1	1	6.2e-45	3.2e-42	149.476608276367	0.09	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ALIFM	DAPE_ALIFM	377	Peptidase_M20	-	207	2.7e-42	149.7	0.0	1	1	6.2e-45	3.2e-42	149.461074829102	0.05	2	206	65	373	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VEREI	DAPE_VEREI	401	Peptidase_M20	-	207	2.7e-42	149.7	0.0	1	1	6.4e-45	3.3e-42	149.433975219727	0.01	2	207	79	388	78	388	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_LEPCP	DAPE_LEPCP	382	Peptidase_M20	-	207	2.8e-42	149.6	0.1	1	1	7.1e-45	3.7e-42	149.277389526367	0.08	2	206	70	378	69	379	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_WOLPM	DAPE_WOLPM	398	Peptidase_M20	-	207	3.0e-42	149.6	0.0	1	1	7.3e-45	3.8e-42	149.239379882812	0.01	1	207	64	373	64	373	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SALA4	DAPE_SALA4	375	Peptidase_M20	-	207	3.3e-42	149.4	0.1	1	1	7.9e-45	4.1e-42	149.129455566406	0.10	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURPS	DAPE_BURPS	379	Peptidase_M20	-	207	3.4e-42	149.4	0.0	1	1	9.8e-45	5.1e-42	148.815155029297	0.05	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURP6	DAPE_BURP6	379	Peptidase_M20	-	207	3.4e-42	149.4	0.0	1	1	9.8e-45	5.1e-42	148.815155029297	0.05	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURP0	DAPE_BURP0	379	Peptidase_M20	-	207	3.4e-42	149.4	0.0	1	1	9.8e-45	5.1e-42	148.815155029297	0.05	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HISS2	DAPE_HISS2	377	Peptidase_M20	-	207	3.8e-42	149.2	0.1	1	1	9.1e-45	4.7e-42	148.928146362305	0.07	1	206	62	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AERHH	DAPE_AERHH	375	Peptidase_M20	-	207	3.9e-42	149.2	0.1	1	1	9.2e-45	4.8e-42	148.911895751953	0.12	1	205	62	370	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECO7I	DAPE_ECO7I	375	Peptidase_M20	-	207	4.1e-42	149.1	0.1	1	1	9.7e-45	5.0e-42	148.831527709961	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURM7	DAPE_BURM7	379	Peptidase_M20	-	207	4.6e-42	149.0	0.0	1	1	1.3e-44	6.9e-42	148.390335083008	0.05	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURM9	DAPE_BURM9	379	Peptidase_M20	-	207	4.6e-42	149.0	0.0	1	1	1.3e-44	6.9e-42	148.390335083008	0.05	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURMA	DAPE_BURMA	379	Peptidase_M20	-	207	4.6e-42	149.0	0.0	1	1	1.3e-44	6.9e-42	148.390335083008	0.05	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURMS	DAPE_BURMS	379	Peptidase_M20	-	207	4.6e-42	149.0	0.0	1	1	1.3e-44	6.9e-42	148.390335083008	0.05	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURP1	DAPE_BURP1	379	Peptidase_M20	-	207	4.6e-42	149.0	0.0	1	1	1.3e-44	6.9e-42	148.390335083008	0.05	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PARL1	DAPE_PARL1	395	Peptidase_M20	-	207	4.7e-42	148.9	0.2	1	1	1.1e-44	5.9e-42	148.604339599609	0.19	1	205	77	386	77	388	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NAUPA	DAPE_NAUPA	365	Peptidase_M20	-	207	4.7e-42	148.9	0.2	1	1	1.1e-44	5.7e-42	148.659484863281	0.19	1	206	60	362	60	363	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHIDS	DAPE_SHIDS	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.570175170898	0.06	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOLC	DAPE_ECOLC	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOHS	DAPE_ECOHS	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHIBS	DAPE_SHIBS	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOBW	DAPE_ECOBW	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOSM	DAPE_ECOSM	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHIFL	DAPE_SHIFL	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase	7lgp_B	0
+DAPE_ECO8A	DAPE_ECO8A	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOLI	DAPE_ECOLI	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECODH	DAPE_ECODH	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECO27	DAPE_ECO27	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECO24	DAPE_ECO24	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECO55	DAPE_ECO55	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOSE	DAPE_ECOSE	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.563629150391	0.06	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECO45	DAPE_ECO45	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.559799194336	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOUT	DAPE_ECOUT	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.559799194336	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOL6	DAPE_ECOL6	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.559799194336	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOK1	DAPE_ECOK1	375	Peptidase_M20	-	207	4.9e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.559799194336	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECOL5	DAPE_ECOL5	375	Peptidase_M20	-	207	5.0e-42	148.9	0.1	1	1	1.2e-44	6.1e-42	148.557510375977	0.08	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NITOC	DAPE_NITOC	376	Peptidase_M20	-	207	5.0e-42	148.8	0.0	1	1	1.1e-44	5.9e-42	148.620101928711	0.02	2	206	63	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHIF8	DAPE_SHIF8	375	Peptidase_M20	-	207	5.0e-42	148.8	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHISS	DAPE_SHISS	375	Peptidase_M20	-	207	5.0e-42	148.8	0.1	1	1	1.2e-44	6.1e-42	148.565200805664	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VESOH	DAPE_VESOH	376	Peptidase_M20	-	207	5.3e-42	148.8	0.0	1	1	1.2e-44	6.3e-42	148.507965087891	0.00	2	207	63	373	62	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ENT38	DAPE_ENT38	375	Peptidase_M20	-	207	5.7e-42	148.7	0.0	1	1	1.4e-44	7.2e-42	148.332153320312	0.03	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURA4	DAPE_BURA4	379	Peptidase_M20	-	207	5.8e-42	148.6	0.1	1	1	1.6e-44	8.2e-42	148.14990234375	0.12	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHIB3	DAPE_SHIB3	375	Peptidase_M20	-	207	5.9e-42	148.6	0.1	1	1	1.4e-44	7.3e-42	148.315139770508	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PARP8	DAPE_PARP8	379	Peptidase_M20	-	207	6.0e-42	148.6	0.2	1	1	1.4e-44	7.5e-42	148.274948120117	0.19	1	206	66	375	66	376	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_MANSM	DAPE_MANSM	377	Peptidase_M20	-	207	6.5e-42	148.5	0.1	1	1	1.5e-44	7.7e-42	148.230667114258	0.05	1	206	63	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HALHL	DAPE_HALHL	378	Peptidase_M20	-	207	6.8e-42	148.4	1.3	1	1	1.7e-44	8.6e-42	148.076110839844	1.33	2	206	63	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_JANMA	DAPE_JANMA	375	Peptidase_M20	-	207	7.0e-42	148.4	0.0	1	1	1.6e-44	8.3e-42	148.123580932617	0.05	2	207	63	372	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ESCF3	DAPE_ESCF3	375	Peptidase_M20	-	207	7.2e-42	148.3	0.1	1	1	1.7e-44	8.9e-42	148.029739379883	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_KLEP3	DAPE_KLEP3	375	Peptidase_M20	-	207	8.7e-42	148.1	0.0	1	1	2.2e-44	1.1e-41	147.706634521484	0.03	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEDO	DAPE_SHEDO	376	Peptidase_M20	-	207	8.9e-42	148.0	0.1	1	1	2.1e-44	1.1e-41	147.76741027832	0.06	1	206	63	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACTP2	DAPE_ACTP2	377	Peptidase_M20	-	207	1.0e-41	147.9	0.2	1	1	2.3e-44	1.2e-41	147.584197998047	0.16	2	206	64	372	63	373	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACTP7	DAPE_ACTP7	377	Peptidase_M20	-	207	1.0e-41	147.9	0.2	1	1	2.3e-44	1.2e-41	147.584197998047	0.16	2	206	64	372	63	373	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ALISL	DAPE_ALISL	377	Peptidase_M20	-	207	1.1e-41	147.7	0.0	1	1	2.5e-44	1.3e-41	147.474365234375	0.02	2	206	65	373	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIAD	DAPE_ACIAD	377	Peptidase_M20	-	207	1.1e-41	147.7	0.3	1	1	2.8e-44	1.5e-41	147.312789916992	0.27	1	206	64	373	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURL3	DAPE_BURL3	379	Peptidase_M20	-	207	1.2e-41	147.6	0.1	1	1	3.3e-44	1.7e-41	147.078598022461	0.09	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEON	DAPE_SHEON	384	Peptidase_M20	-	207	1.3e-41	147.5	0.0	1	1	3.2e-44	1.7e-41	147.137664794922	0.04	1	206	71	380	71	381	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECO5E	DAPE_ECO5E	375	Peptidase_M20	-	207	1.4e-41	147.4	0.1	1	1	3.2e-44	1.7e-41	147.122146606445	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ECO57	DAPE_ECO57	375	Peptidase_M20	-	207	1.4e-41	147.4	0.1	1	1	3.2e-44	1.7e-41	147.122146606445	0.07	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEWM	DAPE_SHEWM	376	Peptidase_M20	-	207	1.5e-41	147.3	0.0	1	1	3.5e-44	1.8e-41	147.023193359375	0.04	1	206	63	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CHRSD	DAPE_CHRSD	386	Peptidase_M20	-	207	1.5e-41	147.3	0.2	1	1	3.7e-44	1.9e-41	146.923767089844	0.16	2	206	73	382	72	383	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACTSZ	DAPE_ACTSZ	376	Peptidase_M20	-	207	1.6e-41	147.2	0.1	1	1	3.9e-44	2.0e-41	146.858947753906	0.13	1	206	63	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BART1	DAPE_BART1	390	Peptidase_M20	-	207	1.7e-41	147.1	0.0	1	1	8.8e-44	4.5e-41	145.713394165039	0.00	1	205	70	385	70	387	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURVG	DAPE_BURVG	379	Peptidase_M20	-	207	1.7e-41	147.1	0.1	1	1	4.8e-44	2.5e-41	146.577789306641	0.07	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_KLEP7	DAPE_KLEP7	375	Peptidase_M20	-	207	1.7e-41	147.1	0.0	1	1	4.2e-44	2.2e-41	146.743209838867	0.02	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURCC	DAPE_BURCC	379	Peptidase_M20	-	207	1.7e-41	147.1	0.1	1	1	4.8e-44	2.5e-41	146.570358276367	0.11	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CROS8	DAPE_CROS8	375	Peptidase_M20	-	207	1.9e-41	147.0	0.1	1	1	5.3e-44	2.7e-41	146.429565429688	0.06	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_MARMM	DAPE_MARMM	390	Peptidase_M20	-	207	2.1e-41	146.8	0.1	1	1	7.7e-44	4.0e-41	145.892669677734	0.06	1	206	71	382	71	383	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METC4	DAPE_METC4	385	Peptidase_M20	-	207	2.1e-41	146.8	0.1	1	1	7.8e-44	4.0e-41	145.879333496094	0.09	2	206	70	382	69	383	0.92	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BARQU	DAPE_BARQU	390	Peptidase_M20	-	207	2.4e-41	146.6	0.0	1	1	7.5e-44	3.9e-41	145.929061889648	0.01	1	206	70	386	70	387	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHESM	DAPE_SHESM	381	Peptidase_M20	-	207	2.4e-41	146.6	0.0	1	1	6.0e-44	3.1e-41	146.250717163086	0.03	1	206	68	377	68	378	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHESR	DAPE_SHESR	381	Peptidase_M20	-	207	2.4e-41	146.6	0.0	1	1	6.0e-44	3.1e-41	146.250717163086	0.03	1	206	68	377	68	378	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEHH	DAPE_SHEHH	381	Peptidase_M20	-	207	2.5e-41	146.6	0.0	1	1	5.9e-44	3.1e-41	146.271575927734	0.03	1	207	67	377	67	377	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RALSO	DAPE_RALSO	383	Peptidase_M20	-	207	2.8e-41	146.4	0.1	1	1	6.6e-44	3.4e-41	146.122268676758	0.15	2	206	71	379	70	380	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIB5	DAPE_ACIB5	377	Peptidase_M20	-	207	3.1e-41	146.3	0.1	1	1	7.5e-44	3.9e-41	145.929718017578	0.09	1	207	64	374	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIBY	DAPE_ACIBY	377	Peptidase_M20	-	207	3.1e-41	146.3	0.1	1	1	7.5e-44	3.9e-41	145.929718017578	0.09	1	207	64	374	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIBS	DAPE_ACIBS	377	Peptidase_M20	-	207	3.1e-41	146.2	0.1	1	1	7.5e-44	3.9e-41	145.934799194336	0.08	1	207	64	374	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIB3	DAPE_ACIB3	377	Peptidase_M20	-	207	3.1e-41	146.2	0.1	1	1	7.5e-44	3.9e-41	145.929718017578	0.09	1	207	64	374	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIBT	DAPE_ACIBT	378	Peptidase_M20	-	207	3.2e-41	146.2	0.1	1	1	7.6e-44	3.9e-41	145.916580200195	0.09	1	207	64	374	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIBC	DAPE_ACIBC	378	Peptidase_M20	-	207	3.3e-41	146.2	0.1	1	1	8.1e-44	4.2e-41	145.822692871094	0.08	1	207	64	374	64	374	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEU5	DAPE_PSEU5	382	Peptidase_M20	-	207	3.6e-41	146.1	0.1	1	1	8.5e-44	4.4e-41	145.762878417969	0.09	1	206	67	377	67	378	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHESH	DAPE_SHESH	376	Peptidase_M20	-	207	3.6e-41	146.0	0.1	1	1	8.3e-44	4.3e-41	145.794937133789	0.05	1	205	63	371	63	373	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METPP	DAPE_METPP	386	Peptidase_M20	-	207	3.7e-41	146.0	0.0	1	1	9.1e-44	4.7e-41	145.653900146484	0.04	2	206	74	382	73	383	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BARHE	DAPE_BARHE	390	Peptidase_M20	-	207	3.8e-41	146.0	0.0	1	1	9.4e-44	4.9e-41	145.610061645508	0.01	1	206	70	386	70	387	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEPW	DAPE_SHEPW	381	Peptidase_M20	-	207	4.4e-41	145.7	0.0	1	1	1.1e-43	5.7e-41	145.381744384766	0.03	1	207	67	377	67	377	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHESA	DAPE_SHESA	381	Peptidase_M20	-	207	4.9e-41	145.6	0.0	1	1	1.2e-43	6.2e-41	145.266571044922	0.03	1	206	68	377	68	378	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURCJ	DAPE_BURCJ	379	Peptidase_M20	-	207	4.9e-41	145.6	0.1	1	1	1.4e-43	7.0e-41	145.100463867188	0.11	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BEII9	DAPE_BEII9	383	Peptidase_M20	-	207	5.3e-41	145.5	0.1	1	1	1.2e-43	6.5e-41	145.210266113281	0.07	2	206	69	379	68	380	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOP5	DAPE_RHOP5	387	Peptidase_M20	-	207	5.3e-41	145.5	0.1	1	1	2.1e-43	1.1e-40	144.478134155273	0.10	1	206	70	383	70	384	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METPB	DAPE_METPB	387	Peptidase_M20	-	207	5.6e-41	145.4	0.1	1	1	1.7e-43	8.9e-41	144.75456237793	0.06	2	206	70	382	69	383	0.92	Succinyl-diaminopimelate desuccinylase		0
+DAPE_STRMK	DAPE_STRMK	375	Peptidase_M20	-	207	6.6e-41	145.2	0.1	1	1	1.6e-43	8.5e-41	144.826858520508	0.05	2	206	63	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_GLUDA	DAPE_GLUDA	385	Peptidase_M20	-	207	7.6e-41	145.0	0.1	1	1	2.2e-43	1.2e-40	144.376571655273	0.11	1	206	74	381	74	382	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURCA	DAPE_BURCA	379	Peptidase_M20	-	207	7.7e-41	145.0	0.1	1	1	2.1e-43	1.1e-40	144.484130859375	0.12	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BURCH	DAPE_BURCH	379	Peptidase_M20	-	207	7.7e-41	145.0	0.1	1	1	2.1e-43	1.1e-40	144.484130859375	0.12	1	206	66	375	66	376	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOPT	DAPE_RHOPT	387	Peptidase_M20	-	207	8.5e-41	144.8	0.2	1	1	3.5e-43	1.8e-40	143.745849609375	0.16	1	206	70	383	70	384	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_THIDA	DAPE_THIDA	392	Peptidase_M20	-	207	8.7e-41	144.8	0.1	1	1	2.2e-43	1.1e-40	144.421600341797	0.05	1	206	73	382	73	383	0.97	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHESW	DAPE_SHESW	379	Peptidase_M20	-	207	9.5e-41	144.7	0.0	1	1	2.3e-43	1.2e-40	144.341217041016	0.05	1	206	66	375	66	376	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEB2	DAPE_SHEB2	379	Peptidase_M20	-	207	1.0e-40	144.6	0.0	1	1	2.5e-43	1.3e-40	144.251998901367	0.03	1	206	66	375	66	376	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACTPJ	DAPE_ACTPJ	377	Peptidase_M20	-	207	1.2e-40	144.4	0.1	1	1	2.6e-43	1.4e-40	144.145538330078	0.14	1	206	63	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_YERE8	DAPE_YERE8	375	Peptidase_M20	-	207	1.2e-40	144.3	0.2	1	1	2.9e-43	1.5e-40	144.008239746094	0.25	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_POLNS	DAPE_POLNS	383	Peptidase_M20	-	207	1.5e-40	144.1	0.0	1	1	3.5e-43	1.8e-40	143.743087768555	0.02	1	206	70	379	70	380	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METEP	DAPE_METEP	385	Peptidase_M20	-	207	1.5e-40	144.0	0.1	1	1	5.6e-43	2.9e-40	143.079940795898	0.09	2	206	70	382	69	383	0.92	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEB8	DAPE_SHEB8	380	Peptidase_M20	-	207	1.6e-40	143.9	0.0	1	1	3.8e-43	2.0e-40	143.619873046875	0.03	1	206	67	376	67	377	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_POLSJ	DAPE_POLSJ	425	Peptidase_M20	-	207	1.7e-40	143.8	0.0	1	1	4.5e-43	2.3e-40	143.395950317383	0.05	2	206	93	401	92	402	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEB9	DAPE_SHEB9	379	Peptidase_M20	-	207	2.2e-40	143.5	0.0	1	1	5.4e-43	2.8e-40	143.137405395508	0.03	1	206	66	375	66	376	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_VARPS	DAPE_VARPS	391	Peptidase_M20	-	207	2.7e-40	143.2	0.2	1	1	8.0e-43	4.1e-40	142.578277587891	0.21	2	206	71	383	70	384	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRASO	DAPE_BRASO	384	Peptidase_M20	-	207	2.9e-40	143.1	0.0	1	1	1.8e-42	9.3e-40	141.432922363281	0.01	2	206	68	380	67	381	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PARDP	DAPE_PARDP	382	Peptidase_M20	-	207	3.1e-40	143.0	0.2	1	1	7.4e-43	3.8e-40	142.686599731445	0.24	2	206	67	378	66	379	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOPS	DAPE_RHOPS	388	Peptidase_M20	-	207	3.2e-40	142.9	0.1	1	1	9.4e-43	4.9e-40	142.34114074707	0.08	1	206	70	383	70	384	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRASB	DAPE_BRASB	384	Peptidase_M20	-	207	3.4e-40	142.9	0.0	1	1	1.6e-42	8.1e-40	141.630233764648	0.01	2	206	68	380	67	381	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METRJ	DAPE_METRJ	392	Peptidase_M20	-	207	3.6e-40	142.8	0.1	1	1	1.1e-42	5.5e-40	142.167205810547	0.07	2	206	75	386	74	387	0.92	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BRADU	DAPE_BRADU	388	Peptidase_M20	-	207	3.9e-40	142.7	0.1	1	1	1.5e-42	7.7e-40	141.700500488281	0.05	2	206	68	384	67	385	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEB5	DAPE_SHEB5	379	Peptidase_M20	-	207	3.9e-40	142.7	0.0	1	1	9.4e-43	4.9e-40	142.341491699219	0.03	1	206	66	375	66	376	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SODGM	DAPE_SODGM	375	Peptidase_M20	-	207	3.9e-40	142.7	0.0	1	1	9.8e-43	5.1e-40	142.282562255859	0.05	1	206	62	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEPA	DAPE_SHEPA	381	Peptidase_M20	-	207	4.2e-40	142.6	0.0	1	1	9.9e-43	5.1e-40	142.269439697266	0.05	1	207	67	377	67	377	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANC5	DAPE_XANC5	376	Peptidase_M20	-	207	4.5e-40	142.5	0.0	1	1	1.1e-42	5.5e-40	142.168548583984	0.04	2	206	63	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIF5	DAPE_ACIF5	382	Peptidase_M20	-	207	5.2e-40	142.3	0.1	1	1	1.3e-42	6.5e-40	141.934173583984	0.10	1	205	64	372	64	374	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ACIF2	DAPE_ACIF2	382	Peptidase_M20	-	207	5.2e-40	142.3	0.1	1	1	1.3e-42	6.5e-40	141.934173583984	0.10	1	205	64	372	64	374	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_AZOC5	DAPE_AZOC5	376	Peptidase_M20	-	207	5.3e-40	142.2	0.3	1	1	1.8e-42	9.3e-40	141.424758911133	0.07	1	206	62	368	62	369	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_OLICO	DAPE_OLICO	384	Peptidase_M20	-	207	5.5e-40	142.2	0.1	1	1	2.4e-42	1.2e-39	141.04345703125	0.04	2	206	68	380	67	381	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEPC	DAPE_SHEPC	379	Peptidase_M20	-	207	5.5e-40	142.2	0.0	1	1	1.3e-42	6.9e-40	141.852737426758	0.05	1	206	66	375	66	376	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEAB	DAPE_PSEAB	383	Peptidase_M20	-	207	5.8e-40	142.1	0.1	1	1	1.4e-42	7.1e-40	141.81787109375	0.12	1	206	69	379	69	380	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOPA	DAPE_RHOPA	387	Peptidase_M20	-	207	6.8e-40	141.9	0.2	1	1	2.8e-42	1.5e-39	140.79328918457	0.21	1	206	70	383	70	384	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RUTMC	DAPE_RUTMC	376	Peptidase_M20	-	207	7.0e-40	141.8	0.0	1	1	1.6e-42	8.2e-40	141.602844238281	0.01	2	207	63	373	62	373	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HAEDU	DAPE_HAEDU	376	Peptidase_M20	-	207	7.7e-40	141.7	0.0	1	1	1.8e-42	9.3e-40	141.428039550781	0.02	2	206	64	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANCP	DAPE_XANCP	376	Peptidase_M20	-	207	8.0e-40	141.7	0.1	1	1	1.8e-42	9.6e-40	141.391021728516	0.08	2	206	64	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANC8	DAPE_XANC8	376	Peptidase_M20	-	207	8.0e-40	141.7	0.1	1	1	1.8e-42	9.6e-40	141.391021728516	0.08	2	206	64	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METCA	DAPE_METCA	377	Peptidase_M20	-	207	9.7e-40	141.4	0.0	1	1	2.2e-42	1.1e-39	141.146881103516	0.02	2	205	63	370	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANAC	DAPE_XANAC	376	Peptidase_M20	-	207	1.0e-39	141.3	0.0	1	1	2.4e-42	1.2e-39	141.037612915039	0.04	2	206	63	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PROMH	DAPE_PROMH	376	Peptidase_M20	-	207	1.0e-39	141.3	0.0	1	1	2.4e-42	1.2e-39	141.029907226562	0.03	1	206	63	372	63	373	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANCB	DAPE_XANCB	376	Peptidase_M20	-	207	1.1e-39	141.2	0.1	1	1	2.6e-42	1.3e-39	140.92497253418	0.08	2	206	64	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SHEAM	DAPE_SHEAM	382	Peptidase_M20	-	207	1.2e-39	141.1	0.1	1	1	3.5e-42	1.8e-39	140.48796081543	0.12	1	206	68	377	68	378	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_WOLPP	DAPE_WOLPP	398	Peptidase_M20	-	207	1.2e-39	141.1	0.0	1	1	2.9e-42	1.5e-39	140.747131347656	0.00	1	207	64	373	64	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEAE	DAPE_PSEAE	383	Peptidase_M20	-	207	1.2e-39	141.0	0.1	1	1	2.9e-42	1.5e-39	140.755172729492	0.14	1	206	69	379	69	380	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEA8	DAPE_PSEA8	383	Peptidase_M20	-	207	1.2e-39	141.0	0.1	1	1	2.9e-42	1.5e-39	140.755172729492	0.14	1	206	69	379	69	380	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_POLNA	DAPE_POLNA	406	Peptidase_M20	-	207	1.3e-39	140.9	0.0	1	1	3.3e-42	1.7e-39	140.569610595703	0.02	2	206	92	400	91	401	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_MAGMM	DAPE_MAGMM	380	Peptidase_M20	-	207	1.4e-39	140.9	0.1	1	1	3.6e-42	1.9e-39	140.447174072266	0.07	2	206	63	373	62	374	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_SULNB	DAPE_SULNB	367	Peptidase_M20	-	207	1.4e-39	140.8	0.3	1	1	3.4e-42	1.7e-39	140.5419921875	0.25	1	206	60	362	60	363	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PELUB	DAPE_PELUB	384	Peptidase_M20	-	207	1.9e-39	140.4	0.0	1	1	4.6e-42	2.4e-39	140.08952331543	0.00	1	207	69	382	69	382	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XYLFM	DAPE_XYLFM	377	Peptidase_M20	-	207	1.9e-39	140.4	0.0	1	1	4.7e-42	2.4e-39	140.064346313477	0.02	2	206	63	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+HYUC_RHIML	HYUC_RHIML	416	Peptidase_M20	-	207	2.0e-39	140.4	0.5	1	1	4.9e-42	2.5e-39	140.008438110352	0.48	2	206	84	409	83	410	0.94	N-carbamoyl-L-amino-acid hydrolase		0
+DAPE_PSEA7	DAPE_PSEA7	383	Peptidase_M20	-	207	2.0e-39	140.3	0.1	1	1	4.8e-42	2.5e-39	140.033325195312	0.13	1	206	69	379	69	380	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_POLAQ	DAPE_POLAQ	383	Peptidase_M20	-	207	2.4e-39	140.1	0.0	1	1	6.0e-42	3.1e-39	139.710952758789	0.02	1	206	70	379	70	380	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NITSB	DAPE_NITSB	364	Peptidase_M20	-	207	3.0e-39	139.8	0.1	1	1	6.8e-42	3.5e-39	139.53141784668	0.14	1	206	60	362	60	363	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BLOFL	DAPE_BLOFL	384	Peptidase_M20	-	207	3.3e-39	139.7	0.0	1	1	7.4e-42	3.8e-39	139.420425415039	0.00	1	206	67	380	67	381	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_WOLTR	DAPE_WOLTR	401	Peptidase_M20	-	207	4.7e-39	139.1	0.0	1	1	1.1e-41	5.7e-39	138.850784301758	0.01	1	206	67	375	67	376	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_GLUOX	DAPE_GLUOX	381	Peptidase_M20	-	207	4.8e-39	139.1	0.1	1	1	1.2e-41	6.4e-39	138.69677734375	0.14	1	206	72	377	72	378	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAR	DAPE_STAAR	407	Peptidase_M20	-	207	5.0e-39	139.0	0.0	1	1	1.3e-41	6.5e-39	138.673797607422	0.01	1	204	68	399	68	402	0.93	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEMY	DAPE_PSEMY	380	Peptidase_M20	-	207	5.1e-39	139.0	0.0	1	1	1.2e-41	6.2e-39	138.741561889648	0.03	1	206	66	376	66	377	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICTY	DAPE_RICTY	383	Peptidase_M20	-	207	5.5e-39	138.9	0.0	1	1	1.3e-41	7.0e-39	138.574951171875	0.00	2	206	66	380	65	381	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAMJ8	DAPE_CAMJ8	365	Peptidase_M20	-	207	5.9e-39	138.8	0.0	1	1	1.4e-41	7.1e-39	138.551651000977	0.02	1	207	61	364	61	364	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BARBK	DAPE_BARBK	390	Peptidase_M20	-	207	6.4e-39	138.7	0.0	1	1	2.7e-41	1.4e-38	137.579116821289	0.00	1	205	70	385	70	387	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METSB	DAPE_METSB	388	Peptidase_M20	-	207	6.9e-39	138.6	0.1	1	1	2.0e-41	1.0e-38	138.001052856445	0.10	2	206	72	384	71	385	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XYLFA	DAPE_XYLFA	377	Peptidase_M20	-	207	7.4e-39	138.5	0.0	1	1	1.8e-41	9.5e-39	138.126983642578	0.02	2	206	63	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_STRM5	DAPE_STRM5	375	Peptidase_M20	-	207	8.5e-39	138.3	0.1	1	1	2.0e-41	1.1e-38	137.980117797852	0.07	2	206	63	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANOR	DAPE_XANOR	376	Peptidase_M20	-	207	1.0e-38	138.0	0.0	1	1	2.5e-41	1.3e-38	137.716064453125	0.04	2	206	63	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANOM	DAPE_XANOM	376	Peptidase_M20	-	207	1.0e-38	138.0	0.0	1	1	2.5e-41	1.3e-38	137.716064453125	0.04	2	206	63	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSE14	DAPE_PSE14	383	Peptidase_M20	-	207	1.1e-38	137.9	0.1	1	1	2.6e-41	1.3e-38	137.649169921875	0.14	1	206	69	379	69	380	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAN	DAPE_STAAN	407	Peptidase_M20	-	207	1.1e-38	137.9	0.0	1	1	2.9e-41	1.5e-38	137.505310058594	0.02	1	204	68	399	68	402	0.93	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAW	DAPE_STAAW	407	Peptidase_M20	-	207	1.1e-38	137.9	0.0	1	1	2.9e-41	1.5e-38	137.494644165039	0.01	1	204	68	399	68	402	0.93	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAS	DAPE_STAAS	407	Peptidase_M20	-	207	1.1e-38	137.9	0.0	1	1	2.9e-41	1.5e-38	137.494644165039	0.01	1	204	68	399	68	402	0.93	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEU2	DAPE_PSEU2	383	Peptidase_M20	-	207	1.1e-38	137.9	0.1	1	1	2.7e-41	1.4e-38	137.596527099609	0.12	1	206	69	379	69	380	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_JANSC	DAPE_JANSC	388	Peptidase_M20	-	207	1.3e-38	137.7	0.5	1	1	3.0e-41	1.6e-38	137.437973022461	0.46	2	206	73	383	72	384	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XYLFT	DAPE_XYLFT	377	Peptidase_M20	-	207	1.3e-38	137.7	0.0	1	1	3.0e-41	1.5e-38	137.448028564453	0.01	2	206	63	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XYLF2	DAPE_XYLF2	377	Peptidase_M20	-	207	1.3e-38	137.7	0.0	1	1	3.0e-41	1.5e-38	137.448028564453	0.01	2	206	63	371	62	372	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_XANOP	DAPE_XANOP	376	Peptidase_M20	-	207	1.4e-38	137.6	0.0	1	1	3.3e-41	1.7e-38	137.283554077148	0.04	2	206	63	371	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEF5	DAPE_PSEF5	383	Peptidase_M20	-	207	1.5e-38	137.5	0.1	1	1	3.4e-41	1.8e-38	137.238555908203	0.11	1	205	69	378	69	380	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICPR	DAPE_RICPR	383	Peptidase_M20	-	207	1.5e-38	137.5	0.0	1	1	3.6e-41	1.9e-38	137.183502197266	0.00	2	205	66	379	65	381	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BUCBP	DAPE_BUCBP	377	Peptidase_M20	-	207	1.9e-38	137.2	0.0	1	1	4.3e-41	2.2e-38	136.939239501953	0.00	1	206	63	372	63	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BUCCC	DAPE_BUCCC	376	Peptidase_M20	-	207	2.0e-38	137.0	0.0	1	1	4.6e-41	2.4e-38	136.82048034668	0.00	2	206	63	372	62	373	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSESM	DAPE_PSESM	383	Peptidase_M20	-	207	2.1e-38	137.0	0.1	1	1	4.8e-41	2.5e-38	136.757659912109	0.10	1	206	69	379	69	380	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOS4	DAPE_RHOS4	380	Peptidase_M20	-	207	2.7e-38	136.6	0.4	1	1	7.4e-41	3.8e-38	136.154571533203	0.43	2	206	66	376	65	377	0.93	Succinyl-diaminopimelate desuccinylase		0
+YODQ_BACSU	YODQ_BACSU	436	Peptidase_M20	-	207	3.3e-38	136.4	0.1	1	1	8.8e-41	4.5e-38	135.911575317383	0.08	1	206	99	417	99	418	0.88	Uncharacterized metallohydrolase YodQ		0
+DAPE_WIGBR	DAPE_WIGBR	376	Peptidase_M20	-	207	3.4e-38	136.3	0.0	1	1	7.7e-41	4.0e-38	136.089782714844	0.00	1	206	60	370	60	371	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_STAES	DAPE_STAES	405	Peptidase_M20	-	207	3.5e-38	136.3	0.5	1	1	8.6e-41	4.4e-38	135.94645690918	0.47	2	205	69	399	68	401	0.92	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_EHRCR	DAPE_EHRCR	381	Peptidase_M20	-	207	3.6e-38	136.3	0.0	1	1	9.3e-41	4.8e-38	135.833480834961	0.01	1	207	67	375	67	375	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METS4	DAPE_METS4	396	Peptidase_M20	-	207	3.8e-38	136.2	0.1	1	1	1.2e-40	6.1e-38	135.485610961914	0.06	1	206	70	383	70	384	0.91	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PHEZH	DAPE_PHEZH	380	Peptidase_M20	-	207	4.9e-38	135.8	1.1	1	1	1.4e-40	7.1e-38	135.279159545898	1.11	1	206	65	376	65	377	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEE4	DAPE_PSEE4	383	Peptidase_M20	-	207	5.3e-38	135.7	0.0	1	1	1.3e-40	6.5e-38	135.408981323242	0.04	1	206	69	379	69	380	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOS1	DAPE_RHOS1	380	Peptidase_M20	-	207	5.3e-38	135.7	0.5	1	1	1.5e-40	7.5e-38	135.197387695312	0.54	2	206	66	376	65	377	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICCK	DAPE_RICCK	384	Peptidase_M20	-	207	5.4e-38	135.7	0.0	1	1	1.2e-40	6.4e-38	135.417602539062	0.00	2	206	66	378	65	379	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_METNO	DAPE_METNO	396	Peptidase_M20	-	207	5.9e-38	135.5	0.1	1	1	1.8e-40	9.2e-38	134.915176391602	0.10	1	206	70	383	70	384	0.91	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOS5	DAPE_RHOS5	380	Peptidase_M20	-	207	7.2e-38	135.3	0.4	1	1	1.8e-40	9.5e-38	134.868209838867	0.40	2	206	66	376	65	377	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEP1	DAPE_PSEP1	383	Peptidase_M20	-	207	7.4e-38	135.2	0.0	1	1	1.8e-40	9.2e-38	134.908935546875	0.04	1	206	69	379	69	380	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEPK	DAPE_PSEPK	383	Peptidase_M20	-	207	7.4e-38	135.2	0.0	1	1	1.8e-40	9.2e-38	134.908935546875	0.04	1	206	69	379	69	380	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOP2	DAPE_RHOP2	389	Peptidase_M20	-	207	7.8e-38	135.1	0.1	1	1	4.6e-40	2.4e-37	133.558578491211	0.05	1	206	68	385	68	386	0.92	Succinyl-diaminopimelate desuccinylase		0
+DAPE_EHRCJ	DAPE_EHRCJ	380	Peptidase_M20	-	207	8.8e-38	135.0	0.0	1	1	2.5e-40	1.3e-37	134.431274414062	0.00	1	206	67	374	67	375	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_STAEQ	DAPE_STAEQ	405	Peptidase_M20	-	207	9.9e-38	134.8	0.5	1	1	2.5e-40	1.3e-37	134.449142456055	0.48	2	205	69	399	68	401	0.92	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEPG	DAPE_PSEPG	383	Peptidase_M20	-	207	1.0e-37	134.8	0.0	1	1	2.4e-40	1.3e-37	134.471252441406	0.04	1	206	69	379	69	380	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICBR	DAPE_RICBR	391	Peptidase_M20	-	207	1.2e-37	134.6	0.0	1	1	2.8e-40	1.4e-37	134.273544311523	0.01	2	206	64	376	63	377	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOPB	DAPE_RHOPB	392	Peptidase_M20	-	207	1.2e-37	134.5	0.4	1	1	3.9e-40	2.0e-37	133.810455322266	0.22	1	206	71	388	71	389	0.92	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RHOSK	DAPE_RHOSK	380	Peptidase_M20	-	207	1.2e-37	134.5	0.5	1	1	3.4e-40	1.8e-37	133.994766235352	0.48	2	206	66	376	65	377	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAMLR	DAPE_CAMLR	366	Peptidase_M20	-	207	1.3e-37	134.4	0.0	1	1	3.0e-40	1.6e-37	134.150039672852	0.01	1	207	61	364	61	364	0.92	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAMJJ	DAPE_CAMJJ	365	Peptidase_M20	-	207	1.3e-37	134.4	0.0	1	1	3.1e-40	1.6e-37	134.126647949219	0.03	1	207	61	364	61	364	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NITHX	DAPE_NITHX	389	Peptidase_M20	-	207	1.4e-37	134.3	0.1	1	1	5.9e-40	3.1e-37	133.211959838867	0.09	1	206	68	385	68	386	0.91	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ROSDO	DAPE_ROSDO	381	Peptidase_M20	-	207	1.5e-37	134.2	0.1	1	1	3.5e-40	1.8e-37	133.950317382812	0.13	2	206	67	377	66	378	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_NITWN	DAPE_NITWN	389	Peptidase_M20	-	207	1.6e-37	134.2	0.1	1	1	4.1e-40	2.1e-37	133.722686767578	0.06	1	206	68	385	68	386	0.91	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICFE	DAPE_RICFE	381	Peptidase_M20	-	207	1.6e-37	134.1	0.0	1	1	4.0e-40	2.1e-37	133.772964477539	0.01	2	206	66	378	65	379	0.92	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICB8	DAPE_RICB8	391	Peptidase_M20	-	207	1.7e-37	134.1	0.0	1	1	4.1e-40	2.1e-37	133.728805541992	0.01	2	206	64	376	63	377	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSESY	DAPE_PSESY	378	Peptidase_M20	-	207	2.2e-37	133.7	0.0	1	1	5.2e-40	2.7e-37	133.402130126953	0.04	1	205	64	373	64	375	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BUCAT	DAPE_BUCAT	375	Peptidase_M20	-	207	2.4e-37	133.5	0.0	1	1	5.5e-40	2.9e-37	133.299118041992	0.00	2	206	63	371	62	372	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BUCA5	DAPE_BUCA5	375	Peptidase_M20	-	207	2.4e-37	133.5	0.0	1	1	5.5e-40	2.9e-37	133.299118041992	0.00	2	206	63	371	62	372	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAMJE	DAPE_CAMJE	365	Peptidase_M20	-	207	2.5e-37	133.5	0.0	1	1	5.7e-40	3.0e-37	133.25080871582	0.03	1	207	61	364	61	364	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RUEPO	DAPE_RUEPO	380	Peptidase_M20	-	207	2.6e-37	133.5	0.8	1	1	6.2e-40	3.2e-37	133.142501831055	0.84	2	206	66	376	65	377	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BUCAI	DAPE_BUCAI	375	Peptidase_M20	-	207	3.1e-37	133.2	0.0	1	1	7.1e-40	3.7e-37	132.94075012207	0.00	2	206	63	371	62	372	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICAH	DAPE_RICAH	381	Peptidase_M20	-	207	3.3e-37	133.1	0.0	1	1	7.9e-40	4.1e-37	132.793212890625	0.01	2	205	66	377	65	379	0.91	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEPW	DAPE_PSEPW	383	Peptidase_M20	-	207	3.9e-37	132.9	0.0	1	1	9.5e-40	4.9e-37	132.537994384766	0.04	1	206	69	379	69	380	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE2_SHELP	DAPE2_SHELP	377	Peptidase_M20	-	207	4.0e-37	132.8	0.0	1	1	9.7e-40	5.0e-37	132.500335693359	0.01	1	206	58	373	58	374	0.95	Succinyl-diaminopimelate desuccinylase 2		0
+DAPE_SULDN	DAPE_SULDN	365	Peptidase_M20	-	207	4.1e-37	132.8	0.0	1	1	9.6e-40	5.0e-37	132.514755249023	0.03	1	206	60	362	60	363	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_PSEPF	DAPE_PSEPF	383	Peptidase_M20	-	207	4.5e-37	132.7	0.2	1	1	1.1e-39	5.6e-37	132.359008789062	0.19	1	205	69	378	69	380	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE1_RUEST	DAPE1_RUEST	381	Peptidase_M20	-	207	4.8e-37	132.6	0.9	1	1	1.1e-39	5.7e-37	132.32373046875	0.92	2	206	67	377	66	378	0.93	Succinyl-diaminopimelate desuccinylase 1		0
+DAPE_RHORT	DAPE_RHORT	392	Peptidase_M20	-	207	8.2e-37	131.8	0.0	1	1	2.4e-39	1.2e-36	131.235305786133	0.02	2	205	68	384	67	386	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAMJR	DAPE_CAMJR	365	Peptidase_M20	-	207	9.6e-37	131.6	0.0	1	1	2.2e-39	1.1e-36	131.333099365234	0.03	1	207	61	364	61	364	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE2_RUEST	DAPE2_RUEST	395	Peptidase_M20	-	207	9.6e-37	131.6	0.1	1	1	2.3e-39	1.2e-36	131.271575927734	0.12	2	206	76	386	75	387	0.94	Succinyl-diaminopimelate desuccinylase 2		0
+DAPE_CAUSK	DAPE_CAUSK	387	Peptidase_M20	-	207	1.0e-36	131.5	0.1	1	1	3.4e-39	1.7e-36	130.737838745117	0.11	1	205	71	379	71	381	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_EHRRW	DAPE_EHRRW	383	Peptidase_M20	-	207	1.1e-36	131.4	0.0	1	1	2.8e-39	1.4e-36	131.006576538086	0.01	1	207	68	376	68	376	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_EHRRG	DAPE_EHRRG	383	Peptidase_M20	-	207	1.2e-36	131.3	0.0	1	1	3.0e-39	1.5e-36	130.92546081543	0.01	1	207	68	376	68	376	0.94	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ZYMMO	DAPE_ZYMMO	376	Peptidase_M20	-	207	1.8e-36	130.7	0.0	1	1	6.1e-39	3.2e-36	129.892150878906	0.02	3	204	72	370	70	373	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAUVC	DAPE_CAUVC	386	Peptidase_M20	-	207	2.4e-36	130.3	1.4	1	1	8.4e-39	4.3e-36	129.447250366211	1.07	1	206	71	379	71	380	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAUVN	DAPE_CAUVN	386	Peptidase_M20	-	207	2.4e-36	130.3	1.4	1	1	8.4e-39	4.3e-36	129.447250366211	1.07	1	206	71	379	71	380	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ORITI	DAPE_ORITI	388	Peptidase_M20	-	207	2.6e-36	130.2	0.0	1	1	6.8e-39	3.5e-36	129.733016967773	0.00	1	205	68	375	68	376	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICRS	DAPE_RICRS	381	Peptidase_M20	-	207	3.1e-36	129.9	0.0	1	1	7.3e-39	3.8e-36	129.649002075195	0.01	2	206	66	378	65	379	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICRO	DAPE_RICRO	381	Peptidase_M20	-	207	3.1e-36	129.9	0.0	1	1	7.3e-39	3.8e-36	129.649002075195	0.01	2	206	66	378	65	379	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_WOLSU	DAPE_WOLSU	364	Peptidase_M20	-	207	3.1e-36	129.9	0.0	1	1	7.1e-39	3.7e-36	129.675674438477	0.02	1	205	62	363	62	364	0.92	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICPU	DAPE_RICPU	381	Peptidase_M20	-	207	4.1e-36	129.5	0.0	1	1	9.7e-39	5.0e-36	129.244750976562	0.01	2	206	66	378	65	379	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICAE	DAPE_RICAE	381	Peptidase_M20	-	207	4.1e-36	129.5	0.0	1	1	9.7e-39	5.0e-36	129.244750976562	0.01	2	206	66	378	65	379	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_RICCN	DAPE_RICCN	381	Peptidase_M20	-	207	4.1e-36	129.5	0.0	1	1	9.7e-39	5.0e-36	129.244750976562	0.01	2	206	66	378	65	379	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HELHP	DAPE_HELHP	392	Peptidase_M20	-	207	5.4e-36	129.1	0.0	1	1	1.3e-38	6.8e-36	128.800537109375	0.00	1	206	72	380	72	381	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_STAAM	DAPE_STAAM	400	Peptidase_M20	-	207	6.4e-36	128.9	0.0	1	1	1.8e-38	9.3e-36	128.360656738281	0.01	1	192	68	387	68	398	0.92	Probable succinyl-diaminopimelate desuccinylase		0
+DAPE_ERYLH	DAPE_ERYLH	378	Peptidase_M20	-	207	7.2e-36	128.7	0.1	1	1	1.8e-38	9.3e-36	128.36213684082	0.07	1	206	73	373	73	374	0.92	Succinyl-diaminopimelate desuccinylase		0
+ACY1A_RAT	ACY1A_RAT	408	Peptidase_M20	-	207	9.8e-36	128.3	0.0	1	1	2.4e-38	1.2e-35	127.950569152832	0.05	1	206	76	396	76	397	0.86	Aminoacylase-1A		0
+DAPE_RICM5	DAPE_RICM5	381	Peptidase_M20	-	207	1.1e-35	128.2	0.0	1	1	2.6e-38	1.3e-35	127.861755371094	0.01	2	206	66	378	65	379	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_BLOPB	DAPE_BLOPB	384	Peptidase_M20	-	207	1.1e-35	128.1	0.0	1	1	2.7e-38	1.4e-35	127.792640686035	0.00	1	206	68	378	68	379	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_LEGPL	DAPE_LEGPL	377	Peptidase_M20	-	207	1.2e-35	128.0	0.0	1	1	2.7e-38	1.4e-35	127.769821166992	0.01	2	204	63	370	62	373	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ORITB	DAPE_ORITB	388	Peptidase_M20	-	207	1.2e-35	128.0	0.0	1	1	3.2e-38	1.7e-35	127.530410766602	0.00	1	205	68	375	68	376	0.95	Succinyl-diaminopimelate desuccinylase		0
+Y1078_STAES	Y1078_STAES	383	Peptidase_M20	-	207	1.4e-35	127.8	0.2	1	1	3.3e-38	1.7e-35	127.512451171875	0.21	1	207	63	379	63	379	0.93	Uncharacterized hydrolase SE_1078		0
+DAPE_LEGPC	DAPE_LEGPC	377	Peptidase_M20	-	207	1.5e-35	127.7	0.0	1	1	3.4e-38	1.8e-35	127.465255737305	0.01	2	204	63	370	62	373	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_LEGPH	DAPE_LEGPH	377	Peptidase_M20	-	207	2.0e-35	127.3	0.0	1	1	4.6e-38	2.4e-35	127.028953552246	0.01	2	204	63	370	62	373	0.96	Succinyl-diaminopimelate desuccinylase		0
+DAPE_LEGPA	DAPE_LEGPA	377	Peptidase_M20	-	207	2.0e-35	127.3	0.0	1	1	4.6e-38	2.4e-35	127.028953552246	0.01	2	204	63	370	62	373	0.96	Succinyl-diaminopimelate desuccinylase		0
+ILL6_ORYSJ	ILL6_ORYSJ	510	Peptidase_M20	-	207	2.2e-35	127.2	1.7	1	1	6.5e-38	3.4e-35	126.535720825195	1.67	1	206	169	484	169	485	0.89	IAA-amino acid hydrolase ILR1-like 6		0
+DAPE_CAMJD	DAPE_CAMJD	365	Peptidase_M20	-	207	2.4e-35	127.0	0.0	1	1	5.6e-38	2.9e-35	126.749588012695	0.02	1	207	61	364	61	364	0.93	Succinyl-diaminopimelate desuccinylase		0
+ACY1_PIG	ACY1_PIG	407	Peptidase_M20	-	207	2.9e-35	126.7	0.0	1	1	7.9e-38	4.1e-35	126.253814697266	0.05	1	206	76	395	76	396	0.83	Aminoacylase-1		0
+DAPE_BUCAP	DAPE_BUCAP	375	Peptidase_M20	-	207	3.0e-35	126.7	0.0	1	1	6.8e-38	3.5e-35	126.476104736328	0.00	2	205	63	370	62	372	0.95	Succinyl-diaminopimelate desuccinylase		0
+ACY1_MOUSE	ACY1_MOUSE	408	Peptidase_M20	-	207	3.1e-35	126.6	0.0	1	1	7.7e-38	4.0e-35	126.30200958252	0.03	1	206	76	396	76	397	0.85	Aminoacylase-1		0
+Y968_STAEQ	Y968_STAEQ	383	Peptidase_M20	-	207	3.3e-35	126.6	0.4	1	1	7.5e-38	3.9e-35	126.341445922852	0.37	1	207	63	379	63	379	0.93	Uncharacterized hydrolase SERP0968		0
+Y457_METJA	Y457_METJA	410	Peptidase_M20	-	207	5.2e-35	125.9	0.0	1	1	1.3e-37	6.6e-35	125.583847045898	0.01	2	205	84	409	83	410	0.89	Uncharacterized metallohydrolase MJ0457		0
+DAPE_SPHWW	DAPE_SPHWW	377	Peptidase_M20	-	207	6.4e-35	125.6	0.1	1	1	1.8e-37	9.5e-35	125.071571350098	0.14	1	206	67	369	67	370	0.95	Succinyl-diaminopimelate desuccinylase		0
+DAPE_CAMFF	DAPE_CAMFF	365	Peptidase_M20	-	207	8.0e-35	125.3	0.0	1	1	1.9e-37	9.8e-35	125.025566101074	0.01	1	207	60	363	60	363	0.92	Succinyl-diaminopimelate desuccinylase		0
+CNDP2_BOVIN	CNDP2_BOVIN	475	Peptidase_M20	-	207	9.1e-35	125.1	0.0	1	1	2.3e-37	1.2e-34	124.735145568848	0.02	1	206	95	468	95	469	0.91	Cytosolic non-specific dipeptidase		0
+CNDP2_HUMAN	CNDP2_HUMAN	475	Peptidase_M20	-	207	1.1e-34	124.9	0.0	1	1	2.6e-37	1.4e-34	124.558486938477	0.03	1	206	95	468	95	469	0.91	Cytosolic non-specific dipeptidase	4ruh_B	0
+DAPE_ACICJ	DAPE_ACICJ	371	Peptidase_M20	-	207	1.2e-34	124.7	0.2	1	1	2.9e-37	1.5e-34	124.428939819336	0.25	2	206	65	367	64	368	0.93	Succinyl-diaminopimelate desuccinylase		0
+CNDP2_RAT	CNDP2_RAT	475	Peptidase_M20	-	207	1.2e-34	124.7	0.0	1	1	3.2e-37	1.6e-34	124.290832519531	0.02	1	206	95	468	95	469	0.91	Cytosolic non-specific dipeptidase		0
+CNDP2_MOUSE	CNDP2_MOUSE	475	Peptidase_M20	-	207	1.2e-34	124.7	0.0	1	1	3.2e-37	1.6e-34	124.289245605469	0.02	1	206	95	468	95	469	0.91	Cytosolic non-specific dipeptidase	2zof_A	0
+ACY1_PONAB	ACY1_PONAB	408	Peptidase_M20	-	207	1.8e-34	124.1	0.0	1	1	4.5e-37	2.3e-34	123.791152954102	0.03	1	205	76	395	76	397	0.87	Aminoacylase-1		0
+ACY1_HUMAN	ACY1_HUMAN	408	Peptidase_M20	-	207	1.9e-34	124.1	0.0	1	1	5.3e-37	2.7e-34	123.563201904297	0.03	1	205	76	395	76	397	0.87	Aminoacylase-1	1q7l_B	0
+DAPE_NOVAD	DAPE_NOVAD	375	Peptidase_M20	-	207	1.9e-34	124.1	0.1	1	1	4.5e-37	2.3e-34	123.791328430176	0.08	1	205	71	370	71	372	0.92	Succinyl-diaminopimelate desuccinylase		0
+ARGE_MORAB	ARGE_MORAB	382	Peptidase_M20	-	207	1.9e-34	124.1	0.0	1	1	4.9e-37	2.5e-34	123.686752319336	0.02	1	206	74	377	74	378	0.91	Acetylornithine deacetylase		0
+ILL9_ORYSJ	ILL9_ORYSJ	440	Peptidase_M20	-	207	2.3e-34	123.8	2.1	1	1	6.3e-37	3.3e-34	123.311859130859	2.15	1	204	112	428	112	431	0.90	IAA-amino acid hydrolase ILR1-like 9		0
+DAPE_CAMHC	DAPE_CAMHC	367	Peptidase_M20	-	207	2.9e-34	123.5	0.0	1	1	6.8e-37	3.5e-34	123.207717895508	0.00	1	207	63	366	63	366	0.93	Succinyl-diaminopimelate desuccinylase		0
+SCMP_BACSU	SCMP_BACSU	380	Peptidase_M20	-	207	3.4e-34	123.3	0.3	1	1	8.8e-37	4.5e-34	122.851188659668	0.28	1	205	69	372	69	373	0.92	N-acetylcysteine deacetylase	1ysj_A	0
+DAPE_ANAMM	DAPE_ANAMM	381	Peptidase_M20	-	207	3.5e-34	123.2	0.0	1	1	8.5e-37	4.4e-34	122.892425537109	0.00	1	206	68	371	68	372	0.92	Succinyl-diaminopimelate desuccinylase		0
+DAPE_ANAMF	DAPE_ANAMF	381	Peptidase_M20	-	207	3.5e-34	123.2	0.0	1	1	8.5e-37	4.4e-34	122.892425537109	0.00	1	206	68	371	68	372	0.92	Succinyl-diaminopimelate desuccinylase		0
+P20D1_MOUSE	P20D1_MOUSE	503	Peptidase_M20	-	207	3.6e-34	123.2	0.0	1	1	1.1e-36	5.6e-34	122.559791564941	0.00	1	207	121	489	121	489	0.90	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+YTNL_BACSU	YTNL_BACSU	416	Peptidase_M20	-	207	3.6e-34	123.2	0.2	1	1	9.4e-37	4.9e-34	122.748260498047	0.17	1	205	99	402	99	404	0.92	Uncharacterized hydrolase YtnL		0
+DAPE_DINSH	DAPE_DINSH	379	Peptidase_M20	-	207	3.6e-34	123.2	0.5	1	1	9.1e-37	4.7e-34	122.802589416504	0.54	2	206	65	375	64	376	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE1_ALTMD	DAPE1_ALTMD	390	Peptidase_M20	-	207	3.7e-34	123.1	0.0	1	1	7.0e-36	3.6e-33	119.91032409668	0.01	1	205	72	385	72	387	0.90	Succinyl-diaminopimelate desuccinylase 1		0
+ARGE_PROMH	ARGE_PROMH	387	Peptidase_M20	-	207	4.1e-34	123.0	0.0	1	1	1.0e-36	5.2e-34	122.648307800293	0.01	1	207	76	379	76	379	0.92	Acetylornithine deacetylase		0
+CNDP2_PONAB	CNDP2_PONAB	475	Peptidase_M20	-	207	4.2e-34	123.0	0.0	1	1	1.0e-36	5.3e-34	122.618576049805	0.04	1	206	95	468	95	469	0.91	Cytosolic non-specific dipeptidase		0
+ACY1B_RAT	ACY1B_RAT	408	Peptidase_M20	-	207	5.5e-34	122.6	0.1	1	1	1.6e-36	8.1e-34	122.03271484375	0.07	1	206	76	396	76	397	0.86	Aminoacylase-1B		0
+DAPE_CAMC5	DAPE_CAMC5	365	Peptidase_M20	-	207	6.0e-34	122.5	0.0	1	1	1.4e-36	7.2e-34	122.190803527832	0.01	1	207	60	363	60	363	0.92	Succinyl-diaminopimelate desuccinylase		0
+CBPS2_YEAST	CBPS2_YEAST	581	Peptidase_M20	-	207	6.2e-34	122.4	0.0	1	1	2.8e-36	1.5e-33	121.19832611084	0.00	1	206	166	573	166	574	0.92	Putative carboxypeptidase YOL153C		0
+ILL7_ORYSJ	ILL7_ORYSJ	455	Peptidase_M20	-	207	7.1e-34	122.2	0.9	1	1	1.8e-36	9.2e-34	121.841117858887	0.90	1	205	127	442	127	444	0.89	IAA-amino acid hydrolase ILR1-like 7		0
+ILL6_ARATH	ILL6_ARATH	464	Peptidase_M20	-	207	1.2e-33	121.5	0.7	1	1	2.9e-36	1.5e-33	121.137565612793	0.67	1	206	146	456	146	457	0.91	IAA-amino acid hydrolase ILR1-like 6		0
+DAPE_CAMC1	DAPE_CAMC1	363	Peptidase_M20	-	207	1.2e-33	121.5	0.0	1	1	2.8e-36	1.5e-33	121.19775390625	0.00	1	207	59	361	59	361	0.92	Succinyl-diaminopimelate desuccinylase		0
+ILL5_ORYSJ	ILL5_ORYSJ	426	Peptidase_M20	-	207	1.4e-33	121.2	1.0	1	1	3.7e-36	1.9e-33	120.805503845215	0.96	1	205	93	407	93	409	0.90	IAA-amino acid hydrolase ILR1-like 5		0
+CNDP1_RAT	CNDP1_RAT	492	Peptidase_M20	-	207	1.6e-33	121.1	0.0	1	1	4.3e-36	2.2e-33	120.607154846191	0.01	1	205	103	475	103	477	0.89	Beta-Ala-His dipeptidase		0
+ILL1_ORYSJ	ILL1_ORYSJ	442	Peptidase_M20	-	207	1.8e-33	120.9	0.3	1	1	4.6e-36	2.4e-33	120.482551574707	0.30	1	205	106	421	106	423	0.89	IAA-amino acid hydrolase ILR1-like 1		0
+ARGE_MORPR	ARGE_MORPR	381	Peptidase_M20	-	207	2.1e-33	120.7	0.0	1	1	5.7e-36	2.9e-33	120.195686340332	0.02	1	206	74	376	74	377	0.92	Acetylornithine deacetylase		0
+ILL1_ORYSI	ILL1_ORYSI	442	Peptidase_M20	-	207	2.2e-33	120.6	0.3	1	1	5.8e-36	3.0e-33	120.159660339355	0.26	1	205	106	421	106	423	0.89	IAA-amino acid hydrolase ILR1-like 1		0
+DAPE_HELPJ	DAPE_HELPJ	388	Peptidase_M20	-	207	2.2e-33	120.6	0.0	1	1	5.8e-36	3.0e-33	120.173034667969	0.00	1	205	80	382	80	384	0.94	Succinyl-diaminopimelate desuccinylase		0
+HYUC_PSESN	HYUC_PSESN	414	Peptidase_M20	-	207	2.8e-33	120.3	0.1	1	1	6.9e-36	3.6e-33	119.916145324707	0.13	1	205	79	410	79	412	0.95	N-carbamoyl-L-amino-acid hydrolase		0
+Y1513_STAHJ	Y1513_STAHJ	383	Peptidase_M20	-	207	3.4e-33	120.0	0.2	1	1	8.0e-36	4.1e-33	119.71435546875	0.23	1	206	63	378	63	379	0.93	Uncharacterized hydrolase SH1513		0
+DAPE_HELPY	DAPE_HELPY	383	Peptidase_M20	-	207	4.3e-33	119.6	0.0	1	1	9.9e-36	5.1e-33	119.407623291016	0.00	1	205	75	377	75	379	0.94	Succinyl-diaminopimelate desuccinylase		0
+PEPVL_BACSU	PEPVL_BACSU	463	Peptidase_M20	-	207	5.5e-33	119.3	0.0	1	1	1.5e-35	7.8e-33	118.80753326416	0.02	4	206	84	459	81	460	0.93	Putative dipeptidase YtjP		0
+DAPE_ARCB4	DAPE_ARCB4	366	Peptidase_M20	-	207	6.4e-33	119.1	0.1	1	1	1.5e-35	7.6e-33	118.860328674316	0.11	1	207	62	365	62	365	0.92	Succinyl-diaminopimelate desuccinylase		0
+ILL8_ORYSJ	ILL8_ORYSJ	444	Peptidase_M20	-	207	9.0e-33	118.6	1.0	1	1	2.5e-35	1.3e-32	118.078422546387	0.98	1	203	116	432	116	436	0.86	IAA-amino acid hydrolase ILR1-like 8		0
+CNDP1_MOUSE	CNDP1_MOUSE	492	Peptidase_M20	-	207	9.8e-33	118.5	0.0	1	1	2.5e-35	1.3e-32	118.083488464355	0.01	1	205	103	475	103	477	0.89	Beta-Ala-His dipeptidase		0
+ILL1_ARATH	ILL1_ARATH	438	Peptidase_M20	-	207	1.2e-32	118.2	0.4	1	1	3.1e-35	1.6e-32	117.781425476074	0.38	1	205	107	418	107	420	0.89	IAA-amino acid hydrolase ILR1-like 1		0
+Y1398_STAAM	Y1398_STAAM	383	Peptidase_M20	-	207	1.2e-32	118.2	0.1	1	1	2.8e-35	1.4e-32	117.952667236328	0.06	2	207	64	379	63	379	0.93	Uncharacterized hydrolase SAV1398		0
+Y1230_STAAN	Y1230_STAAN	383	Peptidase_M20	-	207	1.2e-32	118.2	0.1	1	1	2.8e-35	1.4e-32	117.952667236328	0.06	2	207	64	379	63	379	0.93	Uncharacterized hydrolase SA1230		0
+DAPE_HELPS	DAPE_HELPS	383	Peptidase_M20	-	207	1.3e-32	118.1	0.0	1	1	3.4e-35	1.8e-32	117.661109924316	0.00	1	206	75	378	75	379	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HELPG	DAPE_HELPG	388	Peptidase_M20	-	207	1.6e-32	117.8	0.0	1	1	4.3e-35	2.2e-32	117.331771850586	0.00	1	206	80	383	80	384	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HELP2	DAPE_HELP2	383	Peptidase_M20	-	207	1.6e-32	117.8	0.0	1	1	3.7e-35	1.9e-32	117.525215148926	0.00	1	205	75	377	75	379	0.93	Succinyl-diaminopimelate desuccinylase		0
+DAPE_GRABC	DAPE_GRABC	383	Peptidase_M20	-	207	1.7e-32	117.7	0.1	1	1	5.5e-35	2.9e-32	116.967109680176	0.07	1	205	64	374	64	375	0.91	Succinyl-diaminopimelate desuccinylase		0
+DAPE_HELPH	DAPE_HELPH	383	Peptidase_M20	-	207	1.8e-32	117.6	0.0	1	1	4.1e-35	2.1e-32	117.379753112793	0.00	2	206	76	378	75	379	0.93	Succinyl-diaminopimelate desuccinylase		0
+DUG1_SCHPO	DUG1_SCHPO	476	Peptidase_M20	-	207	1.9e-32	117.6	0.0	1	1	4.5e-35	2.4e-32	117.246459960938	0.02	1	206	95	469	95	470	0.90	Cys-Gly metallodipeptidase dug1		0
+Y1433_STAAC	Y1433_STAAC	383	Peptidase_M20	-	207	1.9e-32	117.6	0.0	1	1	4.4e-35	2.3e-32	117.296691894531	0.05	2	207	64	379	63	379	0.93	Uncharacterized hydrolase SACOL1433		0
+Y1253_STAAB	Y1253_STAAB	383	Peptidase_M20	-	207	1.9e-32	117.5	0.0	1	1	4.5e-35	2.3e-32	117.267395019531	0.04	2	207	64	379	63	379	0.93	Uncharacterized hydrolase SAB1253		0
+HYUC_PAEAU	HYUC_PAEAU	412	Peptidase_M20	-	207	2.0e-32	117.5	1.0	1	1	5.5e-35	2.8e-32	116.989105224609	1.01	2	206	79	408	78	409	0.92	N-carbamoyl-L-amino-acid hydrolase		0
+P20D1_HUMAN	P20D1_HUMAN	502	Peptidase_M20	-	207	2.1e-32	117.4	0.0	1	1	8.2e-35	4.2e-32	116.411911010742	0.00	1	207	121	488	121	488	0.88	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+DAPE_HELAH	DAPE_HELAH	383	Peptidase_M20	-	207	2.2e-32	117.3	0.0	1	1	5.2e-35	2.7e-32	117.06876373291	0.00	1	205	75	377	75	379	0.92	Succinyl-diaminopimelate desuccinylase		0
+Y1291_STAA3	Y1291_STAA3	383	Peptidase_M20	-	207	2.2e-32	117.3	0.1	1	1	5.2e-35	2.7e-32	117.062782287598	0.05	2	207	64	379	63	379	0.93	Uncharacterized hydrolase SAUSA300_1291		0
+Y1286_STAAW	Y1286_STAAW	383	Peptidase_M20	-	207	2.2e-32	117.3	0.1	1	1	5.2e-35	2.7e-32	117.062782287598	0.05	2	207	64	379	63	379	0.93	Uncharacterized hydrolase MW1286		0
+Y1399_STAA8	Y1399_STAA8	383	Peptidase_M20	-	207	2.2e-32	117.3	0.1	1	1	5.2e-35	2.7e-32	117.062782287598	0.05	2	207	64	379	63	379	0.93	Uncharacterized hydrolase SAOUHSC_01399		0
+Y1339_STAAS	Y1339_STAAS	383	Peptidase_M20	-	207	2.2e-32	117.3	0.1	1	1	5.2e-35	2.7e-32	117.062782287598	0.05	2	207	64	379	63	379	0.93	Uncharacterized hydrolase SAS1339		0
+ILL3_ORYSJ	ILL3_ORYSJ	417	Peptidase_M20	-	207	3.9e-32	116.5	2.5	1	1	1.2e-34	6.1e-32	115.905494689941	2.49	2	205	86	404	85	406	0.89	IAA-amino acid hydrolase ILR1-like 3		0
+ILL2_ARATH	ILL2_ARATH	439	Peptidase_M20	-	207	4.5e-32	116.3	0.3	1	1	1.2e-34	6.4e-32	115.83226776123	0.30	1	205	108	419	108	421	0.91	IAA-amino acid hydrolase ILR1-like 2	2q43_A	0
+ARGE_ECO55	ARGE_ECO55	383	Peptidase_M20	-	207	4.7e-32	116.3	0.0	1	1	1.3e-34	6.9e-32	115.725128173828	0.01	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECOBW	ARGE_ECOBW	383	Peptidase_M20	-	207	4.7e-32	116.3	0.0	1	1	1.3e-34	6.9e-32	115.725128173828	0.01	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECODH	ARGE_ECODH	383	Peptidase_M20	-	207	4.7e-32	116.3	0.0	1	1	1.3e-34	6.9e-32	115.725128173828	0.01	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECOLI	ARGE_ECOLI	383	Peptidase_M20	-	207	4.7e-32	116.3	0.0	1	1	1.3e-34	6.9e-32	115.725128173828	0.01	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECOLC	ARGE_ECOLC	383	Peptidase_M20	-	207	4.7e-32	116.3	0.0	1	1	1.3e-34	6.9e-32	115.725128173828	0.01	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+Y1352_STAS1	Y1352_STAS1	385	Peptidase_M20	-	207	4.7e-32	116.3	0.1	1	1	1.1e-34	5.7e-32	115.997734069824	0.14	2	206	64	377	63	378	0.92	Uncharacterized hydrolase SSP1352		0
+YE48_SCHPO	YE48_SCHPO	596	Peptidase_M20	-	207	4.8e-32	116.2	0.0	1	1	1.6e-34	8.5e-32	115.430274963379	0.00	1	205	193	587	193	589	0.88	Uncharacterized carboxypeptidase C24C9.08		0
+ARGE_ECO5E	ARGE_ECO5E	383	Peptidase_M20	-	207	4.8e-32	116.2	0.0	1	1	1.3e-34	6.9e-32	115.724067687988	0.02	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECO57	ARGE_ECO57	383	Peptidase_M20	-	207	4.8e-32	116.2	0.0	1	1	1.3e-34	6.9e-32	115.724067687988	0.02	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECOSE	ARGE_ECOSE	383	Peptidase_M20	-	207	4.8e-32	116.2	0.0	1	1	1.3e-34	6.9e-32	115.725128173828	0.01	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECO8A	ARGE_ECO8A	383	Peptidase_M20	-	207	4.8e-32	116.2	0.0	1	1	1.3e-34	6.9e-32	115.725128173828	0.01	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECOLU	ARGE_ECOLU	383	Peptidase_M20	-	207	4.8e-32	116.2	0.0	1	1	1.3e-34	6.9e-32	115.72590637207	0.01	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECO24	ARGE_ECO24	383	Peptidase_M20	-	207	4.9e-32	116.2	0.0	1	1	1.3e-34	6.9e-32	115.723365783691	0.01	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+P2011_DANRE	P2011_DANRE	515	Peptidase_M20	-	207	4.9e-32	116.2	0.0	1	1	1.2e-34	6.2e-32	115.864295959473	0.00	1	207	136	504	136	504	0.89	N-fatty-acyl-amino acid synthase/hydrolase PM20D1.1		0
+Y100_SYNY3	Y100_SYNY3	393	Peptidase_M20	-	207	5.1e-32	116.2	0.2	1	1	1.2e-34	6.4e-32	115.840103149414	0.19	1	201	73	380	73	386	0.91	Probable hydrolase sll0100		0
+ARGE_SHIDS	ARGE_SHIDS	383	Peptidase_M20	-	207	5.1e-32	116.1	0.0	1	1	1.3e-34	6.9e-32	115.725234985352	0.01	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_PHOLL	ARGE_PHOLL	385	Peptidase_M20	-	207	5.8e-32	116.0	0.0	1	1	1.4e-34	7.3e-32	115.648155212402	0.01	1	206	76	378	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_SHIBS	ARGE_SHIBS	383	Peptidase_M20	-	207	6.1e-32	115.9	0.0	1	1	1.8e-34	9.2e-32	115.309959411621	0.01	1	204	76	376	76	379	0.91	Acetylornithine deacetylase		0
+Y588_HAEIN	Y588_HAEIN	411	Peptidase_M20	-	207	6.3e-32	115.9	0.1	1	1	1.6e-34	8.2e-32	115.476867675781	0.08	1	206	75	405	75	406	0.95	Uncharacterized hydrolase HI_0588		0
+ARGE_YERPE	ARGE_YERPE	389	Peptidase_M20	-	207	7.1e-32	115.7	0.0	1	1	1.8e-34	9.2e-32	115.308799743652	0.02	1	205	81	382	81	384	0.92	Acetylornithine deacetylase		0
+ARGE_YERP3	ARGE_YERP3	389	Peptidase_M20	-	207	7.1e-32	115.7	0.0	1	1	1.8e-34	9.2e-32	115.308799743652	0.02	1	205	81	382	81	384	0.92	Acetylornithine deacetylase		0
+ARGE_YERPS	ARGE_YERPS	389	Peptidase_M20	-	207	7.1e-32	115.7	0.0	1	1	1.8e-34	9.2e-32	115.308799743652	0.02	1	205	81	382	81	384	0.92	Acetylornithine deacetylase		0
+ARGE_SHIB3	ARGE_SHIB3	383	Peptidase_M20	-	207	8.7e-32	115.4	0.0	1	1	2.5e-34	1.3e-31	114.822807312012	0.01	1	204	76	376	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_ECOHS	ARGE_ECOHS	383	Peptidase_M20	-	207	8.7e-32	115.4	0.0	1	1	2.5e-34	1.3e-31	114.823532104492	0.01	1	204	76	376	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_SHIF8	ARGE_SHIF8	383	Peptidase_M20	-	207	9.0e-32	115.3	0.0	1	1	2.5e-34	1.3e-31	114.822441101074	0.01	1	204	76	376	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_SHIFL	ARGE_SHIFL	383	Peptidase_M20	-	207	9.0e-32	115.3	0.0	1	1	2.5e-34	1.3e-31	114.823738098145	0.01	1	204	76	376	76	379	0.91	Acetylornithine deacetylase		0
+Y1410_STAAR	Y1410_STAAR	383	Peptidase_M20	-	207	9.9e-32	115.2	0.0	1	1	2.3e-34	1.2e-31	114.956130981445	0.04	2	207	64	379	63	379	0.92	Uncharacterized hydrolase SAR1410		0
+FAPD_BACHD	FAPD_BACHD	427	Peptidase_M20	-	207	1.0e-31	115.2	0.4	1	1	3.1e-34	1.6e-31	114.504913330078	0.39	1	206	87	419	87	420	0.93	N-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase		0
+CNDP1_HUMAN	CNDP1_HUMAN	507	Peptidase_M20	-	207	1.1e-31	115.1	0.0	1	1	2.8e-34	1.5e-31	114.656799316406	0.03	1	205	128	500	128	502	0.88	Beta-Ala-His dipeptidase	3dlj_B	0
+CBPX1_SACS2	CBPX1_SACS2	393	Peptidase_M20	-	207	1.1e-31	115.0	0.1	1	1	2.7e-34	1.4e-31	114.712387084961	0.09	1	198	77	380	77	389	0.89	Thermostable carboxypeptidase 1		0
+ARGE_ECO27	ARGE_ECO27	383	Peptidase_M20	-	207	1.4e-31	114.8	0.0	1	1	3.7e-34	1.9e-31	114.260360717773	0.01	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECOSM	ARGE_ECOSM	383	Peptidase_M20	-	207	1.5e-31	114.6	0.0	1	1	4.2e-34	2.2e-31	114.081192016602	0.02	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECO7I	ARGE_ECO7I	383	Peptidase_M20	-	207	1.5e-31	114.6	0.0	1	1	4.2e-34	2.2e-31	114.081146240234	0.02	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECO81	ARGE_ECO81	383	Peptidase_M20	-	207	1.5e-31	114.6	0.0	1	1	4.2e-34	2.2e-31	114.082038879395	0.02	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECOL6	ARGE_ECOL6	383	Peptidase_M20	-	207	1.5e-31	114.6	0.0	1	1	4.2e-34	2.2e-31	114.082038879395	0.02	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECO45	ARGE_ECO45	383	Peptidase_M20	-	207	1.5e-31	114.6	0.0	1	1	4.2e-34	2.2e-31	114.082038879395	0.02	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ARGE_ECOL5	ARGE_ECOL5	383	Peptidase_M20	-	207	1.5e-31	114.6	0.0	1	1	4.2e-34	2.2e-31	114.082038879395	0.02	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+ACY1_DICDI	ACY1_DICDI	408	Peptidase_M20	-	207	1.6e-31	114.5	0.0	1	1	4.3e-34	2.2e-31	114.046073913574	0.00	1	205	72	401	72	403	0.85	Aminoacylase-1		0
+TPDA_CORST	TPDA_CORST	455	Peptidase_M20	-	207	1.7e-31	114.5	0.7	1	1	4.7e-34	2.4e-31	113.934066772461	0.70	1	203	88	448	88	452	0.89	Cysteinylglycine-S-conjugate dipeptidase		0
+Y1398_METMP	Y1398_METMP	415	Peptidase_M20	-	207	2.5e-31	113.9	0.0	1	1	6.1e-34	3.2e-31	113.563110351562	0.01	3	205	86	414	84	415	0.87	Uncharacterized metallohydrolase MMP1398		0
+ARGE_ENT38	ARGE_ENT38	383	Peptidase_M20	-	207	2.9e-31	113.7	0.0	1	1	8.8e-34	4.6e-31	113.043190002441	0.01	1	205	76	377	76	379	0.90	Acetylornithine deacetylase		0
+ILL4_ARATH	ILL4_ARATH	440	Peptidase_M20	-	207	3.2e-31	113.5	0.3	1	1	8.0e-34	4.1e-31	113.182632446289	0.26	1	204	105	418	105	421	0.88	IAA-amino acid hydrolase ILR1-like 4		0
+DUG1_CANAL	DUG1_CANAL	485	Peptidase_M20	-	207	3.4e-31	113.5	0.0	1	1	8.9e-34	4.6e-31	113.032035827637	0.02	1	205	105	479	105	481	0.86	Cys-Gly metallodipeptidase DUG1		0
+ARGE_VIBCB	ARGE_VIBCB	378	Peptidase_M20	-	207	3.5e-31	113.4	0.0	1	1	1.1e-33	5.8e-31	112.691925048828	0.02	1	206	72	374	72	375	0.92	Acetylornithine deacetylase		0
+ARGE_VIBA3	ARGE_VIBA3	378	Peptidase_M20	-	207	3.6e-31	113.4	0.0	1	1	1.5e-33	7.8e-31	112.288688659668	0.02	1	206	72	374	72	375	0.93	Acetylornithine deacetylase		0
+ARGE_ALIFM	ARGE_ALIFM	378	Peptidase_M20	-	207	3.6e-31	113.4	0.0	1	1	9.0e-34	4.7e-31	113.01424407959	0.01	1	206	72	374	72	375	0.92	Acetylornithine deacetylase		0
+P2012_DANRE	P2012_DANRE	522	Peptidase_M20	-	207	3.8e-31	113.3	0.0	1	1	9.9e-34	5.1e-31	112.875953674316	0.00	1	207	138	506	138	506	0.86	N-fatty-acyl-amino acid synthase/hydrolase PM20D1.2		0
+ILR1_ARATH	ILR1_ARATH	442	Peptidase_M20	-	207	3.9e-31	113.3	0.4	1	1	1.1e-33	5.9e-31	112.684196472168	0.41	2	205	110	423	109	425	0.89	IAA-amino acid hydrolase ILR1		0
+ARGE_SALAR	ARGE_SALAR	383	Peptidase_M20	-	207	4.5e-31	113.1	0.0	1	1	1.1e-33	5.9e-31	112.683815002441	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_ALISL	ARGE_ALISL	378	Peptidase_M20	-	207	4.5e-31	113.1	0.0	1	1	1.1e-33	5.9e-31	112.681449890137	0.00	1	206	72	374	72	375	0.92	Acetylornithine deacetylase		0
+ARGE_ESCF3	ARGE_ESCF3	383	Peptidase_M20	-	207	4.6e-31	113.0	0.0	1	1	1.2e-33	6.2e-31	112.598480224609	0.02	1	205	76	377	76	379	0.93	Acetylornithine deacetylase		0
+ARGE_PASMU	ARGE_PASMU	382	Peptidase_M20	-	207	5.3e-31	112.8	0.0	1	1	1.4e-33	7.1e-31	112.417846679688	0.01	1	205	75	376	75	378	0.91	Acetylornithine deacetylase		0
+ILL3_ARATH	ILL3_ARATH	428	Peptidase_M20	-	207	5.3e-31	112.8	0.1	1	1	1.3e-33	6.9e-31	112.451889038086	0.07	1	205	98	413	98	415	0.90	IAA-amino acid hydrolase ILR1-like 3		0
+CBPX2_SACS2	CBPX2_SACS2	393	Peptidase_M20	-	207	5.4e-31	112.8	0.1	1	1	1.4e-33	7.2e-31	112.402992248535	0.11	1	195	77	377	77	388	0.89	Thermostable carboxypeptidase 2		0
+ARGE_SHISS	ARGE_SHISS	383	Peptidase_M20	-	207	5.5e-31	112.8	0.0	1	1	1.6e-33	8.2e-31	112.204055786133	0.01	1	204	76	376	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_ALIF1	ARGE_ALIF1	378	Peptidase_M20	-	207	5.9e-31	112.7	0.0	1	1	1.5e-33	7.7e-31	112.301376342773	0.01	1	206	72	374	72	375	0.92	Acetylornithine deacetylase		0
+ARGE_EDWI9	ARGE_EDWI9	383	Peptidase_M20	-	207	6.6e-31	112.5	0.0	1	1	1.6e-33	8.5e-31	112.163055419922	0.01	1	206	76	378	76	379	0.92	Acetylornithine deacetylase		0
+DAPE_SPHAL	DAPE_SPHAL	377	Peptidase_M20	-	207	6.7e-31	112.5	0.5	1	1	1.7e-33	8.7e-31	112.128463745117	0.51	2	206	72	373	71	374	0.91	Succinyl-diaminopimelate desuccinylase		0
+ARGE_PECCP	ARGE_PECCP	383	Peptidase_M20	-	207	6.9e-31	112.5	0.0	1	1	1.9e-33	9.6e-31	111.986953735352	0.01	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+LYSK_THET2	LYSK_THET2	361	Peptidase_M20	-	207	6.9e-31	112.5	0.0	1	1	1.6e-33	8.4e-31	112.169013977051	0.05	2	206	64	349	63	350	0.92	[LysW]-lysine hydrolase	5xoy_B	0
+ARGE_KLEP3	ARGE_KLEP3	383	Peptidase_M20	-	207	7.5e-31	112.3	0.0	1	1	1.9e-33	9.9e-31	111.948997497559	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_SALTI	ARGE_SALTI	383	Peptidase_M20	-	207	8.2e-31	112.2	0.0	1	1	2.0e-33	1.1e-30	111.845169067383	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+UAH_ORYSJ	UAH_ORYSJ	484	Peptidase_M20	-	207	9.9e-31	111.9	0.1	1	1	3.6e-33	1.9e-30	111.030601501465	0.11	2	205	145	478	144	480	0.91	Ureidoglycolate hydrolase		0
+LYSK_THET8	LYSK_THET8	361	Peptidase_M20	-	207	1.0e-30	111.9	0.0	1	1	2.5e-33	1.3e-30	111.58097076416	0.05	2	206	64	349	63	350	0.92	[LysW]-lysine hydrolase		0
+P20D1_XENTR	P20D1_XENTR	512	Peptidase_M20	-	207	1.1e-30	111.8	0.0	1	1	3.7e-33	1.9e-30	110.994567871094	0.00	1	207	130	496	130	496	0.87	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+ARGE_VIBPA	ARGE_VIBPA	378	Peptidase_M20	-	207	1.1e-30	111.7	0.0	1	1	2.9e-33	1.5e-30	111.332099914551	0.01	1	205	72	373	72	375	0.92	Acetylornithine deacetylase		0
+ARGE_SALPK	ARGE_SALPK	383	Peptidase_M20	-	207	1.1e-30	111.7	0.0	1	1	2.9e-33	1.5e-30	111.37377166748	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_SALPA	ARGE_SALPA	383	Peptidase_M20	-	207	1.1e-30	111.7	0.0	1	1	2.9e-33	1.5e-30	111.37377166748	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_SALNS	ARGE_SALNS	383	Peptidase_M20	-	207	1.1e-30	111.7	0.0	1	1	2.9e-33	1.5e-30	111.372749328613	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_SALSV	ARGE_SALSV	383	Peptidase_M20	-	207	1.1e-30	111.7	0.0	1	1	2.9e-33	1.5e-30	111.372749328613	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_SALG2	ARGE_SALG2	383	Peptidase_M20	-	207	1.1e-30	111.7	0.0	1	1	2.9e-33	1.5e-30	111.372749328613	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_SALPB	ARGE_SALPB	383	Peptidase_M20	-	207	1.1e-30	111.7	0.0	1	1	2.9e-33	1.5e-30	111.372749328613	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_SALCH	ARGE_SALCH	383	Peptidase_M20	-	207	1.1e-30	111.7	0.0	1	1	2.9e-33	1.5e-30	111.372749328613	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_SALDC	ARGE_SALDC	383	Peptidase_M20	-	207	1.1e-30	111.7	0.0	1	1	2.9e-33	1.5e-30	111.372749328613	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_SALEP	ARGE_SALEP	383	Peptidase_M20	-	207	1.1e-30	111.7	0.0	1	1	2.9e-33	1.5e-30	111.372749328613	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_SALHS	ARGE_SALHS	383	Peptidase_M20	-	207	1.1e-30	111.7	0.0	1	1	2.9e-33	1.5e-30	111.373344421387	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+ARGE_SALA4	ARGE_SALA4	383	Peptidase_M20	-	207	1.1e-30	111.7	0.0	1	1	2.9e-33	1.5e-30	111.372749328613	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+UAH_ARATH	UAH_ARATH	476	Peptidase_M20	-	207	1.2e-30	111.7	0.0	1	1	3.1e-33	1.6e-30	111.247604370117	0.05	2	205	135	470	134	472	0.91	Ureidoglycolate hydrolase	4pxc_A	0
+ALLC_ECOLI	ALLC_ECOLI	411	Peptidase_M20	-	207	1.2e-30	111.6	0.0	1	1	3.1e-33	1.6e-30	111.258895874023	0.01	3	206	79	405	77	406	0.95	Allantoate amidohydrolase	2imo_B	0
+ARGE_PECAS	ARGE_PECAS	383	Peptidase_M20	-	207	1.4e-30	111.4	0.0	1	1	3.8e-33	2.0e-30	110.980407714844	0.01	1	205	76	377	76	379	0.92	Acetylornithine deacetylase		0
+YHAA_BACSU	YHAA_BACSU	396	Peptidase_M20	-	207	1.5e-30	111.3	1.6	1	1	4.0e-33	2.1e-30	110.891860961914	1.59	1	204	79	389	79	392	0.91	Putative amidohydrolase YhaA		0
+ARGE_SALTY	ARGE_SALTY	383	Peptidase_M20	-	207	2.0e-30	110.9	0.0	1	1	5.0e-33	2.6e-30	110.568534851074	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+AMAB2_GEOSE	AMAB2_GEOSE	409	Peptidase_M20	-	207	2.4e-30	110.7	0.9	1	1	1.5e-32	7.5e-30	109.069175720215	0.39	1	206	75	403	75	404	0.94	N-carbamoyl-L-amino acid hydrolase	3n5f_A	0
+ARGE_VIBVU	ARGE_VIBVU	378	Peptidase_M20	-	207	2.6e-30	110.6	0.0	1	1	6.3e-33	3.3e-30	110.254936218262	0.01	1	206	72	374	72	375	0.92	Acetylornithine deacetylase		0
+P20D1_CHICK	P20D1_CHICK	517	Peptidase_M20	-	207	2.9e-30	110.4	0.0	1	1	8.1e-33	4.2e-30	109.889175415039	0.00	1	207	133	501	133	501	0.90	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+ARGE_VIBC3	ARGE_VIBC3	378	Peptidase_M20	-	207	3.3e-30	110.2	0.0	1	1	8.1e-33	4.2e-30	109.895919799805	0.02	1	206	72	374	72	375	0.92	Acetylornithine deacetylase		0
+ARGE_VIBCH	ARGE_VIBCH	378	Peptidase_M20	-	207	3.3e-30	110.2	0.0	1	1	8.1e-33	4.2e-30	109.895919799805	0.02	1	206	72	374	72	375	0.92	Acetylornithine deacetylase		0
+ARGE_VIBCM	ARGE_VIBCM	378	Peptidase_M20	-	207	3.3e-30	110.2	0.0	1	1	8.1e-33	4.2e-30	109.895919799805	0.02	1	206	72	374	72	375	0.92	Acetylornithine deacetylase		0
+ARGE_VIBVY	ARGE_VIBVY	378	Peptidase_M20	-	207	3.8e-30	110.0	0.0	1	1	9.4e-33	4.9e-30	109.687805175781	0.01	1	206	72	374	72	375	0.92	Acetylornithine deacetylase		0
+CBPS2_DICDI	CBPS2_DICDI	519	Peptidase_M20	-	207	4.3e-30	109.9	0.0	1	1	1.2e-32	6.1e-30	109.372932434082	0.00	1	207	147	514	147	514	0.80	Probable carboxypeptidase S-like 2		0
+ALLC_BACSU	ALLC_BACSU	412	Peptidase_M20	-	207	4.4e-30	109.8	0.1	1	1	1.1e-32	5.6e-30	109.486389160156	0.05	2	206	81	408	80	409	0.93	Allantoate amidohydrolase		0
+ARGE_ERWT9	ARGE_ERWT9	383	Peptidase_M20	-	207	6.6e-30	109.3	0.0	1	1	1.7e-32	8.6e-30	108.884925842285	0.01	1	205	76	377	76	379	0.91	Acetylornithine deacetylase		0
+CBPS1_DICDI	CBPS1_DICDI	485	Peptidase_M20	-	207	7.0e-30	109.2	0.0	1	1	1.7e-32	8.7e-30	108.856391906738	0.00	1	207	107	455	107	455	0.86	Probable carboxypeptidase S-like 1		0
+P20D1_BOVIN	P20D1_BOVIN	503	Peptidase_M20	-	207	8.4e-30	108.9	0.0	1	1	2.7e-32	1.4e-29	108.176864624023	0.00	2	207	122	489	121	489	0.89	N-fatty-acyl-amino acid synthase/hydrolase PM20D1		0
+HIPO_CAMJE	HIPO_CAMJE	383	Peptidase_M20	-	207	1.2e-29	108.5	0.0	1	1	3.3e-32	1.7e-29	107.907806396484	0.02	2	206	73	379	72	380	0.88	Hippurate hydrolase		0
+ILL5_ARATH	ILL5_ARATH	435	Peptidase_M20	-	207	1.6e-29	108.0	0.1	1	1	4.2e-32	2.2e-29	107.558952331543	0.05	1	205	105	419	105	421	0.88	IAA-amino acid hydrolase ILR1-like 5		0
+AMAB1_GEOSE	AMAB1_GEOSE	409	Peptidase_M20	-	207	1.6e-29	108.0	1.0	1	1	9.2e-32	4.8e-29	106.451644897461	0.43	1	206	75	403	75	404	0.94	N-carbamoyl-L-amino acid hydrolase		0
+Y4TI_SINFN	Y4TI_SINFN	402	Peptidase_M20	-	207	2.0e-29	107.7	0.3	1	1	5.6e-32	2.9e-29	107.150207519531	0.31	1	202	82	389	82	393	0.90	Uncharacterized hydrolase y4tI		0
+ARGE_BUCAP	ARGE_BUCAP	381	Peptidase_M20	-	207	2.9e-29	107.1	0.0	1	1	7.6e-32	3.9e-29	106.715965270996	0.00	1	207	75	378	75	378	0.92	Acetylornithine deacetylase		0
+ARGE_DICDI	ARGE_DICDI	447	Peptidase_M20	-	207	9.4e-29	105.5	0.0	1	1	2.6e-31	1.3e-28	104.984046936035	0.01	2	205	100	441	99	443	0.86	Acetylornithine deacetylase		0
+FAPD_BACSU	FAPD_BACSU	426	Peptidase_M20	-	207	1.0e-28	105.4	0.3	1	1	2.5e-31	1.3e-28	105.016532897949	0.27	2	205	86	416	85	418	0.90	N-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase		0
+ILL2_ORYSJ	ILL2_ORYSJ	456	Peptidase_M20	-	207	1.1e-28	105.2	1.8	1	1	3.8e-31	2.0e-28	104.434455871582	1.75	1	206	120	438	120	439	0.88	IAA-amino acid hydrolase ILR1-like 2		0
+ILL4_ORYSJ	ILL4_ORYSJ	414	Peptidase_M20	-	207	1.3e-28	105.0	1.7	1	1	4.4e-31	2.3e-28	104.221725463867	1.72	1	204	81	400	81	403	0.88	IAA-amino acid hydrolase ILR1-like 4		0
+IAAH_ENTAG	IAAH_ENTAG	436	Peptidase_M20	-	207	1.7e-28	104.6	3.5	1	1	4.2e-31	2.2e-28	104.304679870605	3.46	1	205	112	427	112	429	0.87	Indole-3-acetyl-aspartic acid hydrolase		0
+DUG1_YEAST	DUG1_YEAST	481	Peptidase_M20	-	207	2.2e-28	104.3	0.0	1	1	6.0e-31	3.1e-28	103.783874511719	0.01	1	206	98	473	98	474	0.87	Cys-Gly metallodipeptidase DUG1	4g1p_A	0
+ARGE_BUCAT	ARGE_BUCAT	381	Peptidase_M20	-	207	2.7e-28	104.0	0.0	1	1	6.6e-31	3.4e-28	103.662841796875	0.00	1	205	75	376	75	378	0.91	Acetylornithine deacetylase		0
+ARGE_BUCAI	ARGE_BUCAI	381	Peptidase_M20	-	207	3.0e-28	103.8	0.0	1	1	7.5e-31	3.9e-28	103.474998474121	0.00	1	205	75	376	75	378	0.91	Acetylornithine deacetylase		0
+PEPV_LACDL	PEPV_LACDL	470	Peptidase_M20	-	207	4.1e-28	103.4	0.1	1	1	1.2e-30	6.1e-28	102.82787322998	0.13	3	206	85	462	83	463	0.87	Beta-Ala-Xaa dipeptidase	1lfw_A	0
+LYSK_DEIRA	LYSK_DEIRA	362	Peptidase_M20	-	207	6.0e-28	102.9	0.1	1	1	1.4e-30	7.4e-28	102.553810119629	0.08	2	206	66	357	65	358	0.93	[LysW]-lysine hydrolase		0
+DAPEL_LACH4	DAPEL_LACH4	384	Peptidase_M20	-	207	1.3e-27	101.7	0.0	1	1	3.6e-30	1.8e-27	101.263374328613	0.01	3	205	73	378	71	380	0.92	N-acetyldiaminopimelate deacetylase		0
+LYSK_SULTO	LYSK_SULTO	346	Peptidase_M20	-	207	1.4e-27	101.7	0.0	1	1	3.2e-30	1.7e-27	101.419219970703	0.01	1	206	63	339	63	340	0.92	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+ARGE_BUCA5	ARGE_BUCA5	381	Peptidase_M20	-	207	2.3e-27	100.9	0.0	1	1	5.8e-30	3.0e-27	100.571197509766	0.00	1	205	75	376	75	378	0.91	Acetylornithine deacetylase		0
+CBPG_PSES6	CBPG_PSES6	415	Peptidase_M20	-	207	2.4e-27	100.9	0.1	1	1	7.0e-30	3.6e-27	100.308776855469	0.08	1	206	108	409	108	410	0.89	Carboxypeptidase G2	7m6u_D	0
+ARGE_MYXXA	ARGE_MYXXA	380	Peptidase_M20	-	207	3.2e-27	100.5	0.1	1	1	8.0e-30	4.1e-27	100.115013122559	0.09	2	206	76	374	75	375	0.89	Acetylornithine deacetylase		0
+DAPEL_LISMF	DAPEL_LISMF	371	Peptidase_M20	-	207	3.4e-27	100.4	0.2	1	1	8.7e-30	4.5e-27	99.9904022216797	0.24	3	206	66	369	64	370	0.91	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LISMC	DAPEL_LISMC	371	Peptidase_M20	-	207	3.4e-27	100.4	0.2	1	1	8.7e-30	4.5e-27	99.9904022216797	0.24	3	206	66	369	64	370	0.91	N-acetyldiaminopimelate deacetylase		0
+PEPVL_STAS1	PEPVL_STAS1	469	Peptidase_M20	-	207	3.6e-27	100.3	0.0	1	1	1.4e-29	7.1e-27	99.3519744873047	0.00	4	205	83	462	80	464	0.92	Putative dipeptidase SSP1012		0
+DAPEL_LISIV	DAPEL_LISIV	372	Peptidase_M20	-	207	4.3e-27	100.1	0.2	1	1	9.8e-30	5.1e-27	99.8247146606445	0.23	3	206	67	370	65	371	0.92	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LISIN	DAPEL_LISIN	371	Peptidase_M20	-	207	7.1e-27	99.3	0.1	1	1	2.4e-29	1.2e-26	98.5715637207031	0.19	3	206	66	369	64	370	0.91	N-acetyldiaminopimelate deacetylase		0
+GCS23_RHOJR	GCS23_RHOJR	793	Peptidase_M20	-	207	9.4e-27	99.0	0.1	1	1	3.6e-29	1.9e-26	97.9822540283203	0.09	1	204	478	785	478	788	0.89	Putative glutamate--cysteine ligase 2-3		0
+DAPEL_BACC0	DAPEL_BACC0	376	Peptidase_M20	-	207	1.2e-26	98.7	0.6	1	1	3.0e-29	1.5e-26	98.2566909790039	0.56	3	206	67	370	65	371	0.92	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACCZ	DAPEL_BACCZ	376	Peptidase_M20	-	207	1.2e-26	98.7	0.6	1	1	3.0e-29	1.5e-26	98.2566909790039	0.56	3	206	67	370	65	371	0.92	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACC1	DAPEL_BACC1	376	Peptidase_M20	-	207	1.2e-26	98.7	0.6	1	1	3.0e-29	1.5e-26	98.2566909790039	0.56	3	206	67	370	65	371	0.92	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACHK	DAPEL_BACHK	376	Peptidase_M20	-	207	1.2e-26	98.6	0.6	1	1	3.0e-29	1.5e-26	98.2566909790039	0.56	3	206	67	370	65	371	0.92	N-acetyldiaminopimelate deacetylase		0
+PEPVL_STAEQ	PEPVL_STAEQ	469	Peptidase_M20	-	207	1.2e-26	98.6	0.1	1	1	3.3e-29	1.7e-26	98.1086807250977	0.05	4	206	83	463	80	464	0.93	Putative dipeptidase SERP1310		0
+PEPVL_STAES	PEPVL_STAES	469	Peptidase_M20	-	207	1.2e-26	98.6	0.1	1	1	3.3e-29	1.7e-26	98.1086807250977	0.05	4	206	83	463	80	464	0.93	Putative dipeptidase SE_1424		0
+DAPEL_BACAH	DAPEL_BACAH	376	Peptidase_M20	-	207	1.4e-26	98.3	0.5	1	1	3.7e-29	1.9e-26	97.9443130493164	0.52	3	206	67	370	65	371	0.92	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACAN	DAPEL_BACAN	376	Peptidase_M20	-	207	1.4e-26	98.3	0.5	1	1	3.7e-29	1.9e-26	97.9443130493164	0.52	3	206	67	370	65	371	0.92	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACAC	DAPEL_BACAC	376	Peptidase_M20	-	207	1.4e-26	98.3	0.5	1	1	3.7e-29	1.9e-26	97.9443130493164	0.52	3	206	67	370	65	371	0.92	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACAA	DAPEL_BACAA	376	Peptidase_M20	-	207	1.4e-26	98.3	0.5	1	1	3.7e-29	1.9e-26	97.9443130493164	0.52	3	206	67	370	65	371	0.92	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LISMO	DAPEL_LISMO	371	Peptidase_M20	-	207	1.5e-26	98.3	0.2	1	1	3.4e-29	1.7e-26	98.0796966552734	0.22	3	206	66	369	64	370	0.92	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LISMH	DAPEL_LISMH	371	Peptidase_M20	-	207	1.6e-26	98.2	0.2	1	1	4.2e-29	2.2e-26	97.7489318847656	0.21	3	206	66	369	64	370	0.91	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACC3	DAPEL_BACC3	376	Peptidase_M20	-	207	2.0e-26	97.9	0.6	1	1	5.1e-29	2.7e-26	97.4732818603516	0.56	3	206	67	370	65	371	0.92	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACCQ	DAPEL_BACCQ	376	Peptidase_M20	-	207	2.0e-26	97.9	0.5	1	1	5.2e-29	2.7e-26	97.4718170166016	0.51	3	206	67	370	65	371	0.92	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACC7	DAPEL_BACC7	376	Peptidase_M20	-	207	2.0e-26	97.9	0.5	1	1	5.2e-29	2.7e-26	97.4648284912109	0.52	3	206	67	370	65	371	0.92	N-acetyldiaminopimelate deacetylase		0
+ABGA_ECOLI	ABGA_ECOLI	436	Peptidase_M20	-	207	2.2e-26	97.7	3.3	1	1	5.6e-29	2.9e-26	97.3461990356445	3.28	1	206	112	428	112	429	0.86	p-aminobenzoyl-glutamate hydrolase subunit A		0
+DAPEL_LACAC	DAPEL_LACAC	383	Peptidase_M20	-	207	2.8e-26	97.4	0.0	1	1	7.5e-29	3.9e-26	96.9360580444336	0.01	3	205	73	378	71	380	0.91	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LACRD	DAPEL_LACRD	381	Peptidase_M20	-	207	2.9e-26	97.4	0.1	1	1	8.4e-29	4.4e-26	96.7704238891602	0.05	3	206	71	376	69	377	0.91	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LACRJ	DAPEL_LACRJ	381	Peptidase_M20	-	207	2.9e-26	97.4	0.1	1	1	8.4e-29	4.4e-26	96.7704238891602	0.05	3	206	71	376	69	377	0.91	N-acetyldiaminopimelate deacetylase		0
+PEPVL_STAAN	PEPVL_STAAN	469	Peptidase_M20	-	207	2.9e-26	97.4	0.1	1	1	7.7e-29	4.0e-26	96.8931121826172	0.07	4	206	83	463	80	464	0.92	Putative dipeptidase SA1572		0
+PEPVL_STAA3	PEPVL_STAA3	469	Peptidase_M20	-	207	2.9e-26	97.4	0.1	1	1	7.7e-29	4.0e-26	96.8931121826172	0.07	4	206	83	463	80	464	0.92	Putative dipeptidase SAUSA300_1697		0
+PEPVL_STAAC	PEPVL_STAAC	469	Peptidase_M20	-	207	2.9e-26	97.4	0.1	1	1	7.7e-29	4.0e-26	96.8931121826172	0.07	4	206	83	463	80	464	0.92	Putative dipeptidase SACOL1801	3khx_A	0
+PEPVL_STAA8	PEPVL_STAA8	469	Peptidase_M20	-	207	2.9e-26	97.4	0.1	1	1	7.7e-29	4.0e-26	96.8931121826172	0.07	4	206	83	463	80	464	0.92	Putative dipeptidase SAOUHSC_01868		0
+PEPVL_STAAM	PEPVL_STAAM	469	Peptidase_M20	-	207	2.9e-26	97.4	0.1	1	1	7.7e-29	4.0e-26	96.8931121826172	0.07	4	206	83	463	80	464	0.92	Putative dipeptidase SAV1751		0
+LYSK_PYRAE	LYSK_PYRAE	341	Peptidase_M20	-	207	3.1e-26	97.3	0.0	1	1	2.1e-28	1.1e-25	95.4626007080078	0.01	2	206	59	332	58	333	0.88	Putative [LysW]-lysine/[LysW]-ornithine hydrolase		0
+DAPEL_LEUMM	DAPEL_LEUMM	384	Peptidase_M20	-	207	4.3e-26	96.8	0.2	1	1	1.0e-28	5.4e-26	96.4647445678711	0.16	3	206	72	377	70	378	0.90	N-acetyldiaminopimelate deacetylase		0
+PEPVL_STAAB	PEPVL_STAAB	469	Peptidase_M20	-	207	4.7e-26	96.7	0.1	1	1	1.3e-28	6.8e-26	96.1464996337891	0.08	4	206	83	463	80	464	0.91	Putative dipeptidase SAB1611c		0
+PEPVL_STAAS	PEPVL_STAAS	469	Peptidase_M20	-	207	4.7e-26	96.7	0.1	1	1	1.3e-28	6.7e-26	96.157829284668	0.08	4	206	83	463	80	464	0.91	Putative dipeptidase SAS1677		0
+PEPVL_STAAW	PEPVL_STAAW	469	Peptidase_M20	-	207	4.7e-26	96.7	0.1	1	1	1.3e-28	6.7e-26	96.157829284668	0.08	4	206	83	463	80	464	0.91	Putative dipeptidase MW1694		0
+PEPVL_STAAR	PEPVL_STAAR	469	Peptidase_M20	-	207	4.7e-26	96.7	0.1	1	1	1.3e-28	6.7e-26	96.1600952148438	0.07	4	206	83	463	80	464	0.91	Putative dipeptidase SAR1836		0
+DAPEL_OCEIH	DAPEL_OCEIH	371	Peptidase_M20	-	207	7.1e-26	96.1	0.1	1	1	1.7e-28	8.7e-26	95.800178527832	0.10	2	205	65	368	64	370	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_GEOKA	DAPEL_GEOKA	377	Peptidase_M20	-	207	1.3e-25	95.3	1.0	1	1	3.0e-28	1.5e-25	94.9885559082031	1.04	3	202	68	367	66	371	0.89	N-acetyldiaminopimelate deacetylase		0
+PEPVL_STAHJ	PEPVL_STAHJ	469	Peptidase_M20	-	207	1.4e-25	95.2	0.1	1	1	3.7e-28	1.9e-25	94.6790618896484	0.13	4	206	83	463	80	464	0.91	Putative dipeptidase SH1171		0
+DAPEL_GEOSW	DAPEL_GEOSW	376	Peptidase_M20	-	207	1.4e-25	95.1	0.3	1	1	4.1e-28	2.1e-25	94.5445251464844	0.27	3	205	68	370	66	371	0.92	N-acetyldiaminopimelate deacetylase		0
+ARGE_ARATH	ARGE_ARATH	440	Peptidase_M20	-	207	1.6e-25	94.9	0.0	1	1	4.2e-28	2.2e-25	94.5054931640625	0.01	2	206	98	435	97	436	0.84	Acetylornithine deacetylase		0
+DAPEL_BACCN	DAPEL_BACCN	376	Peptidase_M20	-	207	1.9e-25	94.7	0.6	1	1	5.8e-28	3.0e-25	94.0354690551758	0.57	3	206	67	370	65	371	0.91	N-acetyldiaminopimelate deacetylase		0
+DAPEL_ANOFW	DAPEL_ANOFW	378	Peptidase_M20	-	207	2.4e-25	94.3	0.5	1	1	6.2e-28	3.2e-25	93.9442520141602	0.47	3	205	63	365	61	366	0.92	N-acetyldiaminopimelate deacetylase		0
+LYSK_SACS2	LYSK_SACS2	346	Peptidase_M20	-	207	2.7e-25	94.2	0.0	1	1	6.4e-28	3.3e-25	93.9028167724609	0.00	1	206	64	340	64	341	0.93	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+DAPEL_LACP3	DAPEL_LACP3	383	Peptidase_M20	-	207	2.8e-25	94.1	0.1	1	1	7.1e-28	3.7e-25	93.7480316162109	0.08	3	206	70	376	68	377	0.90	N-acetyldiaminopimelate deacetylase		0
+AGAA_CORST	AGAA_CORST	400	Peptidase_M20	-	207	3.5e-25	93.8	0.7	1	1	1.5e-27	7.9e-25	92.6630401611328	0.38	1	200	76	389	76	394	0.88	N(alpha)-acyl-glutamine aminoacylase	6slf_D	0
+DAPEL_LACS1	DAPEL_LACS1	381	Peptidase_M20	-	207	3.6e-25	93.8	0.1	1	1	8.8e-28	4.6e-25	93.4381561279297	0.11	3	206	69	373	67	374	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LACCB	DAPEL_LACCB	383	Peptidase_M20	-	207	3.8e-25	93.7	0.1	1	1	9.5e-28	4.9e-25	93.3339080810547	0.09	3	206	70	376	68	377	0.90	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACMK	DAPEL_BACMK	376	Peptidase_M20	-	207	3.9e-25	93.7	0.5	1	1	1.1e-27	5.6e-25	93.1559219360352	0.46	3	206	67	370	65	371	0.92	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LISW6	DAPEL_LISW6	371	Peptidase_M20	-	207	4.6e-25	93.4	0.2	1	1	1.1e-27	5.6e-25	93.1603469848633	0.17	3	206	66	369	64	370	0.92	N-acetyldiaminopimelate deacetylase		0
+DAPEL_EXIS2	DAPEL_EXIS2	370	Peptidase_M20	-	207	4.7e-25	93.4	0.1	1	1	1.2e-27	6.0e-25	93.0580139160156	0.07	3	205	65	366	63	368	0.90	N-acetyldiaminopimelate deacetylase		0
+AMHX_BACSU	AMHX_BACSU	383	Peptidase_M20	-	207	9.9e-25	92.3	0.0	1	1	3.0e-27	1.5e-24	91.7250213623047	0.00	2	206	69	368	68	369	0.87	Amidohydrolase AmhX		0
+LYSK_SULAC	LYSK_SULAC	346	Peptidase_M20	-	207	1.7e-24	91.6	0.0	1	1	3.9e-27	2.0e-24	91.3383712768555	0.02	1	206	63	340	63	341	0.90	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+DAPEL_LACF3	DAPEL_LACF3	384	Peptidase_M20	-	207	2.1e-24	91.3	0.0	1	1	7.0e-27	3.6e-24	90.4978561401367	0.00	3	205	71	375	69	377	0.90	N-acetyldiaminopimelate deacetylase		0
+LYSK_SULIY	LYSK_SULIY	346	Peptidase_M20	-	207	2.6e-24	91.0	0.0	1	1	6.2e-27	3.2e-24	90.6760635375977	0.00	1	206	64	340	64	341	0.93	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+LYSK_SULIM	LYSK_SULIM	346	Peptidase_M20	-	207	2.6e-24	91.0	0.0	1	1	6.2e-27	3.2e-24	90.6760635375977	0.00	1	206	64	340	64	341	0.93	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+LYSK_SULIL	LYSK_SULIL	346	Peptidase_M20	-	207	2.6e-24	91.0	0.0	1	1	6.2e-27	3.2e-24	90.6760635375977	0.00	1	206	64	340	64	341	0.93	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+LYSK_SULIK	LYSK_SULIK	346	Peptidase_M20	-	207	2.6e-24	91.0	0.0	1	1	6.2e-27	3.2e-24	90.6775741577148	0.00	1	206	64	340	64	341	0.93	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+YQJE_BACSU	YQJE_BACSU	371	Peptidase_M20	-	207	2.9e-24	90.8	3.1	1	1	7.7e-27	4.0e-24	90.3627700805664	3.11	2	206	73	367	72	368	0.83	Uncharacterized protein YqjE		0
+DAPEL_LACLS	DAPEL_LACLS	376	Peptidase_M20	-	207	3.1e-24	90.7	0.0	1	1	1.3e-26	7.0e-24	89.5758819580078	0.00	3	205	67	369	65	370	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACCR	DAPEL_BACCR	376	Peptidase_M20	-	207	3.7e-24	90.5	0.4	1	1	9.3e-27	4.8e-24	90.1027908325195	0.44	3	206	67	370	65	371	0.90	N-acetyldiaminopimelate deacetylase		0
+LYSK_SULIN	LYSK_SULIN	346	Peptidase_M20	-	207	3.9e-24	90.4	0.0	1	1	9.2e-27	4.8e-24	90.1146621704102	0.00	1	206	64	340	64	341	0.93	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+DAPEL_BREBN	DAPEL_BREBN	377	Peptidase_M20	-	207	5.4e-24	89.9	0.1	1	1	1.3e-26	6.9e-24	89.5886917114258	0.09	3	204	67	369	65	371	0.90	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACC2	DAPEL_BACC2	376	Peptidase_M20	-	207	6.5e-24	89.7	0.5	1	1	1.6e-26	8.5e-24	89.3009338378906	0.46	3	206	67	370	65	371	0.90	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACC4	DAPEL_BACC4	376	Peptidase_M20	-	207	6.6e-24	89.7	0.5	1	1	1.7e-26	8.6e-24	89.2721786499023	0.46	3	206	67	370	65	371	0.90	N-acetyldiaminopimelate deacetylase		0
+LYSK_SULIA	LYSK_SULIA	346	Peptidase_M20	-	207	8.2e-24	89.4	0.0	1	1	2.0e-26	1.0e-23	89.0493927001953	0.00	1	206	64	340	64	341	0.93	[LysW]-lysine/[LysW]-ornithine hydrolase		0
+DAPEL_BACMQ	DAPEL_BACMQ	375	Peptidase_M20	-	207	9.7e-24	89.1	0.7	1	1	2.3e-26	1.2e-23	88.7905731201172	0.67	3	186	67	350	65	371	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LEUCK	DAPEL_LEUCK	387	Peptidase_M20	-	207	9.8e-24	89.1	0.1	1	1	2.4e-26	1.2e-23	88.7603454589844	0.08	3	205	73	377	71	379	0.90	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LACLM	DAPEL_LACLM	376	Peptidase_M20	-	207	1.1e-23	88.9	0.0	1	1	4.9e-26	2.6e-23	87.7370529174805	0.00	3	205	67	369	65	370	0.89	N-acetyldiaminopimelate deacetylase		0
+LYSK_PYRFU	LYSK_PYRFU	326	Peptidase_M20	-	207	1.5e-23	88.5	0.0	1	1	3.7e-26	1.9e-23	88.1415786743164	0.01	1	206	62	320	62	321	0.90	Putative [LysW]-lysine/[LysW]-ornithine hydrolase		0
+Y3995_MYCS2	Y3995_MYCS2	438	Peptidase_M20	-	207	1.5e-23	88.5	0.3	1	1	3.8e-26	2.0e-23	88.0955657958984	0.35	1	206	89	423	89	424	0.90	Putative hydrolase MSMEG_3995/MSMEI_3903		0
+DAPEL_PEDPA	DAPEL_PEDPA	384	Peptidase_M20	-	207	1.7e-23	88.3	0.0	1	1	3.9e-26	2.0e-23	88.0820159912109	0.02	3	206	72	377	70	378	0.91	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRZT	DAPEL_STRZT	376	Peptidase_M20	-	207	2.3e-23	87.9	0.2	1	1	6.0e-26	3.1e-23	87.4602203369141	0.24	3	206	67	371	65	372	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACP2	DAPEL_BACP2	376	Peptidase_M20	-	207	3.8e-23	87.2	0.0	1	1	1.3e-25	6.6e-23	86.396614074707	0.03	2	206	67	371	66	372	0.89	N-acetyldiaminopimelate deacetylase		0
+YJ75_SCHPO	YJ75_SCHPO	400	Peptidase_M20	-	207	4.3e-23	87.0	0.0	1	1	1.3e-25	6.9e-23	86.3213500976562	0.00	2	205	125	395	124	397	0.89	Peptidase M20 domain-containing protein C757.05c		0
+DAPEL_STRPI	DAPEL_STRPI	376	Peptidase_M20	-	207	7.6e-23	86.2	0.2	1	1	2.0e-25	1.0e-22	85.7379379272461	0.24	3	206	67	371	65	372	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRR6	DAPEL_STRR6	376	Peptidase_M20	-	207	7.6e-23	86.2	0.2	1	1	2.0e-25	1.0e-22	85.7379379272461	0.24	3	206	67	371	65	372	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRP2	DAPEL_STRP2	376	Peptidase_M20	-	207	7.6e-23	86.2	0.2	1	1	2.0e-25	1.0e-22	85.7379379272461	0.24	3	206	67	371	65	372	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRPJ	DAPEL_STRPJ	376	Peptidase_M20	-	207	7.6e-23	86.2	0.2	1	1	2.0e-25	1.0e-22	85.7379379272461	0.24	3	206	67	371	65	372	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRZJ	DAPEL_STRZJ	376	Peptidase_M20	-	207	7.6e-23	86.2	0.2	1	1	2.0e-25	1.0e-22	85.7379379272461	0.24	3	206	67	371	65	372	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LACPL	DAPEL_LACPL	384	Peptidase_M20	-	207	9.4e-23	85.9	0.7	1	1	2.4e-25	1.2e-22	85.5168304443359	0.68	3	206	72	377	70	378	0.90	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRMU	DAPEL_STRMU	376	Peptidase_M20	-	207	1.1e-22	85.7	0.1	1	1	2.5e-25	1.3e-22	85.4324951171875	0.12	3	194	68	360	66	373	0.87	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACVZ	DAPEL_BACVZ	374	Peptidase_M20	-	207	1.1e-22	85.7	1.1	1	1	3.0e-25	1.6e-22	85.1546859741211	1.08	2	204	66	368	65	371	0.88	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRZP	DAPEL_STRZP	376	Peptidase_M20	-	207	1.1e-22	85.7	0.2	1	1	2.9e-25	1.5e-22	85.2152099609375	0.23	3	206	67	371	65	372	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRPS	DAPEL_STRPS	376	Peptidase_M20	-	207	1.1e-22	85.7	0.2	1	1	3.0e-25	1.5e-22	85.1964416503906	0.22	3	206	67	371	65	372	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRP7	DAPEL_STRP7	376	Peptidase_M20	-	207	1.1e-22	85.7	0.2	1	1	3.0e-25	1.5e-22	85.1964416503906	0.22	3	206	67	371	65	372	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_OENOB	DAPEL_OENOB	382	Peptidase_M20	-	207	1.3e-22	85.4	0.2	1	1	3.2e-25	1.6e-22	85.099006652832	0.23	1	205	69	376	69	378	0.91	N-acetyldiaminopimelate deacetylase		0
+DAPEL_GEOTN	DAPEL_GEOTN	377	Peptidase_M20	-	207	2.1e-22	84.8	0.5	1	1	4.9e-25	2.6e-22	84.4706115722656	0.51	3	200	68	365	66	371	0.86	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACHD	DAPEL_BACHD	371	Peptidase_M20	-	207	2.3e-22	84.6	0.1	1	1	5.6e-25	2.9e-22	84.2891006469727	0.14	2	201	65	364	64	370	0.89	N-acetyldiaminopimelate deacetylase		0
+YGEY_ECOLI	YGEY_ECOLI	403	Peptidase_M20	-	207	3.0e-22	84.3	0.0	1	1	9.4e-25	4.9e-22	83.5490875244141	0.04	2	204	78	395	77	398	0.81	Uncharacterized protein YgeY		0
+YGEY_ECOL6	YGEY_ECOL6	403	Peptidase_M20	-	207	3.0e-22	84.3	0.0	1	1	9.4e-25	4.9e-22	83.5490875244141	0.04	2	204	78	395	77	398	0.81	Uncharacterized protein YgeY		0
+YGEY_ECO57	YGEY_ECO57	403	Peptidase_M20	-	207	3.0e-22	84.3	0.0	1	1	9.4e-25	4.9e-22	83.5490875244141	0.04	2	204	78	395	77	398	0.81	Uncharacterized protein YgeY		0
+DAPEL_STRU0	DAPEL_STRU0	376	Peptidase_M20	-	207	4.1e-22	83.8	0.3	1	1	1.2e-24	6.0e-22	83.2556533813477	0.31	2	188	66	351	65	374	0.86	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACSU	DAPEL_BACSU	374	Peptidase_M20	-	207	7.5e-22	82.9	1.7	1	1	2.2e-24	1.1e-21	82.3699417114258	1.67	2	204	66	368	65	370	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRP4	DAPEL_STRP4	376	Peptidase_M20	-	207	1.2e-21	82.3	0.2	1	1	2.9e-24	1.5e-21	81.9317398071289	0.24	3	206	67	371	65	372	0.89	N-acetyldiaminopimelate deacetylase		0
+DAPEL_ENTFA	DAPEL_ENTFA	378	Peptidase_M20	-	207	1.4e-21	82.1	0.2	1	1	5.8e-24	3.0e-21	80.9820098876953	0.23	3	206	70	374	68	375	0.88	N-acetyldiaminopimelate deacetylase		0
+DAPEL_BACSK	DAPEL_BACSK	374	Peptidase_M20	-	207	1.6e-21	81.9	0.9	1	1	3.7e-24	1.9e-21	81.6075592041016	0.92	2	204	65	367	64	370	0.86	N-acetyldiaminopimelate deacetylase		0
+DAPEL_LACLA	DAPEL_LACLA	384	Peptidase_M20	-	207	1.8e-21	81.7	0.0	1	1	6.0e-24	3.1e-21	80.9316253662109	0.00	3	199	67	363	65	370	0.85	N-acetyldiaminopimelate deacetylase		0
+LYSK_PYRHO	LYSK_PYRHO	325	Peptidase_M20	-	207	1.8e-21	81.7	0.0	1	1	5.1e-24	2.6e-21	81.1543807983398	0.00	1	206	62	320	62	321	0.91	Putative [LysW]-lysine/[LysW]-ornithine hydrolase		0
+DAPEL_STRPN	DAPEL_STRPN	376	Peptidase_M20	-	207	3.7e-21	80.7	0.2	1	1	9.7e-24	5.0e-21	80.2403793334961	0.24	3	206	67	371	65	372	0.88	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRGC	DAPEL_STRGC	377	Peptidase_M20	-	207	6.4e-21	79.9	0.3	1	1	1.8e-23	9.4e-21	79.3572158813477	0.33	3	200	67	365	65	371	0.87	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRSV	DAPEL_STRSV	377	Peptidase_M20	-	207	8.1e-21	79.6	0.3	1	1	2.4e-23	1.2e-20	78.9673843383789	0.29	3	200	67	365	65	371	0.88	N-acetyldiaminopimelate deacetylase		0
+AMAA_GEOSE	AMAA_GEOSE	370	Peptidase_M20	-	207	9.8e-21	79.3	0.1	1	1	2.4e-23	1.2e-20	78.969108581543	0.08	1	116	75	289	75	355	0.77	N-acyl-L-amino acid amidohydrolase		0
+DAPEL_BACLD	DAPEL_BACLD	374	Peptidase_M20	-	207	1.2e-20	79.1	0.2	1	1	3.0e-23	1.6e-20	78.6316757202148	0.16	2	204	66	368	65	371	0.90	N-acetyldiaminopimelate deacetylase		0
+LYSK_THEKO	LYSK_THEKO	344	Peptidase_M20	-	207	1.9e-20	78.3	0.0	1	1	5.5e-23	2.9e-20	77.7680892944336	0.01	1	206	62	320	62	321	0.89	Putative [LysW]-lysine/[LysW]-ornithine hydrolase		0
+DAPEL_STRSY	DAPEL_STRSY	375	Peptidase_M20	-	207	2.7e-20	77.9	0.0	1	1	8.8e-23	4.6e-20	77.1062850952148	0.00	3	205	67	370	65	372	0.86	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRS2	DAPEL_STRS2	375	Peptidase_M20	-	207	2.7e-20	77.9	0.0	1	1	8.8e-23	4.6e-20	77.1062850952148	0.00	3	205	67	370	65	372	0.86	N-acetyldiaminopimelate deacetylase		0
+AAH_ARATH	AAH_ARATH	525	Peptidase_M20	-	207	2.9e-20	77.8	0.0	1	1	7.9e-23	4.1e-20	77.272819519043	0.04	1	203	163	519	163	523	0.87	Allantoate deiminase		0
+DAPE_CORGL	DAPE_CORGL	369	Peptidase_M20	-	207	3.8e-20	77.4	0.2	1	1	1.0e-22	5.2e-20	76.9187393188477	0.16	1	206	73	368	73	369	0.78	Succinyl-diaminopimelate desuccinylase	3tx8_A	0
+AAH2_SOYBN	AAH2_SOYBN	483	Peptidase_M20	-	207	4.6e-20	77.1	0.1	1	1	1.4e-22	7.3e-20	76.4409942626953	0.05	1	204	121	478	121	481	0.88	Allantoate deiminase 2		0
+LYSK_AERPE	LYSK_AERPE	350	Peptidase_M20	-	207	6.4e-20	76.6	0.1	1	1	6.8e-22	3.5e-19	74.2063674926758	0.06	2	205	69	343	68	344	0.90	Putative [LysW]-lysine/[LysW]-ornithine hydrolase		0
+AAH_ORYSJ	AAH_ORYSJ	491	Peptidase_M20	-	207	7.0e-20	76.5	0.1	1	1	2.4e-22	1.3e-19	75.6728897094727	0.13	1	205	116	476	116	478	0.87	Probable allantoate deiminase		0
+LYSK_PYRAB	LYSK_PYRAB	337	Peptidase_M20	-	207	9.1e-20	76.1	0.0	1	1	3.1e-22	1.6e-19	75.3428344726562	0.00	1	206	63	321	63	322	0.89	Putative [LysW]-lysine/[LysW]-ornithine hydrolase		0
+AAH1_SOYBN	AAH1_SOYBN	483	Peptidase_M20	-	207	9.1e-20	76.1	0.1	1	1	2.7e-22	1.4e-19	75.5126647949219	0.06	1	197	121	471	121	481	0.88	Allantoate deiminase 1		0
+PEPD_ECOLI	PEPD_ECOLI	485	Peptidase_M20	-	207	1.0e-19	76.0	0.1	1	1	2.8e-22	1.5e-19	75.447509765625	0.08	2	206	73	480	72	481	0.89	Cytosol non-specific dipeptidase		0
+DAPE_MYCS2	DAPE_MYCS2	355	Peptidase_M20	-	207	1.6e-19	75.4	0.6	1	1	3.8e-22	2.0e-19	75.032829284668	0.57	1	205	66	353	66	355	0.78	Succinyl-diaminopimelate desuccinylase		0
+DAPE_MYCTU	DAPE_MYCTU	354	Peptidase_M20	-	207	5.3e-19	73.6	0.2	1	1	1.5e-21	7.6e-19	73.1204986572266	0.15	1	205	65	352	65	353	0.82	Putative succinyl-diaminopimelate desuccinylase DapE		0
+DAPE_MYCTO	DAPE_MYCTO	354	Peptidase_M20	-	207	5.3e-19	73.6	0.2	1	1	1.5e-21	7.6e-19	73.1204986572266	0.15	1	205	65	352	65	353	0.82	Putative succinyl-diaminopimelate desuccinylase DapE		0
+PEPD_HAEIN	PEPD_HAEIN	484	Peptidase_M20	-	207	6.4e-19	73.4	0.1	1	1	1.6e-21	8.0e-19	73.0443267822266	0.05	2	206	73	479	72	480	0.88	Cytosol non-specific dipeptidase		0
+DUG2_YEAST	DUG2_YEAST	878	Peptidase_M20	-	207	9.0e-19	72.9	0.0	1	1	2.7e-21	1.4e-18	72.2393798828125	0.00	2	205	517	875	516	877	0.89	Probable di- and tripeptidase DUG2		0
+ABGA_HAEIN	ABGA_HAEIN	423	Peptidase_M20	-	207	1.4e-18	72.3	0.4	1	1	3.5e-21	1.8e-18	71.877815246582	0.38	1	206	104	419	104	420	0.85	p-aminobenzoyl-glutamate hydrolase subunit A homolog		0
+DAPEL_STRT1	DAPEL_STRT1	377	Peptidase_M20	-	207	1.7e-18	72.0	0.2	1	1	4.4e-21	2.3e-18	71.5797882080078	0.17	3	198	68	364	66	372	0.86	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRT2	DAPEL_STRT2	377	Peptidase_M20	-	207	1.7e-18	72.0	0.2	1	1	4.4e-21	2.3e-18	71.5797882080078	0.17	3	198	68	364	66	372	0.86	N-acetyldiaminopimelate deacetylase		0
+DAPEL_STRTD	DAPEL_STRTD	377	Peptidase_M20	-	207	3.1e-18	71.1	0.2	1	1	8.0e-21	4.2e-18	70.7146148681641	0.17	3	198	68	364	66	372	0.86	N-acetyldiaminopimelate deacetylase		0
+ACDAS_XANCP	ACDAS_XANCP	366	Peptidase_M20	-	207	5.4e-18	70.4	0.2	1	1	1.4e-20	7.2e-18	69.9329452514648	0.19	1	205	68	362	68	364	0.85	N-acetyl-L-citrulline deacetylase	2f7v_A	0
+Y3666_SORMK	Y3666_SORMK	452	Peptidase_M20	-	207	8.5e-18	69.7	2.6	1	1	1.3e-18	6.7e-16	63.5014991760254	2.56	1	206	147	447	147	448	0.83	Peptidase M20 domain-containing protein SMAC_03666.2		0
+P20D2_ASPOR	P20D2_ASPOR	430	Peptidase_M20	-	207	9.8e-18	69.5	0.0	1	1	6.3e-19	3.3e-16	64.5246887207031	0.01	1	206	118	424	118	425	0.80	Probable carboxypeptidase AO090003000058		0
+P20D2_ASPFN	P20D2_ASPFN	430	Peptidase_M20	-	207	9.9e-18	69.5	0.0	1	1	6.3e-19	3.3e-16	64.5246887207031	0.01	1	206	118	424	118	425	0.80	Probable carboxypeptidase AFLA_037450		0
+P20D1_ASPTN	P20D1_ASPTN	433	Peptidase_M20	-	207	1.5e-17	68.9	0.1	1	2	5.1e-16	2.6e-13	55.0212135314941	0.03	1	148	129	340	129	355	0.76	Probable carboxypeptidase ATEG_02905		0
+P20D1_ASPTN	P20D1_ASPTN	433	Peptidase_M20	-	207	1.5e-17	68.9	0.1	2	2	0.0079	4.1	11.9320392608643	0.02	155	206	372	430	361	431	0.76	Probable carboxypeptidase ATEG_02905		0
+Y1497_METJA	Y1497_METJA	346	Peptidase_M20	-	207	5.3e-17	67.1	0.0	1	1	2.3e-19	1.2e-16	65.9567489624023	0.00	1	205	61	341	61	343	0.85	Uncharacterized metallohydrolase MJ1497		0
+P20D1_NEOFI	P20D1_NEOFI	441	Peptidase_M20	-	207	8.2e-17	66.5	0.2	1	1	5.6e-18	2.9e-15	61.4301872253418	0.17	1	206	129	433	129	434	0.75	Probable carboxypeptidase NFIA_052450		0
+P20D1_ASPFC	P20D1_ASPFC	440	Peptidase_M20	-	207	9.3e-17	66.3	0.1	1	1	6.8e-18	3.5e-15	61.1390228271484	0.13	1	206	128	432	128	433	0.74	Probable carboxypeptidase AFUB_072730		0
+P20D1_ASPFU	P20D1_ASPFU	440	Peptidase_M20	-	207	9.3e-17	66.3	0.1	1	1	6.8e-18	3.5e-15	61.1390228271484	0.13	1	206	128	432	128	433	0.74	Probable carboxypeptidase AFUA_6G06800		0
+P20D1_EMENI	P20D1_EMENI	424	Peptidase_M20	-	207	1.2e-16	66.0	0.3	1	1	4.8e-18	2.5e-15	61.6406860351562	0.34	1	206	105	417	105	418	0.74	Probable carboxypeptidase AN5749		0
+P20D1_ASPNC	P20D1_ASPNC	416	Peptidase_M20	-	207	1.3e-16	65.9	0.0	1	1	2.9e-18	1.5e-15	62.3486824035645	0.02	1	206	107	407	107	408	0.79	Probable carboxypeptidase An18g06210		0
+PEPT_PECCP	PEPT_PECCP	410	Peptidase_M20	-	207	1.7e-16	65.5	0.1	1	1	2.2e-18	1.1e-15	62.7813377380371	0.09	36	205	139	401	127	403	0.79	Peptidase T		0
+PEPT_ESCF3	PEPT_ESCF3	408	Peptidase_M20	-	207	2.5e-16	64.9	0.3	1	1	9.1e-19	4.7e-16	64.0084228515625	0.34	36	206	139	402	129	403	0.83	Peptidase T		0
+PEPT_PECAS	PEPT_PECAS	410	Peptidase_M20	-	207	5.4e-16	63.8	0.1	1	1	3.4e-18	1.7e-15	62.1483001708984	0.11	36	205	139	401	127	403	0.77	Peptidase T		0
+PEPT_KLEP3	PEPT_KLEP3	410	Peptidase_M20	-	207	7.3e-16	63.4	0.7	1	1	2.7e-18	1.4e-15	62.4397583007812	0.74	36	206	139	402	129	403	0.82	Peptidase T		0
+P20D1_ASPOR	P20D1_ASPOR	418	Peptidase_M20	-	207	7.3e-16	63.4	0.0	1	1	1.3e-17	6.9e-15	60.1904182434082	0.02	1	206	108	415	108	416	0.80	Probable carboxypeptidase AO090166000075		0
+PEPT_ECOSE	PEPT_ECOSE	409	Peptidase_M20	-	207	8.7e-16	63.1	0.4	1	1	3.3e-18	1.7e-15	62.1832847595215	0.39	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_SHIBS	PEPT_SHIBS	408	Peptidase_M20	-	207	1.3e-15	62.6	0.1	1	1	5.1e-18	2.6e-15	61.55810546875	0.10	36	206	139	402	129	403	0.83	Peptidase T		0
+PEPT_SHIB3	PEPT_SHIB3	408	Peptidase_M20	-	207	1.3e-15	62.6	0.1	1	1	5.1e-18	2.6e-15	61.55810546875	0.10	36	206	139	402	129	403	0.83	Peptidase T		0
+PEPT_SALAR	PEPT_SALAR	408	Peptidase_M20	-	207	1.6e-15	62.3	0.6	1	1	5.8e-18	3.0e-15	61.3652763366699	0.61	36	206	139	402	129	403	0.83	Peptidase T		0
+PEPT_ECOLC	PEPT_ECOLC	408	Peptidase_M20	-	207	1.7e-15	62.2	0.4	1	1	6.1e-18	3.2e-15	61.3036193847656	0.36	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_ECOHS	PEPT_ECOHS	408	Peptidase_M20	-	207	1.7e-15	62.2	0.4	1	1	6.1e-18	3.2e-15	61.3036193847656	0.36	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_ECO45	PEPT_ECO45	408	Peptidase_M20	-	207	1.7e-15	62.2	0.4	1	1	6.3e-18	3.2e-15	61.2647895812988	0.40	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_SHIDS	PEPT_SHIDS	408	Peptidase_M20	-	207	1.7e-15	62.2	0.4	1	1	6.3e-18	3.2e-15	61.2647895812988	0.40	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_ECO81	PEPT_ECO81	408	Peptidase_M20	-	207	1.7e-15	62.2	0.4	1	1	6.3e-18	3.2e-15	61.2647895812988	0.40	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_ECOUT	PEPT_ECOUT	408	Peptidase_M20	-	207	1.7e-15	62.2	0.4	1	1	6.3e-18	3.2e-15	61.2647895812988	0.40	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_ECOL6	PEPT_ECOL6	408	Peptidase_M20	-	207	1.7e-15	62.2	0.4	1	1	6.3e-18	3.2e-15	61.2647895812988	0.40	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_ECOLU	PEPT_ECOLU	408	Peptidase_M20	-	207	1.7e-15	62.2	0.4	1	1	6.3e-18	3.2e-15	61.2647895812988	0.40	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_SHISS	PEPT_SHISS	408	Peptidase_M20	-	207	1.7e-15	62.2	0.4	1	1	6.3e-18	3.2e-15	61.2647895812988	0.40	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_ECO27	PEPT_ECO27	408	Peptidase_M20	-	207	1.7e-15	62.2	0.4	1	1	6.3e-18	3.2e-15	61.2647895812988	0.40	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_ECO57	PEPT_ECO57	408	Peptidase_M20	-	207	1.7e-15	62.2	0.4	1	1	6.3e-18	3.2e-15	61.2647895812988	0.40	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_ECOK1	PEPT_ECOK1	408	Peptidase_M20	-	207	1.7e-15	62.2	0.4	1	1	6.3e-18	3.2e-15	61.2647895812988	0.40	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_ECO24	PEPT_ECO24	409	Peptidase_M20	-	207	1.7e-15	62.2	0.4	1	1	6.3e-18	3.3e-15	61.2543487548828	0.40	36	206	139	402	129	403	0.82	Peptidase T		0
+P20D1_ASPFN	P20D1_ASPFN	418	Peptidase_M20	-	207	1.8e-15	62.1	0.0	1	1	3.2e-17	1.7e-14	58.9472274780273	0.02	1	206	108	415	108	416	0.79	Probable carboxypeptidase AFLA_000940		0
+PEPT_ECOBW	PEPT_ECOBW	408	Peptidase_M20	-	207	2.3e-15	61.8	0.4	1	1	8.4e-18	4.3e-15	60.8564872741699	0.41	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_ECODH	PEPT_ECODH	408	Peptidase_M20	-	207	2.3e-15	61.8	0.4	1	1	8.4e-18	4.3e-15	60.8564872741699	0.41	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_ECOLI	PEPT_ECOLI	408	Peptidase_M20	-	207	2.3e-15	61.8	0.4	1	1	8.4e-18	4.3e-15	60.8564872741699	0.41	36	206	139	402	129	403	0.82	Peptidase T	1vix_A	0
+PEPT_SALDC	PEPT_SALDC	409	Peptidase_M20	-	207	2.3e-15	61.7	0.7	1	1	8.2e-18	4.3e-15	60.8819580078125	0.65	36	206	139	402	128	403	0.83	Peptidase T		0
+PEPT_SALSV	PEPT_SALSV	409	Peptidase_M20	-	207	2.4e-15	61.7	0.7	1	1	8.6e-18	4.4e-15	60.821949005127	0.67	36	206	139	402	129	403	0.83	Peptidase T		0
+PEPT_SALA4	PEPT_SALA4	409	Peptidase_M20	-	207	2.4e-15	61.7	0.7	1	1	8.6e-18	4.4e-15	60.821949005127	0.67	36	206	139	402	129	403	0.83	Peptidase T		0
+PEPT_CITK8	PEPT_CITK8	408	Peptidase_M20	-	207	2.4e-15	61.7	0.4	1	1	8.7e-18	4.5e-15	60.8002548217773	0.43	36	206	139	402	129	403	0.83	Peptidase T		0
+PEPT_SALNS	PEPT_SALNS	409	Peptidase_M20	-	207	2.6e-15	61.6	0.7	1	1	9.3e-18	4.8e-15	60.7083358764648	0.65	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_SALTY	PEPT_SALTY	409	Peptidase_M20	-	207	2.6e-15	61.6	0.7	1	1	9.3e-18	4.8e-15	60.7083358764648	0.65	36	206	139	402	129	403	0.82	Peptidase T	1fno_A	0
+PEPT_SALHS	PEPT_SALHS	409	Peptidase_M20	-	207	2.6e-15	61.6	0.7	1	1	9.3e-18	4.8e-15	60.7083358764648	0.65	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_SALPK	PEPT_SALPK	409	Peptidase_M20	-	207	4.1e-15	60.9	0.7	1	1	1.5e-17	7.6e-15	60.0556755065918	0.74	36	206	139	402	129	403	0.83	Peptidase T		0
+PEPT_SALPA	PEPT_SALPA	409	Peptidase_M20	-	207	4.1e-15	60.9	0.7	1	1	1.5e-17	7.6e-15	60.0556755065918	0.74	36	206	139	402	129	403	0.83	Peptidase T		0
+PEPT_SALEP	PEPT_SALEP	409	Peptidase_M20	-	207	4.1e-15	60.9	0.7	1	1	1.5e-17	7.9e-15	59.9964408874512	0.67	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_SALCH	PEPT_SALCH	409	Peptidase_M20	-	207	4.5e-15	60.8	0.7	1	1	1.6e-17	8.2e-15	59.9432067871094	0.72	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_SALG2	PEPT_SALG2	409	Peptidase_M20	-	207	4.5e-15	60.8	0.7	1	1	1.6e-17	8.2e-15	59.9432067871094	0.72	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_SALTI	PEPT_SALTI	409	Peptidase_M20	-	207	4.5e-15	60.8	0.9	1	1	1.6e-17	8.5e-15	59.9029884338379	0.89	36	206	139	402	129	403	0.83	Peptidase T		0
+PEPT_SERP5	PEPT_SERP5	409	Peptidase_M20	-	207	5.5e-15	60.5	0.2	1	1	2.7e-17	1.4e-14	59.2106704711914	0.10	36	205	139	401	129	403	0.81	Peptidase T		0
+P20D1_PARBD	P20D1_PARBD	442	Peptidase_M20	-	207	6.2e-15	60.4	0.1	1	1	1.5e-16	7.9e-14	56.7448272705078	0.11	1	206	123	428	123	429	0.79	Probable carboxypeptidase PADG_04062		0
+P20D1_PARBP	P20D1_PARBP	442	Peptidase_M20	-	207	6.3e-15	60.3	0.1	1	1	8.0e-17	4.2e-14	57.6474800109863	0.10	1	206	123	428	123	429	0.80	Probable carboxypeptidase PABG_01461		0
+P20D1_PARBA	P20D1_PARBA	442	Peptidase_M20	-	207	7.5e-15	60.1	0.1	1	1	1.7e-16	8.8e-14	56.5789680480957	0.15	1	206	123	428	123	429	0.79	Probable carboxypeptidase PAAG_00768		0
+PEPT_SHIFL	PEPT_SHIFL	408	Peptidase_M20	-	207	7.9e-15	60.0	0.4	1	1	2.9e-17	1.5e-14	59.0900955200195	0.40	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_SHIF8	PEPT_SHIF8	408	Peptidase_M20	-	207	7.9e-15	60.0	0.4	1	1	2.9e-17	1.5e-14	59.0900955200195	0.40	36	206	139	402	129	403	0.82	Peptidase T		0
+PEPT_STACT	PEPT_STACT	410	Peptidase_M20	-	207	1.1e-14	59.6	0.2	1	1	3.3e-15	1.7e-12	52.3607215881348	0.18	36	206	139	402	124	403	0.83	Peptidase T		0
+PEPT_ECOL5	PEPT_ECOL5	408	Peptidase_M20	-	207	1.4e-14	59.2	0.4	1	1	5.1e-17	2.7e-14	58.2834625244141	0.39	36	206	139	402	130	403	0.82	Peptidase T		0
+PEPT_SHEWM	PEPT_SHEWM	410	Peptidase_M20	-	207	1.5e-14	59.1	0.1	1	1	5.5e-17	2.8e-14	58.1903762817383	0.12	37	204	139	399	129	401	0.72	Peptidase T		0
+PEPT_ALKOO	PEPT_ALKOO	409	Peptidase_M20	-	207	1.5e-14	59.1	1.3	1	1	3.5e-17	1.8e-14	58.8423309326172	0.28	36	206	142	405	133	406	0.85	Peptidase T		0
+NAAA_BRASZ	NAAA_BRASZ	425	Peptidase_M20	-	207	1.8e-14	58.8	0.0	1	1	4.6e-17	2.4e-14	58.4315338134766	0.04	2	205	83	417	82	419	0.86	5-nitroanthranilic acid aminohydrolase	5k8n_D	0
+P20D1_AJEDR	P20D1_AJEDR	434	Peptidase_M20	-	207	2.0e-14	58.7	0.1	1	1	5.8e-16	3.0e-13	54.8414764404297	0.12	1	206	123	428	123	429	0.76	Probable carboxypeptidase BDCG_03757		0
+P20D1_BLAGS	P20D1_BLAGS	434	Peptidase_M20	-	207	2.0e-14	58.7	0.1	1	1	5.8e-16	3.0e-13	54.8414764404297	0.12	1	206	123	428	123	429	0.76	Probable carboxypeptidase BDBG_01803		0
+PEPT_SHEPA	PEPT_SHEPA	407	Peptidase_M20	-	207	2.8e-14	58.2	0.1	1	1	1.0e-16	5.3e-14	57.3102874755859	0.06	37	205	139	400	132	402	0.81	Peptidase T		0
+PEPT_SALPC	PEPT_SALPC	409	Peptidase_M20	-	207	4.7e-14	57.5	0.7	1	1	1.7e-16	8.6e-14	56.61669921875	0.69	36	206	139	402	129	403	0.82	Peptidase T		0
+P20D1_ASPCL	P20D1_ASPCL	452	Peptidase_M20	-	207	5.2e-14	57.3	0.0	1	1	2.4e-16	1.2e-13	56.1087875366211	0.01	1	206	137	444	137	445	0.77	Probable carboxypeptidase ACLA_088580		0
+P20D1_ARTGP	P20D1_ARTGP	461	Peptidase_M20	-	207	5.6e-14	57.2	0.2	1	1	2.2e-15	1.1e-12	52.9396781921387	0.18	1	206	138	453	138	454	0.75	Probable carboxypeptidase MGYG_04702		0
+P20D1_ARTOC	P20D1_ARTOC	455	Peptidase_M20	-	207	6.4e-14	57.0	0.2	1	2	5.6e-13	2.9e-10	45.0985908508301	0.06	1	106	132	234	132	362	0.73	Probable carboxypeptidase MCYG_07204		0
+P20D1_ARTOC	P20D1_ARTOC	455	Peptidase_M20	-	207	6.4e-14	57.0	0.2	2	2	0.029	15	10.0713367462158	0.02	155	206	393	447	379	448	0.78	Probable carboxypeptidase MCYG_07204		0
+P20D1_ARTBC	P20D1_ARTBC	460	Peptidase_M20	-	207	7.7e-14	56.8	0.2	1	1	5.4e-15	2.8e-12	51.682933807373	0.22	1	206	137	452	137	453	0.76	Probable carboxypeptidase ARB_01041		0
+P20D1_AJECG	P20D1_AJECG	437	Peptidase_M20	-	207	7.8e-14	56.8	0.0	1	1	1.1e-15	5.6e-13	53.9506759643555	0.03	1	206	126	431	126	432	0.79	Probable carboxypeptidase HCBG_00059		0
+P20D1_TRIVH	P20D1_TRIVH	460	Peptidase_M20	-	207	8.1e-14	56.7	0.2	1	1	5.4e-15	2.8e-12	51.6727294921875	0.22	1	206	137	452	137	453	0.76	Probable carboxypeptidase TRV_02791		0
+PEPT_SHEHH	PEPT_SHEHH	407	Peptidase_M20	-	207	1.0e-13	56.3	0.2	1	1	3.5e-16	1.8e-13	55.5420036315918	0.06	37	205	139	400	132	402	0.81	Peptidase T		0
+PEPT_BACSK	PEPT_BACSK	408	Peptidase_M20	-	207	1.1e-13	56.3	0.0	1	1	4.7e-16	2.4e-13	55.149227142334	0.01	36	205	138	400	124	402	0.81	Peptidase T		0
+PEPT_CLOPS	PEPT_CLOPS	406	Peptidase_M20	-	207	1.2e-13	56.2	0.6	1	1	7.4e-16	3.8e-13	54.5034255981445	0.26	36	206	138	401	128	402	0.83	Peptidase T		0
+PEPT_GEOTN	PEPT_GEOTN	411	Peptidase_M20	-	207	1.2e-13	56.2	0.6	1	1	5.3e-16	2.7e-13	54.9774436950684	0.27	36	206	141	404	124	405	0.75	Peptidase T		0
+PEPT_BACVZ	PEPT_BACVZ	410	Peptidase_M20	-	207	1.3e-13	56.0	0.1	1	1	4.2e-16	2.2e-13	55.3052787780762	0.13	36	205	141	403	129	405	0.87	Peptidase T		0
+P20D1_COCPS	P20D1_COCPS	452	Peptidase_M20	-	207	1.8e-13	55.5	0.1	1	1	1.1e-15	5.5e-13	53.9734268188477	0.11	1	206	130	443	130	444	0.81	Probable carboxypeptidase CPSG_08841		0
+P20D1_COCP7	P20D1_COCP7	452	Peptidase_M20	-	207	1.9e-13	55.5	0.1	1	1	1.1e-15	5.5e-13	53.9734268188477	0.11	1	206	130	443	130	444	0.81	Probable carboxypeptidase CPC735_001200		0
+P20D1_UNCRE	P20D1_UNCRE	445	Peptidase_M20	-	207	1.9e-13	55.5	0.0	1	1	9.2e-16	4.8e-13	54.1821975708008	0.01	1	206	124	436	124	437	0.83	Probable carboxypeptidase UREG_07869		0
+PEPT_FUSNN	PEPT_FUSNN	412	Peptidase_M20	-	207	2.1e-13	55.3	0.7	1	1	8.0e-16	4.1e-13	54.3910675048828	0.66	36	206	144	407	132	408	0.81	Peptidase T		0
+PEPT_AERHH	PEPT_AERHH	407	Peptidase_M20	-	207	2.4e-13	55.2	0.0	1	1	7.3e-16	3.8e-13	54.5181465148926	0.04	36	206	137	400	129	401	0.87	Peptidase T		0
+PEPT_YERP3	PEPT_YERP3	411	Peptidase_M20	-	207	2.5e-13	55.1	0.2	1	1	1.5e-15	7.6e-13	53.525806427002	0.13	36	204	139	400	127	402	0.80	Peptidase T		0
+PEPT_YERPG	PEPT_YERPG	411	Peptidase_M20	-	207	2.5e-13	55.1	0.2	1	1	1.5e-15	7.6e-13	53.525806427002	0.13	36	204	139	400	127	402	0.80	Peptidase T		0
+PEPT_YERPN	PEPT_YERPN	411	Peptidase_M20	-	207	2.5e-13	55.1	0.2	1	1	1.5e-15	7.6e-13	53.525806427002	0.13	36	204	139	400	127	402	0.80	Peptidase T		0
+PEPT_YERPA	PEPT_YERPA	411	Peptidase_M20	-	207	2.5e-13	55.1	0.2	1	1	1.5e-15	7.6e-13	53.525806427002	0.13	36	204	139	400	127	402	0.80	Peptidase T		0
+PEPT_YERPP	PEPT_YERPP	411	Peptidase_M20	-	207	2.5e-13	55.1	0.2	1	1	1.5e-15	7.6e-13	53.525806427002	0.13	36	204	139	400	127	402	0.80	Peptidase T		0
+PEPT_YERPS	PEPT_YERPS	411	Peptidase_M20	-	207	2.5e-13	55.1	0.2	1	1	1.5e-15	7.6e-13	53.525806427002	0.13	36	204	139	400	127	402	0.80	Peptidase T		0
+PEPT_YERPE	PEPT_YERPE	411	Peptidase_M20	-	207	2.5e-13	55.1	0.2	1	1	1.5e-15	7.6e-13	53.525806427002	0.13	36	204	139	400	127	402	0.80	Peptidase T		0
+PEPT_YERPB	PEPT_YERPB	411	Peptidase_M20	-	207	2.5e-13	55.1	0.2	1	1	1.5e-15	7.6e-13	53.525806427002	0.13	36	204	139	400	127	402	0.80	Peptidase T		0
+PEPT_YERPY	PEPT_YERPY	411	Peptidase_M20	-	207	2.5e-13	55.1	0.2	1	1	1.5e-15	7.6e-13	53.5202789306641	0.13	36	204	139	400	127	402	0.80	Peptidase T		0
+PEPT_HAEIG	PEPT_HAEIG	412	Peptidase_M20	-	207	2.7e-13	55.0	0.0	1	1	9.2e-16	4.8e-13	54.1871604919434	0.04	36	205	145	407	136	408	0.89	Peptidase T		0
+PEPT_HAEI8	PEPT_HAEI8	412	Peptidase_M20	-	207	2.7e-13	55.0	0.0	1	1	9.2e-16	4.8e-13	54.1844177246094	0.05	36	205	145	407	136	408	0.89	Peptidase T		0
+PEPT_HAEIN	PEPT_HAEIN	412	Peptidase_M20	-	207	2.7e-13	55.0	0.0	1	1	9.2e-16	4.8e-13	54.1871604919434	0.04	36	205	145	407	136	408	0.89	Peptidase T		0
+PEPT_HAEIE	PEPT_HAEIE	412	Peptidase_M20	-	207	2.7e-13	55.0	0.0	1	1	9.2e-16	4.8e-13	54.1833457946777	0.05	36	205	145	407	136	408	0.89	Peptidase T		0
+PEPT_VIBC3	PEPT_VIBC3	410	Peptidase_M20	-	207	2.7e-13	55.0	1.5	1	1	5.9e-16	3.1e-13	54.8162879943848	0.49	36	206	139	402	129	403	0.79	Peptidase T		0
+PEPT_VIBCM	PEPT_VIBCM	410	Peptidase_M20	-	207	2.7e-13	55.0	1.5	1	1	5.9e-16	3.1e-13	54.8162879943848	0.49	36	206	139	402	129	403	0.79	Peptidase T		0
+PEPT_CLOP1	PEPT_CLOP1	406	Peptidase_M20	-	207	2.8e-13	54.9	0.5	1	1	1.9e-15	9.9e-13	53.1463775634766	0.21	36	206	138	401	128	402	0.83	Peptidase T		0
+P20D1_TALMQ	P20D1_TALMQ	451	Peptidase_M20	-	207	2.9e-13	54.9	0.0	1	1	1.9e-15	9.6e-13	53.1951103210449	0.01	1	206	127	443	127	444	0.79	Probable carboxypeptidase PMAA_093910		0
+PEPT_HALOH	PEPT_HALOH	408	Peptidase_M20	-	207	2.9e-13	54.9	0.2	1	1	1.9e-15	9.6e-13	53.1938591003418	0.09	36	206	140	403	128	404	0.86	Peptidase T		0
+PEPT_STAS1	PEPT_STAS1	410	Peptidase_M20	-	207	3.1e-13	54.8	0.5	1	1	9.7e-16	5.0e-13	54.1107177734375	0.20	33	206	139	402	114	403	0.79	Peptidase T		0
+PEPT_VIBCH	PEPT_VIBCH	410	Peptidase_M20	-	207	3.9e-13	54.5	1.6	1	1	8.3e-16	4.3e-13	54.338680267334	0.54	36	206	139	402	129	403	0.79	Peptidase T		0
+PEPT_EXIS2	PEPT_EXIS2	411	Peptidase_M20	-	207	4.0e-13	54.5	1.2	1	1	1.1e-15	5.5e-13	53.9882049560547	0.47	36	206	141	404	129	405	0.78	Peptidase T		0
+PEPT_EDWI9	PEPT_EDWI9	412	Peptidase_M20	-	207	4.6e-13	54.2	0.5	1	1	4.2e-15	2.2e-12	52.0356750488281	0.45	36	205	139	401	130	403	0.78	Peptidase T		0
+PEPT_SHESH	PEPT_SHESH	409	Peptidase_M20	-	207	4.8e-13	54.2	0.0	1	1	1.9e-15	9.8e-13	53.1641807556152	0.04	37	203	139	398	132	401	0.73	Peptidase T		0
+PEPT_CLOPE	PEPT_CLOPE	406	Peptidase_M20	-	207	7.4e-13	53.6	0.6	1	1	4.9e-15	2.6e-12	51.7999954223633	0.24	36	206	138	401	128	402	0.83	Peptidase T		0
+PEPT_GEOSW	PEPT_GEOSW	410	Peptidase_M20	-	207	8.4e-13	53.4	0.6	1	1	5.6e-15	2.9e-12	51.6353340148926	0.30	36	206	141	404	124	405	0.71	Peptidase T		0
+PEPT_CALS4	PEPT_CALS4	409	Peptidase_M20	-	207	9.9e-13	53.1	0.8	1	1	3.8e-15	2.0e-12	52.173225402832	0.38	36	206	140	403	131	404	0.80	Peptidase T		0
+PEPT_EXISA	PEPT_EXISA	412	Peptidase_M20	-	207	1.0e-12	53.1	0.1	1	1	3.5e-15	1.8e-12	52.2869682312012	0.11	36	206	141	404	129	405	0.82	Peptidase T		0
+PEPT_PARD8	PEPT_PARD8	406	Peptidase_M20	-	207	1.2e-12	52.9	0.2	1	1	7.1e-15	3.7e-12	51.2908363342285	0.07	36	206	138	400	121	401	0.85	Peptidase T		0
+PEPT_GEOKA	PEPT_GEOKA	411	Peptidase_M20	-	207	1.2e-12	52.8	0.9	1	1	5.9e-15	3.1e-12	51.5494422912598	0.48	36	206	141	404	123	405	0.71	Peptidase T		0
+PEPT_PASMU	PEPT_PASMU	412	Peptidase_M20	-	207	1.3e-12	52.7	0.1	1	1	3.9e-15	2.0e-12	52.1309852600098	0.09	36	205	145	407	134	409	0.86	Peptidase T		0
+PEPT_LACF3	PEPT_LACF3	413	Peptidase_M20	-	207	1.6e-12	52.5	0.3	1	1	1.6e-14	8.5e-12	50.093433380127	0.12	36	205	145	407	133	409	0.85	Peptidase T		0
+PEPT_LACS1	PEPT_LACS1	413	Peptidase_M20	-	207	1.7e-12	52.4	0.5	1	1	6.6e-15	3.4e-12	51.3896141052246	0.51	36	206	146	409	129	410	0.82	Peptidase T		0
+P20D2_ASPCL	P20D2_ASPCL	415	Peptidase_M20	-	207	1.7e-12	52.4	1.2	1	1	1.2e-14	6.4e-12	50.4921264648438	1.23	1	206	104	408	104	409	0.85	Probable carboxypeptidase ACLA_013260		0
+PEPT_OCEIH	PEPT_OCEIH	409	Peptidase_M20	-	207	1.9e-12	52.2	0.2	1	1	7.8e-15	4.0e-12	51.1559829711914	0.19	36	202	140	399	123	403	0.80	Peptidase T		0
+PEPT_ENTFA	PEPT_ENTFA	409	Peptidase_M20	-	207	2.1e-12	52.1	0.6	1	1	7.3e-15	3.8e-12	51.2563438415527	0.58	36	205	142	404	130	406	0.83	Peptidase T		0
+PEPT_STAHJ	PEPT_STAHJ	409	Peptidase_M20	-	207	2.2e-12	52.0	0.1	1	1	7.5e-15	3.9e-12	51.2120628356934	0.11	36	205	139	401	127	403	0.84	Peptidase T		0
+PEPT_ALIF1	PEPT_ALIF1	409	Peptidase_M20	-	207	2.6e-12	51.8	0.3	1	1	2.2e-14	1.2e-11	49.6560249328613	0.22	36	205	139	401	130	403	0.84	Peptidase T		0
+PEPT_VIBVY	PEPT_VIBVY	409	Peptidase_M20	-	207	4.0e-12	51.2	0.5	1	1	3.0e-14	1.6e-11	49.228588104248	0.09	36	205	139	401	128	403	0.78	Peptidase T		0
+PEPT_ALISL	PEPT_ALISL	409	Peptidase_M20	-	207	4.5e-12	51.0	0.5	1	1	2.8e-14	1.5e-11	49.3358306884766	0.17	36	205	139	401	130	403	0.84	Peptidase T		0
+PEPT_LYSSC	PEPT_LYSSC	409	Peptidase_M20	-	207	4.5e-12	51.0	0.0	1	1	1.9e-14	9.9e-12	49.885066986084	0.02	36	206	139	402	130	403	0.80	Peptidase T		0
+PEPT_BACSU	PEPT_BACSU	410	Peptidase_M20	-	207	5.1e-12	50.8	0.0	1	1	2.2e-14	1.2e-11	49.6688537597656	0.01	36	206	141	404	125	405	0.78	Peptidase T		0
+PEPT_BACLD	PEPT_BACLD	410	Peptidase_M20	-	207	5.2e-12	50.8	0.1	1	1	1.9e-14	1.0e-11	49.8757514953613	0.14	36	206	141	404	124	405	0.80	Peptidase T		0
+PEPT_BACP2	PEPT_BACP2	410	Peptidase_M20	-	207	5.8e-12	50.6	0.2	1	1	2.0e-14	1.0e-11	49.8164710998535	0.21	36	205	141	403	123	405	0.81	Peptidase T		0
+PEPT_STRTD	PEPT_STRTD	407	Peptidase_M20	-	207	7.6e-12	50.3	0.2	1	1	2.9e-14	1.5e-11	49.3029518127441	0.15	36	206	142	405	133	406	0.84	Peptidase T		0
+PEPT_CLONN	PEPT_CLONN	407	Peptidase_M20	-	207	8.3e-12	50.1	2.3	1	1	1.8e-14	9.5e-12	49.9398498535156	0.72	36	206	140	403	131	404	0.84	Peptidase T		0
+PEPT_PHOPR	PEPT_PHOPR	409	Peptidase_M20	-	207	1.1e-11	49.8	0.4	1	1	6.7e-14	3.5e-11	48.0966186523438	0.11	36	206	139	402	131	403	0.79	Peptidase T		0
+PEPT_STRT1	PEPT_STRT1	407	Peptidase_M20	-	207	1.1e-11	49.7	0.0	1	1	4.5e-14	2.3e-11	48.6643753051758	0.00	36	205	142	404	133	406	0.83	Peptidase T		0
+PEPT_STRT2	PEPT_STRT2	407	Peptidase_M20	-	207	1.1e-11	49.7	0.0	1	1	4.5e-14	2.3e-11	48.6643753051758	0.00	36	205	142	404	133	406	0.83	Peptidase T		0
+PEPT_DESHY	PEPT_DESHY	410	Peptidase_M20	-	207	1.2e-11	49.7	1.0	1	1	4.6e-14	2.4e-11	48.6289825439453	0.17	36	206	139	402	130	403	0.83	Peptidase T		0
+Y614_RHIME	Y614_RHIME	408	Peptidase_M20	-	207	1.4e-11	49.4	0.1	1	1	5.1e-14	2.7e-11	48.4814262390137	0.02	36	204	141	401	133	404	0.90	Peptidase T-like protein RB0614		0
+PEPT_LISMC	PEPT_LISMC	410	Peptidase_M20	-	207	1.8e-11	49.0	0.9	1	1	6.2e-14	3.2e-11	48.2192573547363	0.38	36	205	141	403	130	405	0.76	Peptidase T		0
+PEPT_MACCJ	PEPT_MACCJ	407	Peptidase_M20	-	207	1.8e-11	49.0	0.1	1	1	5.6e-14	2.9e-11	48.3666000366211	0.10	36	204	138	399	125	402	0.83	Peptidase T		0
+PEPT_DESHD	PEPT_DESHD	410	Peptidase_M20	-	207	1.9e-11	49.0	1.5	1	1	5.3e-14	2.7e-11	48.4457778930664	0.18	36	206	139	402	130	403	0.81	Peptidase T		0
+PEPT_VIBA3	PEPT_VIBA3	410	Peptidase_M20	-	207	2.0e-11	48.9	0.8	1	1	1.0e-13	5.3e-11	47.516544342041	0.28	36	205	139	401	120	403	0.82	Peptidase T		0
+PEPT_BACC2	PEPT_BACC2	410	Peptidase_M20	-	207	2.7e-11	48.5	0.1	1	1	1.2e-13	6.2e-11	47.291332244873	0.05	36	206	141	404	132	405	0.70	Peptidase T		0
+PEPT_BREBN	PEPT_BREBN	410	Peptidase_M20	-	207	3.2e-11	48.2	0.2	1	1	1.2e-13	6.0e-11	47.3309669494629	0.20	36	205	141	403	127	405	0.78	Peptidase T		0
+PEPT_LISMO	PEPT_LISMO	410	Peptidase_M20	-	207	3.3e-11	48.2	0.6	1	1	1.3e-13	6.7e-11	47.167179107666	0.22	36	205	141	403	128	405	0.78	Peptidase T		0
+PEPT_LISMH	PEPT_LISMH	410	Peptidase_M20	-	207	4.9e-11	47.6	0.6	1	1	1.9e-13	9.7e-11	46.6419334411621	0.24	36	205	141	403	125	405	0.76	Peptidase T		0
+PEPT_LISMF	PEPT_LISMF	410	Peptidase_M20	-	207	5.4e-11	47.5	0.8	1	1	1.9e-13	9.9e-11	46.6123657226562	0.32	36	205	141	403	130	405	0.75	Peptidase T		0
+PEPT_BACC4	PEPT_BACC4	410	Peptidase_M20	-	207	5.7e-11	47.4	0.0	1	1	2.4e-13	1.2e-10	46.2926979064941	0.05	36	206	141	404	125	405	0.72	Peptidase T		0
+PEPT_BACCR	PEPT_BACCR	412	Peptidase_M20	-	207	5.7e-11	47.4	0.0	1	1	2.4e-13	1.2e-10	46.2893371582031	0.02	36	206	143	406	127	407	0.72	Peptidase T		0
+PEPT_LISIN	PEPT_LISIN	410	Peptidase_M20	-	207	6.5e-11	47.2	0.6	1	1	2.5e-13	1.3e-10	46.2286224365234	0.22	36	205	141	403	124	405	0.76	Peptidase T		0
+PEPT_BACFN	PEPT_BACFN	407	Peptidase_M20	-	207	7.3e-11	47.0	0.8	1	1	2.8e-13	1.5e-10	46.0543632507324	0.29	36	205	139	401	127	403	0.87	Peptidase T		0
+PEPT_BACFR	PEPT_BACFR	407	Peptidase_M20	-	207	7.3e-11	47.0	0.8	1	1	2.8e-13	1.5e-10	46.0543632507324	0.29	36	205	139	401	127	403	0.87	Peptidase T		0
+PEPT_LISW6	PEPT_LISW6	410	Peptidase_M20	-	207	8.0e-11	46.9	0.7	1	1	2.9e-13	1.5e-10	46.0058708190918	0.27	36	205	141	403	126	405	0.78	Peptidase T		0
+PEPT_VIBPA	PEPT_VIBPA	409	Peptidase_M20	-	207	8.2e-11	46.9	0.6	1	1	5.1e-13	2.6e-10	45.2209701538086	0.16	36	205	139	401	127	403	0.77	Peptidase T		0
+PEPT_STAAR	PEPT_STAAR	408	Peptidase_M20	-	207	8.2e-11	46.9	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_STAA1	PEPT_STAA1	408	Peptidase_M20	-	207	8.2e-11	46.9	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_STAA2	PEPT_STAA2	408	Peptidase_M20	-	207	8.2e-11	46.9	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_STAAM	PEPT_STAAM	408	Peptidase_M20	-	207	8.2e-11	46.9	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_STAA9	PEPT_STAA9	408	Peptidase_M20	-	207	8.2e-11	46.9	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_STAAN	PEPT_STAAN	408	Peptidase_M20	-	207	8.2e-11	46.9	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_STAAB	PEPT_STAAB	408	Peptidase_M20	-	207	9.0e-11	46.8	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_STAA8	PEPT_STAA8	408	Peptidase_M20	-	207	9.2e-11	46.7	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_STAAT	PEPT_STAAT	408	Peptidase_M20	-	207	9.2e-11	46.7	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_STAAW	PEPT_STAAW	408	Peptidase_M20	-	207	9.2e-11	46.7	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_STAA3	PEPT_STAA3	408	Peptidase_M20	-	207	9.2e-11	46.7	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_STAAE	PEPT_STAAE	408	Peptidase_M20	-	207	9.2e-11	46.7	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_STAAC	PEPT_STAAC	408	Peptidase_M20	-	207	9.2e-11	46.7	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_STAAS	PEPT_STAAS	408	Peptidase_M20	-	207	9.2e-11	46.7	0.0	1	1	3.9e-13	2.0e-10	45.6001091003418	0.04	36	206	139	402	130	403	0.76	Peptidase T		0
+PEPT_BACTN	PEPT_BACTN	407	Peptidase_M20	-	207	9.7e-11	46.7	1.4	1	1	2.8e-13	1.5e-10	46.0550689697266	0.24	36	205	139	401	127	403	0.85	Peptidase T		0
+PEPT_AERS4	PEPT_AERS4	407	Peptidase_M20	-	207	1.2e-10	46.3	0.0	1	1	3.9e-13	2.0e-10	45.6100044250488	0.02	36	206	137	400	129	401	0.85	Peptidase T		0
+PEPT_STRS7	PEPT_STRS7	407	Peptidase_M20	-	207	1.3e-10	46.3	0.3	1	1	7.4e-13	3.9e-10	44.6879234313965	0.27	36	206	142	405	133	406	0.74	Peptidase T		0
+PEPT_STRE4	PEPT_STRE4	407	Peptidase_M20	-	207	1.3e-10	46.3	0.3	1	1	7.4e-13	3.9e-10	44.6879234313965	0.27	36	206	142	405	133	406	0.74	Peptidase T		0
+PEPT_BACAA	PEPT_BACAA	410	Peptidase_M20	-	207	1.4e-10	46.1	0.2	1	1	5.6e-13	2.9e-10	45.0821495056152	0.16	36	206	141	404	126	405	0.73	Peptidase T		0
+PEPT_BACAN	PEPT_BACAN	410	Peptidase_M20	-	207	1.4e-10	46.1	0.2	1	1	5.6e-13	2.9e-10	45.0821495056152	0.16	36	206	141	404	126	405	0.73	Peptidase T	3ife_A	0
+PEPT_BACAC	PEPT_BACAC	410	Peptidase_M20	-	207	1.4e-10	46.1	0.2	1	1	5.6e-13	2.9e-10	45.0821495056152	0.16	36	206	141	404	126	405	0.73	Peptidase T		0
+PEPT_BACC1	PEPT_BACC1	410	Peptidase_M20	-	207	1.5e-10	46.1	0.1	1	1	6.3e-13	3.3e-10	44.9166641235352	0.07	36	206	141	404	125	405	0.71	Peptidase T		0
+PEPT_LACP7	PEPT_LACP7	407	Peptidase_M20	-	207	1.9e-10	45.7	0.8	1	1	1.5e-12	7.8e-10	43.687614440918	0.24	37	206	141	403	130	404	0.80	Peptidase T		0
+PEPT_BACMK	PEPT_BACMK	410	Peptidase_M20	-	207	2.0e-10	45.6	0.0	1	1	1.0e-12	5.4e-10	44.2214241027832	0.01	36	206	141	404	125	405	0.70	Peptidase T		0
+PEPT_STRP6	PEPT_STRP6	407	Peptidase_M20	-	207	2.7e-10	45.2	0.1	1	1	1.3e-12	6.8e-10	43.8817100524902	0.08	36	205	142	404	133	406	0.82	Peptidase T		0
+PEPT_STRPG	PEPT_STRPG	407	Peptidase_M20	-	207	2.7e-10	45.2	0.1	1	1	1.3e-12	6.8e-10	43.8817100524902	0.08	36	205	142	404	133	406	0.82	Peptidase T		0
+PEPT_STRPF	PEPT_STRPF	407	Peptidase_M20	-	207	2.7e-10	45.2	0.1	1	1	1.3e-12	6.8e-10	43.8817100524902	0.08	36	205	142	404	133	406	0.82	Peptidase T		0
+PEPT_STRP8	PEPT_STRP8	407	Peptidase_M20	-	207	2.7e-10	45.2	0.1	1	1	1.3e-12	6.8e-10	43.8817100524902	0.08	36	205	142	404	133	406	0.82	Peptidase T		0
+PEPT_STRPQ	PEPT_STRPQ	407	Peptidase_M20	-	207	2.8e-10	45.1	0.0	1	1	1.3e-12	6.6e-10	43.9245376586914	0.02	36	205	142	404	133	406	0.82	Peptidase T		0
+PEPT_STRP3	PEPT_STRP3	407	Peptidase_M20	-	207	2.8e-10	45.1	0.0	1	1	1.3e-12	6.6e-10	43.9245376586914	0.02	36	205	142	404	133	406	0.82	Peptidase T		0
+PEPT_STAEQ	PEPT_STAEQ	412	Peptidase_M20	-	207	3.0e-10	45.1	0.1	1	1	1.3e-12	6.8e-10	43.8858680725098	0.11	36	206	139	402	115	403	0.79	Peptidase T		0
+PEPT_STAES	PEPT_STAES	412	Peptidase_M20	-	207	3.0e-10	45.1	0.1	1	1	1.3e-12	6.8e-10	43.8858680725098	0.11	36	206	139	402	115	403	0.79	Peptidase T		0
+PEPT_STRPD	PEPT_STRPD	407	Peptidase_M20	-	207	3.1e-10	45.0	0.0	1	1	1.6e-12	8.1e-10	43.6415252685547	0.03	36	205	142	404	134	406	0.82	Peptidase T		0
+PEPT_STRPZ	PEPT_STRPZ	407	Peptidase_M20	-	207	3.2e-10	45.0	0.1	1	1	1.5e-12	8.0e-10	43.6536331176758	0.06	36	205	142	404	133	406	0.82	Peptidase T		0
+PEPT_STRPM	PEPT_STRPM	407	Peptidase_M20	-	207	3.3e-10	44.9	0.0	1	1	1.5e-12	7.8e-10	43.683048248291	0.03	36	205	142	404	133	406	0.82	Peptidase T		0
+PEPT_BACC0	PEPT_BACC0	410	Peptidase_M20	-	207	3.3e-10	44.9	0.0	1	1	1.5e-12	7.6e-10	43.7276420593262	0.03	36	206	141	404	128	405	0.70	Peptidase T		0
+PEPT_STRPC	PEPT_STRPC	407	Peptidase_M20	-	207	3.3e-10	44.9	0.0	1	1	1.5e-12	7.8e-10	43.6870956420898	0.03	36	205	142	404	133	406	0.82	Peptidase T		0
+PEPT_STRPB	PEPT_STRPB	407	Peptidase_M20	-	207	3.3e-10	44.9	0.0	1	1	1.5e-12	7.8e-10	43.6870956420898	0.03	36	205	142	404	133	406	0.82	Peptidase T		0
+PEPT_STRP1	PEPT_STRP1	407	Peptidase_M20	-	207	3.4e-10	44.9	0.0	1	1	1.5e-12	7.8e-10	43.6885604858398	0.03	36	205	142	404	133	406	0.82	Peptidase T		0
+PEPT_BACC3	PEPT_BACC3	410	Peptidase_M20	-	207	3.5e-10	44.8	0.0	1	1	1.5e-12	7.9e-10	43.6791496276855	0.02	36	206	141	404	125	405	0.71	Peptidase T		0
+PEPT_BACAH	PEPT_BACAH	410	Peptidase_M20	-	207	3.5e-10	44.8	0.0	1	1	1.5e-12	7.9e-10	43.6791496276855	0.02	36	206	141	404	125	405	0.71	Peptidase T		0
+PEPT_BACC7	PEPT_BACC7	410	Peptidase_M20	-	207	3.8e-10	44.7	0.0	1	1	1.8e-12	9.1e-10	43.4678535461426	0.03	36	206	141	404	132	405	0.70	Peptidase T		0
+PEPT_BACCQ	PEPT_BACCQ	412	Peptidase_M20	-	207	3.9e-10	44.7	0.0	1	1	1.8e-12	9.2e-10	43.4472427368164	0.03	36	206	143	406	134	407	0.70	Peptidase T		0
+PEPT_BACCZ	PEPT_BACCZ	412	Peptidase_M20	-	207	3.9e-10	44.7	0.0	1	1	1.6e-12	8.4e-10	43.5808029174805	0.02	36	206	143	406	127	407	0.71	Peptidase T		0
+PEPT_BACHK	PEPT_BACHK	410	Peptidase_M20	-	207	4.9e-10	44.4	0.0	1	1	2.1e-12	1.1e-09	43.203369140625	0.03	36	206	141	404	125	405	0.71	Peptidase T		0
+PEPT_STRZP	PEPT_STRZP	407	Peptidase_M20	-	207	6.1e-10	44.0	0.3	1	1	2.5e-12	1.3e-09	42.9936676025391	0.26	36	203	141	401	131	404	0.84	Peptidase T		0
+PEPT_STRPJ	PEPT_STRPJ	407	Peptidase_M20	-	207	6.2e-10	44.0	0.3	1	1	2.5e-12	1.3e-09	42.9478225708008	0.25	36	203	141	401	132	404	0.84	Peptidase T		0
+PEPT_STRR6	PEPT_STRR6	406	Peptidase_M20	-	207	6.6e-10	43.9	0.2	1	1	2.5e-12	1.3e-09	42.959114074707	0.20	36	205	141	403	131	405	0.85	Peptidase T		0
+PEPT_STRP2	PEPT_STRP2	406	Peptidase_M20	-	207	6.6e-10	43.9	0.2	1	1	2.5e-12	1.3e-09	42.959114074707	0.20	36	205	141	403	131	405	0.85	Peptidase T		0
+TET_PYRHO	TET_PYRHO	353	Peptidase_M20	-	207	6.6e-10	43.9	0.2	1	1	2.5e-12	1.3e-09	42.9572715759277	0.19	35	207	180	347	170	347	0.82	Tetrahedral aminopeptidase	6r8n_J	0
+PEPT_STRSV	PEPT_STRSV	407	Peptidase_M20	-	207	6.8e-10	43.9	0.0	1	1	4.4e-12	2.3e-09	42.1717262268066	0.02	36	203	141	401	130	404	0.83	Peptidase T		0
+PEPT_BACCN	PEPT_BACCN	410	Peptidase_M20	-	207	7.0e-10	43.8	0.0	1	1	4.2e-12	2.2e-09	42.2339973449707	0.02	36	205	141	403	124	405	0.70	Peptidase T		0
+PEPT_STRZT	PEPT_STRZT	407	Peptidase_M20	-	207	7.5e-10	43.7	0.0	1	1	3.3e-12	1.7e-09	42.5938529968262	0.00	36	203	141	401	132	404	0.85	Peptidase T		0
+PEPT_STRA5	PEPT_STRA5	406	Peptidase_M20	-	207	7.7e-10	43.7	0.1	1	1	2.7e-12	1.4e-09	42.8820648193359	0.09	36	206	141	404	129	405	0.84	Peptidase T		0
+PEPT_STRA1	PEPT_STRA1	406	Peptidase_M20	-	207	7.7e-10	43.7	0.1	1	1	2.6e-12	1.4e-09	42.8955993652344	0.08	36	206	141	404	129	405	0.84	Peptidase T		0
+PEPT_STRA3	PEPT_STRA3	406	Peptidase_M20	-	207	7.7e-10	43.7	0.1	1	1	2.7e-12	1.4e-09	42.8855819702148	0.09	36	206	141	404	129	405	0.84	Peptidase T		0
+PEPT_STRU0	PEPT_STRU0	407	Peptidase_M20	-	207	7.8e-10	43.7	0.0	1	1	3.2e-12	1.6e-09	42.6367225646973	0.00	36	206	142	405	134	406	0.84	Peptidase T		0
+PEPT_LACHE	PEPT_LACHE	413	Peptidase_M20	-	207	9.1e-10	43.5	0.2	1	1	3.0e-12	1.5e-09	42.7272415161133	0.16	36	205	143	405	137	407	0.80	Peptidase T		0
+PEPT_STRPN	PEPT_STRPN	407	Peptidase_M20	-	207	9.4e-10	43.4	0.3	1	1	3.9e-12	2.0e-09	42.3354568481445	0.28	36	203	141	401	131	404	0.85	Peptidase T		0
+PEPT_STRP7	PEPT_STRP7	407	Peptidase_M20	-	207	9.8e-10	43.4	0.3	1	1	4.0e-12	2.1e-09	42.2945556640625	0.26	36	203	141	401	132	404	0.85	Peptidase T		0
+PEPT_STRPI	PEPT_STRPI	407	Peptidase_M20	-	207	1.3e-09	43.0	0.3	1	1	5.3e-12	2.8e-09	41.8953132629395	0.28	36	203	141	401	131	404	0.85	Peptidase T		0
+PEPT_STRPS	PEPT_STRPS	407	Peptidase_M20	-	207	1.3e-09	42.9	0.3	1	1	5.5e-12	2.8e-09	41.8544120788574	0.26	36	203	141	401	132	404	0.85	Peptidase T		0
+PEPT_CLOBM	PEPT_CLOBM	408	Peptidase_M20	-	207	1.8e-09	42.5	1.4	1	1	1.2e-11	6.4e-09	40.7071495056152	0.40	36	205	140	402	124	404	0.82	Peptidase T		0
+PEPT_STRGC	PEPT_STRGC	408	Peptidase_M20	-	207	2.3e-09	42.2	0.0	1	1	1.6e-11	8.5e-09	40.3007164001465	0.00	36	203	141	401	132	404	0.84	Peptidase T		0
+PEPT_LACSS	PEPT_LACSS	413	Peptidase_M20	-	207	2.3e-09	42.1	0.6	1	1	7.3e-12	3.8e-09	41.454158782959	0.60	36	202	144	403	132	407	0.80	Peptidase T		0
+PEPT_CLOBJ	PEPT_CLOBJ	408	Peptidase_M20	-	207	2.3e-09	42.1	1.6	1	1	1.5e-11	7.8e-09	40.4191436767578	0.45	36	205	140	402	124	404	0.82	Peptidase T		0
+PEPT_CLOB6	PEPT_CLOB6	408	Peptidase_M20	-	207	2.5e-09	42.0	1.6	1	1	1.5e-11	7.8e-09	40.4191436767578	0.45	36	205	140	402	124	404	0.82	Peptidase T		0
+Y1009_YERPE	Y1009_YERPE	410	Peptidase_M20	-	207	3.1e-09	41.7	0.0	1	1	1.3e-11	6.9e-09	40.5953788757324	0.02	36	201	143	400	141	405	0.87	Peptidase T-like protein YPO1009/y3403/YP_3421		0
+PEPT_CLOBK	PEPT_CLOBK	408	Peptidase_M20	-	207	3.2e-09	41.7	1.3	1	1	3.9e-11	2.0e-08	39.0599174499512	0.37	36	205	140	402	124	404	0.82	Peptidase T		0
+PEPT_CLOBL	PEPT_CLOBL	408	Peptidase_M20	-	207	3.4e-09	41.6	1.3	1	1	4.0e-11	2.1e-08	39.0389518737793	0.39	36	205	140	402	124	404	0.82	Peptidase T		0
+PEPT_LACLH	PEPT_LACLH	413	Peptidase_M20	-	207	3.5e-09	41.6	0.1	1	1	1.5e-11	7.8e-09	40.4174423217773	0.13	36	206	142	406	127	407	0.82	Peptidase T		0
+PEPT_CLOAB	PEPT_CLOAB	408	Peptidase_M20	-	207	3.5e-09	41.5	0.5	1	1	1.8e-11	9.5e-09	40.1402778625488	0.20	36	206	140	403	124	404	0.77	Peptidase T		0
+PEPT_CLOBH	PEPT_CLOBH	408	Peptidase_M20	-	207	5.8e-09	40.8	1.4	1	1	4.0e-11	2.1e-08	39.0389518737793	0.39	36	205	140	402	124	404	0.82	Peptidase T		0
+PEPT_CLOB1	PEPT_CLOB1	408	Peptidase_M20	-	207	5.8e-09	40.8	1.4	1	1	4.0e-11	2.1e-08	39.0389518737793	0.39	36	205	140	402	124	404	0.82	Peptidase T		0
+PEPT_STRZJ	PEPT_STRZJ	407	Peptidase_M20	-	207	5.9e-09	40.8	0.2	1	1	2.4e-11	1.3e-08	39.7337417602539	0.23	36	203	141	401	133	404	0.85	Peptidase T		0
+PEPT_STRMU	PEPT_STRMU	406	Peptidase_M20	-	207	8.8e-09	40.3	0.0	1	1	6.6e-11	3.4e-08	38.3226089477539	0.01	36	202	140	399	133	402	0.84	Peptidase T		0
+PEPT2_LACLC	PEPT2_LACLC	413	Peptidase_M20	-	207	9.7e-09	40.1	0.1	1	1	3.9e-11	2.0e-08	39.084545135498	0.13	36	206	142	406	127	407	0.82	Peptidase T		0
+PEPT_LACLS	PEPT_LACLS	413	Peptidase_M20	-	207	9.7e-09	40.1	0.1	1	1	3.9e-11	2.0e-08	39.084545135498	0.13	36	206	142	406	127	407	0.82	Peptidase T		0
+PEPT_LACLM	PEPT_LACLM	413	Peptidase_M20	-	207	9.7e-09	40.1	0.1	1	1	3.9e-11	2.0e-08	39.084545135498	0.13	36	206	142	406	127	407	0.82	Peptidase T		0
+AMPX_VIBPR	AMPX_VIBPR	504	Peptidase_M20	-	207	1.1e-08	40.0	0.0	1	1	3.0e-11	1.6e-08	39.4372711181641	0.00	2	95	200	282	199	491	0.75	Bacterial leucyl aminopeptidase	3b3v_A	0
+PEPT_LACLL	PEPT_LACLL	413	Peptidase_M20	-	207	1.1e-08	39.9	0.1	1	1	4.7e-11	2.4e-08	38.8178863525391	0.11	36	206	142	406	127	407	0.82	Peptidase T		0
+PEPT_LACLA	PEPT_LACLA	413	Peptidase_M20	-	207	1.1e-08	39.9	0.1	1	1	4.7e-11	2.4e-08	38.8178863525391	0.11	36	206	142	406	127	407	0.82	Peptidase T		0
+ROCB_BACSU	ROCB_BACSU	566	Peptidase_M20	-	207	1.2e-08	39.8	0.0	1	1	1.1e-10	5.7e-08	37.609561920166	0.00	5	93	124	203	121	221	0.80	Protein RocB		0
+PEPT_STRS2	PEPT_STRS2	406	Peptidase_M20	-	207	1.4e-08	39.6	0.0	1	1	6.6e-11	3.4e-08	38.3153610229492	0.00	36	205	141	403	134	405	0.79	Peptidase T		0
+PEPT_STRSY	PEPT_STRSY	406	Peptidase_M20	-	207	1.4e-08	39.6	0.0	1	1	6.6e-11	3.4e-08	38.3153610229492	0.00	36	205	141	403	134	405	0.79	Peptidase T		0
+PEPT_LACLC	PEPT_LACLC	413	Peptidase_M20	-	207	1.6e-08	39.4	0.0	1	1	7.6e-11	3.9e-08	38.1266479492188	0.00	36	206	142	406	133	407	0.81	Peptidase T		0
+YQJN_BACSU	YQJN_BACSU	547	Peptidase_M20	-	207	2.0e-08	39.1	0.0	1	1	1.1e-10	5.5e-08	37.6479835510254	0.00	25	166	124	338	78	469	0.72	Uncharacterized protein YqjN		0
+Y555_METJA	Y555_METJA	350	Peptidase_M20	-	207	5.6e-08	37.6	0.1	1	1	2.0e-10	1.0e-07	36.7360382080078	0.10	29	206	168	344	156	345	0.74	Putative aminopeptidase MJ0555		0
+YSDC_BACSU	YSDC_BACSU	361	Peptidase_M20	-	207	5.8e-08	37.6	0.4	1	1	2.1e-10	1.1e-07	36.6745262145996	0.38	35	206	180	348	156	349	0.78	Putative aminopeptidase YsdC	1vhe_A	0
+AMP_HUNTH	AMP_HUNTH	330	Peptidase_M20	-	207	8.8e-08	37.0	0.0	1	1	3.1e-10	1.6e-07	36.1447830200195	0.05	36	205	167	329	165	330	0.76	Putative aminopeptidase		0
+M28P2_ARTOC	M28P2_ARTOC	508	Peptidase_M20	-	207	5.9e-07	34.3	0.0	1	1	1.7e-09	9.1e-07	33.6789245605469	0.01	29	138	194	477	178	484	0.76	Probable zinc metalloprotease MCYG_04217		0
+LAP1_MAGO7	LAP1_MAGO7	401	Peptidase_M20	-	207	1.3e-06	33.2	0.1	1	1	5.0e-09	2.6e-06	32.1749114990234	0.15	30	205	200	380	184	382	0.78	Leucine aminopeptidase 1		0
+LAP1_PENRW	LAP1_PENRW	385	Peptidase_M20	-	207	1.4e-06	33.0	0.1	1	1	5.8e-09	3.0e-06	31.9660224914551	0.10	29	202	196	374	181	379	0.73	Leucine aminopeptidase 1		0
+P20D2_MOUSE	P20D2_MOUSE	431	Peptidase_M20	-	207	1.6e-06	32.9	0.1	1	1	5.1e-09	2.6e-06	32.1612930297852	0.13	31	201	118	388	108	391	0.82	Peptidase M20 domain-containing protein 2		0
+M28P2_UNCRE	M28P2_UNCRE	503	Peptidase_M20	-	207	1.6e-06	32.9	0.0	1	1	4.0e-09	2.1e-06	32.5097389221191	0.01	29	116	188	371	172	480	0.69	Probable zinc metalloprotease UREG_01421		0
+M28P2_ARTGP	M28P2_ARTGP	500	Peptidase_M20	-	207	2.1e-06	32.5	0.0	1	1	5.6e-09	2.9e-06	32.0230255126953	0.01	28	120	187	449	170	479	0.68	Probable zinc metalloprotease MGYG_02393		0
+P20D2_HUMAN	P20D2_HUMAN	436	Peptidase_M20	-	207	2.5e-06	32.2	0.0	1	1	7.8e-09	4.1e-06	31.5502529144287	0.05	28	197	119	389	111	395	0.80	Peptidase M20 domain-containing protein 2		0
+LAP1_LEPMJ	LAP1_LEPMJ	388	Peptidase_M20	-	207	3.3e-06	31.8	0.0	1	1	2.1e-07	0.00011	26.9144515991211	0.13	30	199	199	373	183	381	0.64	Leucine aminopeptidase 1		0
+AMPK_PYRFU	AMPK_PYRFU	346	Peptidase_M20	-	207	3.4e-06	31.8	0.1	1	1	1.7e-08	8.9e-06	30.437801361084	0.08	37	206	177	337	175	338	0.74	Lysyl aminopeptidase	4x8i_B	0
+M28P2_ARTBC	M28P2_ARTBC	497	Peptidase_M20	-	207	4.6e-06	31.4	0.0	1	1	1.2e-08	6.1e-06	30.9661502838135	0.01	28	116	184	370	167	478	0.66	Probable zinc metalloprotease ARB_04732		0
+M28P2_TRIVH	M28P2_TRIVH	497	Peptidase_M20	-	207	4.9e-06	31.3	0.0	1	1	1.3e-08	6.6e-06	30.8562641143799	0.01	28	116	184	369	167	476	0.66	Probable zinc metalloprotease TRV_03476		0
+LAP1_ASPOR	LAP1_ASPOR	387	Peptidase_M20	-	207	5.3e-06	31.2	0.2	1	1	3.9e-08	2.0e-05	29.2749137878418	0.09	30	147	199	312	183	381	0.63	Leucine aminopeptidase 1		0
+LAP1_ASPFN	LAP1_ASPFN	387	Peptidase_M20	-	207	5.3e-06	31.2	0.2	1	1	3.9e-08	2.0e-05	29.2749137878418	0.09	30	147	199	312	183	381	0.63	Leucine aminopeptidase 1		0
+LAP1_PYRTT	LAP1_PYRTT	389	Peptidase_M20	-	207	6.3e-06	30.9	0.0	1	1	1.0e-07	5.2e-05	27.9331607818604	0.09	29	204	199	379	184	382	0.71	Leucine aminopeptidase 1		0
+M28P3_VERA1	M28P3_VERA1	306	Peptidase_M20	-	207	7.4e-06	30.7	0.0	1	1	1.8e-08	9.4e-06	30.3582344055176	0.01	33	150	8	252	8	294	0.77	Probable zinc metalloprotease VDBG_06923		0
+YHFE_BACSU	YHFE_BACSU	346	Peptidase_M20	-	207	7.7e-06	30.6	0.0	1	1	2.7e-08	1.4e-05	29.8065719604492	0.02	25	206	174	342	162	343	0.71	Putative aminopeptidase YhfE		0
+CBPQ_MOUSE	CBPQ_MOUSE	470	Peptidase_M20	-	207	8.5e-06	30.5	0.0	1	1	3.3e-08	1.7e-05	29.4899005889893	0.01	32	83	295	346	285	455	0.86	Carboxypeptidase Q		0
+M28P2_MAGO7	M28P2_MAGO7	502	Peptidase_M20	-	207	9.0e-06	30.4	0.1	1	1	2.7e-08	1.4e-05	29.7739410400391	0.05	30	150	195	448	178	491	0.79	Probable zinc metalloprotease MGG_02107		0
+CBPQ_XENLA	CBPQ_XENLA	469	Peptidase_M20	-	207	9.9e-06	30.3	0.0	1	1	3.2e-08	1.7e-05	29.5583972930908	0.01	32	95	295	359	282	455	0.84	Carboxypeptidase Q		0
+LAPA_ASPOR	LAPA_ASPOR	377	Peptidase_M20	-	207	1.0e-05	30.3	0.3	1	1	3.5e-08	1.8e-05	29.4185123443604	0.32	2	116	173	317	172	366	0.61	Leucine aminopeptidase A	7oez_A	0
+M28P3_LEPMJ	M28P3_LEPMJ	502	Peptidase_M20	-	207	1.1e-05	30.2	0.0	1	1	3.5e-08	1.8e-05	29.4274597167969	0.02	3	187	177	366	175	380	0.72	Probable zinc metalloprotease Lema_P049800		0
+CBPQ_BOVIN	CBPQ_BOVIN	472	Peptidase_M20	-	207	1.1e-05	30.1	0.0	1	1	4.4e-08	2.3e-05	29.1035709381104	0.01	32	83	297	348	288	456	0.89	Carboxypeptidase Q		0
+LAP1_PYRTR	LAP1_PYRTR	389	Peptidase_M20	-	207	1.2e-05	30.1	0.1	1	1	4.9e-08	2.5e-05	28.9521751403809	0.11	29	204	199	379	184	382	0.73	Leucine aminopeptidase 1		0
+LAP1_NEUCR	LAP1_NEUCR	402	Peptidase_M20	-	207	1.2e-05	30.0	0.1	1	1	4.8e-08	2.5e-05	28.9777145385742	0.07	29	186	203	362	188	386	0.71	Leucine aminopeptidase 1		0
+CBPQ_RAT	CBPQ_RAT	472	Peptidase_M20	-	207	1.3e-05	29.9	0.0	1	1	5.0e-08	2.6e-05	28.9213924407959	0.01	32	83	297	348	286	459	0.87	Carboxypeptidase Q		0
+LAP1_PODAN	LAP1_PODAN	395	Peptidase_M20	-	207	1.7e-05	29.5	0.1	1	1	1.0e-07	5.3e-05	27.8990249633789	0.04	30	184	200	356	184	380	0.73	Leucine aminopeptidase 1		0
+CBPQ_PONAB	CBPQ_PONAB	472	Peptidase_M20	-	207	1.8e-05	29.5	0.0	1	1	7.2e-08	3.7e-05	28.4080390930176	0.02	32	80	297	345	286	456	0.88	Carboxypeptidase Q		0
+CBPQ_HUMAN	CBPQ_HUMAN	472	Peptidase_M20	-	207	1.9e-05	29.4	0.0	1	1	7.6e-08	3.9e-05	28.3347911834717	0.02	32	80	297	345	286	456	0.89	Carboxypeptidase Q		0
+LAP1_EMENI	LAP1_EMENI	390	Peptidase_M20	-	207	2.2e-05	29.1	0.1	1	1	9.5e-08	4.9e-05	28.01393699646	0.12	29	192	201	369	186	384	0.64	Leucine aminopeptidase 1		0
+LAP1_ASPNC	LAP1_ASPNC	391	Peptidase_M20	-	207	2.3e-05	29.1	0.1	1	1	1.6e-07	8.5e-05	27.2432632446289	0.12	30	190	203	365	187	384	0.68	Leucine aminopeptidase 1		0
+M28P3_PYRTT	M28P3_PYRTT	465	Peptidase_M20	-	207	2.4e-05	29.1	0.0	1	1	6.2e-08	3.2e-05	28.6072940826416	0.01	2	109	160	254	159	412	0.72	Probable zinc metalloprotease PTT_17836		0
+M28P3_PYRTR	M28P3_PYRTR	434	Peptidase_M20	-	207	2.6e-05	28.9	0.0	1	1	6.6e-08	3.4e-05	28.519458770752	0.01	2	110	108	203	107	383	0.70	Probable zinc metalloprotease PTRG_04772		0
+M28P2_LEPMJ	M28P2_LEPMJ	431	Peptidase_M20	-	207	2.6e-05	28.9	0.0	1	1	7.2e-08	3.7e-05	28.3993511199951	0.01	31	116	131	251	113	392	0.69	Probable zinc metalloprotease Lema_P086240		0
+LAP1_COLGM	LAP1_COLGM	401	Peptidase_M20	-	207	2.9e-05	28.7	0.1	1	1	1.3e-07	6.7e-05	27.5810203552246	0.11	29	202	198	376	183	381	0.72	Leucine aminopeptidase 1		0
+LAP1_PHANO	LAP1_PHANO	389	Peptidase_M20	-	207	4.1e-05	28.3	0.1	1	1	1.6e-07	8.3e-05	27.2619514465332	0.05	30	202	200	377	184	382	0.68	Leucine aminopeptidase 1		0
+LAP1_NEOFI	LAP1_NEOFI	388	Peptidase_M20	-	207	4.3e-05	28.2	0.1	1	1	1.9e-07	9.7e-05	27.0513744354248	0.11	30	147	200	313	184	380	0.63	Leucine aminopeptidase 1		0
+YD415_YEAST	YD415_YEAST	374	Peptidase_M20	-	207	4.7e-05	28.1	0.0	1	1	1.4e-07	7.0e-05	27.51003074646	0.01	29	115	188	278	173	367	0.68	Probable aminopeptidase YDR415C		0
+LAP1_FUSV7	LAP1_FUSV7	392	Peptidase_M20	-	207	4.7e-05	28.1	0.1	1	1	2.6e-07	0.00014	26.5612010955811	0.08	30	199	194	368	178	376	0.72	Leucine aminopeptidase 1		0
+LAP1_ASPCL	LAP1_ASPCL	388	Peptidase_M20	-	207	5.4e-05	27.9	0.0	1	1	2.0e-07	0.0001	26.9738578796387	0.04	30	96	200	271	184	380	0.72	Leucine aminopeptidase 1		0
+LPQL_MYCTU	LPQL_MYCTU	500	Peptidase_M20	-	207	6.0e-05	27.7	0.0	1	1	1.9e-07	0.0001	27.0093307495117	0.03	3	94	269	335	267	433	0.82	Probable lipoprotein aminopeptidase LpqL		0
+M28P2_PYRTT	M28P2_PYRTT	483	Peptidase_M20	-	207	6.3e-05	27.7	0.0	1	1	1.8e-07	9.4e-05	27.0957183837891	0.01	31	116	181	285	163	433	0.72	Probable zinc metalloprotease PTT_08196		0
+LAP1_ASPFC	LAP1_ASPFC	388	Peptidase_M20	-	207	6.8e-05	27.5	0.2	1	1	3.0e-07	0.00015	26.4009246826172	0.15	30	148	200	316	184	379	0.62	Leucine aminopeptidase 1		0
+LAP1_ASPFU	LAP1_ASPFU	388	Peptidase_M20	-	207	6.8e-05	27.5	0.2	1	1	3.0e-07	0.00015	26.4009246826172	0.15	30	148	200	316	184	379	0.62	Leucine aminopeptidase 1		0
+LAP1_ASPFM	LAP1_ASPFM	388	Peptidase_M20	-	207	6.8e-05	27.5	0.2	1	1	3.0e-07	0.00015	26.4009246826172	0.15	30	148	200	316	184	379	0.62	Leucine aminopeptidase 1		0
+M28P2_PYRTR	M28P2_PYRTR	483	Peptidase_M20	-	207	7.1e-05	27.5	0.0	1	1	2.1e-07	0.00011	26.8736972808838	0.02	31	116	181	285	163	426	0.72	Probable zinc metalloprotease PTRG_04977		0
+PFF1_YARLI	PFF1_YARLI	989	Peptidase_M20	-	207	7.6e-05	27.4	0.0	1	1	2.5e-07	0.00013	26.6247997283936	0.01	1	106	177	258	177	477	0.81	Vacuolar membrane protease		0
+LAP1_AJECH	LAP1_AJECH	385	Peptidase_M20	-	207	7.8e-05	27.4	0.1	1	1	3.8e-07	0.0002	26.0558204650879	0.08	30	200	197	372	181	379	0.68	Leucine aminopeptidase 1		0
+LAP1_AJEC8	LAP1_AJEC8	385	Peptidase_M20	-	207	7.8e-05	27.4	0.1	1	1	3.8e-07	0.0002	26.0558204650879	0.08	30	200	197	372	181	379	0.68	Leucine aminopeptidase 1		0
+LAP1_AJECN	LAP1_AJECN	385	Peptidase_M20	-	207	9.4e-05	27.1	0.1	1	1	3.6e-07	0.00019	26.1189613342285	0.07	32	199	199	371	181	379	0.66	Leucine aminopeptidase 1		0
+LAP1_AJECG	LAP1_AJECG	385	Peptidase_M20	-	207	9.9e-05	27.0	0.1	1	1	4.9e-07	0.00025	25.6782283782959	0.05	32	201	199	373	181	379	0.69	Leucine aminopeptidase 1		0
+LAP1_TRIHA	LAP1_TRIHA	398	Peptidase_M20	-	207	0.0001	27.0	0.4	1	1	4.7e-07	0.00024	25.7527561187744	0.45	29	187	198	358	183	381	0.70	Leucine aminopeptidase 1		0
+LAP1_GROCL	LAP1_GROCL	408	Peptidase_M20	-	207	0.00011	26.8	0.0	1	1	3.7e-07	0.00019	26.0795421600342	0.04	29	187	201	361	186	384	0.69	Leucine aminopeptidase 1		0
+P20D2_XENTR	P20D2_XENTR	443	Peptidase_M20	-	207	0.00014	26.6	0.1	1	1	4.7e-07	0.00024	25.735424041748	0.09	31	201	115	385	105	389	0.77	Peptidase M20 domain-containing protein 2		0
+LAP1_SCLS1	LAP1_SCLS1	387	Peptidase_M20	-	207	0.00014	26.5	0.1	1	1	5.8e-07	0.0003	25.4405689239502	0.05	30	184	199	355	183	380	0.72	Leucine aminopeptidase 1		0
+PEPA_LACLM	PEPA_LACLM	355	Peptidase_M20	-	207	0.00017	26.2	0.0	1	1	1.0e-06	0.00052	24.6536159515381	0.02	36	206	180	342	177	343	0.79	Glutamyl aminopeptidase		0
+LAP1_ASPSO	LAP1_ASPSO	377	Peptidase_M20	-	207	0.00018	26.2	0.1	1	1	5.6e-07	0.00029	25.4836711883545	0.05	2	116	173	317	172	368	0.62	Leucine aminopeptidase 1		0
+SGCX_SALTY	SGCX_SALTY	372	Peptidase_M20	-	207	0.00018	26.1	0.0	1	1	5.8e-07	0.0003	25.4482612609863	0.00	36	205	179	351	176	353	0.75	Putative aminopeptidase SgcX		0
+PFF1_KLULA	PFF1_KLULA	913	Peptidase_M20	-	207	0.00019	26.1	0.0	1	1	2.1e-06	0.0011	23.6473999023438	0.00	1	192	148	773	148	781	0.85	Vacuolar membrane protease		0
+SGCX_SALTI	SGCX_SALTI	372	Peptidase_M20	-	207	0.0002	26.0	0.0	1	1	6.5e-07	0.00034	25.2763748168945	0.00	36	205	179	351	176	353	0.76	Putative aminopeptidase SgcX		0
+ABGB_ECOLI	ABGB_ECOLI	481	Peptidase_M20	-	207	0.00024	25.8	0.8	1	1	6.9e-07	0.00036	25.1986198425293	0.10	4	116	80	252	77	369	0.60	p-aminobenzoyl-glutamate hydrolase subunit B		0
+LAP1_METAQ	LAP1_METAQ	393	Peptidase_M20	-	207	0.00037	25.2	0.1	1	1	2.1e-06	0.0011	23.6273612976074	0.06	30	173	195	336	180	368	0.69	Leucine aminopeptidase 1		0
+LAP1_METRA	LAP1_METRA	393	Peptidase_M20	-	207	0.00038	25.1	0.2	1	1	1.6e-06	0.00084	23.9866542816162	0.11	30	174	195	337	180	377	0.65	Leucine aminopeptidase 1		0
+LAP1_CHAGB	LAP1_CHAGB	406	Peptidase_M20	-	207	0.00041	25.0	0.1	1	1	1.9e-06	0.001	23.7386875152588	0.09	29	146	205	318	190	383	0.68	Leucine aminopeptidase 1		0
+PFF1_CANTT	PFF1_CANTT	908	Peptidase_M20	-	207	0.00064	24.4	0.0	1	1	1.5e-06	0.00077	24.099983215332	0.00	1	104	172	250	172	716	0.84	Vacuolar membrane protease		0
+APEA_THEMA	APEA_THEMA	451	Peptidase_M20	-	207	0.00081	24.0	0.0	1	1	2.4e-06	0.0013	23.415548324585	0.02	43	206	253	449	222	450	0.71	Probable M18 family aminopeptidase 1	2glf_C	0
+LAP1_PARBD	LAP1_PARBD	389	Peptidase_M20	-	207	0.00091	23.9	0.1	1	1	3.5e-06	0.0018	22.8879928588867	0.12	29	103	200	276	185	383	0.64	Leucine aminopeptidase 1		0
+LAP5_ARTOC	LAP5_ARTOC	357	Peptidase_M20	-	207	0.0015	23.2	0.7	1	1	2.1e-05	0.011	20.3672332763672	0.69	3	99	165	249	163	351	0.64	Probable leucine aminopeptidase MCYG_04170		0
+LAP1_PARBA	LAP1_PARBA	389	Peptidase_M20	-	207	0.0015	23.1	0.1	1	1	5.7e-06	0.0029	22.2146739959717	0.05	30	202	201	378	185	383	0.61	Leucine aminopeptidase 1		0
+ERMP1_RAT	ERMP1_RAT	898	Peptidase_M20	-	207	0.0016	23.1	0.0	1	1	1.3e-05	0.0067	21.0448093414307	0.04	33	184	207	349	197	374	0.61	Endoplasmic reticulum metallopeptidase 1		0
+LAP1_PARBP	LAP1_PARBP	388	Peptidase_M20	-	207	0.0016	23.0	0.1	1	1	6.4e-06	0.0033	22.0353965759277	0.08	30	145	200	311	185	382	0.61	Leucine aminopeptidase 1		0
+LAP1_COCPS	LAP1_COCPS	388	Peptidase_M20	-	207	0.002	22.8	0.1	1	1	9.9e-06	0.0051	21.4194526672363	0.06	31	190	201	362	184	382	0.66	Leucine aminopeptidase 1		0
+LAP1_COCP7	LAP1_COCP7	388	Peptidase_M20	-	207	0.002	22.8	0.1	1	1	9.9e-06	0.0051	21.4190502166748	0.06	31	190	201	362	184	382	0.66	Leucine aminopeptidase 1		0
+SGCX_ECOLI	SGCX_ECOLI	373	Peptidase_M20	-	207	0.0022	22.6	0.0	1	1	7.1e-06	0.0037	21.8985500335693	0.00	37	204	180	350	177	352	0.73	Putative aminopeptidase SgcX		0
+IAP_ECOLI	IAP_ECOLI	345	Peptidase_M20	-	207	0.0024	22.5	0.0	1	1	5.8e-06	0.003	22.1796321868896	0.02	2	93	114	197	113	320	0.69	Alkaline phosphatase isozyme conversion protein		0
+LIE1_STREX	LIE1_STREX	438	Peptidase_M20	-	207	0.0024	22.5	0.0	1	1	6.3e-06	0.0033	22.0557632446289	0.01	31	116	131	346	121	429	0.68	Leupeptin-inactivating enzyme 1		0
+LAP1_AJEDR	LAP1_AJEDR	385	Peptidase_M20	-	207	0.0024	22.5	0.0	1	1	9.0e-06	0.0047	21.558141708374	0.03	30	95	197	267	181	376	0.77	Leucine aminopeptidase 1		0
+APX_STRGG	APX_STRGG	445	Peptidase_M20	-	207	0.0024	22.5	0.0	1	1	6.5e-06	0.0034	22.0092716217041	0.02	32	97	137	204	126	412	0.77	Aminopeptidase S	1qq9_A	0
+LAP1_BLAGS	LAP1_BLAGS	385	Peptidase_M20	-	207	0.0024	22.5	0.0	1	1	9.0e-06	0.0047	21.558141708374	0.03	30	95	197	267	181	376	0.77	Leucine aminopeptidase 1		0
+LAP_PSEAB	LAP_PSEAB	536	Peptidase_M20	-	207	0.0026	22.4	0.0	1	1	9.5e-06	0.0049	21.4781723022461	0.04	5	98	296	369	267	532	0.86	Aminopeptidase		0
+LAP_PSEAE	LAP_PSEAE	536	Peptidase_M20	-	207	0.0026	22.4	0.0	1	1	9.5e-06	0.0049	21.4781723022461	0.04	5	98	296	369	267	532	0.86	Aminopeptidase		0
+LAP4_TRIVH	LAP4_TRIVH	379	Peptidase_M20	-	207	0.0031	22.1	0.1	1	1	1.7e-05	0.0088	20.6488418579102	0.04	2	96	179	265	178	377	0.79	Probable leucine aminopeptidase TRV_05286		0
+APEA_THENE	APEA_THENE	452	Peptidase_M20	-	207	0.0032	22.1	0.0	1	1	1.1e-05	0.0059	21.2323017120361	0.01	43	206	253	450	246	451	0.67	Probable M18 family aminopeptidase 1		0
+ERMP1_XENLA	ERMP1_XENLA	876	Peptidase_M20	-	207	0.0032	22.1	0.0	1	1	1.2e-05	0.0064	21.0976123809814	0.01	33	184	186	328	176	370	0.71	Endoplasmic reticulum metallopeptidase 1		0
+LAP2_ASPFU	LAP2_ASPFU	501	Peptidase_M20	-	207	0.0037	21.9	0.0	1	1	1.9e-05	0.0098	20.4946918487549	0.00	2	95	254	327	253	413	0.75	Probable leucine aminopeptidase 2		0
+LIE2_STREX	LIE2_STREX	1090	Peptidase_M20	-	207	0.0041	21.7	0.0	1	1	2.2e-05	0.011	20.3129405975342	0.02	23	98	709	785	694	1005	0.67	Leupeptin-inactivating enzyme 2		0
+PFF1_CLAL4	PFF1_CLAL4	1023	Peptidase_M20	-	207	0.0045	21.6	0.0	1	1	1.4e-05	0.0072	20.9363098144531	0.00	2	106	211	290	210	650	0.79	Vacuolar membrane protease		0
+PFF1_CANDC	PFF1_CANDC	930	Peptidase_M20	-	207	0.0045	21.6	0.0	1	1	1.2e-05	0.0063	21.1258487701416	0.00	1	95	173	245	173	529	0.82	Vacuolar membrane protease		0
+PFF1_LODEL	PFF1_LODEL	960	Peptidase_M20	-	207	0.0053	21.4	0.0	1	1	1.4e-05	0.0073	20.9230346679688	0.00	1	95	185	258	185	628	0.88	Vacuolar membrane protease		0
+LAP1_TRIRU	LAP1_TRIRU	373	Peptidase_M20	-	207	0.0054	21.3	0.1	1	1	2.0e-05	0.011	20.3885688781738	0.06	2	95	173	258	172	369	0.70	Leucine aminopeptidase 1		0
+LAP1_ARTBC	LAP1_ARTBC	373	Peptidase_M20	-	207	0.0062	21.2	0.1	1	1	2.3e-05	0.012	20.2314605712891	0.07	2	95	173	258	172	369	0.70	Probable leucine aminopeptidase 1		0
+LAP1_ARTGP	LAP1_ARTGP	373	Peptidase_M20	-	207	0.0064	21.1	0.1	1	1	2.6e-05	0.014	20.0304470062256	0.09	2	106	173	266	172	370	0.67	Leucine aminopeptidase 1		0
+LAP1_TRIVH	LAP1_TRIVH	373	Peptidase_M20	-	207	0.0069	21.0	0.1	1	1	2.5e-05	0.013	20.1160888671875	0.08	2	95	173	258	172	369	0.72	Probable leucine aminopeptidase 1		0
+YFBL_ECOLI	YFBL_ECOLI	323	Peptidase_M20	-	207	0.0072	20.9	0.0	1	1	2.2e-05	0.011	20.2890815734863	0.01	3	87	111	186	109	316	0.84	Uncharacterized protein YfbL		0
+LAP3_ARTOC	LAP3_ARTOC	372	Peptidase_M20	-	207	0.0072	20.9	0.1	1	1	2.8e-05	0.014	19.96044921875	0.08	2	96	172	258	171	363	0.81	Probable leucine aminopeptidase MCYG_08380		0
+LAP1_UNCRE	LAP1_UNCRE	395	Peptidase_M20	-	207	0.0074	20.9	0.1	1	1	2.9e-05	0.015	19.9096164703369	0.09	30	145	207	318	191	388	0.63	Leucine aminopeptidase 1		0
+PFF1_PYRTR	PFF1_PYRTR	957	Peptidase_M20	-	207	0.0076	20.9	0.0	1	1	2.7e-05	0.014	20.0165767669678	0.02	5	83	152	210	124	352	0.80	Vacuolar membrane protease		0
+LAP2_ASPOR	LAP2_ASPOR	496	Peptidase_M20	-	207	0.0077	20.9	0.0	1	1	4.5e-05	0.023	19.2811870574951	0.00	2	87	245	309	244	404	0.74	probable leucine aminopeptidase 2		0
+ERMP1_MOUSE	ERMP1_MOUSE	898	Peptidase_M20	-	207	0.008	20.8	0.0	1	1	6.2e-05	0.032	18.8260898590088	0.04	33	184	207	349	197	375	0.61	Endoplasmic reticulum metallopeptidase 1		0
+LAP4_ARTBC	LAP4_ARTBC	379	Peptidase_M20	-	207	0.0082	20.7	0.2	1	1	6.3e-05	0.033	18.7958316802979	0.04	2	97	179	266	178	378	0.73	Probable leucine aminopeptidase ARB_01443		0
+PFF1_PYRTT	PFF1_PYRTT	957	Peptidase_M20	-	207	0.0087	20.7	0.0	1	1	3.1e-05	0.016	19.7800941467285	0.01	5	83	152	210	129	351	0.81	Vacuolar membrane protease		0
+BSAP_BACSU	BSAP_BACSU	455	Peptidase_M20	-	207	0.0095	20.5	0.1	1	1	4.9e-05	0.025	19.1556568145752	0.06	3	106	248	330	246	433	0.61	Aminopeptidase YwaD	6hc7_B	0
+PFF1_KOMPG	PFF1_KOMPG	990	Peptidase_M20	-	207	0.0099	20.5	0.0	1	1	3.8e-05	0.019	19.5254440307617	0.00	33	105	237	306	225	739	0.76	Vacuolar membrane protease		0
+LAP4_ARTOC	LAP4_ARTOC	372	Peptidase_M20	-	207	0.0099	20.5	0.0	1	1	2.9e-05	0.015	19.9179191589355	0.01	2	97	172	259	171	365	0.76	Probable leucine aminopeptidase MCYG_03459		0
+PFF1_PHANO	PFF1_PHANO	959	Peptidase_M20	-	207	0.01	20.5	0.0	1	1	3.8e-05	0.02	19.4997806549072	0.02	5	83	158	216	154	374	0.76	Vacuolar membrane protease		0
